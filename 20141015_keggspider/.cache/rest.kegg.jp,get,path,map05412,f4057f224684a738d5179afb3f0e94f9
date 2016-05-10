@@ -1,0 +1,48 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05412
+server: Apache
+date: Wed, 15 Oct 2014 14:59:16 GMT
+content-type: text/plain
+
+ENTRY       map05412                    Pathway
+NAME        Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+DESCRIPTION Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited heart muscle disease that may result in arrhythmia, heart failure, and sudden death. The hallmark pathological findings are progressive myocyte loss and fibrofatty replacement, with a predilection for the right ventricle. A number of genetic studies have identified mutations in various components of the cardiac desmosome that have important roles in the pathogenesis of ARVC. Disruption of desmosomal function by defective proteins might lead to death of myocytes under mechanical stress. The myocardial injury may be accompanied by inflammation. Since regeneration of cardiac myocytes is limited, repair by fibrofatty replacement occurs. Several studies have implicated that desmosome dysfunction results in the delocalization and nuclear translocation of plakoglobin. As a result, competition between plakoglobin and beta-catenin will lead to the inhibition of Wnt/beta-catenin signaling, resulting in a shift from a myocyte fate towards an adipocyte fate of cells. The ryanodine receptor plays a crucial part in electromechanical coupling by control of release of calcium from the sarcoplasmic reticulum into the cytosol. Therefore, defects in this receptor could result in an imbalance of calcium homeostasis that might trigger cell death.
+CLASS       Human Diseases; Cardiovascular diseases
+PATHWAY_MAP map05412  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+DISEASE     H00293  Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+            H00669  Naxos disease and Carvajal syndrome
+            H00728  Brugada syndrome (BRS)
+REFERENCE   PMID:19205777
+  AUTHORS   Herren T, Gerber PA, Duru F
+  TITLE     Arrhythmogenic right ventricular cardiomyopathy/dysplasia: a not so rare "disease of the desmosome" with multiple clinical presentations.
+  JOURNAL   Clin Res Cardiol 98:141-58 (2009)
+REFERENCE   PMID:17413274
+  AUTHORS   van Tintelen JP, Hofstra RM, Wiesfeld AC, van den Berg MP, Hauer RN, Jongbloed JD
+  TITLE     Molecular genetics of arrhythmogenic right ventricular cardiomyopathy: emerging horizon?
+  JOURNAL   Curr Opin Cardiol 22:185-92 (2007)
+REFERENCE   PMID:12270949
+  AUTHORS   Fatkin D, Graham RM
+  TITLE     Molecular mechanisms of inherited cardiomyopathies.
+  JOURNAL   Physiol Rev 82:945-80 (2002)
+REFERENCE   PMID:11716909
+  AUTHORS   Franz WM, Muller OJ, Katus HA
+  TITLE     Cardiomyopathies: from genetics to the prospect of treatment.
+  JOURNAL   Lancet 358:1627-37 (2001)
+REFERENCE   PMID:16823481
+  AUTHORS   MacRae CA, Birchmeier W, Thierfelder L
+  TITLE     Arrhythmogenic right ventricular cardiomyopathy: moving toward mechanism.
+  JOURNAL   J Clin Invest 116:1825-8 (2006)
+REFERENCE   PMID:18382419
+  AUTHORS   Awad MM, Calkins H, Judge DP
+  TITLE     Mechanisms of disease: molecular genetics of arrhythmogenic right ventricular dysplasia/cardiomyopathy.
+  JOURNAL   Nat Clin Pract Cardiovasc Med 5:258-67 (2008)
+REFERENCE   PMID:16101641
+  AUTHORS   Sen-Chowdhry S, Syrris P, McKenna WJ
+  TITLE     Genetics of right ventricular cardiomyopathy.
+  JOURNAL   J Cardiovasc Electrophysiol 16:927-35 (2005)
+REFERENCE   PMID:16124859
+  AUTHORS   Ahmad F, Seidman JG, Seidman CE
+  TITLE     The genetic basis for cardiac remodeling.
+  JOURNAL   Annu Rev Genomics Hum Genet 6:185-216 (2005)
+KO_PATHWAY  ko05412
+///

@@ -1,0 +1,37 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map01040
+server: Apache
+date: Wed, 15 Oct 2014 15:08:17 GMT
+content-type: text/plain
+
+ENTRY       map01040                    Pathway
+NAME        Biosynthesis of unsaturated fatty acids
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map01040  Biosynthesis of unsaturated fatty acids
+DISEASE     H00407  Peroxisomal beta-oxidation enzyme deficiency
+REFERENCE   PMID:16564093
+  AUTHORS   Jakobsson A, Westerberg R, Jacobsson A.
+  TITLE     Fatty acid elongases in mammals: their regulation and roles in metabolism.
+  JOURNAL   Prog Lipid Res 45:237-49 (2006)
+REFERENCE   PMID:12482854
+  AUTHORS   Moon YA, Horton JD.
+  TITLE     Identification of two mammalian reductases involved in the two-carbon fatty acyl elongation cascade.
+  JOURNAL   J Biol Chem 278:7335-43 (2003)
+REFERENCE   PMID:12087109
+  AUTHORS   Han G, Gable K, Kohlwein SD, Beaudoin F, Napier JA, Dunn TM.
+  TITLE     The Saccharomyces cerevisiae YBR159w gene encodes the 3-ketoreductase of the microsomal fatty acid elongase.
+  JOURNAL   J Biol Chem 277:35440-9 (2002)
+REFERENCE   PMID:11500517
+  AUTHORS   Su HM, Moser AB, Moser HW, Watkins PA.
+  TITLE     Peroxisomal straight-chain Acyl-CoA oxidase and D-bifunctional protein are essential for the retroconversion step in docosahexaenoic acid synthesis.
+  JOURNAL   J Biol Chem 276:38115-20 (2001)
+REFERENCE   PMID:16766224
+  AUTHORS   Huyghe S, Mannaerts GP, Baes M, Van Veldhoven PP.
+  TITLE     Peroxisomal multifunctional protein-2: the enzyme, the patients and the knockout mouse model.
+  JOURNAL   Biochim Biophys Acta 1761:973-94 (2006)
+REFERENCE   PMID:17719544
+  AUTHORS   Denic V, Weissman JS
+  TITLE     A molecular caliper mechanism for determining very long-chain fatty acid length.
+  JOURNAL   Cell 130:663-77 (2007)
+KO_PATHWAY  ko01040
+///

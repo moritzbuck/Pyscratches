@@ -1,0 +1,47 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00330
+server: Apache
+date: Wed, 15 Oct 2014 15:07:39 GMT
+content-type: text/plain
+
+ENTRY       map00330                    Pathway
+NAME        Arginine and proline metabolism
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00330  Arginine and proline metabolism
+MODULE      M00015  Proline biosynthesis, glutamate => proline [PATH:map00330]
+            M00028  Ornithine biosynthesis, glutamate => ornithine [PATH:map00330]
+            M00029  Urea cycle [PATH:map00330]
+            M00047  Creatine pathway [PATH:map00330]
+            M00133  Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine [PATH:map00330]
+            M00134  Polyamine biosynthesis, arginine => ornithine => putrescine [PATH:map00330]
+            M00135  GABA biosynthesis, eukaryotes, putrescine => GABA [PATH:map00330]
+            M00136  GABA biosynthesis, prokaryotes, putrescine => GABA [PATH:map00330]
+DISEASE     H00164  Carbamoyl phosphate synthetase I deficiency
+            H00185  Citrullinemia (CTLN)
+            H00186  Hyperargininemia
+            H00187  Ornithine transcarbamylase deficiency
+            H00189  Ornithinaemia
+            H00190  Hyperprolinemia (HP)
+            H00597  Snyder-Robinson syndrome
+            H00834  Guanidinoacetate methyltransferase (GAMT) deficiency
+            H00849  Creatine deficiency syndrome
+            H00923  Congenital systemic glutamine deficiency (CSGD)
+            H01028  Argininosuccinic aciduria (ARGINSA)
+            H01032  N-acetylglutamate synthase (NAGS) deficiency
+            H01146  Aminoacylase 1 deficiency
+            H01398  Primary hyperammonemic disorders
+DBLINKS     GO: 0006525 0006560
+REFERENCE   PMID:5288244
+  AUTHORS   Haake P, Allen GW.
+  TITLE     Studies on phosphorylation by phosphoroguanidinates. The mechanism of action of creatine: ATP transphosphorylase (creatine kinase).
+  JOURNAL   Proc Natl Acad Sci U S A 68:2691-3 (1971)
+REFERENCE   PMID:16499623
+  AUTHORS   Kurihara S, Oda S, Kumagai H, Suzuki H.
+  TITLE     Gamma-glutamyl-gamma-aminobutyrate hydrolase in the putrescine utilization pathway of Escherichia coli K-12.
+  JOURNAL   FEMS Microbiol Lett 256:318-23 (2006)
+REFERENCE   PMID:15590624
+  AUTHORS   Kurihara S, Oda S, Kato K, Kim HG, Koyanagi T, Kumagai H, Suzuki H.
+  TITLE     A novel putrescine utilization pathway involves gamma-glutamylated intermediates of Escherichia coli K-12.
+  JOURNAL   J Biol Chem 280:4602-8 (2005)
+KO_PATHWAY  ko00330
+///

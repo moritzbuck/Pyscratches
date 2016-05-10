@@ -1,0 +1,36 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00100
+server: Apache
+date: Wed, 15 Oct 2014 14:57:08 GMT
+content-type: text/plain
+
+ENTRY       map00100                    Pathway
+NAME        Steroid biosynthesis
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00100  Steroid biosynthesis
+MODULE      M00101  Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol [PATH:map00100]
+            M00102  Ergocalciferol biosynthesis [PATH:map00100]
+            M00103  Cholecalciferol biosynthesis [PATH:map00100]
+DISEASE     H00148  Lysosomal acid lipase deficiency
+            H00161  Smith-Lemli-Opitz syndrome
+            H00496  Congenital hemidysplasia with ichthyosiform nevus and limb defects (CHILD)
+            H00617  Desmosterolosis
+            H01143  Vitamin D-dependent rickets
+            H01194  X-linked chondrodysplasia punctata
+            H01281  Lathosterolosis
+            H01371  Hypercalcemia infantile
+DBLINKS     GO: 0016126
+REFERENCE   
+  AUTHORS   Koshiba K, Kamiya Y.
+  TITLE     [Atarasii Syokubutuhorumon no Kagaku] (In Japanese)
+  JOURNAL   Koudansya saientific:199-138 (2002)
+REFERENCE   PMID:16531502
+  AUTHORS   Morikawa T, Mizutani M, Aoki N, Watanabe B, Saga H, Saito S, Oikawa A, Suzuki H, Sakurai N, Shibata D, Wadano A, Sakata K, Ohta D.
+  TITLE     Cytochrome P450 CYP710A encodes the sterol C-22 desaturase in Arabidopsis and tomato.
+  JOURNAL   Plant Cell 18:1008-22 (2006)
+REFERENCE   PMID:12777052
+  AUTHORS   Lange BM, Ghassemian M.
+  TITLE     Genome organization in Arabidopsis thaliana: a survey for genes involved in isoprenoid and chlorophyll metabolism.
+  JOURNAL   Plant Mol Biol 51:925-48 (2003)
+KO_PATHWAY  ko00100
+///

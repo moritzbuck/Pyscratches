@@ -1,0 +1,42 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00350
+server: Apache
+date: Wed, 15 Oct 2014 15:07:40 GMT
+content-type: text/plain
+
+ENTRY       map00350                    Pathway
+NAME        Tyrosine metabolism
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00350  Tyrosine metabolism
+MODULE      M00042  Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline [PATH:map00350]
+            M00043  Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine [PATH:map00350]
+            M00044  Tyrosine degradation, tyrosine => homogentisate [PATH:map00350]
+            M00533  Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate [PATH:map00350]
+DISEASE     H00163  Alkaptonuria
+            H00165  Tyrosinemia
+            H00168  Oculocutaneous albinism (OCA)
+            H00251  Thyroid dyshormonogenesis
+            H00548  Brunner syndrome
+            H00831  Primary dystonia
+            H01005  Dopamine beta-hydroxylase deficiency
+            H01161  Aromatic L-amino acid decarboxylase (AADC) deficiency
+DRUG        D03787  Nepicastat hydrochloride (USAN)
+DBLINKS     GO: 0006570
+REFERENCE   PMID:8550403
+  AUTHORS   Prieto MA, Diaz E, Garcia JL.
+  TITLE     Molecular characterization of the 4-hydroxyphenylacetate catabolic pathway of Escherichia coli W: engineering a mobile aromatic degradative cluster.
+  JOURNAL   J Bacteriol 178:111-20 (1996)
+REFERENCE   PMID:1194238
+  AUTHORS   Sparnins VL, Dagley S.
+  TITLE     Alternative routes of aromatic catabolism in Pseudomonas acidovorans and Pseudomonas putida: gallic acid as a substrate and inhibitor of dioxygenases.
+  JOURNAL   J Bacteriol 124:1374-81 (1975)
+REFERENCE   PMID:18435614
+  AUTHORS   Ito S, Wakamatsu K
+  TITLE     Chemistry of mixed melanogenesis--pivotal roles of dopaquinone.
+  JOURNAL   Photochem Photobiol 84:582-92 (2008)
+REFERENCE   PMID:11171088
+  AUTHORS   Olivares C, Jimenez-Cervantes C, Lozano JA, Solano F, Garcia-Borron JC
+  TITLE     The 5,6-dihydroxyindole-2-carboxylic acid (DHICA) oxidase activity of human tyrosinase.
+  JOURNAL   Biochem J 354:131-9 (2001)
+KO_PATHWAY  ko00350
+///

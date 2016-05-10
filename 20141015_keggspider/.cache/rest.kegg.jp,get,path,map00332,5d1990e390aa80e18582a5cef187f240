@@ -1,0 +1,66 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00332
+server: Apache
+date: Wed, 15 Oct 2014 14:57:17 GMT
+content-type: text/plain
+
+ENTRY       map00332                    Pathway
+NAME        Carbapenem biosynthesis
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00332  Carbapenem biosynthesis
+MODULE      M00675  Carbapenem-3-carboxylate biosynthesis, pyrroline-5-carboxylate + malonyl-CoA => carbapenem-3-carboxylate [PATH:map00332]
+DBLINKS     GO: 1901769
+REFERENCE   PMID:12848554
+  AUTHORS   Stapon A, Li R, Townsend CA
+  TITLE     Carbapenem biosynthesis: confirmation of stereochemical assignments and the role  of CarC in the ring stereoinversion process from L-proline.
+  JOURNAL   J Am Chem Soc 125:8486-93 (2003)
+REFERENCE   PMID:15174175
+  AUTHORS   Sleeman MC, Smith P, Kellam B, Chhabra SR, Bycroft BW, Schofield CJ
+  TITLE     Biosynthesis of carbapenem antibiotics: new carbapenam substrates for carbapenem  synthase (CarC).
+  JOURNAL   Chembiochem 5:879-82 (2004)
+REFERENCE   PMID:14625287
+  AUTHORS   Sleeman MC, Schofield CJ
+  TITLE     Carboxymethylproline synthase (CarB), an unusual carbon-carbon bond-forming enzyme of the crotonase superfamily involved in carbapenem biosynthesis.
+  JOURNAL   J Biol Chem 279:6730-6 (2004)
+REFERENCE   PMID:19090510
+  AUTHORS   Hamed RB, Batchelar ET, Mecinovic J, Claridge TD, Schofield CJ
+  TITLE     Evidence that thienamycin biosynthesis proceeds via C-5 epimerization: ThnE catalyzes the formation of (2S,5S)-trans-carboxymethylproline.
+  JOURNAL   Chembiochem 10:246-50 (2009)
+REFERENCE   PMID:21913298
+  AUTHORS   Bodner MJ, Li R, Phelan RM, Freeman MF, Moshos KA, Lloyd EP, Townsend CA
+  TITLE     Definition of the common and divergent steps in carbapenem beta-lactam antibiotic biosynthesis.
+  JOURNAL   Chembiochem 12:2159-65 (2011)
+REFERENCE   PMID:12147472
+  AUTHORS   Derzelle S, Duchaud E, Kunst F, Danchin A, Bertin P
+  TITLE     Identification, characterization, and regulation of a cluster of genes involved in carbapenem biosynthesis in Photorhabdus luminescens.
+  JOURNAL   Appl Environ Microbiol 68:3780-9 (2002)
+REFERENCE   PMID:21263049
+  AUTHORS   Rodriguez M, Nunez LE, Brana AF, Mendez C, Salas JA, Blanco G
+  TITLE     Mutational analysis of the thienamycin biosynthetic gene cluster from Streptomyces cattleya.
+  JOURNAL   Antimicrob Agents Chemother 55:1638-49 (2011)
+REFERENCE   PMID:3988730
+  AUTHORS   Williamson JM, Inamine E, Wilson KE, Douglas AW, Liesch JM, Albers-Schonberg G
+  TITLE     Biosynthesis of the beta-lactam antibiotic, thienamycin, by Streptomyces cattleya.
+  JOURNAL   J Biol Chem 260:4637-47 (1985)
+REFERENCE   PMID:12725858
+  AUTHORS   Nunez LE, Mendez C, Brana AF, Blanco G, Salas JA
+  TITLE     The biosynthetic gene cluster for the beta-lactam carbapenem thienamycin in Streptomyces cattleya.
+  JOURNAL   Chem Biol 10:301-11 (2003)
+REFERENCE   PMID:20017478
+  AUTHORS   Bodner MJ, Phelan RM, Freeman MF, Li R, Townsend CA
+  TITLE     Non-heme iron oxygenases generate natural structural diversity in carbapenem antibiotics.
+  JOURNAL   J Am Chem Soc 132:12-3 (2010)
+REFERENCE   PMID:18678912
+  AUTHORS   Freeman MF, Moshos KA, Bodner MJ, Li R, Townsend CA
+  TITLE     Four enzymes define the incorporation of coenzyme A in thienamycin biosynthesis.
+  JOURNAL   Proc Natl Acad Sci U S A 105:11128-33 (2008)
+REFERENCE   PMID:22706025
+  AUTHORS   Buller AR, Labonte JW, Freeman MF, Wright NT, Schildbach JF, Townsend CA
+  TITLE     Autoproteolytic activation of ThnT results in structural reorganization necessary for substrate binding and catalysis.
+  JOURNAL   J Mol Biol 422:508-18 (2012)
+REFERENCE   PMID:24420617
+  AUTHORS   Li R, Lloyd EP, Moshos KA, Townsend CA
+  TITLE     Identification and characterization of the carbapenem MM 4550 and its gene cluster in Streptomyces argenteolus ATCC 11009.
+  JOURNAL   Chembiochem 15:320-31 (2014)
+KO_PATHWAY  ko00332
+///

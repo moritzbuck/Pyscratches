@@ -1,0 +1,78 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04611
+server: Apache
+date: Wed, 15 Oct 2014 15:08:53 GMT
+content-type: text/plain
+
+ENTRY       map04611                    Pathway
+NAME        Platelet activation
+DESCRIPTION Platelets play a key and beneficial role for primary hemostasis on the disruption of the integrity of vessel wall. Platelet adhesion and activation at sites of vascular wall injury is initiated by adhesion to adhesive macromolecules, such as collagen and von Willebrand factor (vWF), or by soluble platelet agonists, such as ADP, thrombin, and thromboxane A2. Different receptors are stimulated by various agonists, almost converging in increasing intracellular Ca2+ concentration that stimulate platelet shape change and granule secretion and ultimately induce the "inside-out" signaling process leading to activation of the ligand-binding function of integrin alpha IIb beta 3. Binding of alpha IIb beta 3 to its ligands, mainly fibrinogen, mediates platelet adhesion and aggregation and triggers "outside-in" signaling, resulting in platelet spreading, additional granule secretion, stabilization of platelet adhesion and aggregation, and clot retraction.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04611  Platelet activation
+DBLINKS     GO: 0030168
+REFERENCE   PMID:21071698
+  AUTHORS   Li Z, Delaney MK, O'Brien KA, Du X
+  TITLE     Signaling during platelet adhesion and activation.
+  JOURNAL   Arterioscler Thromb Vasc Biol 30:2341-9 (2010)
+REFERENCE   PMID:22119499
+  AUTHORS   Broos K, De Meyer SF, Feys HB, Vanhoorelbeke K, Deckmyn H
+  TITLE     Blood platelet biochemistry.
+  JOURNAL   Thromb Res 129:245-9 (2012)
+REFERENCE   PMID:16149014
+  AUTHORS   Jurk K, Kehrel BE
+  TITLE     Platelets: physiology and biochemistry.
+  JOURNAL   Semin Thromb Hemost 31:381-92 (2005)
+REFERENCE   PMID:17158345
+  AUTHORS   Offermanns S
+  TITLE     Activation of platelet function through G protein-coupled receptors.
+  JOURNAL   Circ Res 99:1293-304 (2006)
+REFERENCE   PMID:18174460
+  AUTHORS   Varga-Szabo D, Pleines I, Nieswandt B
+  TITLE     Cell adhesion mechanisms in platelets.
+  JOURNAL   Arterioscler Thromb Vasc Biol 28:403-12 (2008)
+REFERENCE   PMID:18550847
+  AUTHORS   Yin H, Liu J, Li Z, Berndt MC, Lowell CA, Du X
+  TITLE     Src family tyrosine kinase Lyn mediates VWF/GPIb-IX-induced platelet activation via the cGMP signaling pathway.
+  JOURNAL   Blood 112:1139-46 (2008)
+REFERENCE   PMID:19630797
+  AUTHORS   Bergmeier W, Stefanini L
+  TITLE     Novel molecules in calcium signaling in platelets.
+  JOURNAL   J Thromb Haemost 7 Suppl 1:187-90 (2009)
+REFERENCE   PMID:18544684
+  AUTHORS   Cifuni SM, Wagner DD, Bergmeier W
+  TITLE     CalDAG-GEFI and protein kinase C represent alternative pathways leading to activation of integrin alphaIIbbeta3 in platelets.
+  JOURNAL   Blood 112:1696-703 (2008)
+REFERENCE   PMID:23106920
+  AUTHORS   Heemskerk JW, Mattheij NJ, Cosemans JM
+  TITLE     Platelet-based coagulation: different populations, different functions.
+  JOURNAL   J Thromb Haemost 11:2-16 (2013)
+REFERENCE   PMID:19286885
+  AUTHORS   Rivera J, Lozano ML, Navarro-Nunez L, Vicente V
+  TITLE     Platelet receptors and signaling in the dynamics of thrombus formation.
+  JOURNAL   Haematologica 94:700-11 (2009)
+REFERENCE   PMID:18363565
+  AUTHORS   Banno A, Ginsberg MH
+  TITLE     Integrin activation.
+  JOURNAL   Biochem Soc Trans 36:229-34 (2008)
+REFERENCE   PMID:20089227
+  AUTHORS   Angiolillo DJ, Ferreiro JL
+  TITLE     Platelet adenosine diphosphate P2Y12 receptor antagonism: benefits and limitations of current treatment strategies and future directions.
+  JOURNAL   Rev Esp Cardiol 63:60-76 (2010)
+REFERENCE   PMID:22701130
+  AUTHORS   Joo SJ
+  TITLE     Mechanisms of Platelet Activation and Integrin alphaIIbeta3.
+  JOURNAL   Korean Circ J 42:295-301 (2012)
+REFERENCE   PMID:20002545
+  AUTHORS   Harper MT, Poole AW
+  TITLE     Diverse functions of protein kinase C isoforms in platelet activation and thrombus formation.
+  JOURNAL   J Thromb Haemost 8:454-62 (2010)
+REFERENCE   PMID:23805129
+  AUTHORS   Fitch-Tewfik JL, Flaumenhaft R
+  TITLE     Platelet granule exocytosis: a comparison with chromaffin cells.
+  JOURNAL   Front Endocrinol (Lausanne) 4:77 (2013)
+REFERENCE   PMID:18641368
+  AUTHORS   Boylan B, Gao C, Rathore V, Gill JC, Newman DK, Newman PJ
+  TITLE     Identification of FcgammaRIIa as the ITAM-bearing receptor mediating alphaIIbbeta3 outside-in integrin signaling in human platelets.
+  JOURNAL   Blood 112:2780-6 (2008)
+KO_PATHWAY  ko04611
+///

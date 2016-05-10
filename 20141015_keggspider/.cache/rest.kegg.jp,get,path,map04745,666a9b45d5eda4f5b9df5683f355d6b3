@@ -1,0 +1,77 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04745
+server: Apache
+date: Wed, 15 Oct 2014 14:58:43 GMT
+content-type: text/plain
+
+ENTRY       map04745                    Pathway
+NAME        Phototransduction - fly
+DESCRIPTION Phototransduction is the process that converts the signal of light (photons) into a change of membrane potential in photoreceptor cells. Drosophila visual signaling is initiated with the activation of rhodopsin by light. Rhodopsin is composed of a protein, opsin, covalently linked to a chromophore, 3-hydroxy-11-cis-retinal. Upon absorption of a light photon the chromophore is isomerized from the 11-cis to the all-trans configuration which induces a structural change that activates the opsin. This photoconversion activates heterotrimeric Gq protein via GTP-GDP exchange, releasing the G(alpha)q subunit. G(alpha)q activates PLC, generating InsP3 and DAG from PIP2. DAG may further release polyunsaturated fatty acids (PUFAs) via action of DAG lipase. This reaction leads to the opening of cation-selective channels (trp and trpl genes) and causes the depolarization of the photoreceptor cells. The transduction proteins rhodopsin, G(alpha)q, PLC, PKC, TRP, and TRPL are coordinated by a polymer of INAD scaffold proteins.
+CLASS       Organismal Systems; Sensory system
+PATHWAY_MAP map04745  Phototransduction - fly
+REFERENCE   PMID:19623243
+  AUTHORS   Katz B, Minke B
+  TITLE     Drosophila photoreceptors and signaling mechanisms.
+  JOURNAL   Front Cell Neurosci 3:2 (2009)
+REFERENCE   PMID:19138592
+  AUTHORS   Borst A
+  TITLE     Drosophila's view on insect vision.
+  JOURNAL   Curr Biol 19:R36-47 (2009)
+REFERENCE   PMID:19837030
+  AUTHORS   Yau KW, Hardie RC
+  TITLE     Phototransduction motifs and variations.
+  JOURNAL   Cell 139:246-64 (2009)
+REFERENCE   PMID:19011871
+  AUTHORS   Frings S
+  TITLE     Primary processes in sensory cells: current advances.
+  JOURNAL   J Comp Physiol A Neuroethol Sens Neural Behav Physiol 195:1-19 (2009)
+REFERENCE   PMID:17487503
+  AUTHORS   Wang T, Montell C
+  TITLE     Phototransduction and retinal degeneration in Drosophila.
+  JOURNAL   Pflugers Arch 454:821-47 (2007)
+REFERENCE   PMID:12765684
+  AUTHORS   Hardie RC
+  TITLE     TRP channels in Drosophila photoreceptors: the lipid connection.
+  JOURNAL   Cell Calcium 33:385-93 (2003)
+REFERENCE   PMID:16460287
+  AUTHORS   Minke B, Parnas M
+  TITLE     Insights on TRP channels from in vivo studies in Drosophila.
+  JOURNAL   Annu Rev Physiol 68:649-84 (2006)
+REFERENCE   PMID:10611962
+  AUTHORS   Montell C
+  TITLE     Visual transduction in Drosophila.
+  JOURNAL   Annu Rev Cell Dev Biol 15:231-68 (1999)
+REFERENCE   PMID:20144772
+  AUTHORS   Fain GL, Hardie R, Laughlin SB
+  TITLE     Phototransduction and the evolution of photoreceptors.
+  JOURNAL   Curr Biol 20:R114-24 (2010)
+REFERENCE   PMID:14761309
+  AUTHORS   Kim C
+  TITLE     Transient receptor potential ion channels and animal sensation: lessons from Drosophila functional research.
+  JOURNAL   J Biochem Mol Biol 37:114-21 (2004)
+REFERENCE   PMID:18579072
+  AUTHORS   Montell C
+  TITLE     In search of the holy grail for Drosophila TRP.
+  JOURNAL   Neuron 58:825-7 (2008)
+REFERENCE   PMID:15620638
+  AUTHORS   Osorio D, Nilsson DE
+  TITLE     Visual pigments: trading noise for fast recovery.
+  JOURNAL   Curr Biol 14:R1051-3 (2004)
+REFERENCE   PMID:20045325
+  AUTHORS   Wang X, Wang T, Jiao Y, von Lintig J, Montell C
+  TITLE     Requirement for an enzymatic visual cycle in Drosophila.
+  JOURNAL   Curr Biol 20:93-102 (2010)
+REFERENCE   PMID:18786361
+  AUTHORS   Liu CH, Satoh AK, Postma M, Huang J, Ready DF, Hardie RC
+  TITLE     Ca2+-dependent metarhodopsin inactivation mediated by calmodulin and NINAC myosin III.
+  JOURNAL   Neuron 59:778-89 (2008)
+REFERENCE   PMID:18579079
+  AUTHORS   Leung HT, Tseng-Crank J, Kim E, Mahapatra C, Shino S, Zhou Y, An L, Doerge RW, Pak WL
+  TITLE     DAG lipase activity is necessary for TRP channel regulation in Drosophila photoreceptors.
+  JOURNAL   Neuron 58:884-96 (2008)
+REFERENCE   PMID:16914683
+  AUTHORS   Popescu DC, Ham AJ, Shieh BH
+  TITLE     Scaffolding protein INAD regulates deactivation of vision by promoting phosphorylation of transient receptor potential by eye protein kinase C in Drosophila.
+  JOURNAL   J Neurosci 26:8570-7 (2006)
+KO_PATHWAY  ko04745
+///

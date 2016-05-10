@@ -1,0 +1,72 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07040
+server: Apache
+date: Wed, 15 Oct 2014 15:09:47 GMT
+content-type: text/plain
+
+ENTRY       map07040          Drug      Pathway
+NAME        Antineoplastics - alkylating agents
+PATHWAY_MAP map07040  Antineoplastics - alkylating agents
+COMPOUND    C07642  Triethylenemelamine
+            C14595  Methylnitrosourea
+            C16250  MTIC
+            D00208  Mitomycin C (JP16)
+            D00248  Busulfan (JP16/USP/INN)
+            D00254  Carmustine (JAN/USAN/INN)
+            D00266  Chlorambucil (USP/INN)
+            D00275  Cisplatin (JP16/USP/INN)
+            D00287  Cyclophosphamide hydrate (JP16)
+            D00288  Dacarbazine (JAN/USP/INN)
+            D00343  Ifosfamide (JAN/USP/INN)
+            D00363  Lomustine (USAN/INN)
+            D00369  Melphalan (JP16/USP/INN)
+            D00583  Thiotepa (JAN/USP/INN)
+            D01059  Nimustine hydrochloride (JAN)
+            D01270  Carboquone (JAN/INN)
+            D01363  Carboplatin (JP16/USP/INN)
+            D01416  Nedaplatin (JAN/INN)
+            D01493  Nitrogen mustard N-oxide hydrochloride (JAN)
+            D01760  Ranimustine (JAN/INN)
+            D01790  Oxaliplatin (JAN/USAN/INN)
+            D02398  Estramustine phosphate sodium (USAN)
+            D04066  Estramustine (USAN/INN)
+            D04872  Mechlorethamine hydrochloride (USP)
+            D05822  Semustine (USAN/INN)
+            D05932  Streptozocin (JAN/USAN/INN)
+            D06067  Temozolomide (JAN/USAN/INN)
+            D06294  Miriplatin hydrate (JAN)
+            D06397  Estramustine phosphate sodium hydrate (JAN)
+            D07671  Chlormethine (INN)
+            D07760  Cyclophosphamide (INN)
+            D07772  Dacarbazine citrate
+            D08173  Melphalan hydrochloride
+            D08276  Nimustine (INN)
+REFERENCE   (Japanese)
+  AUTHORS   Skeel RT (ed).
+  TITLE     [Handbook of Cancer Chemotherapy (6th ed)] (In Japanese)
+  JOURNAL   Medical science international (2005)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Bertram GK (ed).
+  TITLE     Basic & Clinical Pharmacology (9th ed)
+  JOURNAL   Lange (2004)
+///

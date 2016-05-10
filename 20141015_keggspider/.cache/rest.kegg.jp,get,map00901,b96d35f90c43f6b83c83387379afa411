@@ -1,0 +1,57 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00901
+server: Apache
+date: Wed, 15 Oct 2014 15:08:08 GMT
+content-type: text/plain
+
+ENTRY       map00901                    Pathway
+NAME        Indole alkaloid biosynthesis
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00901  Indole alkaloid biosynthesis
+DBLINKS     GO: 0009709
+REFERENCE   PMID:9622525
+  AUTHORS   Rijhwani SK, Shanks JV.
+  TITLE     Effect of elicitor dosage and exposure time on biosynthesis of indole alkaloids by Catharanthus roseus hairy root cultures.
+  JOURNAL   Biotechnol Prog 14:442-9 (1998)
+REFERENCE   PMID:4698228
+  AUTHORS   Madyastha KM, Guarnaccia R, Baxter C, Coscia CJ.
+  TITLE     S-Adenosyl-L-methionine: loganic acid methyltransferase. A carboxyl-alkylating enzyme from Vinca rosea.
+  JOURNAL   J Biol Chem 248:2497-501 (1973)
+REFERENCE   PMID:510306
+  AUTHORS   Treimer JF, Zenk MH.
+  TITLE     Purification and properties of strictosidine synthase, the key enzyme in indole alkaloid formation.
+  JOURNAL   Eur J Biochem 101:225-33 (1979)
+REFERENCE   PMID:10652285
+  AUTHORS   Geerlings A, Ibanez MM, Memelink J, van Der Heijden R, Verpoorte R.
+  TITLE     Molecular cloning and analysis of strictosidine beta-D-glucosidase, an enzyme in terpenoid indole alkaloid biosynthesis in Catharanthus roseus.
+  JOURNAL   J Biol Chem 275:3051-6 (2000)
+REFERENCE   PMID:11128
+  AUTHORS   Stockigt J, Treimer J, Zenk MH.
+  TITLE     Synthesis of ajmalicine and related indole alkaloids by cell free extracts of Catharanthus roseus cell suspension cultures.
+  JOURNAL   FEBS Lett 70:267-70 (1976)
+REFERENCE   PMID:12228585
+  AUTHORS   St-Pierre B, De Luca V.
+  TITLE     A Cytochrome P-450 Monooxygenase Catalyzes the First Step in the Conversion of Tabersonine to Vindoline in Catharanthus roseus.
+  JOURNAL   Plant Physiol 109:131-139 (1995)
+REFERENCE   PMID:10481044
+  AUTHORS   Schroder G, Unterbusch E, Kaltenbach M, Schmidt J, Strack D, De Luca V, Schroder J.
+  TITLE     Light-induced cytochrome P450-dependent enzyme in indole alkaloid biosynthesis: tabersonine 16-hydroxylase.
+  JOURNAL   FEBS Lett 458:97-102 (1999)
+REFERENCE   PMID:9654153
+  AUTHORS   Sottomayor M, Lopez-Serrano M, DiCosmo F, Ros Barcelo A.
+  TITLE     Purification and characterization of alpha-3',4'-anhydrovinblastine synthase (peroxidase-like) from Catharanthus roseus (L.) G. Don.
+  JOURNAL   FEBS Lett 428:299-303 (1998)
+REFERENCE   PMID:1368411
+  AUTHORS   Furuya T, Sakamoto K, Iida K, Asada Y, Yoshikawa T, Sakai S, Aimi N.
+  TITLE     Biotransformation of tabersonine in cell suspension cultures of Catharanthus roseus.
+  JOURNAL   Phytochemistry 31:3065-8 (1992)
+REFERENCE   PMID:11154328
+  AUTHORS   Laflamme P, St-Pierre B, De Luca V.
+  TITLE     Molecular and biochemical analysis of a madagascar periwinkle root-specific minovincinine-19-hydroxy-o-acetyltransferase.
+  JOURNAL   Plant Physiol 125:189-98 (2001)
+REFERENCE   PMID:12150812
+  AUTHORS   Jain S, Sinha A, Bhakuni DS.
+  TITLE     The biosynthesis of beta-carboline and quinolizidine alkaloids of Alangium lamarckii.
+  JOURNAL   Phytochemistry 60:853-9 (2002)
+KO_PATHWAY  ko00901
+///

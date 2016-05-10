@@ -1,0 +1,71 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04917
+server: Apache
+date: Wed, 15 Oct 2014 14:58:46 GMT
+content-type: text/plain
+
+ENTRY       map04917                    Pathway
+NAME        Prolactin signaling pathway
+DESCRIPTION Prolactin (PRL) is a polypeptide hormone known to be involved in a wide range of biological functions including osmoregulation, lactation, reproduction, growth and development, endocrinology and metabolism, brain and behavior, and immunomodulation. PRL mediates its action through PRLR, a transmembrane protein of the hematopoietin cytokine receptor superfamily. At the protein level, the long PRLR isoform (long-R) and several short PRLR isoforms (short-R) have been detected. Acting through the long-R, PRL activates many signaling cascades including Jak2/Stat, the major cascade, Src kinase, phosphatidylinositol-3-kinase (PI3K)/AKT, and mitogen-activated protein kinase (MAPK) pathways. PRL cannot activate Jak2/Stat5 through the short-R, but can activate pathways including MAPK and PI3K pathways.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04917  Prolactin signaling pathway
+DISEASE     H01388  Hyperprolactinemia
+DBLINKS     GO: 0038161
+REFERENCE   PMID:20149678
+  AUTHORS   Binart N, Bachelot A, Bouilly J
+  TITLE     Impact of prolactin receptor isoforms on reproduction.
+  JOURNAL   Trends Endocrinol Metab 21:362-8 (2010)
+REFERENCE   PMID:17307904
+  AUTHORS   Bachelot A, Binart N
+  TITLE     Reproductive role of prolactin.
+  JOURNAL   Reproduction 133:361-9 (2007)
+REFERENCE   PMID:16231422
+  AUTHORS   Hennighausen L, Robinson GW
+  TITLE     Information networks in the mammary gland.
+  JOURNAL   Nat Rev Mol Cell Biol 6:715-25 (2005)
+REFERENCE   PMID:21664429
+  AUTHORS   Bouilly J, Sonigo C, Auffret J, Gibori G, Binart N
+  TITLE     Prolactin signaling mechanisms in ovary.
+  JOURNAL   Mol Cell Endocrinol 356:80-7 (2012)
+REFERENCE   PMID:18219564
+  AUTHORS   Oakes SR, Rogers RL, Naylor MJ, Ormandy CJ
+  TITLE     Prolactin regulation of mammary gland development.
+  JOURNAL   J Mammary Gland Biol Neoplasia 13:13-28 (2008)
+REFERENCE   PMID:12670737
+  AUTHORS   Frasor J, Gibori G
+  TITLE     Prolactin regulation of estrogen receptor expression.
+  JOURNAL   Trends Endocrinol Metab 14:118-23 (2003)
+REFERENCE   PMID:9626554
+  AUTHORS   Bole-Feysot C, Goffin V, Edery M, Binart N, Kelly PA
+  TITLE     Prolactin (PRL) and its receptor: actions, signal transduction pathways and phenotypes observed in PRL receptor knockout mice.
+  JOURNAL   Endocr Rev 19:225-68 (1998)
+REFERENCE   PMID:17535875
+  AUTHORS   Weinhaus AJ, Stout LE, Bhagroo NV, Brelje TC, Sorenson RL
+  TITLE     Regulation of glucokinase in pancreatic islets by prolactin: a mechanism for increasing glucose-stimulated insulin secretion during pregnancy.
+  JOURNAL   J Endocrinol 193:367-81 (2007)
+REFERENCE   PMID:18601698
+  AUTHORS   Grattan DR, Kokay IC
+  TITLE     Prolactin: a pleiotropic neuroendocrine hormone.
+  JOURNAL   J Neuroendocrinol 20:752-63 (2008)
+REFERENCE   PMID:9475379
+  AUTHORS   Yu-Lee LY, Luo G, Book ML, Morris SM
+  TITLE     Lactogenic hormone signal transduction.
+  JOURNAL   Biol Reprod 58:295-301 (1998)
+REFERENCE   PMID:11606470
+  AUTHORS   Tam SP, Lau P, Djiane J, Hilton DJ, Waters MJ
+  TITLE     Tissue-specific induction of SOCS gene expression by PRL.
+  JOURNAL   Endocrinology 142:5015-26 (2001)
+REFERENCE   PMID:17975019
+  AUTHORS   Halperin J, Devi SY, Elizur S, Stocco C, Shehu A, Rebourcet D, Unterman TG, Leslie ND, Le J, Binart N, Gibori G
+  TITLE     Prolactin signaling through the short form of its receptor represses forkhead transcription factor FOXO3 and its target gene galt causing a severe ovarian defect.
+  JOURNAL   Mol Endocrinol 22:513-22 (2008)
+REFERENCE   PMID:17519353
+  AUTHORS   Sakamoto K, Creamer BA, Triplett AA, Wagner KU
+  TITLE     The Janus kinase 2 is required for expression and nuclear accumulation of cyclin  D1 in proliferating mammary epithelial cells.
+  JOURNAL   Mol Endocrinol 21:1877-92 (2007)
+REFERENCE   PMID:16677418
+  AUTHORS   Oakes SR, Hilton HN, Ormandy CJ
+  TITLE     The alveolar switch: coordinating the proliferative cues and cell fate decisions  that drive the formation of lobuloalveoli from ductal epithelium.
+  JOURNAL   Breast Cancer Res 8:207 (2006)
+KO_PATHWAY  ko04917
+///

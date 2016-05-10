@@ -1,0 +1,29 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map03410
+server: Apache
+date: Wed, 15 Oct 2014 15:08:32 GMT
+content-type: text/plain
+
+ENTRY       map03410                    Pathway
+NAME        Base excision repair
+DESCRIPTION Base excision repair (BER) is the predominant DNA damage repair pathway for the processing of small base lesions, derived from oxidation and alkylation damages. BER is normally defined as DNA repair initiated by lesion-specific DNA glycosylases and completed by either of the two sub-pathways: short-patch BER where only one nucleotide is replaced and long-patch BER where 2-13 nucleotides are replaced. Each sub-pathway of BER relies on the formation of protein complexes that assemble at the site of the DNA lesion and facilitate repair in a coordinated fashion. This process of complex formation appears to provide an increase in specificity and efficiency to the BER pathway, thereby facilitating the maintenance of genome integrity by preventing the accumulation of highly toxic repair intermediates.
+CLASS       Genetic Information Processing; Replication and repair
+PATHWAY_MAP map03410  Base excision repair
+MODULE      M00262  DNA polymerase delta complex [PATH:map03410]
+            M00296  BER complex [PATH:map03410]
+DISEASE     H01025  Familial adenomatous polyposis
+DBLINKS     GO: 0006284 0006285 0006286 0006287 0006288
+REFERENCE   PMID:17893748
+  AUTHORS   Krwawicz J, Arczewska KD, Speina E, Maciejewska A, Grzesiuk E.
+  TITLE     Bacterial DNA repair genes and their eukaryotic homologues: 1. Mutations in genes involved in base excision repair (BER) and DNA-end processors and their implication in mutagenesis and human disease.
+  JOURNAL   Acta Biochim Pol 54:413-34 (2007)
+REFERENCE   PMID:17337257
+  AUTHORS   Almeida KH, Sobol RW.
+  TITLE     A unified view of base excision repair: lesion-dependent protein complexes regulated by post-translational modification.
+  JOURNAL   DNA Repair (Amst) 6:695-711 (2007)
+REFERENCE   PMID:11436317
+  AUTHORS   Ikeda S, Seki S.
+  TITLE     [Base excision repair: DNA glycosylase and AP endonuclease] Japanese
+  JOURNAL   Tanpakushitsu Kakusan Koso 46:916-23 (2001)
+KO_PATHWAY  ko03410
+///

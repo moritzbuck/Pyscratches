@@ -1,0 +1,58 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05322
+server: Apache
+date: Wed, 15 Oct 2014 14:59:14 GMT
+content-type: text/plain
+
+ENTRY       map05322                    Pathway
+NAME        Systemic lupus erythematosus
+DESCRIPTION Systemic lupus erythematosus (SLE) is a prototypic autoimmune disease characterised by the production of IgG autoantibodies that are specific for self-antigens, such as DNA, nuclear proteins and certain cytoplasmic components, in association with a diverse array of clinical manifestations. The primary pathological findings in patients with SLE are those of inflammation, vasculitis, immune complex deposition, and vasculopathy. Immune complexes comprising autoantibody and self-antigen is deposited particulary in the renal glomeruli and mediate a systemic inflammatory response by activating complement or via Fc{gamma}R-mediated neutrophil and macrophage activation. Activation of complement (C5) leads to injury both through formation of the membrane attack complex (C5b-9) or by generation of the anaphylatoxin and cell activator C5a. Neutrophils and macrophages cause tissue injury by the release of oxidants and proteases.
+CLASS       Human Diseases; Immune diseases
+PATHWAY_MAP map05322  Systemic lupus erythematosus
+DISEASE     H00080  Systemic lupus erythematosus
+REFERENCE   PMID:18305268
+  AUTHORS   Rahman A, Isenberg DA.
+  TITLE     Systemic lupus erythematosus.
+  JOURNAL   N Engl J Med 358:929-39 (2008)
+REFERENCE   PMID:12835292
+  AUTHORS   Mok CC, Lau CS.
+  TITLE     Pathogenesis of systemic lupus erythematosus.
+  JOURNAL   J Clin Pathol 56:481-90 (2003)
+REFERENCE   PMID:17943287
+  AUTHORS   Clatworthy MR, Smith KG.
+  TITLE     B cells in glomerulonephritis: focus on lupus nephritis.
+  JOURNAL   Semin Immunopathol 29:337-53 (2007)
+REFERENCE   PMID:8048228
+  AUTHORS   Couser WG.
+  TITLE     New insights into mechanisms of immune glomerular injury.
+  JOURNAL   West J Med 160:440-6 (1994)
+REFERENCE   PMID:16932712
+  AUTHORS   Cook HT, Botto M.
+  TITLE     Mechanisms of Disease: the complement system and the pathogenesis of systemic lupus erythematosus.
+  JOURNAL   Nat Clin Pract Rheumatol 2:330-7 (2006)
+REFERENCE   PMID:15459673
+  AUTHORS   Carroll MC.
+  TITLE     A protective role for innate immunity in systemic lupus erythematosus.
+  JOURNAL   Nat Rev Immunol 4:825-31 (2004)
+REFERENCE   PMID:15972354
+  AUTHORS   Sturfelt G, Truedsson L.
+  TITLE     Complement and its breakdown products in SLE.
+  JOURNAL   Rheumatology (Oxford) 44:1227-32 (2005)
+REFERENCE   PMID:10430616
+  AUTHORS   Lu L, Kaliyaperumal A, Boumpas DT, Datta SK.
+  TITLE     Major peptide autoepitopes for nucleosome-specific T cells of human lupus.
+  JOURNAL   J Clin Invest 104:345-55 (1999)
+REFERENCE   PMID:12965173
+  AUTHORS   Zieve GW, Khusial PR.
+  TITLE     The anti-Sm immune response in autoimmunity and cell biology.
+  JOURNAL   Autoimmun Rev 2:235-40 (2003)
+REFERENCE   PMID:10025913
+  AUTHORS   Scofield RH, Farris AD, Horsfall AC, Harley JB.
+  TITLE     Fine specificity of the autoimmune response to the Ro/SSA and La/SSB ribonucleoproteins.
+  JOURNAL   Arthritis Rheum 42:199-209 (1999)
+REFERENCE   PMID:15380523
+  AUTHORS   Hoffman RW.
+  TITLE     T cells in the pathogenesis of systemic lupus erythematosus.
+  JOURNAL   Clin Immunol 113:4-13 (2004)
+KO_PATHWAY  ko05322
+///

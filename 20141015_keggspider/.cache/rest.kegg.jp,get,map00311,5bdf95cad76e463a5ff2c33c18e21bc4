@@ -1,0 +1,14 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00311
+server: Apache
+date: Wed, 15 Oct 2014 15:07:38 GMT
+content-type: text/plain
+
+ENTRY       map00311                    Pathway
+NAME        Penicillin and cephalosporin biosynthesis
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00311  Penicillin and cephalosporin biosynthesis
+MODULE      M00672  Penicillin biosynthesis, aminoadipate + cycteine + valine => penicillin [PATH:map00311]
+            M00673  Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C [PATH:map00311]
+KO_PATHWAY  ko00311
+///

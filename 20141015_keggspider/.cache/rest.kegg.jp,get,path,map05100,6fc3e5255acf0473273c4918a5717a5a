@@ -1,0 +1,41 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05100
+server: Apache
+date: Wed, 15 Oct 2014 14:58:57 GMT
+content-type: text/plain
+
+ENTRY       map05100                    Pathway
+NAME        Bacterial invasion of epithelial cells
+DESCRIPTION Many pathogenic bacteria can invade phagocytic and non-phagocytic cells and colonize them intracellularly, then become disseminated to other cells. Invasive bacteria induce their own uptake by non-phagocytic host cells (e.g. epithelial cells) using two mechanisms referred to as zipper model and trigger model. Listeria, Staphylococcus, Streptococcus, and Yersinia are examples of bacteria that enter using the zipper model. These bacteria express proteins on their surfaces that interact with cellular receptors, initiating signalling cascades that result in close apposition of the cellular membrane around the entering bacteria. Shigella and Salmonella are the examples of bacteria entering cells using the trigger model. These bacteria use type III secretion systems to inject protein effectors that interact with the actin cytoskeleton.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05100  Bacterial invasion of epithelial cells
+REFERENCE   PMID:19296488
+  AUTHORS   Mostowy S, Cossart P
+  TITLE     Cytoskeleton rearrangements during Listeria infection: clathrin and septins as new players in the game.
+  JOURNAL   Cell Motil Cytoskeleton 66:816-23 (2009)
+REFERENCE   PMID:16406780
+  AUTHORS   Hauck CR, Ohlsen K
+  TITLE     Sticky connections: extracellular matrix protein recognition and integrin-mediated cellular invasion by Staphylococcus aureus.
+  JOURNAL   Curr Opin Microbiol 9:5-11 (2006)
+REFERENCE   PMID:17298394
+  AUTHORS   Wang B, Li S, Dedhar S, Cleary PP
+  TITLE     Paxillin phosphorylation: bifurcation point downstream of integrin-linked kinase  (ILK) in streptococcal invasion.
+  JOURNAL   Cell Microbiol 9:1519-28 (2007)
+REFERENCE   PMID:19185531
+  AUTHORS   Matsumoto H, Young GM
+  TITLE     Translocated effectors of Yersinia.
+  JOURNAL   Curr Opin Microbiol 12:94-100 (2009)
+REFERENCE   PMID:19157959
+  AUTHORS   McGhie EJ, Brawn LC, Hume PJ, Humphreys D, Koronakis V
+  TITLE     Salmonella takes control: effector-driven manipulation of the host.
+  JOURNAL   Curr Opin Microbiol 12:117-24 (2009)
+REFERENCE   PMID:17719540
+  AUTHORS   Iwai H, Kim M, Yoshikawa Y, Ashida H, Ogawa M, Fujita Y, Muller D, Kirikae T, Jackson PK, Kotani S, Sasakawa C
+  TITLE     A bacterial effector targets Mad2L2, an APC inhibitor, to modulate host cell cycling.
+  JOURNAL   Cell 130:611-23 (2007)
+REFERENCE   
+  AUTHORS   Ohno H, Yoshimori T (eds).
+  TITLE     [Current Stream in Membrane Traffic] (in Japanese)
+  JOURNAL   Tanpakushitsu Kakusan Koso 53 (2008)
+KO_PATHWAY  ko05100
+///

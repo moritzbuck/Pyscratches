@@ -1,0 +1,88 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04151
+server: Apache
+date: Wed, 15 Oct 2014 14:58:23 GMT
+content-type: text/plain
+
+ENTRY       map04151                    Pathway
+NAME        PI3K-Akt signaling pathway
+DESCRIPTION The phosphatidylinositol 3' -kinase(PI3K)-Akt signaling pathway is activated by many types of cellular stimuli or toxic insults and regulates fundamental cellular functions such as transcription, translation, proliferation, growth, and survival. The binding of growth factors to their receptor tyrosine kinase (RTK) or G protein-coupled receptors (GPCR) stimulates class Ia and Ib PI3K isoforms, respectively. PI3K catalyzes the production of phosphatidylinositol-3,4,5-triphosphate (PIP3) at the cell membrane. PIP3 in turn serves as a second messenger that helps to activate Akt. Once active, Akt can control key cellular processes by phosphorylating substrates involved in apoptosis, protein synthesis, metabolism, and cell cycle.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04151  PI3K-Akt signaling pathway
+DISEASE     H01338  Myosclerosis
+            H01340  Bethlem myopathy
+            H01341  Collagen VI myopathy
+            H01370  SHORT syndrome
+            H01387  Activated PI3K-delta syndrome (APDS)
+            H01388  Hyperprolactinemia
+DBLINKS     GO: 0043491
+REFERENCE   PMID:16847462
+  AUTHORS   Engelman JA, Luo J, Cantley LC
+  TITLE     The evolution of phosphatidylinositol 3-kinases as regulators of growth and metabolism.
+  JOURNAL   Nat Rev Genet 7:606-19 (2006)
+REFERENCE   PMID:15784165
+  AUTHORS   Song G, Ouyang G, Bao S
+  TITLE     The activation of Akt/PKB signaling pathway and cell survival.
+  JOURNAL   J Cell Mol Med 9:59-71 (2005)
+REFERENCE   PMID:21620960
+  AUTHORS   Hers I, Vincent EE, Tavare JM
+  TITLE     Akt signalling in health and disease.
+  JOURNAL   Cell Signal 23:1515-27 (2011)
+REFERENCE   PMID:18842113
+  AUTHORS   Duronio V
+  TITLE     The life of a cell: apoptosis regulation by the PI3K/PKB pathway.
+  JOURNAL   Biochem J 415:333-44 (2008)
+REFERENCE   PMID:16248975
+  AUTHORS   Kim D, Chung J.
+  TITLE     Akt: versatile mediator of cell survival and beyond.
+  JOURNAL   J Biochem Mol Biol 35:106-15 (2002)
+REFERENCE   PMID:12660731
+  AUTHORS   Koyasu S
+  TITLE     The role of PI3K in immune cells.
+  JOURNAL   Nat Immunol 4:313-9 (2003)
+REFERENCE   PMID:12669022
+  AUTHORS   Okkenhaug K, Vanhaesebroeck B.
+  TITLE     PI3K in lymphocyte development, differentiation and activation.
+  JOURNAL   Nat Rev Immunol 3:317-30 (2003)
+REFERENCE   PMID:15209374
+  AUTHORS   Richardson CJ, Schalm SS, Blenis J
+  TITLE     PI3-kinase and TOR: PIKTORing cell growth.
+  JOURNAL   Semin Cell Dev Biol 15:147-59 (2004)
+REFERENCE   PMID:21440011
+  AUTHORS   Zhang X, Tang N, Hadden TJ, Rishi AK
+  TITLE     Akt, FoxO and regulation of apoptosis.
+  JOURNAL   Biochim Biophys Acta 1813:1978-86 (2011)
+REFERENCE   PMID:21779440
+  AUTHORS   Georgescu MM
+  TITLE     PTEN Tumor Suppressor Network in PI3K-Akt Pathway Control.
+  JOURNAL   Genes Cancer 1:1170-7 (2010)
+REFERENCE   PMID:12531180
+  AUTHORS   West KA, Castillo SS, Dennis PA
+  TITLE     Activation of the PI3K/Akt pathway and chemotherapeutic resistance.
+  JOURNAL   Drug Resist Updat 5:234-48 (2002)
+REFERENCE   PMID:9838078
+  AUTHORS   Wymann MP, Pirola L
+  TITLE     Structure and function of phosphoinositide 3-kinases.
+  JOURNAL   Biochim Biophys Acta 1436:127-50 (1998)
+REFERENCE   PMID:12048182
+  AUTHORS   Moelling K, Schad K, Bosse M, Zimmermann S, Schweneker M
+  TITLE     Regulation of Raf-Akt Cross-talk.
+  JOURNAL   J Biol Chem 277:31099-106 (2002)
+REFERENCE   PMID:16187290
+  AUTHORS   Kikani CK, Dong LQ, Liu F
+  TITLE     "New"-clear functions of PDK1: beyond a master kinase in the cytosol?
+  JOURNAL   J Cell Biochem 96:1157-62 (2005)
+REFERENCE   PMID:11357143
+  AUTHORS   Blume-Jensen P, Hunter T
+  TITLE     Oncogenic kinase signalling.
+  JOURNAL   Nature 411:355-65 (2001)
+REFERENCE   PMID:15505410
+  AUTHORS   Osaki M, Oshimura M, Ito H
+  TITLE     PI3K-Akt pathway: its functions and alterations in human cancer.
+  JOURNAL   Apoptosis 9:667-76 (2004)
+REFERENCE   PMID:17360849
+  AUTHORS   Noguchi M, Ropars V, Roumestand C, Suizu F
+  TITLE     Proto-oncogene TCL1: more than just a coactivator for Akt.
+  JOURNAL   FASEB J 21:2273-84 (2007)
+KO_PATHWAY  ko04151
+///

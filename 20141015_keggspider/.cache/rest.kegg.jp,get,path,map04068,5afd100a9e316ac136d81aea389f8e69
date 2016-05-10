@@ -1,0 +1,91 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04068
+server: Apache
+date: Wed, 15 Oct 2014 14:58:16 GMT
+content-type: text/plain
+
+ENTRY       map04068                    Pathway
+NAME        FoxO signaling pathway
+DESCRIPTION The forkhead box O (FOXO) family of transcription factors regulates the expression of genes in cellular physiological events including apoptosis, cell-cycle control, glucose metabolism, oxidative stress resistance, and longevity. A central regulatory mechanism of FOXO proteins is phosphorylation by the serine-threonine kinase Akt/protein kinase B (Akt/PKB), downstream of phosphatidylinositol 3-kinase (PI3K), in response to insulin or several growth factors. Phosphorylation at three conserved residues results in the export of FOXO proteins from the nucleus to the cytoplasm, thereby decreasing expression of FOXO target genes. In contrast, the stress-activated c-Jun N-terminal kinase (JNK) and the energy sensing AMP-activated protein kinase (AMPK), upon oxidative and nutrient stress stimuli phosphorylate and activate FoxOs. Aside from PKB, JNK and AMPK, FOXOs are regulated by multiple players through several post-translational modifications, including phosphorylation, but also acetylation, methylation and ubiquitylation.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04068  FoxO signaling pathway
+DISEASE     H01385  Rienhoff syndrome
+DBLINKS     GO: 0009267
+REFERENCE   PMID:17470511
+  AUTHORS   Glauser DA, Schlegel W
+  TITLE     The emerging role of FOXO transcription factors in pancreatic beta cells.
+  JOURNAL   J Endocrinol 193:195-207 (2007)
+REFERENCE   PMID:17522590
+  AUTHORS   van der Horst A, Burgering BM
+  TITLE     Stressing the role of FoxO proteins in lifespan and disease.
+  JOURNAL   Nat Rev Mol Cell Biol 8:440-50 (2007)
+REFERENCE   PMID:21440011
+  AUTHORS   Zhang X, Tang N, Hadden TJ, Rishi AK
+  TITLE     Akt, FoxO and regulation of apoptosis.
+  JOURNAL   Biochim Biophys Acta 1813:1978-86 (2011)
+REFERENCE   PMID:23325358
+  AUTHORS   Eijkelenboom A, Burgering BM
+  TITLE     FOXOs: signalling integrators for homeostasis maintenance.
+  JOURNAL   Nat Rev Mol Cell Biol 14:83-97 (2013)
+REFERENCE   PMID:17569704
+  AUTHORS   Daitoku H, Fukamizu A
+  TITLE     FOXO transcription factors in the regulatory networks of longevity.
+  JOURNAL   J Biochem 141:769-74 (2007)
+REFERENCE   PMID:19701188
+  AUTHORS   Hedrick SM
+  TITLE     The cunning little vixen: Foxo and the cycle of life and death.
+  JOURNAL   Nat Immunol 10:1057-63 (2009)
+REFERENCE   PMID:15516968
+  AUTHORS   Coffer PJ, Burgering BM
+  TITLE     Forkhead-box transcription factors and their role in the immune system.
+  JOURNAL   Nat Rev Immunol 4:889-99 (2004)
+REFERENCE   PMID:22902436
+  AUTHORS   Ro SH, Liu D, Yeo H, Paik JH
+  TITLE     FoxOs in neural stem cell fate decision.
+  JOURNAL   Arch Biochem Biophys 534:55-63 (2013)
+REFERENCE   PMID:18403263
+  AUTHORS   Maiese K, Chong ZZ, Shang YC
+  TITLE     OutFOXOing disease and disability: the therapeutic potential of targeting FoxO proteins.
+  JOURNAL   Trends Mol Med 14:219-27 (2008)
+REFERENCE   PMID:23801966
+  AUTHORS   Hagenbuchner J, Ausserlechner MJ
+  TITLE     Mitochondria and FOXO3: breath or die.
+  JOURNAL   Front Physiol 4:147 (2013)
+REFERENCE   PMID:18045156
+  AUTHORS   Maiese K, Chong ZZ, Shang YC
+  TITLE     "Sly as a FOXO": new paths with Forkhead signaling in the brain.
+  JOURNAL   Curr Neurovasc Res 4:295-302 (2007)
+REFERENCE   PMID:22761423
+  AUTHORS   Oh HM, Yu CR, Dambuza I, Marrero B, Egwuagu CE
+  TITLE     STAT3 protein interacts with Class O Forkhead transcription factors in the cytoplasm and regulates nuclear/cytoplasmic localization of FoxO1 and FoxO3a proteins in CD4(+) T cells.
+  JOURNAL   J Biol Chem 287:30436-43 (2012)
+REFERENCE   PMID:21238503
+  AUTHORS   Huang H, Tindall DJ
+  TITLE     Regulation of FOXO protein stability via ubiquitination and proteasome degradation.
+  JOURNAL   Biochim Biophys Acta 1813:1961-4 (2011)
+REFERENCE   PMID:16288288
+  AUTHORS   Greer EL, Brunet A
+  TITLE     FOXO transcription factors at the interface between longevity and tumor suppression.
+  JOURNAL   Oncogene 24:7410-25 (2005)
+REFERENCE   PMID:15084259
+  AUTHORS   Seoane J, Le HV, Shen L, Anderson SA, Massague J
+  TITLE     Integration of Smad and forkhead pathways in the control of neuroepithelial and glioblastoma cell proliferation.
+  JOURNAL   Cell 117:211-23 (2004)
+REFERENCE   PMID:18951090
+  AUTHORS   Yamagata K, Daitoku H, Takahashi Y, Namiki K, Hisatake K, Kako K, Mukai H, Kasuya Y, Fukamizu A
+  TITLE     Arginine methylation of FOXO transcription factors inhibits their phosphorylation by Akt.
+  JOURNAL   Mol Cell 32:221-31 (2008)
+REFERENCE   PMID:16964248
+  AUTHORS   van der Horst A, de Vries-Smits AM, Brenkman AB, van Triest MH, van den Broek N, Colland F, Maurice MM, Burgering BM
+  TITLE     FOXO4 transcriptional activity is regulated by monoubiquitination and USP7/HAUSP.
+  JOURNAL   Nat Cell Biol 8:1064-73 (2006)
+REFERENCE   PMID:21613825
+  AUTHORS   Zhang Y, Gan B, Liu D, Paik JH
+  TITLE     FoxO family members in cancer.
+  JOURNAL   Cancer Biol Ther 12:253-9 (2011)
+REFERENCE   PMID:15005655
+  AUTHORS   Van Der Heide LP, Hoekman MF, Smidt MP
+  TITLE     The ins and outs of FoxO shuttling: mechanisms of FoxO translocation and transcriptional regulation.
+  JOURNAL   Biochem J 380:297-309 (2004)
+KO_PATHWAY  ko04068
+///

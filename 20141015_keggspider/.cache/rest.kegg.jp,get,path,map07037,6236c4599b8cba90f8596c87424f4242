@@ -1,0 +1,95 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07037
+server: Apache
+date: Wed, 15 Oct 2014 14:59:25 GMT
+content-type: text/plain
+
+ENTRY       map07037          Drug      Pathway
+NAME        Antiarrhythmic drugs
+PATHWAY_MAP map07037  Antiarrhythmic drugs
+COMPOUND    C06855  Bretylium
+            C13772  Clofilium
+            C13777  Azimilide
+            D00235  Atenolol (JP16/USP/INN)
+            D00303  Disopyramide (JP16/USAN/INN)
+            D00358  Lidocaine (JP16/USP/INN)
+            D00477  Procainamide hydrochloride (JP16/USP)
+            D00483  Propranolol hydrochloride (JP16/USP)
+            D00513  Pindolol (JP16/USP/INN)
+            D00601  Metoprolol tartrate (JP16/USP)
+            D00616  Diltiazem hydrochloride (JP16/USP)
+            D00619  Verapamil hydrochloride (JP16/USP)
+            D00631  Bepridil hydrochloride hydrate (JAN)
+            D00635  Metoprolol succinate (USP)
+            D00636  Amiodarone hydrochloride (JP16/USAN)
+            D00637  Disopyramide phosphate (JAN/USP)
+            D00638  Flecainide acetate (JP16/USP)
+            D00639  Mexiletine hydrochloride (JP16/USP)
+            D00640  Propafenone hydrochloride (JP16/USP)
+            D00642  Quinidine gluconate (USP)
+            D00643  Quinidine polygalacturonate
+            D00645  Bretylium tosylate (USP)
+            D00647  Dofetilide (JAN/USAN/INN)
+            D00648  Ibutilide fumarate (USAN)
+            D00740  Procaine hydrochloride (JP16/USP)
+            D01026  Sotalol hydrochloride (JAN/USP)
+            D01182  Alprenolol hydrochloride (JP16/USAN)
+            D01326  Aprindine hydrochloride (JP16/USAN)
+            D01554  Pilsicainide hydrochloride hydrate (JP16)
+            D01785  Pirmenol hydrochloride hydrate (JAN)
+            D01833  Benziodarone (JAN/INN)
+            D01856  Nifekalant hydrochloride (JAN)
+            D02086  Lidocaine injection (JP16)
+            D02088  Tocainide hydrochloride (USP)
+            D02272  Quinidine sulfate hydrate (JP16)
+            D02356  Verapamil (USAN/INN)
+            D02358  Metoprolol (USAN/INN)
+            D02537  Dronedarone (INN)
+            D02746  Acecainide hydrochloride (USAN)
+            D02910  Amiodarone (USAN/INN)
+            D02969  Aprindine (USAN/INN)
+            D03037  Azimilide dihydrochloride (USAN)
+            D03547  Clofilium phosphate (USAN/INN)
+            D03732  Dexsotalol hydrochloride (USAN)
+            D03830  Diltiazem malate (USAN)
+            D03914  Dronedarone hydrochloride (USAN)
+            D03991  Encainide hydrochloride (USAN)
+            D04955  Sematilide hydrochloride (USAN)
+            D05011  Metoprolol fumarate (USP)
+            D05587  Practolol (USAN)
+            D06172  Tocainide (USAN/INN)
+            D06517  Pirmenol hydrochloride (USAN)
+            D07156  Alprenolol (INN)
+            D07520  Bepridil (INN)
+            D07845  Diltiazem (INN)
+            D07894  Encainide (INN)
+            D07962  Flecainide (INN)
+            D08060  Ibutilide (INN)
+            D08127  Lidocaine hydrochloride monohydrate
+            D08215  Mexiletine (INN)
+            D08377  Pilsicainide (INN)
+            D08394  Pirmenol (INN)
+            D08421  Procainamide (INN)
+            D08422  Procaine (INN)
+            D08435  Propafenone (INN)
+            D08443  Propranolol (INN)
+            D08458  Quinidine (BAN)
+            D08459  Quinidine phenylethylbarbiturate
+            D08525  Sotalol (INN)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   PMID:11916001
+  AUTHORS   Castro A, Bianconi L, Santini M.
+  TITLE     New antiarrhythmic drugs for the treatment of atrial fibrillation.
+  JOURNAL   Pacing Clin Electrophysiol 25:249-59 (2002)
+REFERENCE   PMID:2447771
+  AUTHORS   Woosley RL, Funck-Brentano C
+  TITLE     Overview of the clinical pharmacology of antiarrhythmic drugs.
+  JOURNAL   Am J Cardiol 61:61A-69A (1988)
+///

@@ -1,0 +1,40 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01054
+server: Apache
+date: Wed, 15 Oct 2014 14:57:56 GMT
+content-type: text/plain
+
+ENTRY       map01054                    Pathway
+NAME        Nonribosomal peptide structures
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map01054  Nonribosomal peptide structures
+REFERENCE   PMID:9864322
+  AUTHORS   Konz D, Doekel S, Marahiel MA.
+  TITLE     Molecular and biochemical characterization of the protein template controlling biosynthesis of the lipopeptide lichenysin.
+  JOURNAL   J Bacteriol 181:133-40 (1999)
+REFERENCE   PMID:15109718
+  AUTHORS   Moyne AL, Cleveland TE, Tuzun S.
+  TITLE     Molecular characterization and analysis of the operon encoding the antifungal lipopeptide bacillomycin D.
+  JOURNAL   FEMS Microbiol Lett 234:43-9 (2004)
+REFERENCE   PMID:9830033
+  AUTHORS   Guenzi E, Galli G, Grgurina I, Gross DC, Grandi G.
+  TITLE     Characterization of the syringomycin synthetase gene cluster. A link between prokaryotic and eukaryotic peptide synthetases.
+  JOURNAL   J Biol Chem 273:32857-63 (1998)
+REFERENCE   PMID:9303382
+  AUTHORS   de Crecy-Lagard V, Saurin W, Thibaut D, Gil P, Naudin L, Crouzet J, Blanc V
+  TITLE     Streptogramin B biosynthesis in Streptomyces pristinaespiralis and Streptomyces virginiae: molecular characterization of the last structural peptide synthetase gene.
+  JOURNAL   Antimicrob Agents Chemother 41:1904-9 (1997)
+REFERENCE   PMID:11048953
+  AUTHORS   Du L, Sanchez C, Chen M, Edwards DJ, Shen B.
+  TITLE     The biosynthetic gene cluster for the antitumor drug bleomycin from Streptomyces verticillus ATCC15003 supporting functional interactions between nonribosomal peptide synthetases and a polyketide synthase.
+  JOURNAL   Chem Biol 7:623-42 (2000)
+REFERENCE   PMID:14766543
+  AUTHORS   Rouhiainen L, Vakkilainen T, Siemer BL, Buikema W, Haselkorn R, Sivonen K
+  TITLE     Genes coding for hepatotoxic heptapeptides (microcystins) in the cyanobacterium Anabaena strain 90.
+  JOURNAL   Appl Environ Microbiol 70:686-92 (2004)
+REFERENCE   PMID:11001063
+  AUTHORS   Trauger JW, Kohli RM, Mootz HD, Marahiel MA, Walsh CT.
+  TITLE     Peptide cyclization catalysed by the thioesterase domain of tyrocidine synthetase.
+  JOURNAL   Nature 407:215-8 (2000)
+KO_PATHWAY  ko01054
+///

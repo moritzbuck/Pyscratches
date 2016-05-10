@@ -1,0 +1,46 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00513
+server: Apache
+date: Wed, 15 Oct 2014 15:07:49 GMT
+content-type: text/plain
+
+ENTRY       map00513                    Pathway
+NAME        Various types of N-glycan biosynthesis
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00513  Various types of N-glycan biosynthesis
+MODULE      M00074  N-glycan biosynthesis, high-mannose type [PATH:map00513]
+DBLINKS     GO: 0006487
+REFERENCE   PMID:11412862
+  AUTHORS   Munro S.
+  TITLE     What can yeast tell us about N-linked glycosylation in the Golgi apparatus?
+  JOURNAL   FEBS Lett 498:223-7 (2001)
+REFERENCE   PMID:9878803
+  AUTHORS   Dean N.
+  TITLE     Asparagine-linked glycosylation in the yeast Golgi.
+  JOURNAL   Biochim Biophys Acta 1426:309-22 (1999)
+REFERENCE   PMID:9878780
+  AUTHORS   Herscovics A.
+  TITLE     Processing glycosidases of Saccharomyces cerevisiae.
+  JOURNAL   Biochim Biophys Acta 1426:275-85 (1999)
+REFERENCE   PMID:9218445
+  AUTHORS   Wang XH, Nakayama K, Shimma Y, Tanaka A, Jigami Y.
+  TITLE     MNN6, a member of the KRE2/MNT1 family, is the gene for mannosylphosphate transfer in Saccharomyces cerevisiae.
+  JOURNAL   J Biol Chem 272:18117-24 (1997)
+REFERENCE   PMID:9756928
+  AUTHORS   Rayner JC, Munro S.
+  TITLE     Identification of the MNN2 and MNN5 mannosyltransferases required for forming and extending the mannose branches of the outer chain mannans of Saccharomyces cerevisiae.
+  JOURNAL   J Biol Chem 273:26836-43 (1998)
+REFERENCE   PMID:10037752
+  AUTHORS   Jungmann J, Rayner JC, Munro S.
+  TITLE     The Saccharomyces cerevisiae protein Mnn10p/Bed1p is a subunit of a Golgi mannosyltransferase complex.
+  JOURNAL   J Biol Chem 274:6579-85 (1999)
+REFERENCE   PMID:8253757
+  AUTHORS   Nakanishi-Shindo Y, Nakayama K, Tanaka A, Toda Y, Jigami Y.
+  TITLE     Structure of the N-linked oligosaccharides that show the complete loss of alpha-1,6-polymannose outer chain from och1, och1 mnn1, and och1 mnn1 alg3 mutants of Saccharomyces cerevisiae.
+  JOURNAL   J Biol Chem 268:26338-45 (1993)
+REFERENCE   PMID:20233335
+  AUTHORS   Gomord V, Fitchette AC, Menu-Bouaouiche L, Saint-Jore-Dupas C, Plasson C, Michaud D, Faye L
+  TITLE     Plant-specific glycosylation patterns in the context of therapeutic protein production.
+  JOURNAL   Plant Biotechnol J 8:564-87 (2010)
+KO_PATHWAY  ko00513
+///

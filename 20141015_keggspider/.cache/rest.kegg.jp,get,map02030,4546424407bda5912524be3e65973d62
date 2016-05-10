@@ -1,0 +1,55 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map02030
+server: Apache
+date: Wed, 15 Oct 2014 15:08:26 GMT
+content-type: text/plain
+
+ENTRY       map02030                    Pathway
+NAME        Bacterial chemotaxis
+DESCRIPTION Chemotaxis is the process by which cells sense chemical gradients in their environment and then move towards more favorable conditions. In chemotaxis, events at the receptors control autophosphorylation of the CheA histidine kinase, and the phosphohistidine is the substrate for the response regulator CheY, which catalyzes the transfer of the phosphoryl group to a conserved aspartate. The resulting CheY-P can interact with the switch mechanism in the motor. This interaction causes a change in behavior, such as in direction or speed of rotation of flagella.
+CLASS       Cellular Processes; Cell motility
+PATHWAY_MAP map02030  Bacterial chemotaxis
+MODULE      M00506  CheA-CheYBV (chemotaxis) two-component regulatory system [PATH:map02030]
+DBLINKS     GO: 0006935
+REFERENCE   PMID:12011078
+  AUTHORS   Kristich CJ, Ordal GW.
+  TITLE     Bacillus subtilis CheD is a chemoreceptor modification enzyme required for chemotaxis.
+  JOURNAL   J Biol Chem 277:25356-62 (2002)
+REFERENCE   PMID:11722727
+  AUTHORS   Kirby JR, Kristich CJ, Saulmon MM, Zimmer MA, Garrity LF, Zhulin IB, Ordal GW.
+  TITLE     CheC is related to the family of flagellar switch proteins and acts independently from CheD to control chemotaxis in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 42:573-85 (2001)
+REFERENCE   PMID:12920116
+  AUTHORS   Szurmant H, Bunn MW, Cannistraro VJ, Ordal GW.
+  TITLE     Bacillus subtilis hydrolyzes CheY-P at the location of its action, the flagellar switch.
+  JOURNAL   J Biol Chem 278:48611-6 (2003)
+REFERENCE   PMID:14749334
+  AUTHORS   Szurmant H, Muff TJ, Ordal GW.
+  TITLE     Bacillus subtilis CheC and FliY are members of a novel class of CheY-P-hydrolyzing proteins in the chemotactic signal transduction cascade.
+  JOURNAL   J Biol Chem 279:21787-92 (2004)
+REFERENCE   PMID:11158445
+  AUTHORS   Yoshihara S, Geng X, Okamoto S, Yura K, Murata T, Go M, Ohmori M, Ikeuchi M.
+  TITLE     Mutational analysis of genes involved in pilus structure, motility and transformation competency in the unicellular motile cyanobacterium Synechocystis sp. PCC 6803.
+  JOURNAL   Plant Cell Physiol 42:63-73 (2001)
+REFERENCE   PMID:8104179
+  AUTHORS   Darzins A.
+  TITLE     The pilG gene product, required for Pseudomonas aeruginosa pilus production and twitching motility, is homologous to the enteric, single-domain response regulator CheY.
+  JOURNAL   J Bacteriol 175:5934-44 (1993)
+REFERENCE   PMID:15187186
+  AUTHORS   Szurmant H, Ordal GW
+  TITLE     Diversity in chemotaxis mechanisms among the bacteria and archaea.
+  JOURNAL   Microbiol Mol Biol Rev 68:301-19 (2004)
+REFERENCE   PMID:18774298
+  AUTHORS   Rao CV, Glekas GD, Ordal GW
+  TITLE     The three adaptation systems of Bacillus subtilis chemotaxis.
+  JOURNAL   Trends Microbiol 16:480-7 (2008)
+REFERENCE   PMID:18990184
+  AUTHORS   Muff TJ, Ordal GW
+  TITLE     The diverse CheC-type phosphatases: chemotaxis and beyond.
+  JOURNAL   Mol Microbiol 70:1054-61 (2008)
+REFERENCE   PMID:19203648
+  AUTHORS   Miller LD, Russell MH, Alexandre G
+  TITLE     Diversity in bacterial chemotactic responses and niche adaptation.
+  JOURNAL   Adv Appl Microbiol 66:53-75 (2009)
+KO_PATHWAY  ko02030
+///

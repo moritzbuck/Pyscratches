@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00942
+server: Apache
+date: Wed, 15 Oct 2014 14:57:49 GMT
+content-type: text/plain
+
+ENTRY       map00942                    Pathway
+NAME        Anthocyanin biosynthesis
+DESCRIPTION Anthocyanidins (aglycones) and anthocyanins (glycosides) are common plant pigments and belong to a structural subclass of flavonoids characterized by a 2-phenylbenzopyrylium unit. They are derived along the flavonoid modification pathways and further separated into three types, pelargonidin, cyanidin, and delphinidin, due to the different number of hydroxyl groups in the phenyl group.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00942  Anthocyanin biosynthesis
+DBLINKS     GO: 0009718
+REFERENCE   PMID:17383962
+  AUTHORS   Unno H, Ichimaida F, Suzuki H, Takahashi S, Tanaka Y, Saito A, Nishino T, Kusunoki M, Nakayama T.
+  TITLE     Structural and mutational studies of anthocyanin malonyltransferases establish the features of BAHD enzyme catalysis.
+  JOURNAL   J Biol Chem 282:15812-22 (2007)
+REFERENCE   PMID:16887235
+  AUTHORS   Kogawa K, Kazuma K, Kato N, Noda N, Suzuki M.
+  TITLE     Biosynthesis of malonylated flavonoid glycosides on the basis of malonyltransferase activity in the petals of Clitoria ternatea.
+  JOURNAL   J Plant Physiol 164:886-94 (2007)
+REFERENCE   PMID:16945088
+  AUTHORS   Tsai CJ, Harding SA, Tschaplinski TJ, Lindroth RL, Yuan Y.
+  TITLE     Genome-wide analysis of the structural genes regulating defense phenylpropanoid metabolism in Populus.
+  JOURNAL   New Phytol 172:47-62 (2006)
+REFERENCE   PMID:15944692
+  AUTHORS   Ogata J, Kanno Y, Itoh Y, Tsugawa H, Suzuki M.
+  TITLE     Plant biochemistry: anthocyanin biosynthesis in roses.
+  JOURNAL   Nature 435:757-8 (2005)
+REFERENCE   PMID:15860422
+  AUTHORS   Bowles D, Isayenkova J, Lim EK, Poppenberger B.
+  TITLE     Glycosyltransferases: managers of small molecules.
+  JOURNAL   Curr Opin Plant Biol 8:254-63 (2005)
+REFERENCE   PMID:15842621
+  AUTHORS   Morita Y, Hoshino A, Kikuchi Y, Okuhara H, Ono E, Tanaka Y, Fukui Y, Saito N, Nitasaka E, Noguchi H, Iida S.
+  TITLE     Japanese morning glory dusky mutants displaying reddish-brown or purplish-gray flowers are deficient in a novel glycosylation enzyme for anthocyanin biosynthesis, UDP-glucose:anthocyanidin 3-O-glucoside-2''-O-glucosyltransferase, due to 4-bp insertions in the gene.
+  JOURNAL   Plant J 42:353-63 (2005)
+REFERENCE   PMID:15509561
+  AUTHORS   Sawada S, Suzuki H, Ichimaida F, Yamaguchi MA, Iwashita T, Fukui Y, Hemmi H, Nishino T, Nakayama T.
+  TITLE     UDP-glucuronic acid:anthocyanin glucuronosyltransferase from red daisy (Bellis perennis) flowers. Enzymology and phylogenetics of a novel glucuronosyltransferase involved in flower pigment biosynthesis.
+  JOURNAL   J Biol Chem 280:899-906 (2005)
+REFERENCE   PMID:15165190
+  AUTHORS   Suzuki H, Sawada S, Watanabe K, Nagae S, Yamaguchi MA, Nakayama T, Nishino T.
+  TITLE     Identification and characterization of a novel anthocyanin malonyltransferase from scarlet sage (Salvia splendens) flowers: an enzyme that is phylogenetically separated from other anthocyanin acyltransferases.
+  JOURNAL   Plant J 38:994-1003 (2004)
+REFERENCE   
+  AUTHORS   Suzuki H, Nakayama T, Yamaguchi M, Nishino T.
+  TITLE     cDNA cloning and characterization of two Dendranthema x morifolium anthocyanin malonyltransferases with different functional activities.
+  JOURNAL   Plant Sci 166(1):89-96 (2004)
+REFERENCE   
+  AUTHORS   Nakayama T, Suzuki H, Nishino T.
+  TITLE     Anthocyanin acyltransferases: specificities, mechanism, phylogenetics, and applications.
+  JOURNAL   Journal of Molecular Catalysis B: Enzymatic 23(2-6):117-132 (2003)
+REFERENCE   PMID:12857844
+  AUTHORS   Fukuchi-Mizutani M, Okuhara H, Fukui Y, Nakao M, Katsumoto Y, Yonekura-Sakakibara K, Kusumi T, Hase T, Tanaka Y.
+  TITLE     Biochemical and molecular characterization of a novel UDP-glucose:anthocyanin 3'-O-glucosyltransferase, a key enzyme for blue anthocyanin biosynthesis, from gentian.
+  JOURNAL   Plant Physiol 132:1652-63 (2003)
+REFERENCE   PMID:12828368
+  AUTHORS   Springob K, Nakajima J, Yamazaki M, Saito K.
+  TITLE     Recent advances in the biosynthesis and accumulation of anthocyanins.
+  JOURNAL   Nat Prod Rep 20:288-303 (2003)
+REFERENCE   (Manuscript M1:08444 (Revised))
+  AUTHORS   Suzuki H, Nakayama T, Yonekura-Sakakibara K, Fukui Y, Nakamura N, Nakao M, Tanaka Y, Yamaguchi MA, Kusumi T, Nishino T.
+  TITLE     Malonyl-CoA:anthocyanin 5-O-glucoside-6'''-O-malonyltransferase from scarlet sage (Salvia splendens) flowers. Enzyme purification, gene cloning, expression, and characterization.
+  JOURNAL   J Biol Chem (2001)
+REFERENCE   PMID:10536025
+  AUTHORS   Burbulis IE, Winkel-Shirley B.
+  TITLE     Interactions among enzymes of the Arabidopsis flavonoid biosynthetic pathway.
+  JOURNAL   Proc Natl Acad Sci U S A 96:12929-34 (1999)
+REFERENCE   PMID:10504566
+  AUTHORS   Brugliera F, Barri-Rewell G, Holton TA, Mason JG.
+  TITLE     Isolation and characterization of a flavonoid 3'-hydroxylase cDNA clone corresponding to the Ht1 locus of Petunia hybrida.
+  JOURNAL   Plant J 19:441-51 (1999)
+REFERENCE   PMID:12226348
+  AUTHORS   Boss PK, Davies C, Robinson SP.
+  TITLE     Analysis of the Expression of Anthocyanin Pathway Genes in Developing Vitis vinifera L. cv Shiraz Grape Berries and the Implications for Pathway Regulation.
+  JOURNAL   Plant Physiol 111:1059-1066 (1996)
+REFERENCE   PMID:12242398
+  AUTHORS   Holton TA, Cornish EC.
+  TITLE     Genetics and Biochemistry of Anthocyanin Biosynthesis.
+  JOURNAL   Plant Cell 7:1071-1083 (1995)
+REFERENCE   PMID:8130799
+  AUTHORS   Kroon J, Souer E, de Graaff A, Xue Y, Mol J, Koes R.
+  TITLE     Cloning and structural analysis of the anthocyanin pigmentation locus Rt of Petunia hybrida: characterization of insertion sequences in two mutant alleles.
+  JOURNAL   Plant J 5:69-80 (1994)
+KO_PATHWAY  ko00942
+///

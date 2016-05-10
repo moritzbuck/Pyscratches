@@ -1,0 +1,63 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04622
+server: Apache
+date: Wed, 15 Oct 2014 14:58:33 GMT
+content-type: text/plain
+
+ENTRY       map04622                    Pathway
+NAME        RIG-I-like receptor signaling pathway
+DESCRIPTION Specific families of pattern recognition receptors are responsible for detecting viral pathogens and generating innate immune responses. Non-self RNA appearing in a cell as a result of intracellular viral replication is recognized by a family of cytosolic RNA helicases termed RIG-I-like receptors (RLRs). The RLR proteins include RIG-I, MDA5, and LGP2 and are expressed in both immune and nonimmune cells. Upon recognition of viral nucleic acids, RLRs recruit specific intracellular adaptor proteins to initiate signaling pathways that lead to the synthesis of type I interferon and other inflammatory cytokines, which are important for eliminating viruses.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04622  RIG-I-like receptor signaling pathway
+DISEASE     H00827  Brooke-Spiegler syndrome
+            H00882  Cocoon syndrome
+REFERENCE   PMID:15208624
+  AUTHORS   Yoneyama M, Kikuchi M, Natsukawa T, Shinobu N, Imaizumi T, Miyagishi M, Taira K, Akira S, Fujita T
+  TITLE     The RNA helicase RIG-I has an essential function in double-stranded RNA-induced innate antiviral responses.
+  JOURNAL   Nat Immunol 5:730-7 (2004)
+REFERENCE   PMID:18272355
+  AUTHORS   Takeuchi O, Akira S
+  TITLE     MDA5/RIG-I and virus recognition.
+  JOURNAL   Curr Opin Immunol 20:17-22 (2008)
+REFERENCE   PMID:19120475
+  AUTHORS   Yoneyama M, Fujita T
+  TITLE     RNA recognition and signal transduction by RIG-I-like receptors.
+  JOURNAL   Immunol Rev 227:54-65 (2009)
+REFERENCE   PMID:19539500
+  AUTHORS   Nakhaei P, Genin P, Civas A, Hiscott J
+  TITLE     RIG-I-like receptors: sensing and responding to RNA virus infection.
+  JOURNAL   Semin Immunol 21:215-22 (2009)
+REFERENCE   PMID:18549796
+  AUTHORS   Moore CB, Ting JP
+  TITLE     Regulation of mitochondrial antiviral signaling pathways.
+  JOURNAL   Immunity 28:735-9 (2008)
+REFERENCE   PMID:19615405
+  AUTHORS   Barral PM, Sarkar D, Su ZZ, Barber GN, DeSalle R, Racaniello VR, Fisher PB
+  TITLE     Functions of the cytoplasmic RNA sensors RIG-I and MDA-5: key regulators of innate immunity.
+  JOURNAL   Pharmacol Ther 124:219-34 (2009)
+REFERENCE   PMID:19120476
+  AUTHORS   Schlee M, Hartmann E, Coch C, Wimmenauer V, Janke M, Barchet W, Hartmann G
+  TITLE     Approaching the RNA ligand for RIG-I?
+  JOURNAL   Immunol Rev 227:66-74 (2009)
+REFERENCE   PMID:18591413
+  AUTHORS   Saito T, Gale M Jr
+  TITLE     Differential recognition of double-stranded RNA by RIG-I-like receptors in antiviral immunity.
+  JOURNAL   J Exp Med 205:1523-7 (2008)
+REFERENCE   PMID:19076341
+  AUTHORS   Kawai T, Akira S
+  TITLE     Toll-like receptor and RIG-I-like receptor signaling.
+  JOURNAL   Ann N Y Acad Sci 1143:1-20 (2008)
+REFERENCE   PMID:18439848
+  AUTHORS   Michallet MC, Meylan E, Ermolaeva MA, Vazquez J, Rebsamen M, Curran J, Poeck H, Bscheider M, Hartmann G, Konig M, Kalinke U, Pasparakis M, Tschopp J
+  TITLE     TRADD protein is an essential component of the RIG-like helicase antiviral pathway.
+  JOURNAL   Immunity 28:651-61 (2008)
+REFERENCE   PMID:18984593
+  AUTHORS   Yoshida R, Takaesu G, Yoshida H, Okamoto F, Yoshioka T, Choi Y, Akira S, Kawai T, Yoshimura A, Kobayashi T
+  TITLE     TRAF6 and MEKK1 play a pivotal role in the RIG-I-like helicase antiviral pathway.
+  JOURNAL   J Biol Chem 283:36211-20 (2008)
+REFERENCE   PMID:19224920
+  AUTHORS   Mikkelsen SS, Jensen SB, Chiliveru S, Melchjorsen J, Julkunen I, Gaestel M, Arthur JS, Flavell RA, Ghosh S, Paludan SR
+  TITLE     RIG-I-mediated activation of p38 MAPK is essential for viral induction of interferon and activation of dendritic cells: dependence on TRAF2 and TAK1.
+  JOURNAL   J Biol Chem 284:10774-82 (2009)
+KO_PATHWAY  ko04622
+///

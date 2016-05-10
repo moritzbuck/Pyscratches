@@ -1,0 +1,47 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04966
+server: Apache
+date: Wed, 15 Oct 2014 14:58:51 GMT
+content-type: text/plain
+
+ENTRY       map04966                    Pathway
+NAME        Collecting duct acid secretion
+DESCRIPTION One of the important roles of the collecting duct segment of the kidney nephron is acid secretion. As daily food intake loads acid into the body, urinary acid excretion is essential, and urine pH can drop as low as 4.5. The alpha-intercalated cell of collecting duct is the main responsible for hydrogen secretion into the urine. The carbon dioxide, which is generated in the cells and enters from the blood, is changed to carbonic acid. This carbonic acid is divided into hydrogen ion and bicarbonate ion. Intracellular CA II catalyses the formation of these ions. The hydrogen ion is secreted into the lumen by the luminal H(+)-ATPase. The bicarbonate ion is transported to the blood side by the anion exchanger type 1. Hydrogen ion in the lumen is trapped by urinary buffers. These include ammonium and phosphate.
+CLASS       Organismal Systems; Excretory system
+PATHWAY_MAP map04966  Collecting duct acid secretion
+DISEASE     H00241  Combined proximal and distal renal tubular acidosis (RTA type 3)
+            H00428  Distal renal tubular acidosis (RTA type 1)
+REFERENCE   PMID:16352913
+  AUTHORS   Wagner CA, Kovacikova J, Stehberger PA, Winter C, Benabbas C, Mohebbi N
+  TITLE     Renal acid-base transport: old and new players.
+  JOURNAL   Nephron Physiol 103:p1-6 (2006)
+REFERENCE   PMID:19277700
+  AUTHORS   Wagner CA, Devuyst O, Bourgeois S, Mohebbi N
+  TITLE     Regulated acid-base transport in the collecting duct.
+  JOURNAL   Pflugers Arch 458:137-56 (2009)
+REFERENCE   PMID:19948674
+  AUTHORS   Koeppen BM
+  TITLE     The kidney and acid-base regulation.
+  JOURNAL   Adv Physiol Educ 33:275-81 (2009)
+REFERENCE   PMID:9550618
+  AUTHORS   Hayashi M
+  TITLE     Physiology and pathophysiology of acid-base homeostasis in the kidney.
+  JOURNAL   Intern Med 37:221-5 (1998)
+REFERENCE   PMID:17557941
+  AUTHORS   Fry AC, Karet FE
+  TITLE     Inherited renal acidoses.
+  JOURNAL   Physiology (Bethesda) 22:202-11 (2007)
+REFERENCE   PMID:19721811
+  AUTHORS   Pereira PC, Miranda DM, Oliveira EA, Silva AC
+  TITLE     Molecular pathophysiology of renal tubular acidosis.
+  JOURNAL   Curr Genomics 10:51-9 (2009)
+REFERENCE   PMID:11045400
+  AUTHORS   Rodriguez-Soriano J
+  TITLE     New insights into the pathogenesis of renal tubular acidosis--from functional to  molecular studies.
+  JOURNAL   Pediatr Nephrol 14:1121-36 (2000)
+REFERENCE   PMID:11826292
+  AUTHORS   Alper SL
+  TITLE     Genetic diseases of acid-base transporters.
+  JOURNAL   Annu Rev Physiol 64:899-923 (2002)
+KO_PATHWAY  ko04966
+///

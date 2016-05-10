@@ -1,0 +1,110 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04270
+server: Apache
+date: Wed, 15 Oct 2014 14:58:25 GMT
+content-type: text/plain
+
+ENTRY       map04270                    Pathway
+NAME        Vascular smooth muscle contraction
+DESCRIPTION The vascular smooth muscle cell (VSMC) is a highly specialized cell whose principal function is contraction. On contraction, VSMCs shorten, thereby decreasing the diameter of a blood vessel to regulate the blood flow and pressure. 
+            The principal mechanisms that regulate the contractile state of VSMCs are changes in cytosolic Ca2+ concentration ([Ca2+]c). In response to vasoconstrictor stimuli, Ca2+ is mobilized from intracellular stores and/or the extracellular space to increase [Ca2+]c in VSMCs. The increase in [Ca2+]c, in turn, activates the Ca2+-CaM-MLCK pathway and stimulates MLC20 phosphorylation, leading to myosin-actin interactions and, hence, the development of contractile force. The sensitivity of contractile myofilaments or MLC20 phosphorylation to Ca2+ can be secondarily modulated by other signaling pathways. During receptor stimulation, the contractile force is greatly enhanced by the inhibition of myosin phosphatase. Rho/Rho kinase, PKC, and arachidonic acid have been proposed to play a pivotal role in this enhancement. 
+            The signaling events that mediate relaxation include the removal of a contractile agonist (passive relaxation) and activation of cyclic nucleotide-dependent signaling pathways in the continued presence of a contractile agonist (active relaxation). Active relaxation occurs through the inhibition of both Ca2+ mobilization and myofilament Ca2+ sensitivity in VSMCs.
+CLASS       Organismal Systems; Circulatory system
+PATHWAY_MAP map04270  Vascular smooth muscle contraction
+DISEASE     H00728  Brugada syndrome (BRS)
+            H00731  Atrial fibrillation
+            H00746  Hypokalemic periodic paralysis (HypoPP)
+            H00801  Familial thoracic aortic aneurysm and dissection (TAAD)
+            H01258  Generalized epilepsy and paroxysmal dyskinesia (GEPD)
+            H01396  Moyamoya Disease
+DBLINKS     GO: 0014829
+REFERENCE   PMID:17458653
+  AUTHORS   Akata T
+  TITLE     Cellular and molecular mechanisms regulating vascular tone. Part 2: regulatory mechanisms modulating Ca2+ mobilization and/or myofilament Ca2+ sensitivity in vascular smooth muscle cells.
+  JOURNAL   J Anesth 21:232-42 (2007)
+REFERENCE   PMID:12689814
+  AUTHORS   Ogut O, Brozovich FV
+  TITLE     Regulation of force in vascular smooth muscle.
+  JOURNAL   J Mol Cell Cardiol 35:347-55 (2003)
+REFERENCE   PMID:16339747
+  AUTHORS   Hilgers RH, Webb RC
+  TITLE     Molecular aspects of arterial smooth muscle contraction: focus on Rho.
+  JOURNAL   Exp Biol Med (Maywood) 230:829-35 (2005)
+REFERENCE   PMID:12693609
+  AUTHORS   Schlossmann J, Feil R, Hofmann F
+  TITLE     Signaling through NO and cGMP-dependent protein kinases.
+  JOURNAL   Ann Med 35:21-7 (2003)
+REFERENCE   PMID:16870827
+  AUTHORS   Mehta PK, Griendling KK
+  TITLE     Angiotensin II cell signaling: physiological and pathological effects in the cardiovascular system.
+  JOURNAL   Am J Physiol Cell Physiol 292:C82-97 (2007)
+REFERENCE   PMID:19120701
+  AUTHORS   Kim HR, Appel S, Vetterkind S, Gangopadhyay SS, Morgan KG
+  TITLE     Smooth muscle signalling pathways in health and disease.
+  JOURNAL   J Cell Mol Med 12:2165-80 (2008)
+REFERENCE   PMID:11165670
+  AUTHORS   Fukata Y, Amano M, Kaibuchi K
+  TITLE     Rho-Rho-kinase pathway in smooth muscle contraction and cytoskeletal reorganization of non-muscle cells.
+  JOURNAL   Trends Pharmacol Sci 22:32-9 (2001)
+REFERENCE   PMID:17158339
+  AUTHORS   Dimopoulos GJ, Semba S, Kitazawa K, Eto M, Kitazawa T
+  TITLE     Ca2+-dependent rapid Ca2+ sensitization of contraction in arterial smooth muscle.
+  JOURNAL   Circ Res 100:121-9 (2007)
+REFERENCE   PMID:17200683
+  AUTHORS   Hynynen MM, Khalil RA
+  TITLE     The vascular endothelin system in hypertension--recent patents and discoveries.
+  JOURNAL   Recent Pat Cardiovasc Drug Discov 1:95-108 (2006)
+REFERENCE   PMID:15269340
+  AUTHORS   Brain SD, Grant AD
+  TITLE     Vascular actions of calcitonin gene-related peptide and adrenomedullin.
+  JOURNAL   Physiol Rev 84:903-34 (2004)
+REFERENCE   PMID:11773611
+  AUTHORS   Roman RJ
+  TITLE     P-450 metabolites of arachidonic acid in the control of cardiovascular function.
+  JOURNAL   Physiol Rev 82:131-85 (2002)
+REFERENCE   PMID:18040024
+  AUTHORS   Surks HK
+  TITLE     cGMP-dependent protein kinase I and smooth muscle relaxation: a tale of two isoforms.
+  JOURNAL   Circ Res 101:1078-80 (2007)
+REFERENCE   PMID:15026027
+  AUTHORS   Vanhoutte PM
+  TITLE     Endothelium-dependent hyperpolarizations: the history.
+  JOURNAL   Pharmacol Res 49:503-8 (2004)
+REFERENCE   PMID:10221985
+  AUTHORS   Davis MJ, Hill MA
+  TITLE     Signaling mechanisms underlying the vascular myogenic response.
+  JOURNAL   Physiol Rev 79:387-423 (1999)
+REFERENCE   PMID:11679404
+  AUTHORS   Fleming I.
+  TITLE     Cytochrome p450 and vascular homeostasis.
+  JOURNAL   Circ Res 89:753-62 (2001)
+REFERENCE   PMID:10911373
+  AUTHORS   Carvajal JA, Germain AM, Huidobro-Toro JP, Weiner CP
+  TITLE     Molecular mechanism of cGMP-mediated smooth muscle relaxation.
+  JOURNAL   J Cell Physiol 184:409-20 (2000)
+REFERENCE   PMID:18552454
+  AUTHORS   Ko EA, Han J, Jung ID, Park WS
+  TITLE     Physiological roles of K+ channels in vascular smooth muscle cells.
+  JOURNAL   J Smooth Muscle Res 44:65-81 (2008)
+REFERENCE   PMID:18703404
+  AUTHORS   Woodard GE, Rosado JA
+  TITLE     Natriuretic peptides in vascular physiology and pathology.
+  JOURNAL   Int Rev Cell Mol Biol 268:59-93 (2008)
+REFERENCE   PMID:11709400
+  AUTHORS   Berry C, Touyz R, Dominiczak AF, Webb RC, Johns DG
+  TITLE     Angiotensin receptors: signaling, vascular pathophysiology, and interactions with ceramide.
+  JOURNAL   Am J Physiol Heart Circ Physiol 281:H2337-65 (2001)
+REFERENCE   PMID:15725705
+  AUTHORS   Hirano K, Hirano M, Kanaide H
+  TITLE     Regulation of myosin phosphorylation and myofilament Ca2+ sensitivity in vascular smooth muscle.
+  JOURNAL   J Smooth Muscle Res 40:219-36 (2004)
+REFERENCE   PMID:9458738
+  AUTHORS   Freeman EJ, Ruehr ML, Dorman RV
+  TITLE     ANG II-induced translocation of cytosolic PLA2 to the nucleus in vascular smooth muscle cells.
+  JOURNAL   Am J Physiol 274:C282-8 (1998)
+REFERENCE   PMID:12060106
+  AUTHORS   Murphy TV, Spurrell BE, Hill MA
+  TITLE     Cellular signalling in arteriolar myogenic constriction: involvement of tyrosine phosphorylation pathways.
+  JOURNAL   Clin Exp Pharmacol Physiol 29:612-9 (2002)
+KO_PATHWAY  ko04270
+///

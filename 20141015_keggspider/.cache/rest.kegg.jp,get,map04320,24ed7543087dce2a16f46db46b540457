@@ -1,0 +1,12 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04320
+server: Apache
+date: Wed, 15 Oct 2014 15:08:47 GMT
+content-type: text/plain
+
+ENTRY       map04320                    Pathway
+NAME        Dorso-ventral axis formation
+CLASS       Organismal Systems; Development
+PATHWAY_MAP map04320  Dorso-ventral axis formation
+KO_PATHWAY  ko04320
+///

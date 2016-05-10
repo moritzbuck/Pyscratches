@@ -1,0 +1,161 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05161
+server: Apache
+date: Wed, 15 Oct 2014 14:59:03 GMT
+content-type: text/plain
+
+ENTRY       map05161                    Pathway
+NAME        Hepatitis B
+DESCRIPTION Hepatitis B virus (HBV) is an enveloped virus and contains a partially double-stranded relaxed circular DNA (RC-DNA) genome. After entry into hepatocytes, HBV RC-DNA is transported to the nucleus and converted into a covalently closed circular molecule cccDNA. The cccDNA is the template for transcription of all viral RNAs including the pregenomic RNA (pgRNA), encoding for 7 viral proteins: large, middle, and small envelope proteins (LHBs, MHBs, and SHBs) that form the surface antigen (HBsAg), the core antigen (HBcAg), the e antigen (HBeAg), the HBV polymerase, and the regulatory protein X (HBx). The pgRNA interacts with the viral polymerase protein to initiate the encapsidation into the core particles. Through endoplasmic reticulum, the core particles finish assembling with the envelope proteins and are released. HBV infection leads to a wide spectrum of liver diseases raging from chronic hepatitis, cirrhosis to hepatocellular carcinoma. The mechanism of liver injury is still not clear. However, HBV proteins target host proteins, involved in a variety of functions, thus regulating transcription, cellular signaling cascades, proliferation, differentiation, and apoptosis.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05161  Hepatitis B
+REFERENCE   PMID:21994545
+  AUTHORS   Schadler S, Hildt E
+  TITLE     HBV life cycle: entry and morphogenesis.
+  JOURNAL   Viruses 1:185-209 (2009)
+REFERENCE   PMID:18046710
+  AUTHORS   Schulze A, Gripon P, Urban S
+  TITLE     Hepatitis B virus infection initiates with a large surface protein-dependent binding to heparan sulfate proteoglycans.
+  JOURNAL   Hepatology 46:1759-68 (2007)
+REFERENCE   PMID:21647825
+  AUTHORS   Ng SA, Lee C.
+  TITLE     Hepatitis B virus X gene and hepatocarcinogenesis.
+  JOURNAL   J Gastroenterol 46:974-990 (2011)
+REFERENCE   PMID:19263472
+  AUTHORS   Murata M, Matsuzaki K, Yoshida K, Sekimoto G, Tahashi Y, Mori S, Uemura Y, Sakaida N, Fujisawa J, Seki T, Kobayashi K, Yokote K, Koike K, Okazaki K
+  TITLE     Hepatitis B virus X protein shifts human hepatic transforming growth factor (TGF)-beta signaling from tumor suppression to oncogenesis in early chronic hepatitis B.
+  JOURNAL   Hepatology 49:1203-17 (2009)
+REFERENCE   PMID:8764004
+  AUTHORS   Benn J, Su F, Doria M, Schneider RJ
+  TITLE     Hepatitis B virus HBx protein induces transcription factor AP-1 by activation of  extracellular signal-regulated and c-Jun N-terminal mitogen-activated protein kinases.
+  JOURNAL   J Virol 70:4978-85 (1996)
+REFERENCE   PMID:15542625
+  AUTHORS   Bouchard MJ, Schneider RJ
+  TITLE     The enigmatic X gene of hepatitis B virus.
+  JOURNAL   J Virol 78:12725-34 (2004)
+REFERENCE   PMID:16891440
+  AUTHORS   Park NH, Song IH, Chung YH
+  TITLE     Chronic hepatitis B in hepatocarcinogenesis.
+  JOURNAL   Postgrad Med J 82:507-15 (2006)
+REFERENCE   PMID:15107488
+  AUTHORS   Kwun HJ, Jang KL
+  TITLE     Natural variants of hepatitis B virus X protein have differential effects on the  expression of cyclin-dependent kinase inhibitor p21 gene.
+  JOURNAL   Nucleic Acids Res 32:2202-13 (2004)
+REFERENCE   PMID:15173177
+  AUTHORS   Yoo YG, Lee MO
+  TITLE     Hepatitis B virus X protein induces expression of Fas ligand gene through enhancing transcriptional activity of early growth response factor.
+  JOURNAL   J Biol Chem 279:36242-9 (2004)
+REFERENCE   PMID:17158882
+  AUTHORS   Cougot D, Wu Y, Cairo S, Caramel J, Renard CA, Levy L, Buendia MA, Neuveut C
+  TITLE     The hepatitis B virus X protein functionally interacts with CREB-binding protein/p300 in the regulation of CREB-mediated transcription.
+  JOURNAL   J Biol Chem 282:4277-87 (2007)
+REFERENCE   PMID:16203685
+  AUTHORS   Kim SY, Kim JK, Kim HJ, Ahn JK
+  TITLE     Hepatitis B virus X protein sensitizes UV-induced apoptosis by transcriptional transactivation of Fas ligand gene expression.
+  JOURNAL   IUBMB Life 57:651-8 (2005)
+REFERENCE   PMID:9325306
+  AUTHORS   Rehemtulla A, Hamilton CA, Chinnaiyan AM, Dixit VM
+  TITLE     Ultraviolet radiation-induced apoptosis is mediated by activation of CD-95 (Fas/APO-1).
+  JOURNAL   J Biol Chem 272:25783-6 (1997)
+REFERENCE   PMID:16459163
+  AUTHORS   Zhang X, Zhang H, Ye L
+  TITLE     Effects of hepatitis B virus X protein on the development of liver cancer.
+  JOURNAL   J Lab Clin Med 147:58-66 (2006)
+REFERENCE   PMID:11099494
+  AUTHORS   Diao J, Khine AA, Sarangi F, Hsu E, Iorio C, Tibbles LA, Woodgett JR, Penninger J, Richardson CD
+  TITLE     X protein of hepatitis B virus inhibits Fas-mediated apoptosis and is associated  with up-regulation of the SAPK/JNK pathway.
+  JOURNAL   J Biol Chem 276:8328-40 (2001)
+REFERENCE   PMID:18931690
+  AUTHORS   Sun B, Karin M
+  TITLE     NF-kappaB signaling, liver disease and hepatoprotective agents.
+  JOURNAL   Oncogene 27:6228-44 (2008)
+REFERENCE   PMID:10454581
+  AUTHORS   Weil R, Sirma H, Giannini C, Kremsdorf D, Bessia C, Dargemont C, Brechot C, Israel A
+  TITLE     Direct association and nuclear import of the hepatitis B virus X protein with the NF-kappaB inhibitor IkappaBalpha.
+  JOURNAL   Mol Cell Biol 19:6345-54 (1999)
+REFERENCE   PMID:17188775
+  AUTHORS   Um HR, Lim WC, Chae SY, Park S, Park JH, Cho H
+  TITLE     Raf-1 and protein kinase B regulate cell survival through the activation of NF-kappaB in hepatitis B virus X-expressing cells.
+  JOURNAL   Virus Res 125:1-8 (2007)
+REFERENCE   PMID:15132991
+  AUTHORS   Chung TW, Lee YC, Kim CH
+  TITLE     Hepatitis B viral HBx induces matrix metalloproteinase-9 gene expression through  activation of ERK and PI-3K/AKT pathways: involvement of invasive potential.
+  JOURNAL   FASEB J 18:1123-5 (2004)
+REFERENCE   PMID:18481805
+  AUTHORS   Kim HJ, Kim SY, Kim J, Lee H, Choi M, Kim JK, Ahn JK
+  TITLE     Hepatitis B virus X protein induces apoptosis by enhancing translocation of Bax to mitochondria.
+  JOURNAL   IUBMB Life 60:473-80 (2008)
+REFERENCE   PMID:11821950
+  AUTHORS   Terradillos O, de La Coste A, Pollicino T, Neuveut C, Sitterlin D, Lecoeur H, Gougeon ML, Kahn A, Buendia MA
+  TITLE     The hepatitis B virus X protein abrogates Bcl-2-mediated protection against Fas apoptosis in the liver.
+  JOURNAL   Oncogene 21:377-86 (2002)
+REFERENCE   PMID:11278872
+  AUTHORS   Lee YI, Kang-Park S, Do SI, Lee YI
+  TITLE     The hepatitis B virus-X protein activates a phosphatidylinositol 3-kinase-dependent survival signaling cascade.
+  JOURNAL   J Biol Chem 276:16969-77 (2001)
+REFERENCE   PMID:21618535
+  AUTHORS   Huang WC, Chen WS, Chen YJ, Wang LY, Hsu SC, Chen CC, Hung MC
+  TITLE     Hepatitis B virus X protein induces IKKalpha nuclear translocation via Akt-dependent phosphorylation to promote the motility of hepatocarcinoma cells.
+  JOURNAL   J Cell Physiol 227:1446-54 (2012)
+REFERENCE   PMID:12839924
+  AUTHORS   Chung TW, Lee YC, Ko JH, Kim CH
+  TITLE     Hepatitis B Virus X protein modulates the expression of PTEN by inhibiting the function of p53, a transcriptional activator in liver cells.
+  JOURNAL   Cancer Res 63:3453-8 (2003)
+REFERENCE   PMID:19784739
+  AUTHORS   Matsuda Y, Ichida T
+  TITLE     Impact of hepatitis B virus X protein on the DNA damage response during hepatocarcinogenesis.
+  JOURNAL   Med Mol Morphol 42:138-42 (2009)
+REFERENCE   PMID:19854353
+  AUTHORS   Benhenda S, Cougot D, Buendia MA, Neuveut C
+  TITLE     Hepatitis B virus X protein molecular functions and its role in virus life cycle  and pathogenesis.
+  JOURNAL   Adv Cancer Res 103:75-109 (2009)
+REFERENCE   PMID:9843511
+  AUTHORS   Lara-Pezzi E, Armesilla AL, Majano PL, Redondo JM, Lopez-Cabrera M
+  TITLE     The hepatitis B virus X protein activates nuclear factor of activated T cells (NF-AT) by a cyclosporin A-sensitive pathway.
+  JOURNAL   EMBO J 17:7066-77 (1998)
+REFERENCE   PMID:18605975
+  AUTHORS   Gurtsevitch VE
+  TITLE     Human oncogenic viruses: hepatitis B and hepatitis C viruses and their role in hepatocarcinogenesis.
+  JOURNAL   Biochemistry (Mosc) 73:504-13 (2008)
+REFERENCE   PMID:9738022
+  AUTHORS   Lee YH, Yun Y
+  TITLE     HBx protein of hepatitis B virus activates Jak1-STAT signaling.
+  JOURNAL   J Biol Chem 273:25510-5 (1998)
+REFERENCE   PMID:11604508
+  AUTHORS   Waris G, Huh KW, Siddiqui A
+  TITLE     Mitochondrially associated hepatitis B virus X protein constitutively activates transcription factors STAT-3 and NF-kappa B via oxidative stress.
+  JOURNAL   Mol Cell Biol 21:7721-30 (2001)
+REFERENCE   PMID:11325602
+  AUTHORS   Diao J, Garces R, Richardson CD
+  TITLE     X protein of hepatitis B virus modulates cytokine and growth factor related signal transduction pathways during the course of viral infections and hepatocarcinogenesis.
+  JOURNAL   Cytokine Growth Factor Rev 12:189-205 (2001)
+REFERENCE   PMID:11483993
+  AUTHORS   Mayr B, Montminy M
+  TITLE     Transcriptional regulation by the phosphorylation-dependent factor CREB.
+  JOURNAL   Nat Rev Mol Cell Biol 2:599-609 (2001)
+REFERENCE   PMID:22504921
+  AUTHORS   Dandri M, Locarnini S
+  TITLE     New insight in the pathobiology of hepatitis B virus infection.
+  JOURNAL   Gut 61 Suppl 1:i6-17 (2012)
+REFERENCE   PMID:21334391
+  AUTHORS   Lang T, Lo C, Skinner N, Locarnini S, Visvanathan K, Mansell A
+  TITLE     The hepatitis B e antigen (HBeAg) targets and suppresses activation of the toll-like receptor signaling pathway.
+  JOURNAL   J Hepatol 55:762-9 (2011)
+REFERENCE   PMID:20657822
+  AUTHORS   Wang H, Ryu WS
+  TITLE     Hepatitis B virus polymerase blocks pattern recognition receptor signaling via interaction with DDX3: implications for immune evasion.
+  JOURNAL   PLoS Pathog 6:e1000986 (2010)
+REFERENCE   PMID:18024894
+  AUTHORS   Wu M, Xu Y, Lin S, Zhang X, Xiang L, Yuan Z
+  TITLE     Hepatitis B virus polymerase inhibits the interferon-inducible MyD88 promoter by  blocking nuclear translocation of Stat1.
+  JOURNAL   J Gen Virol 88:3260-9 (2007)
+REFERENCE   PMID:12771941
+  AUTHORS   Klein A, Guhl E, Tzeng YJ, Fuhrhop J, Levrero M, Graessmann M, Graessmann A
+  TITLE     HBX causes cyclin D1 overexpression and development of breast cancer in transgenic animals that are heterozygous for p53.
+  JOURNAL   Oncogene 22:2910-9 (2003)
+REFERENCE   PMID:11287574
+  AUTHORS   Bouchard M, Giannakopoulos S, Wang EH, Tanese N, Schneider RJ
+  TITLE     Hepatitis B virus HBx protein activation of cyclin A-cyclin-dependent kinase 2 complexes and G1 transit via a Src kinase pathway.
+  JOURNAL   J Virol 75:4247-57 (2001)
+KO_PATHWAY  ko05161
+///

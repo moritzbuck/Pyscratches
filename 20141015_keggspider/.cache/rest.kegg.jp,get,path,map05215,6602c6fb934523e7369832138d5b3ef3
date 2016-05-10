@@ -1,0 +1,58 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05215
+server: Apache
+date: Wed, 15 Oct 2014 14:59:09 GMT
+content-type: text/plain
+
+ENTRY       map05215                    Pathway
+NAME        Prostate cancer
+DESCRIPTION Prostate cancer constitutes a major health problem in Western countries. It is the most frequently diagnosed cancer among men and the second leading cause of male cancer deaths. The identification of key molecular alterations in prostate-cancer cells implicates carcinogen defenses (GSTP1), growth-factor-signaling pathways (NKX3.1, PTEN, and p27), and androgens (AR) as critical determinants of the phenotype of prostate-cancer cells. Glutathione S-transferases (GSTP1) are detoxifying enzymes. Cells of prostatic intraepithelial neoplasia, devoid of GSTP1, undergo genomic damage mediated by carcinogens. NKX3.1, PTEN, and p27 regulate the growth and survival of prostate cells in the normal prostate. Inadequate levels of PTEN and NKX3.1 lead to a reduction in p27 levels and to increased proliferation and decreased apoptosis. Androgen receptor (AR) is a transcription factor that is normally activated by its androgen ligand. During androgen withdrawal therapy, the AR signal transduction pathway also could be activated by amplification of the AR gene, by AR gene mutations, or by altered activity of AR coactivators. Through these mechanisms, tumor cells lead to the emergence of androgen-independent prostate cancer.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05215  Prostate cancer
+DISEASE     H00024  Prostate cancer
+REFERENCE   PMID:12878745
+  AUTHORS   Nelson WG, De Marzo AM, Isaacs WB.
+  TITLE     Prostate cancer.
+  JOURNAL   N Engl J Med 349:366-81 (2003)
+REFERENCE   PMID:15724144
+  AUTHORS   Li L, Ittmann MM, Ayala G, Tsai MJ, Amato RJ, Wheeler TM, Miles BJ, Kadmon D, Thompson TC.
+  TITLE     The emerging role of the PI3-K-Akt pathway in prostate cancer progression.
+  JOURNAL   Prostate Cancer Prostatic Dis 8:108-18 (2005)
+REFERENCE   PMID:16551847
+  AUTHORS   Pienta KJ, Bradley D.
+  TITLE     Mechanisms underlying the development of androgen-independent prostate cancer.
+  JOURNAL   Clin Cancer Res 12:1665-71 (2006)
+REFERENCE   PMID:11900250
+  AUTHORS   Feldman BJ, Feldman D.
+  TITLE     The development of androgen-independent prostate cancer.
+  JOURNAL   Nat Rev Cancer 1:34-45 (2001)
+REFERENCE   PMID:15082523
+  AUTHORS   Heinlein CA, Chang C.
+  TITLE     Androgen receptor in prostate cancer.
+  JOURNAL   Endocr Rev 25:276-308 (2004)
+REFERENCE   PMID:9422516
+  AUTHORS   Koivisto P, Kolmer M, Visakorpi T, Kallioniemi OP.
+  TITLE     Androgen receptor gene and hormonal therapy failure of prostate cancer.
+  JOURNAL   Am J Pathol 152:1-9 (1998)
+REFERENCE   PMID:10835690
+  AUTHORS   Zhao XY, Malloy PJ, Krishnan AV, Swami S, Navone NM, Peehl DM, Feldman D.
+  TITLE     Glucocorticoids can promote androgen-independent growth of prostate cancer cells through a mutated androgen receptor.
+  JOURNAL   Nat Med 6:703-6 (2000)
+REFERENCE   PMID:10453277
+  AUTHORS   Macri E, Loda M.
+  TITLE     Role of p27 in prostate carcinogenesis.
+  JOURNAL   Cancer Metastasis Rev 17:337-44 (1998)
+REFERENCE   PMID:11750244
+  AUTHORS   Steers WD.
+  TITLE     5alpha-reductase activity in the prostate.
+  JOURNAL   Urology 58:17-24; discussion 24 (2001)
+REFERENCE   PMID:8069858
+  AUTHORS   Lin D, Meyer DJ, Ketterer B, Lang NP, Kadlubar FF.
+  TITLE     Effects of human and rat glutathione S-transferases on the covalent DNA binding of the N-acetoxy derivatives of heterocyclic amine carcinogens in vitro: a possible mechanism of organ specificity in their carcinogenesis.
+  JOURNAL   Cancer Res 54:4920-6 (1994)
+REFERENCE   PMID:11527574
+  AUTHORS   Grimes CA, Jope RS.
+  TITLE     The multifaceted roles of glycogen synthase kinase 3beta in cellular signaling.
+  JOURNAL   Prog Neurobiol 65:391-426 (2001)
+KO_PATHWAY  ko05215
+///

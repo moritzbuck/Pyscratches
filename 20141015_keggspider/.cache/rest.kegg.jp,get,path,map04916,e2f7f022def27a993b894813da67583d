@@ -1,0 +1,75 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04916
+server: Apache
+date: Wed, 15 Oct 2014 14:58:46 GMT
+content-type: text/plain
+
+ENTRY       map04916                    Pathway
+NAME        Melanogenesis
+DESCRIPTION Cutaneous melanin pigment plays a critical role in camouflage, mimicry, social communication, and protection against harmful effects of solar radiation. Melanogenesis is under complex regulatory control by multiple agents. The most important positive regulator of melanogenesis is the MC1 receptor with its ligands melanocortic peptides. MC1R activates the cyclic AMP (cAMP) response-element binding protein (CREB). Increased expression of MITF and its activation by phosphorylation (P) stimulate the transcription of tyrosinase (TYR), tyrosinase-related protein 1 (TYRP1), and dopachrome tautomerase (DCT), which produce melanin. Melanin synthesis takes place within specialized intracellular organelles named melanosomes. Melanin-containing melanosomes then move from the perinuclear region to the dendrite tips and are transferred to keratinocytes by a still not well-characterized mechanism.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04916  Melanogenesis
+DISEASE     H00168  Oculocutaneous albinism (OCA)
+            H00169  Ocular albinism
+            H00170  Piebaldism
+            H00646  Odontoonychodermal dysplasia
+            H00759  Waardenburg syndrome (WS)
+            H00759  Waardenburg syndrome (WS)
+            H00823  ABCD syndrome
+            H00884  Familial progressive hyperpigmentation
+            H00947  Pilomatricoma
+            H01187  Tietz syndrome
+REFERENCE   PMID:15383650
+  AUTHORS   Slominski A, Tobin DJ, Shibahara S, Wortsman J.
+  TITLE     Melanin pigmentation in mammalian skin and its hormonal regulation.
+  JOURNAL   Physiol Rev 84:1155-228 (2004)
+REFERENCE   PMID:10841026
+  AUTHORS   Busca R, Ballotti R.
+  TITLE     Cyclic AMP a key messenger in the regulation of skin pigmentation.
+  JOURNAL   Pigment Cell Res 13:60-9 (2000)
+REFERENCE   PMID:15016298
+  AUTHORS   Imokawa G.
+  TITLE     Autocrine and paracrine regulation of melanocytes in human skin and in pigmentary disorders.
+  JOURNAL   Pigment Cell Res 17:96-110 (2004)
+REFERENCE   PMID:11023702
+  AUTHORS   Wikberg JE, Muceniece R, Mandrika I, Prusis P, Lindblom J, Post C, Skottner A.
+  TITLE     New aspects on the melanocortins and their receptors.
+  JOURNAL   Pharmacol Res 42:393-420 (2000)
+REFERENCE   PMID:12894244
+  AUTHORS   Chin L.
+  TITLE     The genetics of malignant melanoma: lessons from mouse and man.
+  JOURNAL   Nat Rev Cancer 3:559-70 (2003)
+REFERENCE   PMID:16822996
+  AUTHORS   Miller AJ, Mihm MC Jr.
+  TITLE     Melanoma.
+  JOURNAL   N Engl J Med 355:51-65 (2006)
+REFERENCE   PMID:12753399
+  AUTHORS   Saito H, Yasumoto K, Takeda K, Takahashi K, Yamamoto H, Shibahara S.
+  TITLE     Microphthalmia-associated transcription factor in the Wnt signaling pathway.
+  JOURNAL   Pigment Cell Res 16:261-5 (2003)
+REFERENCE   PMID:9263329
+  AUTHORS   Imokawa G, Kobayashi T, Miyagishi M, Higashi K, Yada Y.
+  TITLE     The role of endothelin-1 in epidermal hyperpigmentation and signaling mechanisms of mitogenesis and melanogenesis.
+  JOURNAL   Pigment Cell Res 10:218-28 (1997)
+REFERENCE   PMID:10643996
+  AUTHORS   Park HY, Gilchrest BA.
+  TITLE     Signaling pathways mediating melanogenesis.
+  JOURNAL   Cell Mol Biol (Noisy-le-grand) 45:919-30 (1999)
+REFERENCE   PMID:10347209
+  AUTHORS   Park HY, Perez JM, Laursen R, Hara M, Gilchrest BA.
+  TITLE     Protein kinase C-beta activates tyrosinase by phosphorylating serine residues in its cytoplasmic domain.
+  JOURNAL   J Biol Chem 274:16470-8 (1999)
+REFERENCE   PMID:11602344
+  AUTHORS   Sturm RA, Teasdale RD, Box NF.
+  TITLE     Human pigmentation genes: identification, structure and consequences of polymorphic variation.
+  JOURNAL   Gene 277:49-62 (2001)
+REFERENCE   PMID:11041354
+  AUTHORS   Hearing VJ.
+  TITLE     The melanosome: the perfect model for cellular responses to the environment.
+  JOURNAL   Pigment Cell Res 13 Suppl 8:23-34 (2000)
+REFERENCE   PMID:16246839
+  AUTHORS   Molina DM, Grewal S, Bardwell L.
+  TITLE     Characterization of an ERK-binding domain in microphthalmia-associated transcription factor and differential inhibition of ERK2-mediated substrate phosphorylation.
+  JOURNAL   J Biol Chem 280:42051-60 (2005)
+KO_PATHWAY  ko04916
+///

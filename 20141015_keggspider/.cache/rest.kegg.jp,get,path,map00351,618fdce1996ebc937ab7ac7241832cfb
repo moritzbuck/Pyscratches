@@ -1,0 +1,21 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00351
+server: Apache
+date: Wed, 15 Oct 2014 14:57:18 GMT
+content-type: text/plain
+
+ENTRY       map00351                    Pathway
+NAME        DDT degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00351  DDT degradation
+DBLINKS     UMBBD: ddt ddt2
+REFERENCE   PMID:9563945
+  AUTHORS   Quensen JF 3rd, Mueller SA, Jain MK, Tiedje JM
+  TITLE     Reductive dechlorination of DDE to DDMU in marine sediment microcosms.
+  JOURNAL   Science 280:722-4 (1998)
+REFERENCE   PMID:19846197
+  AUTHORS   Baczynski TP, Pleissner D, Grotenhuis T
+  TITLE     Anaerobic biodegradation of organochlorine pesticides in contaminated soil - significance of temperature and availability.
+  JOURNAL   Chemosphere 78:22-8 (2010)
+KO_PATHWAY  ko00351
+///

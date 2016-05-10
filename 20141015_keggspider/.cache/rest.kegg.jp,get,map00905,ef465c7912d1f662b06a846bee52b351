@@ -1,0 +1,55 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00905
+server: Apache
+date: Wed, 15 Oct 2014 15:08:09 GMT
+content-type: text/plain
+
+ENTRY       map00905                    Pathway
+NAME        Brassinosteroid biosynthesis
+DESCRIPTION Brassinosteroids are a group of plant steroid hormones that regulate growth and development. More than fifty naturally occurring brassinosteroids have been identified in a wide range of plant species. The most abundant and widely occurring brassinosteroids are C28 steroids, and among them brassinolide (BL) is the most biologically active. Plants have multiple pathways for biosynthesis of BL, which are derived from the steroid biosynthetic pathway. Two pathways from campestanol to castasterone (CS), C6 oxidation and the late-C6 oxidation pathways, operate in many plants. Another branching pathway, the early-C22 oxidation pathway, was demonstrated using a brassinosteroid-deficient mutant of Arabidopsis thaliana. Recently, a new shortcut pathway from campesterol to 6-deoxotyphasterol was demonstrated by a functional analysis of cytochrome P450 monooxygenases responsible for brassinosteroid biosynthesis. Thus, at least four pathways are involved in the biosynthesis of CS, and CS is further metabolized to BL by lactonization of the B ring.
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00905  Brassinosteroid biosynthesis
+MODULE      M00371  Castasterone biosynthesis, campesterol => castasterone [PATH:map00905]
+DBLINKS     GO: 0016132
+REFERENCE   
+  AUTHORS   Koshiba K, Kamiya Y.
+  TITLE     [Atarasii Syokubutuhorumon no Kagaku] (In Japanese)
+  JOURNAL   Koudansya saientific:199-138 (2002)
+REFERENCE   
+  AUTHORS   Fukuda H, Matida Y, Kamiya Y, Kakimoto T.
+  TITLE     [Shinpan Syokubutuhorumon no Sigunarudentatu] (In Japanese)
+  JOURNAL   Syujyunsya:165-186 (2004)
+REFERENCE   PMID:12529536
+  AUTHORS   Shimada Y, Goda H, Nakamura A, Takatsuto S, Fujioka S, Yoshida S.
+  TITLE     Organ-specific expression of brassinosteroid-biosynthetic genes and distribution of endogenous brassinosteroids in Arabidopsis.
+  JOURNAL   Plant Physiol 131:287-97 (2003)
+REFERENCE   
+  AUTHORS   Sunghwa C.
+  TITLE     Brassinosteroid biosynthesis and inactivation.
+  JOURNAL   Physiologia Plantarum 126:539-548 (2006)
+REFERENCE   PMID:17138693
+  AUTHORS   Ohnishi T, Szatmari AM, Watanabe B, Fujita S, Bancos S, Koncz C, Lafos M, Shibata K, Yokota T, Sakata K, Szekeres M, Mizutani M
+  TITLE     C-23 hydroxylation by Arabidopsis CYP90C1 and CYP90D1 reveals a novel shortcut in brassinosteroid biosynthesis.
+  JOURNAL   Plant Cell 18:3275-88 (2006)
+REFERENCE   PMID:17693126
+  AUTHORS   Bishop GJ
+  TITLE     Refining the plant steroid hormone biosynthesis pathway.
+  JOURNAL   Trends Plant Sci 12:377-80 (2007)
+REFERENCE   PMID:15710611
+  AUTHORS   Nomura T, Kushiro T, Yokota T, Kamiya Y, Bishop GJ, Yamaguchi S
+  TITLE     The last reaction producing brassinolide is catalyzed by cytochrome P-450s, CYP85A3 in tomato and CYP85A2 in Arabidopsis.
+  JOURNAL   J Biol Chem 280:17873-9 (2005)
+REFERENCE   PMID:18685225
+  AUTHORS   Katsumata T, Hasegawa A, Fujiwara T, Komatsu T, Notomi M, Abe H, Natsume M, Kawaide H
+  TITLE     Arabidopsis CYP85A2 catalyzes lactonization reactions in the biosynthesis of 2-deoxy-7-oxalactone brassinosteroids.
+  JOURNAL   Biosci Biotechnol Biochem 72:2110-7 (2008)
+REFERENCE   PMID:15705958
+  AUTHORS   Tanabe S, Ashikari M, Fujioka S, Takatsuto S, Yoshida S, Yano M, Yoshimura A, Kitano H, Matsuoka M, Fujisawa Y, Kato H, Iwasaki Y
+  TITLE     A novel cytochrome P450 is implicated in brassinosteroid biosynthesis via the characterization of a rice dwarf mutant, dwarf11, with reduced seed length.
+  JOURNAL   Plant Cell 17:776-90 (2005)
+REFERENCE   PMID:14615594
+  AUTHORS   Hong Z, Ueguchi-Tanaka M, Umemura K, Uozu S, Fujioka S, Takatsuto S, Yoshida S, Ashikari M, Kitano H, Matsuoka M
+  TITLE     A rice brassinosteroid-deficient mutant, ebisu dwarf (d2), is caused by a loss of function of a new member of cytochrome P450.
+  JOURNAL   Plant Cell 15:2900-10 (2003)
+KO_PATHWAY  ko00905
+///

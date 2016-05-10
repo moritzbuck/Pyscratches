@@ -1,0 +1,11 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01064
+server: Apache
+date: Wed, 15 Oct 2014 14:57:59 GMT
+content-type: text/plain
+
+ENTRY       map01064                    Pathway
+NAME        Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+PATHWAY_MAP map01064  Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+KO_PATHWAY  ko01064
+///

@@ -1,0 +1,38 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00403
+server: Apache
+date: Wed, 15 Oct 2014 15:07:44 GMT
+content-type: text/plain
+
+ENTRY       map00403                    Pathway
+NAME        Indole diterpene alkaloid biosynthesis
+DESCRIPTION Indole diterpene alkaloids are a group of meroterpenoids consisting of a partial diterpene structure with four isoprene units and an indole moiety. The common cyclic diterpene skeleton is derived from geranylgeranyl diphosphate (GGPP) and an indole moiety is derived from tryptophan or a tryptophan precursor. They are combined in the initial step of biosynthetic reactions that generate paspaline, the first stable and less modified form required for other forms. Most indole diterpene alkaloids have potent mammalian tremorgenic activities, such as ryegrass staggers in livestock, and some have anti-insect properties. This map shows examples of indole diterpene alkaloids isolated from filamentous fungi.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00403  Indole diterpene alkaloid biosynthesis
+MODULE      M00661  Paspaline biosynthesis, geranylgeranyl-PP + indoleglycerol phosphate => paspaline [PATH:map00403]
+REFERENCE   PMID:18262778
+  AUTHORS   Saikia S, Nicholson MJ, Young C, Parker EJ, Scott B
+  TITLE     The genetic basis for indole-diterpene chemical diversity in filamentous fungi.
+  JOURNAL   Mycol Res 112:184-99 (2008)
+REFERENCE   PMID:16494875
+  AUTHORS   Saikia S, Parker EJ, Koulman A, Scott B
+  TITLE     Four gene products are required for the fungal synthesis of the indole-diterpene, paspaline.
+  JOURNAL   FEBS Lett 580:1625-30 (2006)
+REFERENCE   PMID:17428785
+  AUTHORS   Saikia S, Parker EJ, Koulman A, Scott B
+  TITLE     Defining paxilline biosynthesis in Penicillium paxilli: functional characterization of two cytochrome P450 monooxygenases.
+  JOURNAL   J Biol Chem 282:16829-37 (2007)
+REFERENCE   PMID:19801473
+  AUTHORS   Nicholson MJ, Koulman A, Monahan BJ, Pritchard BL, Payne GA, Scott B
+  TITLE     Identification of two aflatrem biosynthesis gene loci in Aspergillus flavus and metabolic engineering of Penicillium paxilli to elucidate their function.
+  JOURNAL   Appl Environ Microbiol 75:7469-81 (2009)
+REFERENCE   PMID:22750140
+  AUTHORS   Saikia S, Takemoto D, Tapper BA, Lane GA, Fraser K, Scott B
+  TITLE     Functional analysis of an indole-diterpene gene cluster for lolitrem B biosynthesis in the grass endosymbiont Epichloe festucae.
+  JOURNAL   FEBS Lett 586:2563-9 (2012)
+REFERENCE   PMID:23261604
+  AUTHORS   Motoyama T, Hayashi T, Hirota H, Ueki M, Osada H
+  TITLE     Terpendole E, a kinesin Eg5 inhibitor, is a key biosynthetic intermediate of indole-diterpenes in the producing fungus Chaunopycnis alba.
+  JOURNAL   Chem Biol 19:1611-9 (2012)
+KO_PATHWAY  ko00403
+///

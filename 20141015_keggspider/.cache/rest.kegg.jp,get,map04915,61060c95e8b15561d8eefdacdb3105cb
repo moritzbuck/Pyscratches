@@ -1,0 +1,103 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04915
+server: Apache
+date: Wed, 15 Oct 2014 15:09:07 GMT
+content-type: text/plain
+
+ENTRY       map04915                    Pathway
+NAME        Estrogen signaling pathway
+DESCRIPTION Estrogens are steroid hormones that regulate a plethora of physiological processes in mammals, including reproduction, cardiovascular protection, bone integrity, cellular homeostasis, and behavior. Estrogen mediates its cellular actions through two signaling pathways classified as 
+            "nuclear-initiated steroid signaling" and "membrane-initiated steroid signaling". In the "nuclear" pathway, estrogen binds either ERalpha or ERbeta, which in turn translocates to the nucleus, binds DNA at ERE elements and activates the expression of ERE-dependent genes. In "membrane" pathway, Estrogen can exert its actions through a subpopulation of ER at the plasma membrane (mER) or novel G-protein coupled E2 receptors (GPER). Upon activation of these receptors various signaling pathways (i.e. Ca2+, cAMP, protein kinase cascades) are rapidly activated and ultimately influence downstream transcription factors.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04915  Estrogen signaling pathway
+DBLINKS     GO: 0030520
+REFERENCE   PMID:16516516
+  AUTHORS   Zhang D, Trudeau VL
+  TITLE     Integration of membrane and nuclear estrogen receptor signaling.
+  JOURNAL   Comp Biochem Physiol A Mol Integr Physiol 144:306-15 (2006)
+REFERENCE   PMID:19187465
+  AUTHORS   Roepke TA, Qiu J, Bosch MA, Ronnekleiv OK, Kelly MJ
+  TITLE     Cross-talk between membrane-initiated and nuclear-initiated oestrogen signalling  in the hypothalamus.
+  JOURNAL   J Neuroendocrinol 21:263-70 (2009)
+REFERENCE   PMID:19700741
+  AUTHORS   McCarthy MM
+  TITLE     The two faces of estradiol: effects on the developing brain.
+  JOURNAL   Neuroscientist 15:599-610 (2009)
+REFERENCE   PMID:18538919
+  AUTHORS   Kelly MJ, Ronnekleiv OK
+  TITLE     Membrane-initiated estrogen signaling in hypothalamic neurons.
+  JOURNAL   Mol Cell Endocrinol 290:14-23 (2008)
+REFERENCE   PMID:16112267
+  AUTHORS   Kelly MJ, Qiu J, Ronnekleiv OK
+  TITLE     Estrogen signaling in the hypothalamus.
+  JOURNAL   Vitam Horm 71:123-45 (2005)
+REFERENCE   PMID:18253054
+  AUTHORS   Raz L, Khan MM, Mahesh VB, Vadlamudi RK, Brann DW
+  TITLE     Rapid estrogen signaling in the brain.
+  JOURNAL   Neurosignals 16:140-53 (2008)
+REFERENCE   PMID:15862823
+  AUTHORS   Malyala A, Kelly MJ, Ronnekleiv OK
+  TITLE     Estrogen modulation of hypothalamic neurons: activation of multiple signaling pathways and gene expression changes.
+  JOURNAL   Steroids 70:397-406 (2005)
+REFERENCE   PMID:14573532
+  AUTHORS   Qiu J, Bosch MA, Tobias SC, Grandy DK, Scanlan TS, Ronnekleiv OK, Kelly MJ
+  TITLE     Rapid signaling of estrogen in hypothalamic neurons involves a novel G-protein-coupled estrogen receptor that activates protein kinase C.
+  JOURNAL   J Neurosci 23:9529-40 (2003)
+REFERENCE   PMID:14993035
+  AUTHORS   Kelly MJ, Qiu J, Ronnekleiv OK
+  TITLE     Estrogen modulation of G-protein-coupled receptor activation of potassium channels in the central nervous system.
+  JOURNAL   Ann N Y Acad Sci 1007:6-16 (2003)
+REFERENCE   PMID:19549587
+  AUTHORS   Meyer MR, Haas E, Prossnitz ER, Barton M
+  TITLE     Non-genomic regulation of vascular cell function and growth by estrogen.
+  JOURNAL   Mol Cell Endocrinol 308:9-16 (2009)
+REFERENCE   PMID:20694192
+  AUTHORS   do Nascimento GR, Barros YV, Wells AK, Khalil RA
+  TITLE     Research into Specific Modulators of Vascular Sex Hormone Receptors in the Management of Postmenopausal Cardiovascular Disease.
+  JOURNAL   Curr Hypertens Rev 5:283-306 (2009)
+REFERENCE   PMID:15695368
+  AUTHORS   Bjornstrom L, Sjoberg M
+  TITLE     Mechanisms of estrogen receptor signaling: convergence of genomic and nongenomic  actions on target genes.
+  JOURNAL   Mol Endocrinol 19:833-42 (2005)
+REFERENCE   PMID:16270355
+  AUTHORS   Manavathi B, Kumar R
+  TITLE     Steering estrogen signals from the plasma membrane to the nucleus: two sides of the coin.
+  JOURNAL   J Cell Physiol 207:594-604 (2006)
+REFERENCE   PMID:21844907
+  AUTHORS   Prossnitz ER, Barton M
+  TITLE     The G-protein-coupled estrogen receptor GPER in health and disease.
+  JOURNAL   Nat Rev Endocrinol 7:715-26 (2011)
+REFERENCE   PMID:21742056
+  AUTHORS   Meyer MR, Prossnitz ER, Barton M
+  TITLE     The G protein-coupled estrogen receptor GPER/GPR30 as a regulator of cardiovascular function.
+  JOURNAL   Vascul Pharmacol 55:17-25 (2011)
+REFERENCE   PMID:19767412
+  AUTHORS   Maggiolini M, Picard D
+  TITLE     The unfolding stories of GPR30, a new membrane-bound estrogen receptor.
+  JOURNAL   J Endocrinol 204:105-14 (2010)
+REFERENCE   PMID:19464786
+  AUTHORS   Prossnitz ER, Maggiolini M
+  TITLE     Mechanisms of estrogen signaling and gene expression via GPR30.
+  JOURNAL   Mol Cell Endocrinol 308:32-8 (2009)
+REFERENCE   PMID:12650715
+  AUTHORS   Kelly MJ, Qiu J, Wagner EJ, Ronnekleiv OK
+  TITLE     Rapid effects of estrogen on G protein-coupled receptor activation of potassium channels in the central nervous system (CNS).
+  JOURNAL   J Steroid Biochem Mol Biol 83:187-93 (2002)
+REFERENCE   PMID:9278514
+  AUTHORS   Paech K, Webb P, Kuiper GG, Nilsson S, Gustafsson J, Kushner PJ, Scanlan TS
+  TITLE     Differential ligand activation of estrogen receptors ERalpha and ERbeta at AP1 sites.
+  JOURNAL   Science 277:1508-10 (1997)
+REFERENCE   PMID:12421825
+  AUTHORS   Razandi M, Pedram A, Park ST, Levin ER
+  TITLE     Proximal events in signaling by plasma membrane estrogen receptors.
+  JOURNAL   J Biol Chem 278:2701-12 (2003)
+REFERENCE   PMID:18755790
+  AUTHORS   Roepke TA, Xue C, Bosch MA, Scanlan TS, Kelly MJ, Ronnekleiv OK
+  TITLE     Genes associated with membrane-initiated signaling of estrogen and energy homeostasis.
+  JOURNAL   Endocrinology 149:6113-24 (2008)
+REFERENCE   PMID:21779010
+  AUTHORS   Thomas C, Gustafsson JA
+  TITLE     The different roles of ER subtypes in cancer biology and therapy.
+  JOURNAL   Nat Rev Cancer 11:597-608 (2011)
+KO_PATHWAY  ko04915
+///

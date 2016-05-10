@@ -1,0 +1,85 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07039
+server: Apache
+date: Wed, 15 Oct 2014 14:59:26 GMT
+content-type: text/plain
+
+ENTRY       map07039          Drug      Pathway
+NAME        Opioid analgesics
+PATHWAY_MAP map07039  Opioid analgesics
+COMPOUND    C06173  Thebaine
+            C11790  Phenazocine
+            C11791  Bremazocine
+            D00195  Codeine (USP)
+            D00320  Fentanyl (JAN/USAN/INN)
+            D00482  Propoxyphene hydrochloride (USP)
+            D00498  Pentazocine (JP16/USP/INN)
+            D00835  Alfentanil hydrochloride (USP)
+            D00836  Buprenorphine hydrochloride (JP16/USP)
+            D00837  Butorphanol tartrate (JAN/USP)
+            D00839  Hydromorphone hydrochloride (USP)
+            D00840  Levomethadyl acetate hydrochloride (USAN)
+            D00841  Levorphanol tartrate (USP)
+            D00842  Morphine sulfate hydrate (JP16)
+            D00843  Nalbuphine hydrochloride (USAN)
+            D00844  Oxymorphone hydrochloride (USP)
+            D00845  Sufentanil citrate (USP)
+            D00847  Oxycodone hydrochloride (USP)
+            D01340  Naloxone hydrochloride (JP16/USP)
+            D01383  Pethidine hydrochloride (JP16)
+            D01399  Fentanyl citrate (JP16/USP)
+            D02095  Naltrexone hydrochloride (USP)
+            D02101  Codeine phosphate hydrate (JP16)
+            D02102  Methadone hydrochloride (JAN/USP)
+            D02111  Pentazocine lactate (USP)
+            D02227  Pentazocine hydrochloride (JAN/USP)
+            D02238  Levallorphan tartrate (JP16)
+            D02271  Morphine hydrochloride hydrate (JP16)
+            D03197  Butorphanol (USAN/INN)
+            D03580  Codeine sulfate (USP)
+            D03725  Hydrocodone bitartrate (USP)
+            D03783  Oxycodone terephthalate (USP)
+            D04716  Levomethadyl acetate (USAN)
+            D05113  Naltrexone (USAN/INN)
+            D05312  Oxycodone (USAN/INN)
+            D05462  Oxycodone hydrochloride hydrate (JP16)
+            D05632  Propoxyphene napsylate (USAN)
+            D05938  Sufentanil (USAN/INN)
+            D06268  Trimeperidine (INN)
+            D07122  Alfentanil (INN)
+            D07132  Buprenorphine (JAN/INN)
+            D07286  Diamorphine (BAN)
+            D07740  Codeine hydrochloride
+            D07809  Dextropropoxyphene (INN)
+            D07810  Diacetylmorphine hydrochloride
+            D07863  Diprenorphine (INN)
+            D07864  Diprenorphine hydrochloride
+            D08045  Hydrocodone (INN)
+            D08046  Hydrocodone hydrochloride
+            D08047  Hydromorphone (INN)
+            D08123  Levorphanol (INN)
+            D08195  Methadone (BAN)
+            D08233  Morphine (BAN)
+            D08246  Nalbuphine (INN)
+            D08247  Nalorphine (INN)
+            D08248  Nalorphine hydrochloride (USP)
+            D08249  Naloxone (INN)
+            D08323  Oxymorphone (INN)
+            D08343  Pethidine (INN)
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   PMID:8390660
+  AUTHORS   Brownstein MJ.
+  TITLE     A brief history of opiates, opioid peptides, and opioid receptors.
+  JOURNAL   Proc Natl Acad Sci U S A 90:5391-3 (1993)
+///

@@ -1,0 +1,130 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04150
+server: Apache
+date: Wed, 15 Oct 2014 15:08:44 GMT
+content-type: text/plain
+
+ENTRY       map04150                    Pathway
+NAME        mTOR signaling pathway
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04150  mTOR signaling pathway
+DISEASE     H00539  PTEN hamartoma tumor syndrome (PHTS)
+            H00666  Peutz-Jeghers syndrome
+            H00896  Lymphangioleiomyomatosis (LAM)
+            H00915  Tuberous sclerosis complex (TSC)
+            H01112  Polyhydramnios, megalencephaly, and symptomatic epilepsy
+            H01251  Focal cortical dysplasia of Taylor
+REFERENCE   PMID:15624019
+  AUTHORS   Inoki K, Corradetti MN, Guan KL.
+  TITLE     Dysregulation of the TSC-mTOR pathway in human disease.
+  JOURNAL   Nat Genet 37:19-24 (2005)
+REFERENCE   PMID:16404421
+  AUTHORS   Petroulakis E, Mamane Y, Le Bacquer O, Shahbazian D, Sonenberg N.
+  TITLE     mTOR signaling: implications for cancer and anticancer therapy.
+  JOURNAL   Br J Cancer 94:195-9 (2006)
+REFERENCE   PMID:16226444
+  AUTHORS   Sarbassov dos D, Ali SM, Sabatini DM.
+  TITLE     Growing roles for the mTOR pathway.
+  JOURNAL   Curr Opin Cell Biol 17:596-603 (2005)
+REFERENCE   PMID:16469695
+  AUTHORS   Wullschleger S, Loewith R, Hall MN.
+  TITLE     TOR signaling in growth and metabolism.
+  JOURNAL   Cell 124:471-84 (2006)
+REFERENCE   PMID:16288290
+  AUTHORS   Plas DR, Thompson CB.
+  TITLE     Akt-dependent transformation: there is more to growth than just surviving.
+  JOURNAL   Oncogene 24:7435-42 (2005)
+REFERENCE   PMID:16452501
+  AUTHORS   Levine AJ, Feng Z, Mak TW, You H, Jin S
+  TITLE     Coordination and communication between the p53 and IGF-1-AKT-TOR signal transduction pathways.
+  JOURNAL   Genes Dev 20:267-75 (2006)
+REFERENCE   PMID:15509864
+  AUTHORS   Hardie DG.
+  TITLE     The AMP-activated protein kinase pathway--new players upstream and downstream.
+  JOURNAL   J Cell Sci 117:5479-87 (2004)
+REFERENCE   PMID:15780593
+  AUTHORS   Hardie DG.
+  TITLE     New roles for the LKB1--&gt;AMPK pathway.
+  JOURNAL   Curr Opin Cell Biol 17:167-73 (2005)
+REFERENCE   PMID:16288294
+  AUTHORS   Astrinidis A, Henske EP.
+  TITLE     Tuberous sclerosis complex: linking growth and energy signaling pathways with human disease.
+  JOURNAL   Oncogene 24:7475-81 (2005)
+REFERENCE   PMID:15928081
+  AUTHORS   Feng Z, Zhang H, Levine AJ, Jin S.
+  TITLE     The coordinate regulation of the p53 and mTOR pathways in cells.
+  JOURNAL   Proc Natl Acad Sci U S A 102:8204-9 (2005)
+REFERENCE   PMID:16288292
+  AUTHORS   Altomare DA, Testa JR.
+  TITLE     Perturbations of the AKT signaling pathway in human cancer.
+  JOURNAL   Oncogene 24:7455-64 (2005)
+REFERENCE   PMID:16244323
+  AUTHORS   Kwiatkowski DJ, Manning BD.
+  TITLE     Tuberous sclerosis: a GAP at the crossroads of multiple signaling pathways.
+  JOURNAL   Hum Mol Genet 14 Spec No. 2:R251-8 (2005)
+REFERENCE   PMID:16002336
+  AUTHORS   Guertin DA, Sabatini DM.
+  TITLE     An expanding role for mTOR in cancer.
+  JOURNAL   Trends Mol Med 11:353-61 (2005)
+REFERENCE   PMID:14684182
+  AUTHORS   Tokunaga C, Yoshino K, Yonezawa K.
+  TITLE     mTOR integrates amino acid- and energy-sensing pathways.
+  JOURNAL   Biochem Biophys Res Commun 313:443-6 (2004)
+REFERENCE   PMID:16341064
+  AUTHORS   Hennessy BT, Smith DL, Ram PT, Lu Y, Mills GB.
+  TITLE     Exploiting the PI3K/AKT pathway for cancer drug discovery.
+  JOURNAL   Nat Rev Drug Discov 4:988-1004 (2005)
+REFERENCE   PMID:15681023
+  AUTHORS   Luo Z, Saha AK, Xiang X, Ruderman NB.
+  TITLE     AMPK, the metabolic syndrome and cancer.
+  JOURNAL   Trends Pharmacol Sci 26:69-76 (2005)
+REFERENCE   PMID:15659337
+  AUTHORS   Tee AR, Blenis J.
+  TITLE     mTOR, translational control and human disease.
+  JOURNAL   Semin Cell Dev Biol 16:29-37 (2005)
+REFERENCE   PMID:15276465
+  AUTHORS   Proud CG.
+  TITLE     Ras, PI3-kinase and mTOR signaling in cardiac hypertrophy.
+  JOURNAL   Cardiovasc Res 63:403-13 (2004)
+REFERENCE   PMID:15988001
+  AUTHORS   Sofer A, Lei K, Johannessen CM, Ellisen LW.
+  TITLE     Regulation of mTOR and cell growth in response to energy stress by REDD1.
+  JOURNAL   Mol Cell Biol 25:5834-45 (2005)
+REFERENCE   PMID:16099218
+  AUTHORS   Deretic V.
+  TITLE     Autophagy in innate and adaptive immunity.
+  JOURNAL   Trends Immunol 26:523-8 (2005)
+REFERENCE   PMID:15928708
+  AUTHORS   Lum JJ, DeBerardinis RJ, Thompson CB.
+  TITLE     Autophagy in metazoans: cell survival in the land of plenty.
+  JOURNAL   Nat Rev Mol Cell Biol 6:439-48 (2005)
+REFERENCE   PMID:15261137
+  AUTHORS   Brugarolas J, Kaelin WG Jr.
+  TITLE     Dysregulation of HIF and VEGF is a unifying feature of the familial hamartoma syndromes.
+  JOURNAL   Cancer Cell 6:7-10 (2004)
+REFERENCE   PMID:16109716
+  AUTHORS   Hui L, Rodrik V, Pielak RM, Knirr S, Zheng Y, Foster DA.
+  TITLE     mTOR-dependent suppression of protein phosphatase 2A is critical for phospholipase D survival signals in human breast cancer cells.
+  JOURNAL   J Biol Chem 280:35829-35 (2005)
+REFERENCE   PMID:19100909
+  AUTHORS   Hall MN
+  TITLE     mTOR-what does it do?
+  JOURNAL   Transplant Proc 40:S5-8 (2008)
+REFERENCE   PMID:18598780
+  AUTHORS   Rosner M, Hanneder M, Siegel N, Valli A, Fuchs C, Hengstschlager M
+  TITLE     The mTOR pathway and its role in human genetic diseases.
+  JOURNAL   Mutat Res 659:284-92 (2008)
+REFERENCE   PMID:18604198
+  AUTHORS   Kim E, Goraksha-Hicks P, Li L, Neufeld TP, Guan KL
+  TITLE     Regulation of TORC1 by Rag GTPases in nutrient response.
+  JOURNAL   Nat Cell Biol 10:935-45 (2008)
+REFERENCE   PMID:18497260
+  AUTHORS   Sancak Y, Peterson TR, Shaul YD, Lindquist RA, Thoreen CC, Bar-Peled L, Sabatini DM
+  TITLE     The Rag GTPases bind raptor and mediate amino acid signaling to mTORC1.
+  JOURNAL   Science 320:1496-501 (2008)
+REFERENCE   PMID:19963289
+  AUTHORS   Hoeffer CA, Klann E
+  TITLE     mTOR signaling: at the crossroads of plasticity, memory and disease.
+  JOURNAL   Trends Neurosci 33:67-75 (2010)
+KO_PATHWAY  ko04150
+///

@@ -1,0 +1,107 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05132
+server: Apache
+date: Wed, 15 Oct 2014 15:09:21 GMT
+content-type: text/plain
+
+ENTRY       map05132                    Pathway
+NAME        Salmonella infection
+DESCRIPTION Salmonella infection usually presents as a self-limiting gastroenteritis or the more severe typhoid fever and bacteremia. The common disease-causing Salmonella species in human is a single species, Salmonella enterica, which has numerous serovars.
+            Following intestinal colonization Salmonella inject effector proteins into the host cells using a type III secretion system (T3SS), T3SS1. Then a small group of effector proteins induce rearrangement of the actin cytoskeleton resulting in membrane ruffles and rapid internalization of the bacteria.The T3SS2 is responsible for translocating effector proteins that direct Salmonella-containing vacuole (SCV) maturation. The majority of the bacteria are known to survive and replicate in SCV.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05132  Salmonella infection
+DISEASE     H00111  Typhoid fever
+REFERENCE   PMID:20526845
+  AUTHORS   Trebichavsky I, Splichal I, Splichalova A
+  TITLE     Innate immune response in the gut against Salmonella - review.
+  JOURNAL   Folia Microbiol (Praha) 55:295-300 (2010)
+REFERENCE   PMID:19930040
+  AUTHORS   Talbot S, Totemeyer S, Yamamoto M, Akira S, Hughes K, Gray D, Barr T, Mastroeni P, Maskell DJ, Bryant CE
+  TITLE     Toll-like receptor 4 signalling through MyD88 is essential to control Salmonella  enterica serovar typhimurium infection, but not for the initiation of bacterial clearance.
+  JOURNAL   Immunology 128:472-83 (2009)
+REFERENCE   PMID:19775254
+  AUTHORS   Ibarra JA, Steele-Mortimer O
+  TITLE     Salmonella--the ultimate insider. Salmonella virulence factors that modulate intracellular survival.
+  JOURNAL   Cell Microbiol 11:1579-86 (2009)
+REFERENCE   PMID:11489966
+  AUTHORS   Gewirtz AT, Navas TA, Lyons S, Godowski PJ, Madara JL
+  TITLE     Cutting edge: bacterial flagellin activates basolaterally expressed TLR5 to induce epithelial proinflammatory gene expression.
+  JOURNAL   J Immunol 167:1882-5 (2001)
+REFERENCE   PMID:17071592
+  AUTHORS   Vijay-Kumar M, Wu H, Jones R, Grant G, Babbin B, King TP, Kelly D, Gewirtz AT, Neish AS
+  TITLE     Flagellin suppresses epithelial apoptosis and limits disease during enteric infection.
+  JOURNAL   Am J Pathol 169:1686-700 (2006)
+REFERENCE   PMID:17690885
+  AUTHORS   Miao EA, Andersen-Nissen E, Warren SE, Aderem A
+  TITLE     TLR5 and Ipaf: dual sensors of bacterial flagellin in the innate immune system.
+  JOURNAL   Semin Immunopathol 29:275-88 (2007)
+REFERENCE   PMID:20158475
+  AUTHORS   Bueno SM, Riedel CA, Carreno LJ, Kalergis AM
+  TITLE     Virulence mechanisms displayed by Salmonella to impair dendritic cell function.
+  JOURNAL   Curr Med Chem 17:1156-66 (2010)
+REFERENCE   PMID:18026123
+  AUTHORS   Haraga A, Ohlson MB, Miller SI
+  TITLE     Salmonellae interplay with host cells.
+  JOURNAL   Nat Rev Microbiol 6:53-66 (2008)
+REFERENCE   PMID:11825778
+  AUTHORS   Kimbrough TG, Miller SI
+  TITLE     Assembly of the type III secretion needle complex of Salmonella typhimurium.
+  JOURNAL   Microbes Infect 4:75-82 (2002)
+REFERENCE   PMID:17074883
+  AUTHORS   Patel JC, Galan JE
+  TITLE     Differential activation and function of Rho GTPases during Salmonella-host cell interactions.
+  JOURNAL   J Cell Biol 175:453-63 (2006)
+REFERENCE   PMID:20123714
+  AUTHORS   Bulgin R, Raymond B, Garnett JA, Frankel G, Crepin VF, Berger CN, Arbeloa A
+  TITLE     Bacterial guanine nucleotide exchange factors SopE-like and WxxxE effectors.
+  JOURNAL   Infect Immun 78:1417-25 (2010)
+REFERENCE   PMID:18778407
+  AUTHORS   Bakowski MA, Braun V, Brumell JH
+  TITLE     Salmonella-containing vacuoles: directing traffic and nesting to grow.
+  JOURNAL   Traffic 9:2022-31 (2008)
+REFERENCE   PMID:18411289
+  AUTHORS   Wasylnka JA, Bakowski MA, Szeto J, Ohlson MB, Trimble WS, Miller SI, Brumell JH
+  TITLE     Role for myosin II in regulating positioning of Salmonella-containing vacuoles and intracellular replication.
+  JOURNAL   Infect Immun 76:2722-35 (2008)
+REFERENCE   PMID:11567004
+  AUTHORS   Nikolaus T, Deiwick J, Rappl C, Freeman JA, Schroder W, Miller SI, Hensel M
+  TITLE     SseBCD proteins are secreted by the type III secretion system of Salmonella pathogenicity island 2 and function as a translocon.
+  JOURNAL   J Bacteriol 183:6036-45 (2001)
+REFERENCE   PMID:11755407
+  AUTHORS   Eckmann L, Kagnoff MF
+  TITLE     Cytokines in host defense against Salmonella.
+  JOURNAL   Microbes Infect 3:1191-200 (2001)
+REFERENCE   PMID:10499590
+  AUTHORS   Fu Y, Galan JE
+  TITLE     A salmonella protein antagonizes Rac-1 and Cdc42 to mediate host-cell recovery after bacterial invasion.
+  JOURNAL   Nature 401:293-7 (1999)
+REFERENCE   PMID:19779561
+  AUTHORS   Du F, Galan JE
+  TITLE     Selective inhibition of type III secretion activated signaling by the Salmonella  effector AvrA.
+  JOURNAL   PLoS Pathog 5:e1000595 (2009)
+REFERENCE   PMID:18407067
+  AUTHORS   Jones RM, Wu H, Wentworth C, Luo L, Collier-Hyams L, Neish AS
+  TITLE     Salmonella AvrA Coordinates Suppression of Host Immune and Apoptotic Defenses via JNK Pathway Blockade.
+  JOURNAL   Cell Host Microbe 3:233-44 (2008)
+REFERENCE   PMID:16611232
+  AUTHORS   Haraga A, Miller SI
+  TITLE     A Salmonella type III secretion effector interacts with the mammalian serine/threonine protein kinase PKN1.
+  JOURNAL   Cell Microbiol 8:837-46 (2006)
+REFERENCE   PMID:16800847
+  AUTHORS   Abrahams GL, Muller P, Hensel M
+  TITLE     Functional dissection of SseF, a type III effector protein involved in positioning the salmonella-containing vacuole.
+  JOURNAL   Traffic 7:950-65 (2006)
+REFERENCE   PMID:16938850
+  AUTHORS   Henry T, Couillault C, Rockenfeller P, Boucrot E, Dumont A, Schroeder N, Hermant A, Knodler LA, Lecine P, Steele-Mortimer O, Borg JP, Gorvel JP, Meresse S
+  TITLE     The Salmonella effector protein PipB2 is a linker for kinesin-1.
+  JOURNAL   Proc Natl Acad Sci U S A 103:13497-502 (2006)
+REFERENCE   PMID:12675800
+  AUTHORS   Miao EA, Brittnacher M, Haraga A, Jeng RL, Welch MD, Miller SI
+  TITLE     Salmonella effectors translocated across the vacuolar membrane interact with the  actin cytoskeleton.
+  JOURNAL   Mol Microbiol 48:401-15 (2003)
+REFERENCE   PMID:20943123
+  AUTHORS   Prior K, Hautefort I, Hinton JC, Richardson DJ, Rowley G
+  TITLE     All stressed out. Salmonella pathogenesis and reactive nitrogen species.
+  JOURNAL   Adv Microb Physiol 56:1-28 (2009)
+KO_PATHWAY  ko05132
+///

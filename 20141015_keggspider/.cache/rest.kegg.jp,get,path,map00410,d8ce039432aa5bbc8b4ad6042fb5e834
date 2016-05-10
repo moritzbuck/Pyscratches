@@ -1,0 +1,16 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00410
+server: Apache
+date: Wed, 15 Oct 2014 14:57:22 GMT
+content-type: text/plain
+
+ENTRY       map00410                    Pathway
+NAME        beta-Alanine metabolism
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP map00410  beta-Alanine metabolism
+DISEASE     H00597  Snyder-Robinson syndrome
+            H01097  Cerebral palsy
+            H01283  Malonyl-CoA decarboxylase deficiency
+DBLINKS     GO: 0019482
+KO_PATHWAY  ko00410
+///

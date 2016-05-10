@@ -1,0 +1,80 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04260
+server: Apache
+date: Wed, 15 Oct 2014 14:58:24 GMT
+content-type: text/plain
+
+ENTRY       map04260                    Pathway
+NAME        Cardiac muscle contraction
+DESCRIPTION Contraction of the heart is a complex process initiated by the electrical excitation of cardiac myocytes (excitation-contraction coupling, ECC). In cardiac myocytes, Ca2+ influx induced by activation of voltage-dependent L-type Ca channels (DHP receptors) upon membrane depolarization triggers the release of Ca2+ via Ca2+ release channels (ryanodine receptors) of sarcoplasmic reticulum (SR) through a Ca2+ -induced Ca release (CICR) mechanism. Ca2+ ions released via the CICR mechanism diffuse through the cytosolic space to contractile proteins to bind to troponinC resulting in the release of inhibition induced by troponinI. The Ca2+ binding to troponinC thereby triggers the sliding of thin and thick filaments, that is, the activation of a crossbridge and subsequent cardiac force development and/or cell shortening. Recovery occurs as Ca2+ is pumped out of the cell by the Na+/Ca2+ exchanger (NCX) or is returned to the sarcoplasmic reticulum (SR) by sarco(endo)plasmic Ca2+ -ATPase (SERCA) pumps on the non-junctional region of the SR.
+CLASS       Organismal Systems; Circulatory system
+PATHWAY_MAP map04260  Cardiac muscle contraction
+DISEASE     H00594  Distal muscular dystrophies
+            H00656  Scapuloperoneal myopathy (SPM)
+            H00698  Nemaline myopathy
+            H00701  Congenital fiber type disproportion (CFTD)
+            H00702  Cap myopathy
+            H00703  Myosin storage myopathy (MSM)
+            H00728  Brugada syndrome (BRS)
+            H00746  Hypokalemic periodic paralysis (HypoPP)
+            H00749  Episodic ataxias
+            H00775  Familial or sporadic hemiplegic migraine
+            H00808  Idiopathic generalized epilepsies (IGEs)
+            H00811  Distal arthrogryposis (DA)
+            H00831  Primary dystonia
+            H01019  Catecholaminergic polymorphic ventricular tachycardia
+            H01216  Left ventricular noncompaction (LVNC)
+            H01219  Restrictive cardiomyopathy (RCM)
+            H01355  Kearns-Sayre Syndrome
+            H01368  Cytochrome c oxidase (COX) deficiency
+DBLINKS     GO: 0060048
+REFERENCE   PMID:17988210
+  AUTHORS   Bers DM
+  TITLE     Calcium cycling and signaling in cardiac myocytes.
+  JOURNAL   Annu Rev Physiol 70:23-49 (2008)
+REFERENCE   PMID:11805843
+  AUTHORS   Bers DM
+  TITLE     Cardiac excitation-contraction coupling.
+  JOURNAL   Nature 415:198-205 (2002)
+REFERENCE   PMID:16799263
+  AUTHORS   Endoh M
+  TITLE     Signal transduction and Ca2+ signaling in intact myocardium.
+  JOURNAL   J Pharmacol Sci 100:525-37 (2006)
+REFERENCE   PMID:18981594
+  AUTHORS   Endoh M
+  TITLE     Cardiac Ca2+ signaling and Ca2+ sensitizers.
+  JOURNAL   Circ J 72:1915-25 (2008)
+REFERENCE   PMID:16552170
+  AUTHORS   Bers DM, Despa S
+  TITLE     Cardiac myocytes Ca2+ and Na+ regulation in normal and failing hearts.
+  JOURNAL   J Pharmacol Sci 100:315-22 (2006)
+REFERENCE   PMID:10747208
+  AUTHORS   Gordon AM, Homsher E, Regnier M
+  TITLE     Regulation of contraction in striated muscle.
+  JOURNAL   Physiol Rev 80:853-924 (2000)
+REFERENCE   PMID:16701909
+  AUTHORS   Phrommintikul A, Chattipakorn N
+  TITLE     Roles of cardiac ryanodine receptor in heart failure and sudden cardiac death.
+  JOURNAL   Int J Cardiol 112:142-52 (2006)
+REFERENCE   PMID:16096350
+  AUTHORS   Lacinova L
+  TITLE     Voltage-dependent calcium channels.
+  JOURNAL   Gen Physiol Biophys 24 Suppl 1:1-78 (2005)
+REFERENCE   PMID:12763850
+  AUTHORS   Lingrel J, Moseley A, Dostanic I, Cougnon M, He S, James P, Woo A, O'Connor K, Neumann J
+  TITLE     Functional roles of the alpha isoforms of the Na,K-ATPase.
+  JOURNAL   Ann N Y Acad Sci 986:354-9 (2003)
+REFERENCE   PMID:11294886
+  AUTHORS   Berg JS, Powell BC, Cheney RE
+  TITLE     A millennial myosin census.
+  JOURNAL   Mol Biol Cell 12:780-94 (2001)
+REFERENCE   PMID:15736582
+  AUTHORS   Parmacek MS, Solaro RJ
+  TITLE     Biology of the troponin complex in cardiac myocytes.
+  JOURNAL   Prog Cardiovasc Dis 47:159-76 (2004)
+REFERENCE   PMID:14659803
+  AUTHORS   Yamashita H, Sugiura S, Fujita H, Yasuda S, Nagai R, Saeki Y, Sunagawa K, Sugi H
+  TITLE     Myosin light chain isoforms modify force-generating ability of cardiac myosin by changing the kinetics of actin-myosin interaction.
+  JOURNAL   Cardiovasc Res 60:580-8 (2003)
+KO_PATHWAY  ko04260
+///

@@ -1,0 +1,79 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00982
+server: Apache
+date: Wed, 15 Oct 2014 15:08:16 GMT
+content-type: text/plain
+
+ENTRY       map00982                    Pathway
+NAME        Drug metabolism - cytochrome P450
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00982  Drug metabolism - cytochrome P450
+DISEASE     H01171  Poor drug metabolism (PM)
+            H01205  Coumarin resistance
+            H01234  Trimethylaminuria (TMAU)
+REFERENCE   
+  AUTHORS   Kato R, Kamatari T (eds).
+  TITLE     [Drug Metabolism] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (2000)
+REFERENCE   PMID:16038189
+  AUTHORS   Gjerde J, Kisanga ER, Hauglid M, Holm PI, Mellgren G, Lien EA.
+  TITLE     Identification and quantification of tamoxifen and four metabolites in serum by liquid chromatography-tandem mass spectrometry.
+  JOURNAL   J Chromatogr A 1082:6-14 (2005)
+REFERENCE   PMID:18043895
+  AUTHORS   Buck MB, Coller JK, Murdter TE, Eichelbaum M, Knabbe C.
+  TITLE     TGFbeta2 and TbetaRII are valid molecular biomarkers for the antiproliferative effects of tamoxifen and tamoxifen metabolites in breast cancer cells.
+  JOURNAL   Breast Cancer Res Treat 107:15-24 (2008)
+REFERENCE   PMID:16550168
+  AUTHORS   Rodriguez-Antona C, Ingelman-Sundberg M.
+  TITLE     Cytochrome P450 pharmacogenetics and cancer.
+  JOURNAL   Oncogene 25:1679-91 (2006)
+REFERENCE   PMID:16393888
+  AUTHORS   Zhang J, Tian Q, Yung Chan S, Chuen Li S, Zhou S, Duan W, Zhu YZ.
+  TITLE     Metabolism and transport of oxazaphosphorines and the clinical implications.
+  JOURNAL   Drug Metab Rev 37:611-703 (2005)
+REFERENCE   PMID:11226815
+  AUTHORS   Kosel M, Amey M, Aubert AC, Baumann P.
+  TITLE     In vitro metabolism of citalopram by monoamine oxidase B in human blood.
+  JOURNAL   Eur Neuropsychopharmacol 11:75-8 (2001)
+REFERENCE   PMID:10575324
+  AUTHORS   Olesen OV, Linnet K.
+  TITLE     Studies on the stereoselective metabolism of citalopram by human liver microsomes and cDNA-expressed cytochrome P450 enzymes.
+  JOURNAL   Pharmacology 59:298-309 (1999)
+REFERENCE   PMID:9698084
+  AUTHORS   Rochat B, Kosel M, Boss G, Testa B, Gillet M, Baumann P.
+  TITLE     Stereoselective biotransformation of the selective serotonin reuptake inhibitor citalopram and its demethylated metabolites by monoamine oxidases in human liver.
+  JOURNAL   Biochem Pharmacol 56:15-23 (1998)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   PMID:11504799
+  AUTHORS   Oda Y, Kharasch ED.
+  TITLE     Metabolism of methadone and levo-alpha-acetylmethadol (LAAM) by human intestinal cytochrome P450 3A4 (CYP3A4): potential contribution of intestinal metabolism to presystemic clearance and bioactivation.
+  JOURNAL   J Pharmacol Exp Ther 298:1021-32 (2001)
+REFERENCE   PMID:10901707
+  AUTHORS   Wang JS, Backman JT, Taavitsainen P, Neuvonen PJ, Kivisto KT.
+  TITLE     Involvement of CYP1A2 and CYP3A4 in lidocaine N-deethylation and 3-hydroxylation in humans.
+  JOURNAL   Drug Metab Dispos 28:959-65 (2000)
+REFERENCE   PMID:12399158
+  AUTHORS   Dieckhaus CM, Thompson CD, Roller SG, Macdonald TL.
+  TITLE     Mechanisms of idiosyncratic drug reactions: the case of felbamate.
+  JOURNAL   Chem Biol Interact 142:99-117 (2002)
+REFERENCE   PMID:18463198
+  AUTHORS   Pearce RE, Lu W, Wang Y, Uetrecht JP, Correia MA, Leeder JS
+  TITLE     Pathways of carbamazepine bioactivation in vitro. III. The role of human cytochrome P450 enzymes in the formation of 2,3-dihydroxycarbamazepine.
+  JOURNAL   Drug Metab Dispos 36:1637-49 (2008)
+REFERENCE   PMID:12386121
+  AUTHORS   Pearce RE, Vakkalagadda GR, Leeder JS.
+  TITLE     Pathways of carbamazepine bioactivation in vitro I. Characterization of human cytochromes P450 responsible for the formation of 2- and 3-hydroxylated metabolites.
+  JOURNAL   Drug Metab Dispos 30:1170-9 (2002)
+REFERENCE   PMID:10859160
+  AUTHORS   Kumar S, Wong H, Yeung SA, Riggs KW, Abbott FS, Rurak DW.
+  TITLE     Disposition of valproic acid in maternal, fetal, and newborn sheep. II: metabolism and renal elimination.
+  JOURNAL   Drug Metab Dispos 28:857-64 (2000)
+REFERENCE   
+  AUTHORS   Bernad T, Joachim M.
+  TITLE     Hydrolysis in Drug and Prodrug Metabolism: Chemistry, Biochemistry, and Enzymology
+  JOURNAL   Wiley-VCH (2003)
+KO_PATHWAY  ko00982
+///

@@ -1,0 +1,16 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00072
+server: Apache
+date: Wed, 15 Oct 2014 14:57:07 GMT
+content-type: text/plain
+
+ENTRY       map00072                    Pathway
+NAME        Synthesis and degradation of ketone bodies
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00072  Synthesis and degradation of ketone bodies
+MODULE      M00088  Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone [PATH:map00072]
+DISEASE     H01076  Alpha-methylacetoacetic aciduria
+            H01121  Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency
+            H01123  HMG-CoA synthase (HMGCS) deficiency
+KO_PATHWAY  ko00072
+///

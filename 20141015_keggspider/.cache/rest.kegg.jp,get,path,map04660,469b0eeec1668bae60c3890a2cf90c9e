@@ -1,0 +1,107 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04660
+server: Apache
+date: Wed, 15 Oct 2014 14:58:35 GMT
+content-type: text/plain
+
+ENTRY       map04660                    Pathway
+NAME        T cell receptor signaling pathway
+DESCRIPTION Activation of T lymphocytes is a key event for an efficient response of the immune system. It requires the involvement of the T-cell receptor (TCR) as well as costimulatory molecules such as CD28. Engagement of these receptors through the interaction with a foreign antigen associated with major histocompatibility complex molecules and CD28 counter-receptors B7.1/B7.2, respectively, results in a series of signaling cascades. These cascades comprise an array of protein-tyrosine kinases, phosphatases, GTP-binding proteins and adaptor proteins that regulate generic and specialised functions, leading to T-cell proliferation, cytokine production and differentiation into effector cells.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04660  T cell receptor signaling pathway
+DISEASE     H00408  Type I diabetes mellitus
+            H00540  Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID)
+            H00645  Incontinentia pigmenti
+            H00882  Cocoon syndrome
+            H01387  Activated PI3K-delta syndrome (APDS)
+DBLINKS     GO: 0050852
+REFERENCE   PMID:15122199
+  AUTHORS   Chen L.
+  TITLE     Co-inhibitory molecules of the B7-CD28 family in the control of T-cell immunity.
+  JOURNAL   Nat Rev Immunol 4:336-47 (2004)
+REFERENCE   PMID:15928679
+  AUTHORS   Macian F.
+  TITLE     NFAT proteins: key regulators of T-cell development and function.
+  JOURNAL   Nat Rev Immunol 5:472-84 (2005)
+REFERENCE   PMID:15771581
+  AUTHORS   Berg LJ, Finkelstein LD, Lucas JA, Schwartzberg PL.
+  TITLE     Tec family kinases in T lymphocyte development and function.
+  JOURNAL   Annu Rev Immunol 23:549-600 (2005)
+REFERENCE   PMID:15084594
+  AUTHORS   Huang Y, Wange RL.
+  TITLE     T cell receptor signaling: beyond complex complexes.
+  JOURNAL   J Biol Chem 279:28827-30 (2004)
+REFERENCE   PMID:14656980
+  AUTHORS   Schmitz ML, Bacher S, Dienz O.
+  TITLE     NF-kappaB activation pathways induced by T cell costimulation.
+  JOURNAL   FASEB J 17:2187-93 (2003)
+REFERENCE   PMID:11905831
+  AUTHORS   Alegre ML, Frauwirth KA, Thompson CB.
+  TITLE     T-cell regulation by CD28 and CTLA-4.
+  JOURNAL   Nat Rev Immunol 1:220-8 (2001)
+REFERENCE   PMID:15286727
+  AUTHORS   Horejsi V, Zhang W, Schraven B.
+  TITLE     Transmembrane adaptor proteins: organizers of immunoreceptor signalling.
+  JOURNAL   Nat Rev Immunol 4:603-16 (2004)
+REFERENCE   PMID:15343367
+  AUTHORS   Baniyash M.
+  TITLE     TCR zeta-chain downregulation: curtailing an excessive inflammatory immune response.
+  JOURNAL   Nat Rev Immunol 4:675-87 (2004)
+REFERENCE   PMID:15099566
+  AUTHORS   Sechi AS, Wehland J.
+  TITLE     Interplay between TCR signalling and actin cytoskeleton dynamics.
+  JOURNAL   Trends Immunol 25:257-65 (2004)
+REFERENCE   PMID:12669022
+  AUTHORS   Okkenhaug K, Vanhaesebroeck B.
+  TITLE     PI3K in lymphocyte development, differentiation and activation.
+  JOURNAL   Nat Rev Immunol 3:317-30 (2003)
+REFERENCE   PMID:15489916
+  AUTHORS   Palacios EH, Weiss A.
+  TITLE     Function of the Src-family kinases, Lck and Fyn, in T-cell development and activation.
+  JOURNAL   Oncogene 23:7990-8000 (2004)
+REFERENCE   PMID:12133805
+  AUTHORS   Kane LP, Lin J, Weiss A.
+  TITLE     It's all Rel-ative: NF-kappaB and CD28 costimulation of T-cell activation.
+  JOURNAL   Trends Immunol 23:413-20 (2002)
+REFERENCE   PMID:14647476
+  AUTHORS   Acuto O, Michel F.
+  TITLE     CD28-mediated co-stimulation: a quantitative support for TCR signalling.
+  JOURNAL   Nat Rev Immunol 3:939-51 (2003)
+REFERENCE   PMID:15308211
+  AUTHORS   Finkelstein LD, Schwartzberg PL.
+  TITLE     Tec kinases: shaping T-cell activation through actin.
+  JOURNAL   Trends Cell Biol 14:443-51 (2004)
+REFERENCE   PMID:15345216
+  AUTHORS   Duan L, Reddi AL, Ghosh A, Dimri M, Band H.
+  TITLE     The Cbl family and other ubiquitin ligases: destructive forces in control of antigen receptor signaling.
+  JOURNAL   Immunity 21:7-17 (2004)
+REFERENCE   PMID:14617194
+  AUTHORS   Schrum AG, Turka LA, Palmer E.
+  TITLE     Surface T-cell antigen receptor expression and availability for long-term antigenic signaling.
+  JOURNAL   Immunol Rev 196:7-24 (2003)
+REFERENCE   PMID:19132916
+  AUTHORS   Smith-Garvin JE, Koretzky GA, Jordan MS
+  TITLE     T Cell Activation.
+  JOURNAL   Annu Rev Immunol (2009)
+REFERENCE   PMID:12195013
+  AUTHORS   Diehn M, Alizadeh AA, Rando OJ, Liu CL, Stankunas K, Botstein D, Crabtree GR, Brown PO
+  TITLE     Genomic expression programs and the integration of the CD28 costimulatory signal in T cell activation.
+  JOURNAL   Proc Natl Acad Sci U S A 99:11796-801 (2002)
+REFERENCE   PMID:19290929
+  AUTHORS   Blonska M, Lin X
+  TITLE     CARMA1-mediated NF-kappaB and JNK activation in lymphocytes.
+  JOURNAL   Immunol Rev 228:199-211 (2009)
+REFERENCE   PMID:17395537
+  AUTHORS   Rebeaud F, Hailfinger S, Thome M
+  TITLE     Dlgh1 and Carma1 MAGUK proteins contribute to signal specificity downstream of TCR activation.
+  JOURNAL   Trends Immunol 28:196-200 (2007)
+REFERENCE   PMID:16799472
+  AUTHORS   Ashwell JD
+  TITLE     The many paths to p38 mitogen-activated protein kinase activation in the immune system.
+  JOURNAL   Nat Rev Immunol 6:532-40 (2006)
+REFERENCE   PMID:17187070
+  AUTHORS   Round JL, Humphries LA, Tomassian T, Mittelstadt P, Zhang M, Miceli MC
+  TITLE     Scaffold protein Dlgh1 coordinates alternative p38 kinase activation, directing T cell receptor signals toward NFAT but not NF-kappaB transcription factors.
+  JOURNAL   Nat Immunol 8:154-61 (2007)
+KO_PATHWAY  ko04660
+///

@@ -1,0 +1,137 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map03070
+server: Apache
+date: Wed, 15 Oct 2014 14:58:09 GMT
+content-type: text/plain
+
+ENTRY       map03070                    Pathway
+NAME        Bacterial secretion system
+DESCRIPTION Gram-negative bacteria secrete a wide range of proteins whose functions include biogenesis of organelles, such as pilli and flagella, nutrient acquisition, virulence, and efflux of drugs and other toxins. Six distinct secretion systems have been shown to mediate protein export through the inner and outer membranes of Gram-negative bacteria. These pathways are highly conserved throughout the Gram-negative bacterial species. In Gram-positive bacteria, secreted proteins are commonly translocated across the single membrane by the Sec pathway or the two-arginine (Tat) pathway.
+CLASS       Environmental Information Processing; Membrane transport
+PATHWAY_MAP map03070  Bacterial secretion system
+MODULE      M00325  alpha-Hemolysin/cyclolysin transport system [PATH:map03070]
+            M00331  Type II general secretion pathway [PATH:map03070]
+            M00332  Type III secretion system [PATH:map03070]
+            M00333  Type IV secretion system [PATH:map03070]
+            M00334  Type VI secretion system [PATH:map03070]
+            M00335  Sec (secretion) system [PATH:map03070]
+            M00336  Twin-arginine translocation (Tat) system [PATH:map03070]
+DBLINKS     GO: 0030253 0015628 0030254 0030255 0046819 0033103 0044098 0043952 0043953
+REFERENCE   PMID:11173102
+  AUTHORS   Kim JF.
+  TITLE     Revisiting the chlamydial type III protein secretion system: clues to the origin of type III protein secretion.
+  JOURNAL   Trends Genet 17:65-9 (2001)
+REFERENCE   PMID:11309112
+  AUTHORS   Plano GV, Day JB, Ferracci F.
+  TITLE     Type III export: new uses for an old pathway.
+  JOURNAL   Mol Microbiol 40:284-93 (2001)
+REFERENCE   PMID:11413015
+  AUTHORS   Gauthier A, Finlay BB.
+  TITLE     Bacterial pathogenesis: the answer to virulence is in the pore.
+  JOURNAL   Curr Biol 11:R264-7 (2001)
+REFERENCE   PMID:10047550
+  AUTHORS   Burns DL.
+  TITLE     Biochemistry of type IV secretion.
+  JOURNAL   Curr Opin Microbiol 2:25-9 (1999)
+REFERENCE   PMID:10920394
+  AUTHORS   Christie PJ, Vogel JP.
+  TITLE     Bacterial type IV secretion: conjugation systems adapted to deliver effector molecules to host cells.
+  JOURNAL   Trends Microbiol 8:354-60 (2000)
+REFERENCE   PMID:11309113
+  AUTHORS   Christie PJ.
+  TITLE     Type IV secretion: intercellular transfer of macromolecules by systems ancestrally related to conjugation machines.
+  JOURNAL   Mol Microbiol 40:294-305 (2001)
+REFERENCE   PMID:10481178
+  AUTHORS   Nunn D.
+  TITLE     Bacterial type II protein export and pilus biogenesis: more than just homologies?
+  JOURNAL   Trends Cell Biol 9:402-8 (1999)
+REFERENCE   PMID:11309111
+  AUTHORS   Sandkvist M.
+  TITLE     Biology of type II secretion.
+  JOURNAL   Mol Microbiol 40:271-83 (2001)
+REFERENCE   PMID:11349009
+  AUTHORS   Sandkvist M.
+  TITLE     Type II secretion and pathogenesis.
+  JOURNAL   Infect Immun 69:3523-35 (2001)
+REFERENCE   PMID:15546664
+  AUTHORS   Delepelaire P
+  TITLE     Type I secretion in gram-negative bacteria.
+  JOURNAL   Biochim Biophys Acta 1694:149-61 (2004)
+REFERENCE   PMID:18406342
+  AUTHORS   Hazes B, Frost L
+  TITLE     Towards a systems biology approach to study type II/IV secretion systems.
+  JOURNAL   Biochim Biophys Acta 1778:1839-50 (2008)
+REFERENCE   PMID:16448494
+  AUTHORS   Johnson TL, Abendroth J, Hol WG, Sandkvist M
+  TITLE     Type II secretion: from structure to function.
+  JOURNAL   FEMS Microbiol Lett 255:175-86 (2006)
+REFERENCE   PMID:15546665
+  AUTHORS   Filloux A
+  TITLE     The underlying mechanisms of type II protein secretion.
+  JOURNAL   Biochim Biophys Acta 1694:163-79 (2004)
+REFERENCE   PMID:19396170
+  AUTHORS   Spreter T, Yip CK, Sanowar S, Andre I, Kimbrough TG, Vuckovic M, Pfuetzner RA, Deng W, Yu AC, Finlay BB, Baker D, Miller SI, Strynadka NC
+  TITLE     A conserved structural motif mediates formation of the periplasmic rings in the type III secretion system.
+  JOURNAL   Nat Struct Mol Biol 16:468-76 (2009)
+REFERENCE   PMID:15590783
+  AUTHORS   Ghosh P
+  TITLE     Process of protein transport by the type III secretion system.
+  JOURNAL   Microbiol Mol Biol Rev 68:771-95 (2004)
+REFERENCE   PMID:12360191
+  AUTHORS   Cornelis GR
+  TITLE     The Yersinia Ysc-Yop 'type III' weaponry.
+  JOURNAL   Nat Rev Mol Cell Biol 3:742-52 (2002)
+REFERENCE   PMID:17215876
+  AUTHORS   Baron C
+  TITLE     VirB8: a conserved type IV secretion system assembly factor and drug target.
+  JOURNAL   Biochem Cell Biol 84:890-9 (2006)
+REFERENCE   PMID:17943123
+  AUTHORS   Kwok T, Zabler D, Urman S, Rohde M, Hartig R, Wessler S, Misselwitz R, Berger J, Sewald N, Konig W, Backert S
+  TITLE     Helicobacter exploits integrin for type IV secretion and kinase activation.
+  JOURNAL   Nature 449:862-6 (2007)
+REFERENCE   PMID:16092524
+  AUTHORS   Christie PJ, Cascales E
+  TITLE     Structural and dynamic properties of bacterial type IV secretion systems (review).
+  JOURNAL   Mol Membr Biol 22:51-61 (2005)
+REFERENCE   PMID:15546668
+  AUTHORS   Christie PJ
+  TITLE     Type IV secretion: the Agrobacterium VirB/D4 and related conjugation systems.
+  JOURNAL   Biochim Biophys Acta 1694:219-34 (2004)
+REFERENCE   PMID:15590781
+  AUTHORS   Henderson IR, Navarro-Garcia F, Desvaux M, Fernandez RC, Ala'Aldeen D
+  TITLE     Type V protein secretion pathway: the autotransporter story.
+  JOURNAL   Microbiol Mol Biol Rev 68:692-744 (2004)
+REFERENCE   PMID:9778731
+  AUTHORS   Henderson IR, Navarro-Garcia F, Nataro JP
+  TITLE     The great escape: structure and function of the autotransporter proteins.
+  JOURNAL   Trends Microbiol 6:370-8 (1998)
+REFERENCE   PMID:18524912
+  AUTHORS   Filloux A, Hachani A, Bleves S
+  TITLE     The bacterial type VI secretion machine: yet another player for protein transport across membranes.
+  JOURNAL   Microbiology 154:1570-83 (2008)
+REFERENCE   PMID:19251641
+  AUTHORS   Leiman PG, Basler M, Ramagopal UA, Bonanno JB, Sauder JM, Pukatzki S, Burley SK, Almo SC, Mekalanos JJ
+  TITLE     Type VI secretion apparatus and phage tail-associated protein complexes share a common evolutionary origin.
+  JOURNAL   Proc Natl Acad Sci U S A 106:4154-9 (2009)
+REFERENCE   PMID:17603507
+  AUTHORS   Kulasekara HD, Miller SI
+  TITLE     Threonine phosphorylation times bacterial secretion.
+  JOURNAL   Nat Cell Biol 9:734-6 (2007)
+REFERENCE   PMID:18078384
+  AUTHORS   Driessen AJ, Nouwen N
+  TITLE     Protein translocation across the bacterial cytoplasmic membrane.
+  JOURNAL   Annu Rev Biochem 77:643-67 (2008)
+REFERENCE   PMID:14641032
+  AUTHORS   Pool MR
+  TITLE     Getting to the membrane: how is co-translational protein targeting to the endoplasmic reticulum regulated?
+  JOURNAL   Biochem Soc Trans 31:1232-7 (2003)
+REFERENCE   PMID:19299134
+  AUTHORS   Desvaux M, Hebraud M, Talon R, Henderson IR
+  TITLE     Secretion and subcellular localizations of bacterial proteins: a semantic awareness issue.
+  JOURNAL   Trends Microbiol 17:139-45 (2009)
+REFERENCE   PMID:15063851
+  AUTHORS   Nakatogawa H, Murakami A, Ito K
+  TITLE     Control of SecA and SecM translation by protein secretion.
+  JOURNAL   Curr Opin Microbiol 7:145-50 (2004)
+KO_PATHWAY  ko03070
+///

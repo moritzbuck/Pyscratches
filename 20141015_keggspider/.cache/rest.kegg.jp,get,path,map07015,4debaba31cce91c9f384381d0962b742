@@ -1,0 +1,38 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07015
+server: Apache
+date: Wed, 15 Oct 2014 14:59:18 GMT
+content-type: text/plain
+
+ENTRY       map07015          Drug      Pathway
+NAME        Local analgesics
+PATHWAY_MAP map07015  Local analgesics
+COMPOUND    C14166  alpha-Eucaine
+            C14167  beta-Eucaine
+            C14168  3-(Dimethylamino)propyl benzoate
+            C14170  p-Aminosalicylic acid methyl ester
+            C14171  Orthoform
+            C14172  Hexylcaine
+            C14173  Piperocaine
+            D00110  Cocaine (USP)
+            D00551  Tetracaine (USP/INN)
+            D00552  Ethyl aminobenzoate (JP16)
+            D00740  Procaine hydrochloride (JP16/USP)
+            D00741  Tetracaine hydrochloride (JP16/USP)
+            D01768  Oxybuprocaine hydrochloride (JP16)
+            D02182  Cocaine hydrochloride (JP16/USP)
+            D02454  Hexylcaine hydrochloride
+            D02455  Piperocaine hydrochloride
+            D07454  Amylocaine (BAN)
+            D07572  Amylocaine hydrochloride
+            D08319  Oxybuprocaine (INN)
+            D08422  Procaine (INN)
+REFERENCE   (Japanese)
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   PMID:11895133
+  AUTHORS   Ruetsch YA, Boni T, Borgeat A.
+  TITLE     From cocaine to ropivacaine: the history of local anesthetic drugs.
+  JOURNAL   Curr Top Med Chem 1:175-82 (2001)
+///

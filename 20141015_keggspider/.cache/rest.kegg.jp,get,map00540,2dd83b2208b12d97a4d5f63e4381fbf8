@@ -1,0 +1,33 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00540
+server: Apache
+date: Wed, 15 Oct 2014 15:07:53 GMT
+content-type: text/plain
+
+ENTRY       map00540                    Pathway
+NAME        Lipopolysaccharide biosynthesis
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00540  Lipopolysaccharide biosynthesis
+MODULE      M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A [PATH:map00540]
+            M00063  CMP-KDO biosynthesis [PATH:map00540]
+            M00064  ADP-L-glycero-D-manno-heptose biosynthesis [PATH:map00540]
+            M00080  Lipopolysaccharide biosynthesis, inner core => outer core => O-antigen [PATH:map00540]
+DBLINKS     GO: 0009103
+REFERENCE   PMID:9791168
+  AUTHORS   Heinrichs DE, Yethon JA, Whitfield C.
+  TITLE     Molecular basis for structural diversity in the core regions of the lipopolysaccharides of Escherichia coli and Salmonella enterica.
+  JOURNAL   Mol Microbiol 30:221-32 (1998)
+REFERENCE   PMID:11751812
+  AUTHORS   Kneidinger B, Marolda C, Graninger M, Zamyatina A, McArthur F, Kosma P, Valvano MA, Messner P.
+  TITLE     Biosynthesis pathway of ADP-L-glycero-beta-D-manno-heptose in Escherichia coli.
+  JOURNAL   J Bacteriol 184:363-9 (2002)
+REFERENCE   PMID:9587193
+  AUTHORS   Wyckoff TJ, Raetz CR, Jackman JE.
+  TITLE     Antibacterial and anti-inflammatory agents that target endotoxin.
+  JOURNAL   Trends Microbiol 6:154-9 (1998)
+REFERENCE   PMID:9765561
+  AUTHORS   Shibayama K, Ohsuka S, Tanaka T, Arakawa Y, Ohta M.
+  TITLE     Conserved structural regions involved in the catalytic mechanism of Escherichia coli K-12 WaaO (RfaI).
+  JOURNAL   J Bacteriol 180:5313-8 (1998)
+KO_PATHWAY  ko00540
+///

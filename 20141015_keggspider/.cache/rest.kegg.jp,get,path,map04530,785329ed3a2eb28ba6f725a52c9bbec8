@@ -1,0 +1,64 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04530
+server: Apache
+date: Wed, 15 Oct 2014 14:58:30 GMT
+content-type: text/plain
+
+ENTRY       map04530                    Pathway
+NAME        Tight junction
+DESCRIPTION Epithelial tight junctions (TJs) are composed of at least three types of transmembrane protein -occludin, claudin and junctional adhesion molecules (JAMs)- and a cytoplasmic 'plaque' consisting of many different proteins that form large complexes. The transmembrane proteins mediate cell adhesion and are thought to constitute the intramembrane and paracellular diffusion barriers. The cytoplasmic 'plaque' contains three major multi-protein complexes consisting largely of scaffolding proteins, the ZO protein complex, the CRB3-Pals1-PATJ complex and the PAR-3-aPKC-PAR-6 complex. The ZO protein complex appears to organize the transmembrane proteins and couple them to other cytoplasmic proteins and to actin microfilaments. Two evolutionarily conserved protein complexes, the CRB3 and PAR complexes are involved in the establishment and maintenance of epithelial cell polarity. Besides these three protein complexes which seem to be constitutively associated at TJs, a number of proteins with different functions has been identified at TJs. These include additional scaffolding proteins like MUPP1 and MAGI-1, adaptor proteins, transcription regulators and RNA processing factors, regulatory proteins like small GTPases and G-proteins, kinases and phosphatases, and heat shock proteins. These are proposed to be involved in junction assembly, barrier regulation, gene transcription, and perhaps other, presently undefined pathways.
+CLASS       Cellular Processes; Cellular commiunity
+PATHWAY_MAP map04530  Tight junction
+DISEASE     H00578  MYH9-related kidney diseases
+            H00594  Distal muscular dystrophies
+            H00606  Early infantile epileptic encephalopathy
+            H00626  Nephrotic syndrome and focal segmental glomerulosclerosis
+            H00656  Scapuloperoneal myopathy (SPM)
+            H00703  Myosin storage myopathy (MSM)
+            H00742  Neonatal ichthyosis-sclerosing cholangitis (NISCH) syndrome
+            H00801  Familial thoracic aortic aneurysm and dissection (TAAD)
+            H00811  Distal arthrogryposis (DA)
+            H00840  Band-like calcification with simplified gyration and polymicrogyria (BLC-PMG)
+            H00872  Trismus-pseudocamptodactyly syndrome
+            H00894  FG syndrome (FGS)
+            H00947  Pilomatricoma
+            H01195  VACTERL/VATER association
+            H01210  Hypomagnesemia
+            H01229  Inclusion body myopathy 3 (IBM3)
+            H01255  Juvenile-onset dystonia
+            H01301  Hemorrhagic destruction of the brain, subependymal calcification, and cataracts
+DBLINKS     GO: 0005923
+REFERENCE   PMID:15151915
+  AUTHORS   Schneeberger EE, Lynch RD.
+  TITLE     The tight junction: a multifunctional complex.
+  JOURNAL   Am J Physiol Cell Physiol 286:C1213-28 (2004)
+REFERENCE   PMID:15269339
+  AUTHORS   Bazzoni G, Dejana E.
+  TITLE     Endothelial cell-to-cell junctions: molecular organization and role in vascular homeostasis.
+  JOURNAL   Physiol Rev 84:869-901 (2004)
+REFERENCE   PMID:12612641
+  AUTHORS   Matter K, Balda MS.
+  TITLE     Signalling to and from tight junctions.
+  JOURNAL   Nat Rev Mol Cell Biol 4:225-36 (2003)
+REFERENCE   PMID:11283726
+  AUTHORS   Tsukita S, Furuse M, Itoh M.
+  TITLE     Multifunctional strands in tight junctions.
+  JOURNAL   Nat Rev Mol Cell Biol 2:285-93 (2001)
+REFERENCE   PMID:12475568
+  AUTHORS   Gonzalez-Mariscal L, Betanzos A, Nava P, Jaramillo BE.
+  TITLE     Tight junction proteins.
+  JOURNAL   Prog Biophys Mol Biol 81:1-44 (2003)
+REFERENCE   PMID:12270945
+  AUTHORS   Cheng CY, Mruk DD.
+  TITLE     Cell junction dynamics in the testis: Sertoli-germ cell interactions and male contraceptive development.
+  JOURNAL   Physiol Rev 82:825-74 (2002)
+REFERENCE   PMID:15551862
+  AUTHORS   Nakanishi H, Takai Y.
+  TITLE     Roles of nectins in cell adhesion, migration and polarization.
+  JOURNAL   Biol Chem 385:885-92 (2004)
+REFERENCE   PMID:12791297
+  AUTHORS   Balda MS, Matter K.
+  TITLE     Epithelial cell adhesion and the regulation of gene expression.
+  JOURNAL   Trends Cell Biol 13:310-8 (2003)
+KO_PATHWAY  ko04530
+///

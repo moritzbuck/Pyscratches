@@ -1,0 +1,59 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04540
+server: Apache
+date: Wed, 15 Oct 2014 15:08:52 GMT
+content-type: text/plain
+
+ENTRY       map04540                    Pathway
+NAME        Gap junction
+DESCRIPTION Gap junctions contain intercellular channels that allow direct communication between the cytosolic compartments of adjacent cells. Each gap junction channel is formed by docking of two 'hemichannels', each containing six connexins, contributed by each neighboring cell. These channels permit the direct transfer of small molecules including ions, amino acids, nucleotides, second messengers and other metabolites between adjacent cells. Gap junctional communication is essential for many physiological events, including embryonic development, electrical coupling, metabolic transport, apoptosis, and tissue homeostasis. Communication through Gap Junction is sensitive to a variety of stimuli, including changes in the level of intracellular Ca2+, pH, transjunctional applied voltage and phosphorylation/dephosphorylation processes. This figure represents the possible activation routes of different protein kinases involved in Cx43 and Cx36 phosphorylation.
+CLASS       Cellular Processes; Cellular commiunity
+PATHWAY_MAP map04540  Gap junction
+DISEASE     H00606  Early infantile epileptic encephalopathy
+            H00838  Congenital fibrosis of the extraocular muscles (CFEOM)
+            H01095  Syndactyly
+            H01210  Hypomagnesemia
+            H01272  Hypoplastic left heart syndrome (HLHS)
+DBLINKS     GO: 0005921
+REFERENCE   PMID:14506308
+  AUTHORS   Saez JC, Berthoud VM, Branes MC, Martinez AD, Beyer EC.
+  TITLE     Plasma membrane channels formed by connexins: their regulation and functions.
+  JOURNAL   Physiol Rev 83:1359-400 (2003)
+REFERENCE   PMID:15033580
+  AUTHORS   Warn-Cramer BJ, Lau AF.
+  TITLE     Regulation of gap junctions by tyrosine protein kinases.
+  JOURNAL   Biochim Biophys Acta 1662:81-95 (2004)
+REFERENCE   PMID:9535909
+  AUTHORS   Warn-Cramer BJ, Cottrell GT, Burt JM, Lau AF.
+  TITLE     Regulation of connexin-43 gap junctional intercellular communication by mitogen-activated protein kinase.
+  JOURNAL   J Biol Chem 273:9188-96 (1998)
+REFERENCE   PMID:10751659
+  AUTHORS   Roerig B, Feller MB.
+  TITLE     Neurotransmitters and gap junctions in developing neural circuits.
+  JOURNAL   Brain Res Brain Res Rev 32:86-114 (2000)
+REFERENCE   PMID:10873290
+  AUTHORS   Hatton GI.
+  TITLE     Synaptic modulation of neuronal coupling.
+  JOURNAL   Cell Biol Int 22:765-80 (1998)
+REFERENCE   PMID:12566218
+  AUTHORS   Cruciani V, Mikalsen SO.
+  TITLE     Connexins, gap junctional intercellular communication and kinases.
+  JOURNAL   Biol Cell 94:433-43 (2002)
+REFERENCE   PMID:15094344
+  AUTHORS   Giepmans BN.
+  TITLE     Gap junctions and connexin-interacting proteins.
+  JOURNAL   Cardiovasc Res 62:233-45 (2004)
+REFERENCE   PMID:15955302
+  AUTHORS   Laird DW.
+  TITLE     Connexin phosphorylation as a regulatory event linked to gap junction internalization and degradation.
+  JOURNAL   Biochim Biophys Acta 1711:172-82 (2005)
+REFERENCE   PMID:15033579
+  AUTHORS   Peracchia C.
+  TITLE     Chemical gating of gap junction channels; roles of calcium, pH and calmodulin.
+  JOURNAL   Biochim Biophys Acta 1662:61-80 (2004)
+REFERENCE   PMID:15033578
+  AUTHORS   Bukauskas FF, Verselis VK.
+  TITLE     Gap junction channel gating.
+  JOURNAL   Biochim Biophys Acta 1662:42-60 (2004)
+KO_PATHWAY  ko04540
+///

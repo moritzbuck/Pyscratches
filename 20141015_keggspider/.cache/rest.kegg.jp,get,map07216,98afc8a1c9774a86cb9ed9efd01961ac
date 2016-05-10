@@ -1,0 +1,88 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07216
+server: Apache
+date: Wed, 15 Oct 2014 15:09:56 GMT
+content-type: text/plain
+
+ENTRY       map07216          Drug      Pathway
+NAME        Catecholamine transferase inhibitors
+PATHWAY_MAP map07216  Catecholamine transferase inhibitors
+COMPOUND    C01108  1,2,3-Trihydroxybenzene
+            C15474  Tropolone
+            C15475  U 0521
+            C15476  Norselegiline
+            C15477  CGP 28014
+            D00152  Phloroglucinol (JAN)
+            D00346  Isoniazid (JP16/USP/INN)
+            D00505  Phenelzine sulfate (USP)
+            D00781  Entacapone (JAN/USAN/INN)
+            D00785  Selegiline hydrochloride (JAN/USP)
+            D00786  Tolcapone (JAN/USAN/INN)
+            D00826  Tranylcypromine sulfate (USP XXI)
+            D01097  Lazabemide hydrochloride (JAN/USAN)
+            D01259  Flopropione (JP16/INN)
+            D01365  Trepibutone (JP16/INN)
+            D01888  Safrazine hydrochloride (JAN)
+            D02559  Toloxatone (INN)
+            D02560  Brofaromine (INN)
+            D02561  Moclobemide (USAN/INN)
+            D02562  Rasagiline mesylate (USAN)
+            D02563  Befloxatone (INN)
+            D02564  Pargyline hydrochloride (USAN)
+            D02579  Iproniazid (INN)
+            D02580  Isocarboxazid (INN)
+            D03239  Ladostigil tartrate (USAN)
+            D03241  Nitecapone (INN)
+            D03248  Clorgiline (INN)
+            D03731  Selegiline (USAN/INN)
+            D04681  Lazabemide (USAN/INN)
+            D08085  Iproniazid phosphate
+            D08349  Phenelzine (BAN)
+            D08453  Pargyline (INN)
+            D08469  Rasagiline (USAN/INN)
+            D08625  Tranylcypromine (INN)
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   PMID:1103160
+  AUTHORS   Guldberg HC, Marsden CA.
+  TITLE     Catechol-O-methyl transferase: pharmacological aspects and physiological role.
+  JOURNAL   Pharmacol Rev 27:135-206 (1975)
+REFERENCE   PMID:10565698
+  AUTHORS   Micek ST, Ernst ME.
+  TITLE     Tolcapone: a novel approach to Parkinson's disease.
+  JOURNAL   Am J Health Syst Pharm 56:2195-205 (1999)
+REFERENCE   PMID:16604736
+  AUTHORS   .
+  TITLE     Tolcapone: new drug. In Parkinson's disease: unacceptable risk of severe hepatitis.
+  JOURNAL   Prescrire Int 15:54-7 (2006)
+REFERENCE   PMID:7835624
+  AUTHORS   Kaakkola S, Gordin A, Mannisto PT.
+  TITLE     General properties and clinical possibilities of new selective inhibitors of catechol O-methyltransferase.
+  JOURNAL   Gen Pharmacol 25:813-24 (1994)
+REFERENCE   PMID:8119326
+  AUTHORS   Tornwall M, Mannisto PT.
+  TITLE     Effects of three types of catechol O-methylation inhibitors on L-3,4-dihydroxyphenylalanine-induced circling behaviour in rats.
+  JOURNAL   Eur J Pharmacol 250:77-84 (1993)
+REFERENCE   PMID:11159700
+  AUTHORS   Youdim MB, Gross A, Finberg JP.
+  TITLE     Rasagiline [N-propargyl-1R(+)-aminoindan], a selective and potent inhibitor of mitochondrial monoamine oxidase B.
+  JOURNAL   Br J Pharmacol 132:500-6 (2001)
+REFERENCE   PMID:16402116
+  AUTHORS   Youdim MB, Bakhle YS.
+  TITLE     Monoamine oxidase: isoforms and inhibitors in Parkinson's disease and depressive illness.
+  JOURNAL   Br J Pharmacol 147 Suppl 1:S287-96 (2006)
+REFERENCE   PMID:10581325
+  AUTHORS   Mannisto PT, Kaakkola S.
+  TITLE     Catechol-O-methyltransferase (COMT): biochemistry, molecular biology, pharmacology, and clinical efficacy of the new selective COMT inhibitors.
+  JOURNAL   Pharmacol Rev 51:593-628 (1999)
+///

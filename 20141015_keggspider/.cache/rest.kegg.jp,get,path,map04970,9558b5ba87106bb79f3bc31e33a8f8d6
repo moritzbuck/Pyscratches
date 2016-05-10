@@ -1,0 +1,67 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04970
+server: Apache
+date: Wed, 15 Oct 2014 14:58:51 GMT
+content-type: text/plain
+
+ENTRY       map04970                    Pathway
+NAME        Salivary secretion
+DESCRIPTION Saliva has manifold functions in maintaining the integrity of the oral tissues, in protecting teeth from caries, in the tasting and ingestion of food, in speech and in the tolerance of tenures, for example. Salivary secretion occurs in response to stimulation by neurotransmitters released from autonomic nerve endings. There are two secretory pathways: protein exocytosis and fluid secretion. Sympathetic stimulation leads to the activation of adenylate cyclase and accumulation of intracellular cAMP. The elevation of cAMP causes the secretion of proteins such as amylase and mucin. In contrast, parasympathetic stimulation activates phospholipase C and causes the elevation of intracellular Ca2+, which leads to fluid secretion; that is, water and ion transport. Ca2+ also induces amylase secretion, but the amount is smaller than that induced by cAMP.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP map04970  Salivary secretion
+DISEASE     H00845  Familial amyloidosis
+DBLINKS     GO: 0046541
+REFERENCE   PMID:16799262
+  AUTHORS   Ishikawa Y, Cho G, Yuan Z, Skowronski MT, Pan Y, Ishida H
+  TITLE     Water channels and zymogen granules in salivary glands.
+  JOURNAL   J Pharmacol Sci 100:495-512 (2006)
+REFERENCE   PMID:16712780
+  AUTHORS   Ishikawa Y, Cho G, Yuan Z, Inoue N, Nakae Y
+  TITLE     Aquaporin-5 water channel in lipid rafts of rat parotid glands.
+  JOURNAL   Biochim Biophys Acta 1758:1053-60 (2006)
+REFERENCE   PMID:10682899
+  AUTHORS   Ambudkar IS
+  TITLE     Regulation of calcium in salivary gland secretion.
+  JOURNAL   Crit Rev Oral Biol Med 11:4-25 (2000)
+REFERENCE   PMID:10928320
+  AUTHORS   Ishikawa Y, Ishida H
+  TITLE     Aquaporin water channel in salivary glands.
+  JOURNAL   Jpn J Pharmacol 83:95-101 (2000)
+REFERENCE   PMID:8105741
+  AUTHORS   Baum BJ
+  TITLE     Principles of saliva secretion.
+  JOURNAL   Ann N Y Acad Sci 694:17-23 (1993)
+REFERENCE   PMID:9720759
+  AUTHORS   Fujita-Yoshigaki J
+  TITLE     Divergence and convergence in regulated exocytosis: the characteristics of cAMP-dependent enzyme secretion of parotid salivary acinar cells.
+  JOURNAL   Cell Signal 10:371-5 (1998)
+REFERENCE   PMID:18626068
+  AUTHORS   Heitzmann D, Warth R
+  TITLE     Physiology and pathophysiology of potassium channels in gastrointestinal epithelia.
+  JOURNAL   Physiol Rev 88:1119-82 (2008)
+REFERENCE   PMID:17157080
+  AUTHORS   Proctor GB, Carpenter GH
+  TITLE     Regulation of salivary gland function by autonomic nerves.
+  JOURNAL   Auton Neurosci 133:3-18 (2007)
+REFERENCE   PMID:11936453
+  AUTHORS   Turner RJ, Sugiya H
+  TITLE     Understanding salivary fluid and protein secretion.
+  JOURNAL   Oral Dis 8:3-11 (2002)
+REFERENCE   PMID:15153696
+  AUTHORS   Van Nieuw Amerongen A, Bolscher JG, Veerman EC
+  TITLE     Salivary proteins: protective and diagnostic value in cariology?
+  JOURNAL   Caries Res 38:247-53 (2004)
+REFERENCE   PMID:17347411
+  AUTHORS   Nakamoto T, Srivastava A, Romanenko VG, Ovitt CE, Perez-Cornejo P, Arreola J, Begenisich T, Melvin JE
+  TITLE     Functional and molecular characterization of the fluid secretion mechanism in human parotid acinar cells.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 292:R2380-90 (2007)
+REFERENCE   PMID:15709965
+  AUTHORS   Melvin JE, Yule D, Shuttleworth T, Begenisich T
+  TITLE     Regulation of fluid and electrolyte secretion in salivary gland acinar cells.
+  JOURNAL   Annu Rev Physiol 67:445-69 (2005)
+REFERENCE   PMID:20224180
+  AUTHORS   Catalan MA, Nakamoto T, Melvin JE
+  TITLE     The salivary gland fluid secretion mechanism.
+  JOURNAL   J Med Invest 56 Suppl:192-6 (2009)
+KO_PATHWAY  ko04970
+///

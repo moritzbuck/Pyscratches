@@ -1,0 +1,79 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04623
+server: Apache
+date: Wed, 15 Oct 2014 15:08:55 GMT
+content-type: text/plain
+
+ENTRY       map04623                    Pathway
+NAME        Cytosolic DNA-sensing pathway
+DESCRIPTION Specific families of pattern recognition receptors are responsible for detecting foreign DNA from invading microbes or host cells and generating innate immune responses. DAI is the first identified sensor of cytosolic DNA which activates the IRF and NF-{kappa}B transcription factors, leading to production of type I interferon and other cytokines. The second type of cytoplasmic DNA sensor is AIM2. Upon sensing DNA, AIM2 triggers the assembly of the inflammasome, culminating in interleukin maturation. In addition to these receptors, there is a mechanism to sense foreign DNA, with the host RNA polymerase III converting the DNA into RNA for recognition by the RNA sensor RIG-I. These pathways provide various means to alert the cell.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04623  Cytosolic DNA-sensing pathway
+MODULE      M00181  RNA polymerase III, eukaryotes [PATH:map04623]
+DISEASE     H00290  Aicardi-Goutieres Syndrome (AGS)
+            H00291  Familial chilblain lupus (FCL)
+            H00880  Dyschromatosis symmetrica hereditaria
+            H00882  Cocoon syndrome
+            H01000  Retinal vasculopathy with cerebral leukodystrophy (RVCL)
+REFERENCE   PMID:19362700
+  AUTHORS   Yanai H, Savitsky D, Tamura T, Taniguchi T
+  TITLE     Regulation of the cytosolic DNA-sensing system in innate immunity: a current view.
+  JOURNAL   Curr Opin Immunol 21:17-22 (2009)
+REFERENCE   PMID:19497760
+  AUTHORS   Vilaysane A, Muruve DA
+  TITLE     The innate immune response to DNA.
+  JOURNAL   Semin Immunol 21:208-14 (2009)
+REFERENCE   PMID:18573338
+  AUTHORS   Takeshita F, Ishii KJ
+  TITLE     Intracellular DNA sensors in immunity.
+  JOURNAL   Curr Opin Immunol 20:383-8 (2008)
+REFERENCE   PMID:19122387
+  AUTHORS   Takaoka A, Shinohara S
+  TITLE     DNA sensors in innate immune system.
+  JOURNAL   Uirusu 58:37-46 (2008)
+REFERENCE   PMID:18280611
+  AUTHORS   Takaoka A, Taniguchi T
+  TITLE     Cytosolic DNA recognition for triggering innate immune responses.
+  JOURNAL   Adv Drug Deliv Rev 60:847-57 (2008)
+REFERENCE   PMID:18941233
+  AUTHORS   Kaiser WJ, Upton JW, Mocarski ES
+  TITLE     Receptor-interacting protein homotypic interaction motif-dependent control of NF-kappa B activation via the DNA-dependent activator of IFN regulatory factors.
+  JOURNAL   J Immunol 181:6427-34 (2008)
+REFERENCE   PMID:19590578
+  AUTHORS   Rebsamen M, Heinz LX, Meylan E, Michallet MC, Schroder K, Hofmann K, Vazquez J, Benedict CA, Tschopp J
+  TITLE     DAI/ZBP1 recruits RIP1 and RIP3 through RIP homotypic interaction motifs to activate NF-kappaB.
+  JOURNAL   EMBO Rep 10:916-22 (2009)
+REFERENCE   PMID:18375758
+  AUTHORS   Wang Z, Choi MK, Ban T, Yanai H, Negishi H, Lu Y, Tamura T, Takaoka A, Nishikura K, Taniguchi T
+  TITLE     Regulation of innate immune responses by DAI (DLM-1/ZBP1) and other DNA-sensing molecules.
+  JOURNAL   Proc Natl Acad Sci U S A 105:5477-82 (2008)
+REFERENCE   PMID:18724932
+  AUTHORS   Stetson DB, Ko JS, Heidmann T, Medzhitov R
+  TITLE     Trex1 prevents cell-intrinsic initiation of autoimmunity.
+  JOURNAL   Cell 134:587-98 (2008)
+REFERENCE   PMID:19321146
+  AUTHORS   Schroder K, Muruve DA, Tschopp J
+  TITLE     Innate immunity: cytoplasmic DNA sensing by the AIM2 inflammasome.
+  JOURNAL   Curr Biol 19:R262-5 (2009)
+REFERENCE   PMID:19567913
+  AUTHORS   Krieg AM
+  TITLE     AIMing 2 detect foreign DNA.
+  JOURNAL   Sci Signal 2:pe39 (2009)
+REFERENCE   PMID:19665965
+  AUTHORS   O'Neill LA
+  TITLE     DNA makes RNA makes innate immunity.
+  JOURNAL   Cell 138:428-30 (2009)
+REFERENCE   PMID:16286919
+  AUTHORS   Ishii KJ, Coban C, Kato H, Takahashi K, Torii Y, Takeshita F, Ludwig H, Sutter G, Suzuki K, Hemmi H, Sato S, Yamamoto M, Uematsu S, Kawai T, Takeuchi O, Akira S
+  TITLE     A Toll-like receptor-independent antiviral response induced by double-stranded B-form DNA.
+  JOURNAL   Nat Immunol 7:40-8 (2006)
+REFERENCE   PMID:19767723
+  AUTHORS   Cao X
+  TITLE     New DNA-sensing pathway feeds RIG-I with RNA.
+  JOURNAL   Nat Immunol 10:1049-51 (2009)
+REFERENCE   PMID:23258413
+  AUTHORS   Sun L, Wu J, Du F, Chen X, Chen ZJ
+  TITLE     Cyclic GMP-AMP synthase is a cytosolic DNA sensor that activates the type I interferon pathway.
+  JOURNAL   Science 339:786-91 (2013)
+KO_PATHWAY  ko04623
+///

@@ -1,0 +1,54 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04145
+server: Apache
+date: Wed, 15 Oct 2014 14:58:22 GMT
+content-type: text/plain
+
+ENTRY       map04145                    Pathway
+NAME        Phagosome
+DESCRIPTION Phagocytosis is the process of taking in relatively large particles by a cell, and is a central mechanism in the tissue remodeling, inflammation, and defense against infectious agents. A phagosome is formed when the specific receptors on the phagocyte surface recognize ligands on the particle surface. After formation, nascent phagosomes progressively acquire digestive characteristics. This maturation of phagosomes involves regulated interaction with the other membrane organelles, including recycling endosomes, late endosomes and lysosomes. The fusion of phagosomes and lysosomes releases toxic products that kill most bacteria and degrade them into fragments. However, some bacteria have strategies to escape the bactericidal mechanisms associated with phagocytosis and survive within host phagocytes.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP map04145  Phagosome
+MODULE      M00401  Sec61 complex [PATH:map04145]
+DISEASE     H00265  Hereditary sensory and autonomic neuropathy (HSAN)
+            H00751  Asphyxiating thoracic dystrophy
+            H00821  Macular degeneration
+            H00838  Congenital fibrosis of the extraocular muscles (CFEOM)
+            H00856  Distal hereditary motor neuropathies (dHMN)
+            H00957  Fleck corneal dystrophy (FCD)
+            H00984  Bare lymphocyte syndrome (BLS) type1
+            H01108  CD36 deficiency
+            H01109  Chronic mucocutaneous candidiasis (CMC)
+            H01240  Immune thrombocytopenia (ITP)
+            H01255  Juvenile-onset dystonia
+DBLINKS     GO: 0045335
+REFERENCE   PMID:15894272
+  AUTHORS   Stuart LM, Ezekowitz RA
+  TITLE     Phagocytosis: elegant complexity.
+  JOURNAL   Immunity 22:539-50 (2005)
+REFERENCE   PMID:10684585
+  AUTHORS   Tjelle TE, Lovdal T, Berg T
+  TITLE     Phagosome dynamics and function.
+  JOURNAL   Bioessays 22:255-63 (2000)
+REFERENCE   PMID:18492791
+  AUTHORS   Dupuy AG, Caron E
+  TITLE     Integrin-dependent phagocytosis: spreading from microadhesion to new concepts.
+  JOURNAL   J Cell Sci 121:1773-83 (2008)
+REFERENCE   PMID:15036145
+  AUTHORS   Brumell JH, Grinstein S
+  TITLE     Salmonella redirects phagosomal maturation.
+  JOURNAL   Curr Opin Microbiol 7:78-84 (2004)
+REFERENCE   PMID:17245426
+  AUTHORS   Huynh KK, Eskelinen EL, Scott CC, Malevanets A, Saftig P, Grinstein S
+  TITLE     LAMP proteins are required for fusion of lysosomes with phagosomes.
+  JOURNAL   EMBO J 26:313-24 (2007)
+REFERENCE   PMID:17637737
+  AUTHORS   Luzio JP, Pryor PR, Bright NA
+  TITLE     Lysosomes: fusion and function.
+  JOURNAL   Nat Rev Mol Cell Biol 8:622-32 (2007)
+REFERENCE   PMID:18513324
+  AUTHORS   Sumimoto H
+  TITLE     Structure, regulation and evolution of Nox-family NADPH oxidases that produce reactive oxygen species.
+  JOURNAL   FEBS J 275:3249-77 (2008)
+KO_PATHWAY  ko04145
+///

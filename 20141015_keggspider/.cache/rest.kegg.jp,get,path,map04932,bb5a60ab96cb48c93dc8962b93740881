@@ -1,0 +1,90 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04932
+server: Apache
+date: Wed, 15 Oct 2014 14:58:48 GMT
+content-type: text/plain
+
+ENTRY       map04932                    Pathway
+NAME        Non-alcoholic fatty liver disease (NAFLD)
+DESCRIPTION Non-alcoholic fatty liver disease (NAFLD) represents a spectrum ranging from simple steatosis to more severe steatohepatitis with hepatic inflammation and fibrosis, known as nonalcoholic steatohepatitis (NASH). NASH may further lead to cirrhosis and hepatocellular carcinoma (HCC). This map shows a stage-dependent progression of NAFLD. In the first stage of NAFLD, excess lipid accumulation has been demonstrated. The main cause is the induction of insulin resistance, which leads to a defect in insulin suppression of free fatty acids (FAAs) disposal. In addition, two transcription factors, SREBP-1c and PPAR-alpha, activate key enzymes of lipogenesis and increase the synthesis of FAAs in liver. In the second stage, as a consequence of the progression to NASH, the production of reactive oxygen species (ROS) is enhanced due to oxidation stress through mitochondrial beta-oxidation of fatty acids and endoplamic reticulum (ER) stress, leading to lipid peroxidation. The lipid peroxidation can further cause the production of cytokines (Fas ligand, TNF-alpha, IL-8 and TGF), promoting cell death, inflammation and fibrosis. The activation of JNK, which is induced by ER stress, TNF-alpha and FAAs, is also associated with NAFLD progression. Increased JNK promotes cytokine production and initiation of HCC.
+CLASS       Human Diseases; Endocrine and metabolic diseases
+PATHWAY_MAP map04932  Non-alcoholic fatty liver disease (NAFLD)
+DISEASE     H01333  Nonalcoholic fatty liver disease (NAFLD)
+REFERENCE   PMID:23545492
+  AUTHORS   Naik A, Kosir R, Rozman D
+  TITLE     Genomic aspects of NAFLD pathogenesis.
+  JOURNAL   Genomics 102:84-95 (2013)
+REFERENCE   PMID:19352614
+  AUTHORS   Malaguarnera M, Di Rosa M, Nicoletti F, Malaguarnera L
+  TITLE     Molecular mechanisms involved in NAFLD progression.
+  JOURNAL   J Mol Med (Berl) 87:679-95 (2009)
+REFERENCE   PMID:22705006
+  AUTHORS   Seki E, Brenner DA, Karin M
+  TITLE     A liver full of JNK: signaling in regulation of cell function and disease pathogenesis, and clinical approaches.
+  JOURNAL   Gastroenterology 143:307-20 (2012)
+REFERENCE   PMID:21038418
+  AUTHORS   Tilg H, Moschen AR
+  TITLE     Evolution of inflammation in nonalcoholic fatty liver disease: the multiple parallel hits hypothesis.
+  JOURNAL   Hepatology 52:1836-46 (2010)
+REFERENCE   PMID:16364488
+  AUTHORS   Larter CZ, Farrell GC
+  TITLE     Insulin resistance, adiponectin, cytokines in NASH: Which is the best target to treat?
+  JOURNAL   J Hepatol 44:253-61 (2006)
+REFERENCE   PMID:22570745
+  AUTHORS   Farrell GC, van Rooyen D, Gan L, Chitturi S
+  TITLE     NASH is an Inflammatory Disorder: Pathogenic, Prognostic and Therapeutic Implications.
+  JOURNAL   Gut Liver 6:149-71 (2012)
+REFERENCE   PMID:20619513
+  AUTHORS   Shapiro H, Tehilla M, Attal-Singer J, Bruck R, Luzzatti R, Singer P
+  TITLE     The therapeutic potential of long-chain omega-3 fatty acids in nonalcoholic fatty liver disease.
+  JOURNAL   Clin Nutr 30:6-19 (2011)
+REFERENCE   PMID:20303879
+  AUTHORS   Hotamisligil GS
+  TITLE     Endoplasmic reticulum stress and the inflammatory basis of metabolic disease.
+  JOURNAL   Cell 140:900-17 (2010)
+REFERENCE   PMID:17498512
+  AUTHORS   Parekh S, Anania FA
+  TITLE     Abnormal lipid and glucose metabolism in obesity: implications for nonalcoholic fatty liver disease.
+  JOURNAL   Gastroenterology 132:2191-207 (2007)
+REFERENCE   PMID:16374858
+  AUTHORS   Schattenberg JM, Singh R, Wang Y, Lefkowitch JH, Rigoli RM, Scherer PE, Czaja MJ
+  TITLE     JNK1 but not JNK2 promotes the development of steatohepatitis in mice.
+  JOURNAL   Hepatology 43:163-72 (2006)
+REFERENCE   PMID:22940046
+  AUTHORS   Leung TM, Nieto N
+  TITLE     CYP2E1 and oxidant stress in alcoholic and non-alcoholic fatty liver disease.
+  JOURNAL   J Hepatol 58:395-8 (2013)
+REFERENCE   PMID:14685853
+  AUTHORS   Zafrani ES
+  TITLE     Non-alcoholic fatty liver disease: an emerging pathological spectrum.
+  JOURNAL   Virchows Arch 444:3-12 (2004)
+REFERENCE   PMID:12891546
+  AUTHORS   Feldstein AE, Canbay A, Angulo P, Taniai M, Burgart LJ, Lindor KD, Gores GJ
+  TITLE     Hepatocyte apoptosis and fas expression are prominent features of human nonalcoholic steatohepatitis.
+  JOURNAL   Gastroenterology 125:437-43 (2003)
+REFERENCE   PMID:16406828
+  AUTHORS   Begriche K, Igoudjil A, Pessayre D, Fromenty B
+  TITLE     Mitochondrial dysfunction in NASH: causes, consequences and possible means to prevent it.
+  JOURNAL   Mitochondrion 6:1-28 (2006)
+REFERENCE   PMID:9285483
+  AUTHORS   Leonarduzzi G, Scavazza A, Biasi F, Chiarpotto E, Camandola S, Vogel S, Dargel R, Poli G
+  TITLE     The lipid peroxidation end product 4-hydroxy-2,3-nonenal up-regulates transforming growth factor beta1 expression in the macrophage lineage: a link between oxidative injury and fibrosclerosis.
+  JOURNAL   FASEB J 11:851-7 (1997)
+REFERENCE   PMID:21145844
+  AUTHORS   Malhi H, Kaufman RJ
+  TITLE     Endoplasmic reticulum stress in liver disease.
+  JOURNAL   J Hepatol 54:795-809 (2011)
+REFERENCE   PMID:18242193
+  AUTHORS   Mantena SK, King AL, Andringa KK, Eccleston HB, Bailey SM
+  TITLE     Mitochondrial dysfunction and oxidative stress in the pathogenesis of alcohol- and obesity-induced fatty liver diseases.
+  JOURNAL   Free Radic Biol Med 44:1259-72 (2008)
+REFERENCE   PMID:18061659
+  AUTHORS   Serviddio G, Sastre J, Bellanti F, Vina J, Vendemiale G, Altomare E
+  TITLE     Mitochondrial involvement in non-alcoholic steatohepatitis.
+  JOURNAL   Mol Aspects Med 29:22-35 (2008)
+REFERENCE   PMID:23299992
+  AUTHORS   Begriche K, Massart J, Robin MA, Bonnet F, Fromenty B
+  TITLE     Mitochondrial adaptations and dysfunctions in nonalcoholic fatty liver disease.
+  JOURNAL   Hepatology 58:1497-507 (2013)
+KO_PATHWAY  ko04932
+///

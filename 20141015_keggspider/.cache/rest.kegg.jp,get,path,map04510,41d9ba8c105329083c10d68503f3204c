@@ -1,0 +1,114 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04510
+server: Apache
+date: Wed, 15 Oct 2014 14:58:28 GMT
+content-type: text/plain
+
+ENTRY       map04510                    Pathway
+NAME        Focal adhesion
+DESCRIPTION Cell-matrix adhesions play essential roles in important biological processes including cell motility, cell proliferation, cell differentiation, regulation of gene expression and cell survival. At the cell-extracellular matrix contact points, specialized structures are formed and termed focal adhesions, where bundles of actin filaments are anchored to transmembrane receptors of the integrin family through a multi-molecular complex of junctional plaque proteins. Some of the constituents of focal adhesions participate in the structural link between membrane receptors and the actin cytoskeleton, while others are signalling molecules, including different protein kinases and phosphatases, their substrates, and various adapter proteins. Integrin signaling is dependent upon the non-receptor tyrosine kinase activities of the FAK and src proteins as well as the adaptor protein functions of FAK, src and Shc to initiate downstream signaling events. These signalling events culminate in reorganization of the actin cytoskeleton; a prerequisite for changes in cell shape and motility, and gene expression. Similar morphological alterations and modulation of gene expression are initiated by the binding of growth factors to their respective receptors, emphasizing the considerable crosstalk between adhesion- and growth factor-mediated signalling.
+CLASS       Cellular Processes; Cellular commiunity
+PATHWAY_MAP map04510  Focal adhesion
+DISEASE     H00226  Glanzmann thrombasthenia
+            H00539  PTEN hamartoma tumor syndrome (PHTS)
+            H00567  Caveolinopathies
+            H00576  Pierson syndrome
+            H00577  Syndromic X-linked mental retardation with epilepsy or seizures
+            H00579  Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps (HANAC)
+            H00581  Alport syndrome
+            H00582  Benign familial hematuria
+            H00585  Epidermolysis bullosa, hemidesmosomal
+            H00586  Epidermolysis bullosa, junctional
+            H00590  Congenital muscular dystrophies (CMD/MDC)
+            H00593  Limb-girdle muscular dystrophy (LGMD)
+            H00595  Myofibrillar myopathies (MFM)
+            H00626  Nephrotic syndrome and focal segmental glomerulosclerosis
+            H00801  Familial thoracic aortic aneurysm and dissection (TAAD)
+            H00802  Ehlers-Danlos syndrome (EDS)
+            H00805  Vitreoretinal degeneration
+            H00813  Laryngo onycho cutaneous syndrome
+            H00839  Porencephaly
+            H00865  Lethal congenital contractural syndrome (LCCS)
+            H00877  Brain small vessel disease with Axenfeld-Rieger anomaly
+            H00894  FG syndrome (FGS)
+            H00947  Pilomatricoma
+            H01195  VACTERL/VATER association
+            H01210  Hypomagnesemia
+            H01255  Juvenile-onset dystonia
+            H01260  Glomerulopathy with fibronectin deposits (GFND)
+            H01274  Growth delay due to insulin-like growth factor I resistance
+            H01276  X-linked chronic idiopathic intestinal pseudo-obstruction
+            H01338  Myosclerosis
+            H01340  Bethlem myopathy
+            H01341  Collagen VI myopathy
+DBLINKS     GO: 0005925
+REFERENCE   PMID:14756624
+  AUTHORS   Berman AE, Kozlova NI, Morozevich GE.
+  TITLE     Integrins: structure and signaling.
+  JOURNAL   Biochemistry (Mosc) 68:1284-99 (2003)
+REFERENCE   PMID:15179030
+  AUTHORS   Lee JW, Juliano R.
+  TITLE     Mitogenic signal transduction by integrin- and growth factor receptor-mediated pathways.
+  JOURNAL   Mol Cells 17:188-202 (2004)
+REFERENCE   PMID:11573199
+  AUTHORS   Danen EH, Yamada KM.
+  TITLE     Fibronectin, integrins, and growth control.
+  JOURNAL   J Cell Physiol 189:1-13 (2001)
+REFERENCE   PMID:15459662
+  AUTHORS   Guo W, Giancotti FG.
+  TITLE     Integrin signalling during tumour progression.
+  JOURNAL   Nat Rev Mol Cell Biol 5:816-26 (2004)
+REFERENCE   PMID:11229600
+  AUTHORS   Petit V, Thiery JP.
+  TITLE     Focal adhesions: structure and dynamics.
+  JOURNAL   Biol Cell 92:477-94 (2000)
+REFERENCE   PMID:12235283
+  AUTHORS   Stupack DG, Cheresh DA.
+  TITLE     Get a ligand, get a life: integrins, signaling and cell survival.
+  JOURNAL   J Cell Sci 115:3729-38 (2002)
+REFERENCE   PMID:12640026
+  AUTHORS   Parsons JT.
+  TITLE     Focal adhesion kinase: the first ten years.
+  JOURNAL   J Cell Sci 116:1409-16 (2003)
+REFERENCE   PMID:15688067
+  AUTHORS   Mitra SK, Hanson DA, Schlaepfer DD.
+  TITLE     Focal adhesion kinase: in command and control of cell motility.
+  JOURNAL   Nat Rev Mol Cell Biol 6:56-68 (2005)
+REFERENCE   PMID:14519391
+  AUTHORS   Comoglio PM, Boccaccio C, Trusolino L.
+  TITLE     Interactions between growth factor receptors and adhesion molecules: breaking the rules.
+  JOURNAL   Curr Opin Cell Biol 15:565-71 (2003)
+REFERENCE   PMID:15108811
+  AUTHORS   Schlaepfer DD, Mitra SK.
+  TITLE     Multiple connections link FAK to cell motility and invasion.
+  JOURNAL   Curr Opin Genet Dev 14:92-101 (2004)
+REFERENCE   PMID:14744429
+  AUTHORS   Burridge K, Wennerberg K.
+  TITLE     Rho and Rac take center stage.
+  JOURNAL   Cell 116:167-79 (2004)
+REFERENCE   PMID:11082269
+  AUTHORS   Schmitz AA, Govek EE, Bottner B, Van Aelst L.
+  TITLE     Rho GTPases: signaling, migration, and invasion.
+  JOURNAL   Exp Cell Res 261:1-12 (2000)
+REFERENCE   PMID:10698680
+  AUTHORS   Vanhaesebroeck B, Alessi DR.
+  TITLE     The PI3K-PDK1 connection: more than just a road to PKB.
+  JOURNAL   Biochem J 346 Pt 3:561-76 (2000)
+REFERENCE   PMID:11882383
+  AUTHORS   Nicholson KM, Anderson NG.
+  TITLE     The protein kinase B/Akt signalling pathway in human malignancy.
+  JOURNAL   Cell Signal 14:381-95 (2002)
+REFERENCE   PMID:15053919
+  AUTHORS   Oloumi A, McPhee T, Dedhar S.
+  TITLE     Regulation of E-cadherin expression and beta-catenin/Tcf transcriptional activity by the integrin-linked kinase.
+  JOURNAL   Biochim Biophys Acta 1691:1-15 (2004)
+REFERENCE   PMID:11146675
+  AUTHORS   Turner CE.
+  TITLE     Paxillin and focal adhesion signalling.
+  JOURNAL   Nat Cell Biol 2:E231-6 (2000)
+REFERENCE   PMID:15034601
+  AUTHORS   Hlobilkova A, Knillova J, Bartek J, Lukas J, Kolar Z.
+  TITLE     The mechanism of action of the tumour suppressor gene PTEN.
+  JOURNAL   Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub 147:19-25 (2003)
+KO_PATHWAY  ko04510
+///

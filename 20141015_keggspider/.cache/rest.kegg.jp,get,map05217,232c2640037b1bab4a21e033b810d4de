@@ -1,0 +1,71 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05217
+server: Apache
+date: Wed, 15 Oct 2014 15:09:32 GMT
+content-type: text/plain
+
+ENTRY       map05217                    Pathway
+NAME        Basal cell carcinoma
+DESCRIPTION Cancer of the skin is the most common cancer in Caucasians and basal cell carcinomas (BCC) account for 90% of all skin cancers. The vast majority of BCC cases are sporadic, though there is a rare familial syndrome basal cell nevus syndrome (BCNS, or Gorlin syndrome) that predisposes to development of BCC. In addition, there is strong epidemiological and genetic evidence that demonstrates UV exposure as a risk factor of prime importance. The development of basal cell carcinoma is associated with constitutive activation of sonic hedgehog signaling. The mutations in SMOH, PTCH1, and SHH in BCCs result in continuous activation of target genes. At a cellular level, sonic hedgehog signaling promotes cell proliferation. Mutations in TP53 are also found with high frequency (>50%) in sporadic BCC.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05217  Basal cell carcinoma
+DISEASE     H00039  Basal cell carcinoma
+            H00895  Basal cell nevus syndrome
+REFERENCE   PMID:15948971
+  AUTHORS   Tilli CM, Van Steensel MA, Krekels GA, Neumann HA, Ramaekers FC.
+  TITLE     Molecular aetiology and pathogenesis of basal cell carcinoma.
+  JOURNAL   Br J Dermatol 152:1108-24 (2005)
+REFERENCE   PMID:12588368
+  AUTHORS   Saldanha G, Fletcher A, Slater DN.
+  TITLE     Basal cell carcinoma: a dermatopathological and molecular biological update.
+  JOURNAL   Br J Dermatol 148:195-202 (2003)
+REFERENCE   PMID:15978322
+  AUTHORS   Daya-Grosjean L, Couve-Privat S.
+  TITLE     Sonic hedgehog signaling in basal cell carcinomas.
+  JOURNAL   Cancer Lett 225:181-92 (2005)
+REFERENCE   PMID:15468170
+  AUTHORS   Tsai KY, Tsao H.
+  TITLE     The genetics of skin cancer.
+  JOURNAL   Am J Med Genet C Semin Med Genet 131C:82-92 (2004)
+REFERENCE   PMID:16881963
+  AUTHORS   Athar M, Tang X, Lee JL, Kopelovich L, Kim AL.
+  TITLE     Hedgehog signalling in skin development and cancer.
+  JOURNAL   Exp Dermatol 15:667-77 (2006)
+REFERENCE   PMID:16306523
+  AUTHORS   Rubin AI, Chen EH, Ratner D.
+  TITLE     Basal-cell carcinoma.
+  JOURNAL   N Engl J Med 353:2262-9 (2005)
+REFERENCE   PMID:11276000
+  AUTHORS   Saldanha G.
+  TITLE     The Hedgehog signalling pathway and cancer.
+  JOURNAL   J Pathol 193:427-32 (2001)
+REFERENCE   PMID:15270885
+  AUTHORS   Saldanha G, Ghura V, Potter L, Fletcher A.
+  TITLE     Nuclear beta-catenin in basal cell carcinoma correlates with increased proliferation.
+  JOURNAL   Br J Dermatol 151:157-64 (2004)
+REFERENCE   PMID:14737121
+  AUTHORS   Pasca di Magliano M, Hebrok M.
+  TITLE     Hedgehog signalling in cancer formation and maintenance.
+  JOURNAL   Nat Rev Cancer 3:903-11 (2003)
+REFERENCE   PMID:15656799
+  AUTHORS   Reifenberger J, Wolter M, Knobbe CB, Kohler B, Schonicke A, Scharwachter C, Kumar K, Blaschke B, Ruzicka T, Reifenberger G.
+  TITLE     Somatic mutations in the PTCH, SMOH, SUFUH and TP53 genes in sporadic basal cell carcinomas.
+  JOURNAL   Br J Dermatol 152:43-51 (2005)
+REFERENCE   PMID:14556242
+  AUTHORS   Cohen MM Jr.
+  TITLE     The hedgehog signaling network.
+  JOURNAL   Am J Med Genet A 123:5-28 (2003)
+REFERENCE   PMID:11736900
+  AUTHORS   Yamazaki F, Aragane Y, Kawada A, Tezuka T.
+  TITLE     Immunohistochemical detection for nuclear beta-catenin in sporadic basal cell carcinoma.
+  JOURNAL   Br J Dermatol 145:771-7 (2001)
+REFERENCE   PMID:16054233
+  AUTHORS   Erb P, Ji J, Wernli M, Kump E, Glaser A, Buchner SA.
+  TITLE     Role of apoptosis in basal cell and squamous cell carcinoma formation.
+  JOURNAL   Immunol Lett 100:68-72 (2005)
+REFERENCE   PMID:11130178
+  AUTHORS   Toftgard R.
+  TITLE     Hedgehog signalling in cancer.
+  JOURNAL   Cell Mol Life Sci 57:1720-31 (2000)
+KO_PATHWAY  ko05217
+///

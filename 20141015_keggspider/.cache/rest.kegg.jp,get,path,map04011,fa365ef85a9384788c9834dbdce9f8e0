@@ -1,0 +1,14 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04011
+server: Apache
+date: Wed, 15 Oct 2014 14:58:12 GMT
+content-type: text/plain
+
+ENTRY       map04011                    Pathway
+NAME        MAPK signaling pathway - yeast
+DESCRIPTION The S. cerevisiae genome encodes multiple MAP kinase orthologs. One (Fus3) mediates cellular response to peptide pheromones. Another (Kss1) permits adjustment to nutrient limiting conditions. A third (Hog1) is necessary for survival under hyperosmotic conditions. A fourth (Slt2/Mpk1) is required for repair of injuries to the cell wall. As in mammalian cells, these pathways consist of a conserved module in which three kinases phosphorylate each other in sequence. The MAPK is phosphorylated by the MAPK/ERK kinase (MEK), which is itself phosphorylated by a MEK kinase (MEKK).
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04011  MAPK signaling pathway - yeast
+MODULE      M00516  SLN1-YPD1-SSK1/SKN7 (osmosensing) two-component regulatory system [PATH:map04011]
+KO_PATHWAY  ko04011
+///

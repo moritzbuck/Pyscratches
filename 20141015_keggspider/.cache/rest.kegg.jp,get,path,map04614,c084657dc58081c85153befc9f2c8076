@@ -1,0 +1,74 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04614
+server: Apache
+date: Wed, 15 Oct 2014 14:58:32 GMT
+content-type: text/plain
+
+ENTRY       map04614                    Pathway
+NAME        Renin-angiotensin system
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04614  Renin-angiotensin system
+DISEASE     H00541  Uromodulin-associated kidney diseases
+            H00575  Renal tubular dysgenesis
+REFERENCE   PMID:17229979
+  AUTHORS   Kramkowski K, Mogielnicki A, Buczko W.
+  TITLE     The physiological significance of the alternative pathways of angiotensin II production.
+  JOURNAL   J Physiol Pharmacol 57:529-39 (2006)
+REFERENCE   PMID:15549172
+  AUTHORS   Danilczyk U, Eriksson U, Oudit GY, Penninger JM.
+  TITLE     Physiological roles of angiotensin-converting enzyme 2.
+  JOURNAL   Cell Mol Life Sci 61:2714-9 (2004)
+REFERENCE   PMID:15549171
+  AUTHORS   Warner FJ, Smith AI, Hooper NM, Turner AJ.
+  TITLE     Angiotensin-converting enzyme-2: a molecular and cellular perspective.
+  JOURNAL   Cell Mol Life Sci 61:2704-13 (2004)
+REFERENCE   PMID:15833268
+  AUTHORS   Kurdi M, De Mello WC, Booz GW.
+  TITLE     Working outside the system: an update on the unconventional behavior of the renin-angiotensin system components.
+  JOURNAL   Int J Biochem Cell Biol 37:1357-67 (2005)
+REFERENCE   PMID:15109615
+  AUTHORS   Burrell LM, Johnston CI, Tikellis C, Cooper ME.
+  TITLE     ACE2, a new regulator of the renin-angiotensin system.
+  JOURNAL   Trends Endocrinol Metab 15:166-9 (2004)
+REFERENCE   PMID:16555051
+  AUTHORS   von Bohlen und Halbach O, Albrecht D.
+  TITLE     The CNS renin-angiotensin system.
+  JOURNAL   Cell Tissue Res 326:599-616 (2006)
+REFERENCE   PMID:12793984
+  AUTHORS   Schmaier AH
+  TITLE     The kallikrein-kinin and the renin-angiotensin systems have a multilayered interaction.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 285:R1-13 (2003)
+REFERENCE   PMID:12419208
+  AUTHORS   Eriksson U, Danilczyk U, Penninger JM.
+  TITLE     Just the beginning: novel functions for angiotensin-converting enzymes.
+  JOURNAL   Curr Biol 12:R745-52 (2002)
+REFERENCE   PMID:16286563
+  AUTHORS   Dielis AW, Smid M, Spronk HM, Hamulyak K, Kroon AA, ten Cate H, de Leeuw PW.
+  TITLE     The prothrombotic paradox of hypertension: role of the renin-angiotensin and kallikrein-kinin systems.
+  JOURNAL   Hypertension 46:1236-42 (2005)
+REFERENCE   PMID:16581295
+  AUTHORS   Kuba K, Imai Y, Penninger JM.
+  TITLE     Angiotensin-converting enzyme 2 in lung diseases.
+  JOURNAL   Curr Opin Pharmacol 6:271-6 (2006)
+REFERENCE   PMID:12505055
+  AUTHORS   Erdos EG, Jackman HL, Brovkovych V, Tan F, Deddish PA.
+  TITLE     Products of angiotensin I hydrolysis by human cardiac enzymes potentiate bradykinin.
+  JOURNAL   J Mol Cell Cardiol 34:1569-76 (2002)
+REFERENCE   PMID:12372844
+  AUTHORS   Shrimpton CN, Smith AI, Lew RA.
+  TITLE     Soluble metalloendopeptidases and neuroendocrine signaling.
+  JOURNAL   Endocr Rev 23:647-64 (2002)
+REFERENCE   PMID:12019279
+  AUTHORS   Jackman HL, Massad MG, Sekosan M, Tan F, Brovkovych V, Marcic BM, Erdos EG.
+  TITLE     Angiotensin 1-9 and 1-7 release in human heart: role of cathepsin A.
+  JOURNAL   Hypertension 39:976-81 (2002)
+REFERENCE   PMID:15173164
+  AUTHORS   Lundequist A, Tchougounova E, Abrink M, Pejler G.
+  TITLE     Cooperation between mast cell carboxypeptidase A and the chymase mouse mast cell protease 4 in the formation and degradation of angiotensin II.
+  JOURNAL   J Biol Chem 279:32339-44 (2004)
+REFERENCE   PMID:17362841
+  AUTHORS   Kehoe PG, Wilcock GK.
+  TITLE     Is inhibition of the renin-angiotensin system a new treatment option for Alzheimer's disease?
+  JOURNAL   Lancet Neurol 6:373-8 (2007)
+KO_PATHWAY  ko04614
+///

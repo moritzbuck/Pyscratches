@@ -1,0 +1,79 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04750
+server: Apache
+date: Wed, 15 Oct 2014 15:09:05 GMT
+content-type: text/plain
+
+ENTRY       map04750                    Pathway
+NAME        Inflammatory mediator regulation of TRP channels
+DESCRIPTION The TRP channels that exhibit a unique response to temperature have been given the name thermo-TRPs.  Among all thermo- TRP channels, TRPV1-4, TRPM8, and TRPA1 are expressed in subsets of nociceptive dorsal root ganglion (DRG) neuron cell bodies including their peripheral and central projections. These channels can be modulated indirectly by inflammatory mediators such as PGE2, bradykinin, ATP, NGF, and proinflammatory cytokines that are generated during tissue injury. While the noxious heat receptor TRPV1 is sensitized (that is, their excitability can be increased) by post-translational modifications upon activation of G-protein coupled receptors (GPCRs) or tyrosine kinase receptors, the receptors for inflammatory mediators, the same action appears to mainly desensitize TRPM8, the main somatic innocuous cold sensor. This aforementioned sensitization could allow the receptor to become active at body temperature, so it not only contributes toward thermal hypersensitivity but also is possibly a substrate for ongoing persistent pain.
+CLASS       Organismal Systems; Sensory system
+PATHWAY_MAP map04750  Inflammatory mediator regulation of TRP channels
+DISEASE     H01391  Familial episodic pain syndrome (FEPS)
+DBLINKS     GO: 0019233
+REFERENCE   PMID:15820689
+  AUTHORS   Wang H, Woolf CJ
+  TITLE     Pain TRPs.
+  JOURNAL   Neuron 46:9-12 (2005)
+REFERENCE   PMID:17321113
+  AUTHORS   Levine JD, Alessandri-Haber N
+  TITLE     TRP channels: targets for the relief of pain.
+  JOURNAL   Biochim Biophys Acta 1772:989-1003 (2007)
+REFERENCE   PMID:18427980
+  AUTHORS   Cheng JK, Ji RR
+  TITLE     Intracellular signaling in primary sensory neurons and persistent pain.
+  JOURNAL   Neurochem Res 33:1970-8 (2008)
+REFERENCE   PMID:24099085
+  AUTHORS   Julius D
+  TITLE     TRP channels and pain.
+  JOURNAL   Annu Rev Cell Dev Biol 29:355-84 (2013)
+REFERENCE   PMID:12838328
+  AUTHORS   Patapoutian A, Peier AM, Story GM, Viswanath V
+  TITLE     ThermoTRP channels and beyond: mechanisms of temperature sensation.
+  JOURNAL   Nat Rev Neurosci 4:529-39 (2003)
+REFERENCE   PMID:16776582
+  AUTHORS   Dhaka A, Viswanath V, Patapoutian A
+  TITLE     Trp ion channels and temperature sensation.
+  JOURNAL   Annu Rev Neurosci 29:135-61 (2006)
+REFERENCE   PMID:18615141
+  AUTHORS   Story GM
+  TITLE     The emerging role of TRP channels in mechanisms of temperature and pain sensation.
+  JOURNAL   Curr Neuropharmacol 4:183-96 (2006)
+REFERENCE   PMID:17548207
+  AUTHORS   Velazquez KT, Mohammad H, Sweitzer SM
+  TITLE     Protein kinase C in pain: involvement of multiple isoforms.
+  JOURNAL   Pharmacol Res 55:578-89 (2007)
+REFERENCE   PMID:16319926
+  AUTHORS   Zhang X, Huang J, McNaughton PA
+  TITLE     NGF rapidly increases membrane expression of TRPV1 heat-gated ion channels.
+  JOURNAL   EMBO J 24:4211-23 (2005)
+REFERENCE   PMID:19074743
+  AUTHORS   Bessac BF, Jordt SE
+  TITLE     Breathtaking TRP channels: TRPA1 and TRPV1 in airway chemosensation and reflex control.
+  JOURNAL   Physiology (Bethesda) 23:360-70 (2008)
+REFERENCE   PMID:17684094
+  AUTHORS   Trevisani M, Siemens J, Materazzi S, Bautista DM, Nassini R, Campi B, Imamachi N, Andre E, Patacchini R, Cottrell GS, Gatti R, Basbaum AI, Bunnett NW, Julius D, Geppetti P
+  TITLE     4-Hydroxynonenal, an endogenous aldehyde, causes pain and neurogenic inflammation through activation of the irritant receptor TRPA1.
+  JOURNAL   Proc Natl Acad Sci U S A 104:13519-24 (2007)
+REFERENCE   PMID:21841075
+  AUTHORS   Latorre R, Brauchi S, Madrid R, Orio P
+  TITLE     A cool channel in cold transduction.
+  JOURNAL   Physiology (Bethesda) 26:273-85 (2011)
+REFERENCE   PMID:20932256
+  AUTHORS   Babes A, Ciobanu AC, Neacsu C, Babes RM
+  TITLE     TRPM8, a sensor for mild cooling in mammalian sensory nerve endings.
+  JOURNAL   Curr Pharm Biotechnol 12:78-88 (2011)
+REFERENCE   PMID:23000387
+  AUTHORS   Loyd DR, Henry MA, Hargreaves KM
+  TITLE     Serotonergic neuromodulation of peripheral nociceptors.
+  JOURNAL   Semin Cell Dev Biol 24:51-7 (2013)
+REFERENCE   PMID:17124270
+  AUTHORS   Grant AD, Cottrell GS, Amadesi S, Trevisani M, Nicoletti P, Materazzi S, Altier C, Cenac N, Zamponi GW, Bautista-Cruz F, Lopez CB, Joseph EK, Levine JD, Liedtke W, Vanner S, Vergnolle N, Geppetti P, Bunnett NW
+  TITLE     Protease-activated receptor 2 sensitizes the transient receptor potential vanilloid 4 ion channel to cause mechanical hyperalgesia in mice.
+  JOURNAL   J Physiol 578:715-33 (2007)
+REFERENCE   PMID:22470230
+  AUTHORS   Mandadi S, Armati PJ, Roufogalis BD
+  TITLE     Protein kinase C modulation of thermo-sensitive transient receptor potential channels: Implications for pain signaling.
+  JOURNAL   J Nat Sci Biol Med 2:13-25 (2011)
+KO_PATHWAY  ko04750
+///

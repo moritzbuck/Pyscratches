@@ -1,0 +1,46 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05219
+server: Apache
+date: Wed, 15 Oct 2014 14:59:11 GMT
+content-type: text/plain
+
+ENTRY       map05219                    Pathway
+NAME        Bladder cancer
+DESCRIPTION The urothelium covers the luminal surface of almost the entire urinary tract, extending from the renal pelvis, through the ureter and bladder, to the proximal urethra. The majority of urothelial carcinoma are bladder carcinomas, and urothelial carcinomas of the renal pelvis and ureter account for only approximately 7% of the total. Urothelial tumours arise and evolve through divergent phenotypic pathways. Some tumours progress from urothelial hyperplasia to low-grade non-invasive superficial papillary tumours. More aggressive variants arise either from flat, high-grade carcinoma in situ (CIS) and progress to invasive tumours, or they arise de novo as invasive tumours. Low-grade papillary tumors frequently show a constitutive activation of the receptor tyrosine kinase-Ras pathway, exhibiting activating mutations in the HRAS and fibroblast growth factor receptor 3 (FGFR3) genes. In contrast, CIS and invasive tumors frequently show alterations in the TP53 and RB genes and pathways. Invasion and metastases are promoted by several factors that alter the tumour microenvironment, including the aberrant expression of  E-cadherins (E-cad), matrix metalloproteinases (MMPs), angiogenic factors such as vascular endothelial growth factor (VEGF).
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05219  Bladder cancer
+DISEASE     H00022  Bladder cancer
+REFERENCE   PMID:17158541
+  AUTHORS   Mitra AP, Datar RH, Cote RJ.
+  TITLE     Molecular pathways in invasive bladder cancer: new insights into mechanisms, progression, and target identification.
+  JOURNAL   J Clin Oncol 24:5552-64 (2006)
+REFERENCE   PMID:16474624
+  AUTHORS   Wolff EM, Liang G, Jones PA.
+  TITLE     Mechanisms of Disease: genetic and epigenetic alterations that drive bladder cancer.
+  JOURNAL   Nat Clin Pract Urol 2:502-10 (2005)
+REFERENCE   PMID:16110317
+  AUTHORS   Wu XR.
+  TITLE     Urothelial tumorigenesis: a tale of divergent pathways.
+  JOURNAL   Nat Rev Cancer 5:713-25 (2005)
+REFERENCE   PMID:11103787
+  AUTHORS   Brown NS, Jones A, Fujiyama C, Harris AL, Bicknell R.
+  TITLE     Thymidine phosphorylase induces carcinoma cell oxidative stress and promotes secretion of angiogenic factors.
+  JOURNAL   Cancer Res 60:6298-302 (2000)
+REFERENCE   PMID:12850530
+  AUTHORS   Bellmunt J, Hussain M, Dinney CP.
+  TITLE     Novel approaches with targeted therapies in bladder cancer. Therapy of bladder cancer by blockade of the epidermal growth factor receptor family.
+  JOURNAL   Crit Rev Oncol Hematol 46 Suppl:S85-104 (2003)
+REFERENCE   PMID:17149381
+  AUTHORS   Sugano K, Kakizoe T.
+  TITLE     Genetic alterations in bladder cancer and their clinical applications in molecular tumor staging.
+  JOURNAL   Nat Clin Pract Urol 3:642-52 (2006)
+REFERENCE   PMID:15746962
+  AUTHORS   Dunn KL, Espino PS, Drobic B, He S, Davie JR.
+  TITLE     The Ras-MAPK signal transduction pathway, cancer and chromatin remodeling.
+  JOURNAL   Biochem Cell Biol 83:1-14 (2005)
+REFERENCE   PMID:15551095
+  AUTHORS   Williams SG, Stein JP.
+  TITLE     Molecular pathways in bladder cancer.
+  JOURNAL   Urol Res 32:373-85 (2004)
+KO_PATHWAY  ko05219
+///

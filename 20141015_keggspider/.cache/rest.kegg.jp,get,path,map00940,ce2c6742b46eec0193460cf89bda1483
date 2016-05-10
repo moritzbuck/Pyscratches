@@ -1,0 +1,68 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00940
+server: Apache
+date: Wed, 15 Oct 2014 14:57:49 GMT
+content-type: text/plain
+
+ENTRY       map00940                    Pathway
+NAME        Phenylpropanoid biosynthesis
+DESCRIPTION Phenylpropanoids are a group of plant secondary metabolites derived from phenylalanine and having a wide variety of functions both as structural and signaling molecules. Phenylalanine is first converted to cinnamic acid by deamination. It is followed by hydroxylation and frequent methylation to generate coumaric acid and other acids with a phenylpropane (C6-C3) unit. Reduction of the CoA-activated carboxyl groups of these acids results in the corresponding aldehydes and alcohols. The alcohols are called monolignols, the starting compounds for biosynthesis of lignin.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00940  Phenylpropanoid biosynthesis
+MODULE      M00039  Monolignol biosynthesis, phenylalanine/tyrosine  => monolignol [PATH:map00940]
+            M00137  Flavanone biosynthesis, phenylalanine => naringenin [PATH:map00940]
+DBLINKS     GO: 0009699
+REFERENCE   PMID:14729911
+  AUTHORS   Nair RB, Bastress KL, Ruegger MO, Denault JW, Chapple C.
+  TITLE     The Arabidopsis thaliana REDUCED EPIDERMAL FLUORESCENCE1 gene encodes an aldehyde dehydrogenase involved in ferulic acid and sinapic acid biosynthesis.
+  JOURNAL   Plant Cell 16:544-54 (2004)
+REFERENCE   PMID:14551235
+  AUTHORS   Baucher M, Halpin C, Petit-Conil M, Boerjan W.
+  TITLE     Lignin: genetic engineering and impact on pulping.
+  JOURNAL   Crit Rev Biochem Mol Biol 38:305-50 (2003)
+REFERENCE   PMID:15878986
+  AUTHORS   Rogers LA, Dubos C, Cullis IF, Surman C, Poole M, Willment J, Mansfield SD, Campbell MM.
+  TITLE     Light, the circadian clock, and sugar perception in the control of lignin biosynthesis.
+  JOURNAL   J Exp Bot 56:1651-63 (2005)
+REFERENCE   PMID:12242395
+  AUTHORS   Whetten R, Sederoff R.
+  TITLE     Lignin Biosynthesis.
+  JOURNAL   Plant Cell 7:1001-1013 (1995)
+REFERENCE   PMID:8972602
+  AUTHORS   Lorenzen M, Racicot V, Strack D, Chapple C.
+  TITLE     Sinapic acid ester metabolism in wild type and a sinapoylglucose-accumulating mutant of arabidopsis.
+  JOURNAL   Plant Physiol 112:1625-30 (1996)
+REFERENCE   PMID:1477555
+  AUTHORS   Chapple CC, Vogt T, Ellis BE, Somerville CR.
+  TITLE     An Arabidopsis mutant defective in the general phenylpropanoid pathway.
+  JOURNAL   Plant Cell 4:1413-24 (1992)
+REFERENCE   PMID:14612585
+  AUTHORS   Raes J, Rohde A, Christensen JH, Van de Peer Y, Boerjan W.
+  TITLE     Genome-wide characterization of the lignification toolbox in Arabidopsis.
+  JOURNAL   Plant Physiol 133:1051-71 (2003)
+REFERENCE   PMID:14568076
+  AUTHORS   Costa MA, Collins RE, Anterola AM, Cochrane FC, Davin LB, Lewis NG.
+  TITLE     An in silico assessment of gene function and organization of the phenylpropanoid pathway metabolic networks in Arabidopsis thaliana and limitations thereof.
+  JOURNAL   Phytochemistry 64:1097-112 (2003)
+REFERENCE   PMID:10934215
+  AUTHORS   Meyermans H, Morreel K, Lapierre C, Pollet B, De Bruyn A, Busson R, Herdewijn P, Devreese B, Van Beeumen J, Marita JM, Ralph J, Chen C, Burggraeve B, Van Montagu M, Messens E, Boerjan W.
+  TITLE     Modifications in lignin and accumulation of phenolic glucosides in poplar xylem upon down-regulation of caffeoyl-coenzyme A O-methyltransferase, an enzyme involved in lignin biosynthesis.
+  JOURNAL   J Biol Chem 275:36899-909 (2000)
+REFERENCE   PMID:16027976
+  AUTHORS   Gachon CM, Langlois-Meurinne M, Henry Y, Saindrenan P.
+  TITLE     Transcriptional co-regulation of secondary metabolism enzymes in Arabidopsis: functional and evolutionary implications.
+  JOURNAL   Plant Mol Biol 58:229-45 (2005)
+REFERENCE   PMID:10692459
+  AUTHORS   Li L, Popko JL, Umezawa T, Chiang VL.
+  TITLE     5-hydroxyconiferyl aldehyde modulates enzymatic methylation for syringyl monolignol formation, a new view of monolignol biosynthesis in angiosperms.
+  JOURNAL   J Biol Chem 275:6537-45 (2000)
+REFERENCE   PMID:12009990
+  AUTHORS   Yamauchi K, Yasuda S, Fukushima K.
+  TITLE     Evidence for the biosynthetic pathway from sinapic acid to syringyl lignin using labeled sinapic acid with stable isotope at both methoxy groups in Robinia pseudoacacia and Nerium indicum.
+  JOURNAL   J Agric Food Chem 50:3222-7 (2002)
+REFERENCE   PMID:12084820
+  AUTHORS   Eckardt NA.
+  TITLE     Probing the mysteries of lignin biosynthesis: the crystal structure of caffeic acid/5-hydroxyferulic acid 3/5-O-methyltransferase provides new insights.
+  JOURNAL   Plant Cell 14:1185-9 (2002)
+KO_PATHWAY  ko00940
+///

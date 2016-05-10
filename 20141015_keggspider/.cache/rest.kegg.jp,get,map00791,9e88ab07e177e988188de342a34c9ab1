@@ -1,0 +1,22 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00791
+server: Apache
+date: Wed, 15 Oct 2014 15:08:06 GMT
+content-type: text/plain
+
+ENTRY       map00791                    Pathway
+NAME        Atrazine degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00791  Atrazine degradation
+DBLINKS     UMBBD: atr cya cnm cpm
+            GO: 0019381
+REFERENCE   PMID:16597948
+  AUTHORS   Shapir N, Cheng G, Sadowsky MJ, Wackett LP
+  TITLE     Purification and characterization of TrzF: biuret hydrolysis by allophanate hydrolase supports growth.
+  JOURNAL   Appl Environ Microbiol 72:2491-5 (2006)
+REFERENCE   PMID:16085834
+  AUTHORS   Cheng G, Shapir N, Sadowsky MJ, Wackett LP.
+  TITLE     Allophanate hydrolase, not urease, functions in bacterial cyanuric acid metabolism.
+  JOURNAL   Appl Environ Microbiol 71:4437-45 (2005)
+KO_PATHWAY  ko00791
+///

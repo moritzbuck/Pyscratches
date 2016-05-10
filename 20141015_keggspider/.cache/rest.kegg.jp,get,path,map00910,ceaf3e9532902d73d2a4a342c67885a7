@@ -1,0 +1,52 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00910
+server: Apache
+date: Wed, 15 Oct 2014 14:57:48 GMT
+content-type: text/plain
+
+ENTRY       map00910                    Pathway
+NAME        Nitrogen metabolism
+DESCRIPTION The biological process of the nitrogen cycle is a complex interplay among many microorganisms catalyzing different reactions, where nitrogen is found in various oxidation states ranging from +5 in nitrate to -3 in ammonia. The core nitrogen cycle involves four reduction pathways and two oxidation pathways. Nitrogen fixation [MD:M00175] is the process of reducing atmospheric molecular nitrogen to ammonia, a biologically useful reduced form incorporated into amino acids and other vital compounds. The ability of fixing atmospheric nitrogen by the nitrogenase enzyme complex is present in restricted prokaryotes (diazotrophs). The other reduction pathways are assimilatory nitrate reduction [MD:M00531] and dissimilatory nitrate reduction [MD:M00530] both for conversion to ammonia, and denitrification [MD:M00529]. Denitrification is a respiration in which nitrate or nitrite is reduced as a terminal electron acceptor under low oxygen or anoxic conditions, producing gaseous nitrogen compounds (N2, NO and N2O) to the atmosphere. The two oxidation pathways are nitrification [MD:M00528] and anaerobic ammonium oxidation (anammox). Nitrification is the oxidation of ammonia (NH3) with oxygen into nitrite followed by the oxidation of nitrite into nitrate. The first step is performed by ammonia-oxidizing microorganisms (e.g., Nitrosomonas and Nitrosococcus) and the second step by nitrite-oxidizing microorganisms (e.g., Nitrobacter). Anammox is a biochemical process of oxidizing ammonium (NH4+) into dinitrogen gas (N2) using nitrite as an electron acceptor. It occurs in the anammoxosome, a membrane bound compartment inside the cytoplasm, of anammox bacteria (e.g., Planctomycetes).
+CLASS       Metabolism; Energy metabolism
+PATHWAY_MAP map00910  Nitrogen metabolism
+MODULE      M00175  Nitrogen fixation, nitrogen => ammonia [PATH:map00910]
+            M00528  Nitrification, ammonia => nitrite [PATH:map00910]
+            M00529  Denitrification, nitrate => nitrogen [PATH:map00910]
+            M00530  Dissimilatory nitrate reduction, nitrate => ammonia [PATH:map00910]
+            M00531  Assimilatory nitrate reduction, nitrate => ammonia [PATH:map00910]
+DISEASE     H00923  Congenital systemic glutamine deficiency (CSGD)
+DBLINKS     GO: 0006807
+REFERENCE   PMID:14702404
+  AUTHORS   Scott JD, Ludwig RA
+  TITLE     Azorhizobium caulinodans electron-transferring flavoprotein N electrochemically couples pyruvate dehydrogenase complex activity to N2 fixation.
+  JOURNAL   Microbiology 150:117-26 (2004)
+REFERENCE   PMID:17408485
+  AUTHORS   Kneip C, Lockhart P, Voss C, Maier UG
+  TITLE     Nitrogen fixation in eukaryotes--new models for symbiosis.
+  JOURNAL   BMC Evol Biol 7:55 (2007)
+REFERENCE   PMID:11004450
+  AUTHORS   Whittaker M, Bergmann D, Arciero D, Hooper AB
+  TITLE     Electron transfer during the oxidation of ammonia by the chemolithotrophic bacterium Nitrosomonas europaea.
+  JOURNAL   Biochim Biophys Acta 1459:346-55 (2000)
+REFERENCE   PMID:15528644
+  AUTHORS   Cabello P, Roldan MD, Moreno-Vivian C
+  TITLE     Nitrate reduction and the nitrogen cycle in archaea.
+  JOURNAL   Microbiology 150:3527-46 (2004)
+REFERENCE   PMID:11921398
+  AUTHORS   Stolz JF, Basu P
+  TITLE     Evolution of nitrate reductase: molecular and structural variations on a common function.
+  JOURNAL   Chembiochem 3:198-206 (2002)
+REFERENCE   PMID:18021072
+  AUTHORS   Morozkina EV, Zvyagilskaya RA
+  TITLE     Nitrate reductases: structure, functions, and effect of stress factors.
+  JOURNAL   Biochemistry (Mosc) 72:1151-60 (2007)
+REFERENCE   PMID:19247843
+  AUTHORS   Jetten MS, Niftrik L, Strous M, Kartal B, Keltjens JT, Op den Camp HJ
+  TITLE     Biochemistry and molecular biology of anammox bacteria.
+  JOURNAL   Crit Rev Biochem Mol Biol 44:65-84 (2009)
+REFERENCE   PMID:22221911
+  AUTHORS   Luesken FA, Wu ML, Op den Camp HJ, Keltjens JT, Stunnenberg H, Francoijs KJ, Strous M, Jetten MS
+  TITLE     Effect of oxygen on the anaerobic methanotroph 'Candidatus Methylomirabilis oxyfera': kinetic and transcriptional analysis.
+  JOURNAL   Environ Microbiol 14:1024-34 (2012)
+KO_PATHWAY  ko00910
+///

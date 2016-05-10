@@ -1,0 +1,26 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00460
+server: Apache
+date: Wed, 15 Oct 2014 15:07:46 GMT
+content-type: text/plain
+
+ENTRY       map00460                    Pathway
+NAME        Cyanoamino acid metabolism
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP map00460  Cyanoamino acid metabolism
+MODULE      M00369  Cyanogenic glycoside biosynthesis, tyrosine => dhurrin [PATH:map00460]
+DBLINKS     GO: 0033052 0019756
+REFERENCE   PMID:11575729
+  AUTHORS   Maruyama A, Saito K, Ishizawa K
+  TITLE     Beta-cyanoalanine synthase and cysteine synthase from potato: molecular cloning,  biochemical characterization, and spatial and hormonal regulation.
+  JOURNAL   Plant Mol Biol 46:749-60 (2001)
+REFERENCE   PMID:10636899
+  AUTHORS   Andersen MD, Busk PK, Svendsen I, Moller BL
+  TITLE     Cytochromes P-450 from cassava (Manihot esculenta Crantz) catalyzing the first steps in the biosynthesis of the cyanogenic glucosides linamarin and lotaustralin. Cloning, functional expression in Pichia pastoris, and substrate specificity of the isolated recombinant enzymes.
+  JOURNAL   J Biol Chem 275:1966-75 (2000)
+REFERENCE   
+  AUTHORS   Andrea H, Meinhard H, Herfried G.
+  TITLE     Hydroxynitrile lyases: Functions and properties
+  JOURNAL   Physiologia Plantarum 98(4):891-898 (2006)
+KO_PATHWAY  ko00460
+///

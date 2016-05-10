@@ -1,0 +1,33 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00740
+server: Apache
+date: Wed, 15 Oct 2014 14:57:41 GMT
+content-type: text/plain
+
+ENTRY       map00740                    Pathway
+NAME        Riboflavin metabolism
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP map00740  Riboflavin metabolism
+MODULE      M00125  Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD [PATH:map00740]
+DISEASE     H01002  Generalized arterial calcification of infancy
+            H01113  Acid phosphatase deficiency
+            H01394  Cole disease
+DBLINKS     GO: 0006771
+REFERENCE   PMID:12136096
+  AUTHORS   Vitreschak AG, Rodionov DA, Mironov AA, Gelfand MS.
+  TITLE     Regulation of riboflavin biosynthesis and transport genes in bacteria by transcriptional and translational attenuation.
+  JOURNAL   Nucleic Acids Res 30:3141-51 (2002)
+REFERENCE   PMID:11856310
+  AUTHORS   Fischer M, Haase I, Feicht R, Richter G, Gerhardt S, Changeux JP, Huber R, Bacher A.
+  TITLE     Biosynthesis of riboflavin: 6,7-dimethyl-8-ribityllumazine synthase of Schizosaccharomyces pombe.
+  JOURNAL   Eur J Biochem 269:519-26 (2002)
+REFERENCE   PMID:12867427
+  AUTHORS   Haase I, Fischer M, Bacher A, Schramek N.
+  TITLE     Temperature-dependent presteady state kinetics of lumazine synthase from the hyperthermophilic eubacterium Aquifex aeolicus.
+  JOURNAL   J Biol Chem 278:37909-15 (2003)
+REFERENCE   PMID:16042598
+  AUTHORS   Fischer M, Romisch W, Illarionov B, Eisenreich W, Bacher A.
+  TITLE     Structures and reaction mechanisms of riboflavin synthases of eubacterial and archaeal origin.
+  JOURNAL   Biochem Soc Trans 33:780-4 (2005)
+KO_PATHWAY  ko00740
+///

@@ -1,0 +1,33 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05120
+server: Apache
+date: Wed, 15 Oct 2014 14:58:58 GMT
+content-type: text/plain
+
+ENTRY       map05120                    Pathway
+NAME        Epithelial cell signaling in Helicobacter pylori infection
+DESCRIPTION Two major virulence factors of H. pylori are the vacuolating cytotoxin (VacA) and the cag type-IV secretion system (T4SS) and its translocated effector protein, cytotoxin-associated antigen A (CagA).
+            VacA binds to lipid rafts and glycosylphosphatidylinositol-anchored proteins (GPI-APs) of the target cell membrane. After insertion into the plasma membrane, VacA channels are endocytosed and eventually reach late endosomal compartments, increasing their permeability to anions with enhancement of the electrogenic vacuolar ATPase (v-ATPase) proton pump. In the presence of weak bases, osmotically active acidotropic ions will accumulate in the endosomes. This leads to water influx and vesicle swelling, an essential step in vacuole formation. In addition, it is reported that the VacA cleavage product binds to the tyrosine phosphatase receptor zeta (Ptprz) on epithelial cells and the induced signaling leads to the phosphorylation of the G protein-coupled receptor kinase-interactor 1 (Git1) and induces ulcerogenesis in mice.
+            The other virulence factor cag T4SS mediates the translocation of the effector protein CagA, which is subsequently phosphorylated by a Src kinase. Phosphorylated CagA interacts with the protein tyrosine phosphatase SHP-2, thus stimulating its phosphatase activity. Activated SHP-2 is able to induce MAPK signalling through Ras/Raf-dependent and -independent mechanisms. Deregulation of this pathway by CagA may lead to abnormal proliferation and movement of gastric epithelial cells.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05120  Epithelial cell signaling in Helicobacter pylori infection
+MODULE      M00564  Helicobacter pylori pathogenicity signature, cagA pathogenicity island [PATH:map05120]
+DISEASE     H00320  Helicobacter pylori infection
+REFERENCE   PMID:14700549
+  AUTHORS   Naumann M, Crabtree JE.
+  TITLE     Helicobacter pylori-induced epithelial cell signalling in gastric carcinogenesis.
+  JOURNAL   Trends Microbiol 12:29-36 (2004)
+REFERENCE   PMID:15694859
+  AUTHORS   Rieder G, Fischer W, Haas R.
+  TITLE     Interaction of Helicobacter pylori with host cells: function of secreted and translocated molecules.
+  JOURNAL   Curr Opin Microbiol 8:67-73 (2005)
+REFERENCE   PMID:11389469
+  AUTHORS   Montecucco C, Rappuoli R.
+  TITLE     Living dangerously: how Helicobacter pylori survives in the human stomach.
+  JOURNAL   Nat Rev Mol Cell Biol 2:457-66 (2001)
+REFERENCE   PMID:12197905
+  AUTHORS   Gerhard M, Rad R, Prinz C, Naumann M.
+  TITLE     Pathogenesis of Helicobacter pylori infection.
+  JOURNAL   Helicobacter 7 Suppl 1:17-23 (2002)
+KO_PATHWAY  ko05120
+///

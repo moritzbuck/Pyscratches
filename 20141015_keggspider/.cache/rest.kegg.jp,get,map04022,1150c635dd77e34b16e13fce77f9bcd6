@@ -1,0 +1,106 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04022
+server: Apache
+date: Wed, 15 Oct 2014 15:08:36 GMT
+content-type: text/plain
+
+ENTRY       map04022                    Pathway
+NAME        cGMP-PKG signaling pathway
+DESCRIPTION Cyclic GMP (cGMP) is the intracellular second messenger that mediates the action of nitric oxide (NO) and natriuretic peptides (NPs), regulating a broad array of physiologic processes. The elevated intracellular cGMP level exerts its physiological action through two forms of cGMP-dependent protein kinase (PKG), cGMP-regulated phosphodiesterases (PDE2, PDE3) and cGMP-gated cation channels, among which PKGs might be the primary mediator. PKG1 isoform-specific activation of established substrates leads to reduction of cytosolic calcium concentration and/or decrease in the sensitivity of myofilaments to Ca2+ (Ca2+-desensitization), resulting in smooth muscle relaxation. In cardiac myocyte, PKG directly phosphorylates a member of the transient potential receptor canonical channel family, TRPC6, suppressing this nonselective ion channel's Ca2+ conductance, G-alpha-q agonist-induced NFAT activation, and myocyte hypertrophic responses. PKG also opens mitochondrial ATP-sensitive K+ (mitoKATP) channels and subsequent release of ROS triggers cardioprotection.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04022  cGMP-PKG signaling pathway
+DBLINKS     GO: 0070305
+REFERENCE   PMID:20716671
+  AUTHORS   Francis SH, Busch JL, Corbin JD, Sibley D
+  TITLE     cGMP-dependent protein kinases and cGMP phosphodiesterases in nitric oxide and cGMP action.
+  JOURNAL   Pharmacol Rev 62:525-63 (2010)
+REFERENCE   PMID:16439998
+  AUTHORS   Feil R, Kemp-Harper B
+  TITLE     cGMP signalling: from bench to bedside. Conference on cGMP generators, effectors  and therapeutic implications.
+  JOURNAL   EMBO Rep 7:149-53 (2006)
+REFERENCE   PMID:22785374
+  AUTHORS   Takimoto E
+  TITLE     Cyclic GMP-dependent signaling in cardiac myocytes.
+  JOURNAL   Circ J 76:1819-25 (2012)
+REFERENCE   PMID:16371594
+  AUTHORS   Hofmann F, Feil R, Kleppisch T, Schlossmann J
+  TITLE     Function of cGMP-dependent protein kinases as revealed by gene deletion.
+  JOURNAL   Physiol Rev 86:1-23 (2006)
+REFERENCE   PMID:21685243
+  AUTHORS   Kuebler WM
+  TITLE     The Janus-faced regulation of endothelial permeability by cyclic GMP.
+  JOURNAL   Am J Physiol Lung Cell Mol Physiol 301:L157-60 (2011)
+REFERENCE   PMID:21666108
+  AUTHORS   Schlossmann J, Desch M
+  TITLE     IRAG and novel PKG targeting in the cardiovascular system.
+  JOURNAL   Am J Physiol Heart Circ Physiol 301:H672-82 (2011)
+REFERENCE   PMID:16460276
+  AUTHORS   Murthy KS
+  TITLE     Signaling for contraction and relaxation in smooth muscle of the gut.
+  JOURNAL   Annu Rev Physiol 68:345-74 (2006)
+REFERENCE   PMID:22965426
+  AUTHORS   Sanders KM, Koh SD, Ro S, Ward SM
+  TITLE     Regulation of gastrointestinal motility--insights from smooth muscle biology.
+  JOURNAL   Nat Rev Gastroenterol Hepatol 9:633-45 (2012)
+REFERENCE   PMID:20024580
+  AUTHORS   Gao Y
+  TITLE     The multiple actions of NO.
+  JOURNAL   Pflugers Arch 459:829-39 (2010)
+REFERENCE   PMID:9003029
+  AUTHORS   Wang X, Robinson PJ
+  TITLE     Cyclic GMP-dependent protein kinase and cellular signaling in the nervous system.
+  JOURNAL   J Neurochem 68:443-56 (1997)
+REFERENCE   PMID:19306895
+  AUTHORS   Tsai EJ, Kass DA
+  TITLE     Cyclic GMP signaling in cardiovascular pathophysiology and therapeutics.
+  JOURNAL   Pharmacol Ther 122:216-38 (2009)
+REFERENCE   PMID:20388537
+  AUTHORS   Villanueva C, Giulivi C
+  TITLE     Subcellular and cellular locations of nitric oxide synthase isoforms as determinants of health and disease.
+  JOURNAL   Free Radic Biol Med 49:307-16 (2010)
+REFERENCE   PMID:15894227
+  AUTHORS   Schlossmann J, Hofmann F
+  TITLE     cGMP-dependent protein kinases in drug discovery.
+  JOURNAL   Drug Discov Today 10:627-34 (2005)
+REFERENCE   PMID:18040025
+  AUTHORS   Kass DA, Champion HC, Beavo JA
+  TITLE     Phosphodiesterase type 5: expanding roles in cardiovascular regulation.
+  JOURNAL   Circ Res 101:1084-95 (2007)
+REFERENCE   PMID:16815627
+  AUTHORS   Uckert S, Hedlund P, Andersson KE, Truss MC, Jonas U, Stief CG
+  TITLE     Update on phosphodiesterase (PDE) isoenzymes as pharmacologic targets in urology: present and future.
+  JOURNAL   Eur Urol 50:1194-207; discussion 1207 (2006)
+REFERENCE   PMID:12524221
+  AUTHORS   Yan C, Kim D, Aizawa T, Berk BC
+  TITLE     Functional interplay between angiotensin II and nitric oxide: cyclic GMP as a key mediator.
+  JOURNAL   Arterioscler Thromb Vasc Biol 23:26-36 (2003)
+REFERENCE   PMID:17643091
+  AUTHORS   McKinsey TA, Kass DA
+  TITLE     Small-molecule therapies for cardiac hypertrophy: moving beneath the cell surface.
+  JOURNAL   Nat Rev Drug Discov 6:617-35 (2007)
+REFERENCE   PMID:19961855
+  AUTHORS   Koitabashi N, Aiba T, Hesketh GG, Rowell J, Zhang M, Takimoto E, Tomaselli GF, Kass DA
+  TITLE     Cyclic GMP/PKG-dependent inhibition of TRPC6 channel activity and expression negatively regulates cardiomyocyte NFAT activation Novel mechanism of cardiac stress modulation by PDE5 inhibition.
+  JOURNAL   J Mol Cell Cardiol 48:713-24 (2010)
+REFERENCE   PMID:18006449
+  AUTHORS   Costa AD, Pierre SV, Cohen MV, Downey JM, Garlid KD
+  TITLE     cGMP signalling in pre- and post-conditioning: the role of mitochondria.
+  JOURNAL   Cardiovasc Res 77:344-52 (2008)
+REFERENCE   PMID:19176601
+  AUTHORS   Boengler K, Schulz R, Heusch G
+  TITLE     Loss of cardioprotection with ageing.
+  JOURNAL   Cardiovasc Res 83:247-61 (2009)
+REFERENCE   PMID:18757523
+  AUTHORS   Gao Y, Portugal AD, Liu J, Negash S, Zhou W, Tian J, Xiang R, Longo LD, Raj JU
+  TITLE     Preservation of cGMP-induced relaxation of pulmonary veins of fetal lambs exposed to chronic high altitude hypoxia: role of PKG and Rho kinase.
+  JOURNAL   Am J Physiol Lung Cell Mol Physiol 295:L889-96 (2008)
+REFERENCE   PMID:11522789
+  AUTHORS   Li Z, Xi X, Du X
+  TITLE     A mitogen-activated protein kinase-dependent signaling pathway in the activation  of platelet integrin alpha IIbbeta3.
+  JOURNAL   J Biol Chem 276:42226-32 (2001)
+REFERENCE   PMID:23212367
+  AUTHORS   Xie J, Cha SK, An SW, Kuro-O M, Birnbaumer L, Huang CL
+  TITLE     Cardioprotection by Klotho through downregulation of TRPC6 channels in the mouse  heart.
+  JOURNAL   Nat Commun 3:1238 (2012)
+KO_PATHWAY  ko04022
+///

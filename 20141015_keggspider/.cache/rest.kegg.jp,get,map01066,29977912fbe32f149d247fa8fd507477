@@ -1,0 +1,11 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map01066
+server: Apache
+date: Wed, 15 Oct 2014 15:08:22 GMT
+content-type: text/plain
+
+ENTRY       map01066                    Pathway
+NAME        Biosynthesis of alkaloids derived from terpenoid and polyketide
+PATHWAY_MAP map01066  Biosynthesis of alkaloids derived from terpenoid and polyketide
+KO_PATHWAY  ko01066
+///

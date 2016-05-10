@@ -1,0 +1,48 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04664
+server: Apache
+date: Wed, 15 Oct 2014 14:58:35 GMT
+content-type: text/plain
+
+ENTRY       map04664                    Pathway
+NAME        Fc epsilon RI signaling pathway
+DESCRIPTION Fc epsilon RI-mediated signaling pathways in mast cells are initiated by the interaction of antigen (Ag) with IgE bound to the extracellular domain of the alpha chain of Fc epsilon RI. The activation pathways are regulated both positively and negatively by the interactions of numerous signaling molecules. Mast cells that are thus activated release preformed granules which contain biogenic amines (especially histamines) and proteoglycans (especially heparin). The activation of phospholipase A2 causes the release of membrane lipids followed by development of lipid mediators such as leukotrienes (LTC4, LTD4 and LTE4) and prostaglandins (especially PDG2). There is also secretion of cytokines, the most important of which are TNF-alpha, IL-4 and IL-5. These mediators and cytokines contribute to inflammatory responses.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04664  Fc epsilon RI signaling pathway
+DISEASE     H00833  Neurodegeneration with brain iron accumulation (NBIA)
+            H01387  Activated PI3K-delta syndrome (APDS)
+DBLINKS     GO: 0045576
+REFERENCE   PMID:12360215
+  AUTHORS   Kawakami T, Galli SJ.
+  TITLE     Regulation of mast-cell and basophil function and survival by IgE.
+  JOURNAL   Nat Rev Immunol 2:773-86 (2002)
+REFERENCE   PMID:14630197
+  AUTHORS   Siraganian RP.
+  TITLE     Mast cell signal transduction from the high-affinity IgE receptor.
+  JOURNAL   Curr Opin Immunol 15:639-46 (2003)
+REFERENCE   
+  AUTHORS   Janeway CA, Travers P, Walport M, Shlomchik MJ.
+  TITLE     Immunobiology 6th edition
+  JOURNAL   Garland Science Publishing (2005)
+REFERENCE   PMID:10586892
+  AUTHORS   Turner H, Kinet JP.
+  TITLE     Signalling through the high-affinity IgE receptor Fc epsilonRI.
+  JOURNAL   Nature 402:B24-30 (1999)
+REFERENCE   PMID:16470226
+  AUTHORS   Gilfillan AM, Tkaczyk C.
+  TITLE     Integrated signalling pathways for mast-cell activation.
+  JOURNAL   Nat Rev Immunol 6:218-30 (2006)
+REFERENCE   PMID:11079101
+  AUTHORS   Nadler MJ, Matthews SA, Turner H, Kinet JP.
+  TITLE     Signal transduction by the high-affinity immunoglobulin E receptor Fc epsilon RI: coupling form to function.
+  JOURNAL   Adv Immunol 76:325-55 (2000)
+REFERENCE   PMID:11449275
+  AUTHORS   Gu H, Saito K, Klaman LD, Shen J, Fleming T, Wang Y, Pratt JC, Lin G, Lim B, Kinet JP, Neel BG.
+  TITLE     Essential role for Gab2 in the allergic response.
+  JOURNAL   Nature 412:186-90 (2001)
+REFERENCE   PMID:12145654
+  AUTHORS   Nadler MJ, Kinet JP.
+  TITLE     Uncovering new complexities in mast cell signaling.
+  JOURNAL   Nat Immunol 3:707-8 (2002)
+KO_PATHWAY  ko04664
+///

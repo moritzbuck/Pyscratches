@@ -1,0 +1,44 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00720
+server: Apache
+date: Wed, 15 Oct 2014 15:08:03 GMT
+content-type: text/plain
+
+ENTRY       map00720                    Pathway
+NAME        Carbon fixation pathways in prokaryotes
+DESCRIPTION Carbon fixation is an important pathway for autotrophs living in various environments. Plants and cyanobacteria fix CO2 as organic compounds using solar energy mainly by the reductive pentose phosphate cycle (also called Calvin cycle, Calvin-Benson cycle, or Calvin-Benson-Bassham cycle) [MD:M00165]. There are, at least, five additional carbon fixation pathways known to exist in autotrophic bacteria and archaea, which differ in reducing compounds, energy source, and oxygen sensitivity of enzymes. (i) The reductive citric acid cycle (Arnon-Buchanan cycle) [MD:M00173] is found in microaerophiles and anaerobes, such as green sulfur bacteria. In one complete turn of this cycle, four molecules of CO2 are fixed by the enzymes that are sensitive to oxygen, resulting in the production of one molecule of oxaloacetate, which is itself an intermediate of the cycle. (ii) The reductive acetyl-CoA pathway (Wood-Ljungdahl pathway) [MD:M00377] is found in strictly anaerobic bacteria and archaea (Proteobacteria, Planctomycetes, Spirochaetes, and Euryarchaeota), some of which are methane-forming. A bifunctional enzyme, carbon monoxide dehydrogenase/acetyl-CoA synthase, catalyzes the reactions from CO2 to CO and from CO2 to a methyl group, and then to generate acetyl-CoA. (iii) The 3-hydroxypropionate bicycle [MD:M00376] is found in some green non-sulphur bacteria of the family Chloroflexaceae. In one complete turn of this bicycle, three molecules of bicarbonate are converted into one molecule of pyruvate. In addition, this bicycle provides the secondary benefit of useful intermediates for biosynthesis: acetyl-CoA, glyoxylate, and succinyl-CoA. (iv) The hydroxypropionate-hydroxybutyrate cycle [MD:M00375] is found in aerobic Crenarchaeota, Acidianus, Metallosphaera, and Sulfolobales. Some of the intermediates and the carboxylation reactions are the same as in the 3-hydroxypropionate bicycle. One complete turn of this cycle generates two molecules of acetyl-CoA, one of which is reutilized in the the cycle and the other is removed for cell material biosynthesis. (v) The dicarboxylate-hydroxybutyrate cycle [MD:M00374] was named after its intermediates: succinate (a kind of dicarboxylate) and hydroxybutyrate. This cycle has been found only in Ignicoccus hospitals, a strictly anaerobic hyperthermophilic archaea. Recent genome study suggests that this cycle may exist in Desulforococcales (to which Ignicoccus belongs) and Thermoproteales (a taxon close to the origin of archaea). The first half of the cycle, from acetyl-CoA to succinate-CoA, corresponds to the reductive citric acid cycle and the latter half of the cycle, from succinate-CoA to two molecules of acetyl-CoA, corresponds to the hydroxypropionate-hydroxybutyrate cycle.
+CLASS       Metabolism; Energy metabolism
+PATHWAY_MAP map00720  Carbon fixation pathways in prokaryotes
+MODULE      M00173  Reductive citrate cycle (Arnon-Buchanan cycle) [PATH:map00720]
+            M00374  Dicarboxylate-hydroxybutyrate cycle [PATH:map00720]
+            M00375  Hydroxypropionate-hydroxybutylate cycle [PATH:map00720]
+            M00376  3-Hydroxypropionate bi-cycle [PATH:map00720]
+            M00377  Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway) [PATH:map00720]
+            M00579  Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate [PATH:map00720]
+DBLINKS     GO: 0015977
+REFERENCE   PMID:19955419
+  AUTHORS   Zarzycki J, Brecht V, Muller M, Fuchs G
+  TITLE     Identifying the missing steps of the autotrophic 3-hydroxypropionate CO2 fixation cycle in Chloroflexus aurantiacus.
+  JOURNAL   Proc Natl Acad Sci U S A 106:21317-22 (2009)
+REFERENCE   PMID:19429610
+  AUTHORS   Teufel R, Kung JW, Kockelkorn D, Alber BE, Fuchs G
+  TITLE     3-hydroxypropionyl-coenzyme A dehydratase and acryloyl-coenzyme A reductase, enzymes of the autotrophic 3-hydroxypropionate/4-hydroxybutyrate cycle in the Sulfolobales.
+  JOURNAL   J Bacteriol 191:4572-81 (2009)
+REFERENCE   PMID:18511565
+  AUTHORS   Huber H, Gallenberger M, Jahn U, Eylert E, Berg IA, Kockelkorn D, Eisenreich W, Fuchs G
+  TITLE     A dicarboxylate/4-hydroxybutyrate autotrophic carbon assimilation cycle in the hyperthermophilic Archaeum Ignicoccus hospitalis.
+  JOURNAL   Proc Natl Acad Sci U S A 105:7851-6 (2008)
+REFERENCE   PMID:15838028
+  AUTHORS   Hugler M, Wirsen CO, Fuchs G, Taylor CD, Sievert SM
+  TITLE     Evidence for autotrophic CO2 fixation via the reductive tricarboxylic acid cycle  by members of the epsilon subdivision of proteobacteria.
+  JOURNAL   J Bacteriol 187:3020-7 (2005)
+REFERENCE   PMID:11827525
+  AUTHORS   Seravalli J, Kumar M, Ragsdale SW
+  TITLE     Rapid kinetic studies of acetyl-CoA synthesis: evidence supporting the catalytic  intermediacy of a paramagnetic NiFeC species in the autotrophic Wood-Ljungdahl pathway.
+  JOURNAL   Biochemistry 41:1807-19 (2002)
+REFERENCE   PMID:3096193
+  AUTHORS   Ljungdahl LG
+  TITLE     The autotrophic pathway of acetate synthesis in acetogenic bacteria.
+  JOURNAL   Annu Rev Microbiol 40:415-50 (1986)
+KO_PATHWAY  ko00720
+///

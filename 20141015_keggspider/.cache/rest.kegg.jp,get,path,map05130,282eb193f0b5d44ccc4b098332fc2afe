@@ -1,0 +1,53 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05130
+server: Apache
+date: Wed, 15 Oct 2014 14:58:59 GMT
+content-type: text/plain
+
+ENTRY       map05130                    Pathway
+NAME        Pathogenic Escherichia coli infection
+DESCRIPTION Enteropathogenic E. coli (EPEC) and enterohemorrhagic E. coli (EHEC) are closely related pathogenic strains of Escherichia coli. The hallmark of EPEC/EHEC infections [DS:H00278 H00277] is induction of attaching and effacing (A/E) lesions that damage intestinal epithelial cells. The capacity to form A/E lesions is encoded mainly by the locus of enterocyte effacement (LEE) pathogenicity island. Tir, Map, EspF, EspG are known LEE-encoded effector proteins secreted via the type III secretion system, which is also LEE-encoded, into the host cell. EPEC and EHEC Tir's link the extracellular bacterium to the cell cytoskeleton. Map and EspF are involved in mitochondrion membrane permeabilization. EspG interacts with tubulins and stimulates microtubule destabilization. LEE-encoded adhesin or intimin (Eae) is exported via the general secretory pathway to the periplasm, where it is inserted into the outer membrane. In addition to Tir, two potential host cell-carried intimin receptors, beta1 integrin (ITGB1) and nucleolin (NCL), have so far been identified. The distinguishing feature of EHEC is the elaboration of Shiga-like toxin (Stx). Stx cleaves ribosomal RNA, thereby disrupting protein synthesis and killing the intoxicated epithelial or endothelial cells.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05130  Pathogenic Escherichia coli infection
+MODULE      M00363  EHEC pathogenicity signature, Shiga toxin [PATH:map05130]
+            M00542  EHEC/EPEC pathogenicity signature, T3SS and effectors [PATH:map05130]
+DISEASE     H00277  Enterohemorrhagic Escherichia coli (EHEC) infection
+            H00278  Enteropathogenic Escherichia coli (EPEC) infection
+REFERENCE   PMID:15040260
+  AUTHORS   Kaper JB, Nataro JP, Mobley HL.
+  TITLE     Pathogenic Escherichia coli.
+  JOURNAL   Nat Rev Microbiol 2:123-40 (2004)
+REFERENCE   PMID:15618137
+  AUTHORS   Torres AG, Zhou X, Kaper JB.
+  TITLE     Adherence of diarrheagenic Escherichia coli strains to epithelial cells.
+  JOURNAL   Infect Immun 73:18-29 (2005)
+REFERENCE   PMID:15694854
+  AUTHORS   Dean P, Maresca M, Kenny B.
+  TITLE     EPEC's weapons of mass subversion.
+  JOURNAL   Curr Opin Microbiol 8:28-34 (2005)
+REFERENCE   PMID:15845459
+  AUTHORS   Garmendia J, Frankel G, Crepin VF.
+  TITLE     Enteropathogenic and enterohemorrhagic Escherichia coli infections: translocation, translocation, translocation.
+  JOURNAL   Infect Immun 73:2573-85 (2005)
+REFERENCE   PMID:16448495
+  AUTHORS   Spears KJ, Roe AJ, Gally DL.
+  TITLE     A comparison of enteropathogenic and enterohaemorrhagic Escherichia coli pathogenesis.
+  JOURNAL   FEMS Microbiol Lett 255:187-202 (2006)
+REFERENCE   PMID:12101285
+  AUTHORS   Kenny B.
+  TITLE     Enteropathogenic Escherichia coli (EPEC)-- a crafty subversive little bug.
+  JOURNAL   Microbiology 148:1967-78 (2002)
+REFERENCE   PMID:16582930
+  AUTHORS   Hayward RD, Leong JM, Koronakis V, Campellone KG.
+  TITLE     Exploiting pathogenic Escherichia coli to model transmembrane receptor signalling.
+  JOURNAL   Nat Rev Microbiol 4:358-70 (2006)
+REFERENCE   PMID:15318166
+  AUTHORS   Matsuzawa T, Kuwae A, Yoshida S, Sasakawa C, Abe A.
+  TITLE     Enteropathogenic Escherichia coli activates the RhoA signaling pathway via the stimulation of GEF-H1.
+  JOURNAL   EMBO J 23:3570-82 (2004)
+REFERENCE   PMID:19144561
+  AUTHORS   Dean P, Kenny B
+  TITLE     The effector repertoire of enteropathogenic E. coli: ganging up on the host cell.
+  JOURNAL   Curr Opin Microbiol 12:101-9 (2009)
+KO_PATHWAY  ko05130
+///

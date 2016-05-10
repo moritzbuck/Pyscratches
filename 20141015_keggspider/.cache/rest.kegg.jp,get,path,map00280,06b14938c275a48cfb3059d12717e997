@@ -1,0 +1,30 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00280
+server: Apache
+date: Wed, 15 Oct 2014 14:57:14 GMT
+content-type: text/plain
+
+ENTRY       map00280                    Pathway
+NAME        Valine, leucine and isoleucine degradation
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00280  Valine, leucine and isoleucine degradation
+MODULE      M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA [PATH:map00280]
+DISEASE     H00172  Maple syrup urine disease (MSUD)
+            H00173  Isovaleric acidemia (IVA)
+            H00174  Methylmalonic aciduria (MMA)
+            H00175  Propionic acidemia
+            H00179  3-Hydroxy-3-methylglutaryl-CoA lyase deficiency
+            H00181  3-Methylcrotonylglycinuria
+            H00525  Disorders of fatty-acid oxidation
+            H00754  3-Methylglutaconic aciduria (MGCA)
+            H00925  2-Methyl-3-hydroxybutyryl-CoA dehydrogenase (MHBD) deficiency
+            H01076  Alpha-methylacetoacetic aciduria
+            H01121  Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency
+            H01123  HMG-CoA synthase (HMGCS) deficiency
+            H01279  Isobutyryl-CoA dehydrogenase (IBD) deficiency
+            H01349  Methacrylic aciduria
+            H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency
+            H01400  Secondary hyperammonemia
+DBLINKS     GO: 0006550 0006552 0006574
+KO_PATHWAY  ko00280
+///

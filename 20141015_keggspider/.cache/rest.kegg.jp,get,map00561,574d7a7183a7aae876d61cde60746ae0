@@ -1,0 +1,32 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00561
+server: Apache
+date: Wed, 15 Oct 2014 15:07:53 GMT
+content-type: text/plain
+
+ENTRY       map00561                    Pathway
+NAME        Glycerolipid metabolism
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00561  Glycerolipid metabolism
+MODULE      M00089  Triacylglycerol biosynthesis [PATH:map00561]
+            M00098  Acylglycerol degradation [PATH:map00561]
+DISEASE     H00154  Hyperlipoproteinemia, type I
+            H00552  Glycerol kinase deficiency (GKD)
+            H01117  Majeed syndrome
+            H01290  Acute recurrent myoglobinuria
+            H01333  Nonalcoholic fatty liver disease (NAFLD)
+DBLINKS     GO: 0045017 0046486 0046503
+REFERENCE   PMID:8662716
+  AUTHORS   Norbeck J, Pahlman AK, Akhtar N, Blomberg A, Adler L.
+  TITLE     Purification and characterization of two isoenzymes of DL-glycerol-3-phosphatase from Saccharomyces cerevisiae. Identification of the corresponding GPP1 and GPP2 genes and evidence for osmotic regulation of Gpp2p expression by the osmosensing mitogen-activated protein kinase signal transduction pathway.
+  JOURNAL   J Biol Chem 271:13875-81 (1996)
+REFERENCE   PMID:8995384
+  AUTHORS   Karlsson OP, Dahlqvist A, Vikstrom S, Wieslander A.
+  TITLE     Lipid dependence and basic kinetics of the purified 1,2-diacylglycerol 3-glucosyltransferase from membranes of Acholeplasma laidlawii.
+  JOURNAL   J Biol Chem 272:929-36 (1997)
+REFERENCE   PMID:11294844
+  AUTHORS   Berg S, Edman M, Li L, Wikstrom M, Wieslander A.
+  TITLE     Sequence properties of the 1,2-diacylglycerol 3-glucosyltransferase from Acholeplasma laidlawii membranes. Recognition of a large group of lipid glycosyltransferases in eubacteria and archaea.
+  JOURNAL   J Biol Chem 276:22056-63 (2001)
+KO_PATHWAY  ko00561
+///

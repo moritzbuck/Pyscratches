@@ -1,0 +1,46 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04730
+server: Apache
+date: Wed, 15 Oct 2014 15:09:03 GMT
+content-type: text/plain
+
+ENTRY       map04730                    Pathway
+NAME        Long-term depression
+DESCRIPTION Cerebellar long-term depression (LTD), thought to be a molecular and cellular basis for cerebellar learning, is a process involving a decrease in the synaptic strength between parallel fiber (PF) and Purkinje cells (PCs) induced by the conjunctive activation of PFs and climbing fiber (CF). Multiple signal transduction pathways have been shown to be involved in this process. Activation of PFs terminating on spines in dendritic branchlets leads to glutamate release and activation of both AMPA and mGluRs. Activation of CFs, which make multiple synaptic contacts on proximal dendrites, also via AMPA receptors, opens voltage-gated calcium channels (VGCCs) and causes a generalized influx of calcium. These cellular signals, generated from two different synaptic origins, trigger a cascade of events culminating in a phosphorylation-dependent, long-term reduction in AMPA receptor sensitivity at the PF-PC synapse. This may take place either through receptor internalization and/or through receptor desensitization.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP map04730  Long-term depression
+DISEASE     H00063  Spinocerebellar ataxia (SCA)
+            H00577  Syndromic X-linked mental retardation with epilepsy or seizures
+            H00699  Central core disease
+            H00749  Episodic ataxias
+            H00775  Familial or sporadic hemiplegic migraine
+            H00833  Neurodegeneration with brain iron accumulation (NBIA)
+            H01274  Growth delay due to insulin-like growth factor I resistance
+            H01310  Multi-minicore disease (MmD)
+DBLINKS     GO: 0048169
+REFERENCE   PMID:12415297
+  AUTHORS   Ito M.
+  TITLE     The molecular organization of cerebellar long-term depression.
+  JOURNAL   Nat Rev Neurosci 3:896-902 (2002)
+REFERENCE   PMID:11427694
+  AUTHORS   Ito M.
+  TITLE     Cerebellar long-term depression: characterization, signal transduction, and functional roles.
+  JOURNAL   Physiol Rev 81:1143-95 (2001)
+REFERENCE   
+  AUTHORS   Purves D, Augustine GJ (ed).
+  TITLE     Neuroscience
+  JOURNAL   Sunderland, Mass.:Sinauer Associates (2004)
+REFERENCE   PMID:9735948
+  AUTHORS   Daniel H, Levenes C, Crepel F.
+  TITLE     Cellular mechanisms of cerebellar LTD.
+  JOURNAL   Trends Neurosci 21:401-7 (1998)
+REFERENCE   PMID:9602501
+  AUTHORS   Levenes C, Daniel H, Crepel F.
+  TITLE     Long-term depression of synaptic transmission in the cerebellum: cellular and molecular mechanisms revisited.
+  JOURNAL   Prog Neurobiol 55:79-91 (1998)
+REFERENCE   PMID:14509570
+  AUTHORS   Metzger F, Kapfhammer JP.
+  TITLE     Protein kinase C: its role in activity-dependent Purkinje cell dendritic development and plasticity.
+  JOURNAL   Cerebellum 2:206-14 (2003)
+KO_PATHWAY  ko04730
+///

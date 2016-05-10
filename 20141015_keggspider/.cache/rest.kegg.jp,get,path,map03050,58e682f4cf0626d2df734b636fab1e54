@@ -1,0 +1,52 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map03050
+server: Apache
+date: Wed, 15 Oct 2014 14:58:08 GMT
+content-type: text/plain
+
+ENTRY       map03050                    Pathway
+NAME        Proteasome
+DESCRIPTION The proteasome is a protein-destroying apparatus involved in many essential cellular functions, such as regulation of cell cycle, cell differentiation, signal transduction pathways, antigen processing for appropriate immune responses, stress signaling, inflammatory responses, and apoptosis. It is capable of degrading a variety of cellular proteins in a rapid and timely fashion and most substrate proteins are modified by ubiquitin before their degradation by the proteasome. The proteasome is a large protein complex consisting of a proteolytic core called the 20S particle and ancillary factors that regulate its activity in various ways. The most common form is the 26S proteasome containing one 20S core particle and two 19S regulatory particles that enable the proteasome to degrade ubiquitinated proteins by an ATP-dependent mechanism. Another form is the immunoproteasome containing two 11S regulatory particles, PA28 alpha and PA28 beta, which are induced by interferon gamma under the conditions of intensified immune response. Other regulatory particles include PA28 gamma and PA200. Although PA28 gamma also belongs to a family of activators of the 20S proteasome, it is localized within the nucleus and forms a homoheptamer. PA28 gamma has been implicated in the regulation of cell cycle progression and apoptosis. PA200 has been identified as a large nuclear protein that stimulates proteasomal hydrolysis of peptides.
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP map03050  Proteasome
+MODULE      M00337  Immunoproteasome [PATH:map03050]
+            M00340  Proteasome, 20S core particle [PATH:map03050]
+            M00341  Proteasome, 19S regulatory particle (PA700) [PATH:map03050]
+            M00342  Bacterial proteasome [PATH:map03050]
+            M00343  Archaeal proteasome [PATH:map03050]
+DISEASE     H00790  Keratosis linearis with ichthyosis congenita and sclerosing keratoderma
+DBLINKS     GO: 0000502
+REFERENCE   PMID:16338359
+  AUTHORS   Hirano Y, Murata S, Tanaka K
+  TITLE     Large- and small-scale purification of mammalian 26S proteasomes.
+  JOURNAL   Methods Enzymol 399:227-40 (2005)
+REFERENCE   PMID:18497808
+  AUTHORS   Saeki Y, Tanaka K
+  TITLE     Cell biology: two hands for degradation.
+  JOURNAL   Nature 453:460-1 (2008)
+REFERENCE   PMID:16919475
+  AUTHORS   Smith DM, Benaroudj N, Goldberg A
+  TITLE     Proteasomes and their associated ATPases: a destructive combination.
+  JOURNAL   J Struct Biol 156:72-83 (2006)
+REFERENCE   PMID:16181324
+  AUTHORS   Strehl B, Seifert U, Kruger E, Heink S, Kuckelkorn U, Kloetzel PM
+  TITLE     Interferon-gamma, the functional plasticity of the ubiquitin-proteasome system, and MHC class I antigen processing.
+  JOURNAL   Immunol Rev 207:19-30 (2005)
+REFERENCE   PMID:16922378
+  AUTHORS   Isono E, Toh-e A
+  TITLE     [Biogenesis of the 26S proteasome in the yeast Saccharomyces cerevisiae]
+  JOURNAL   Tanpakushitsu Kakusan Koso 51:1224-9 (2006)
+REFERENCE   PMID:16922379
+  AUTHORS   Hirano Y, Murata S
+  TITLE     [Mechanism of the assembly of mammalian 20S proteasome]
+  JOURNAL   Tanpakushitsu Kakusan Koso 51:1230-5 (2006)
+REFERENCE   PMID:16922380
+  AUTHORS   Saeki Y, Yashiroda H
+  TITLE     [Diversity of proteasome activators]
+  JOURNAL   Tanpakushitsu Kakusan Koso 51:1236-40 (2006)
+REFERENCE   PMID:19483713
+  AUTHORS   Darwin KH
+  TITLE     Prokaryotic ubiquitin-like protein (Pup), proteasomes and pathogenesis.
+  JOURNAL   Nat Rev Microbiol 7:485-91 (2009)
+KO_PATHWAY  ko03050
+///

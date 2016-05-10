@@ -1,0 +1,51 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07215
+server: Apache
+date: Wed, 15 Oct 2014 14:59:35 GMT
+content-type: text/plain
+
+ENTRY       map07215          Drug      Pathway
+NAME        alpha-Adrenergic receptor agonists/antagonists
+PATHWAY_MAP map07215  alpha-Adrenergic receptor agonists/antagonists
+COMPOUND    D00076  Noradrenaline (JP16)
+            D00255  Carvedilol (JAN/USAN/INN)
+            D00281  Clonidine (JAN/USP/INN)
+            D00509  Phentolamine mesilate (JAN/INN)
+            D00511  Phenylephrine hydrochloride (JP16/USP)
+            D00514  Dexmedetomidine (USAN/INN)
+            D00604  Clonidine hydrochloride (JP16/USP)
+            D00605  Guanabenz acetate (JP16/USP)
+            D00606  Guanfacine hydrochloride (JAN/USP)
+            D00608  Doxazosin mesilate (JP16)
+            D00609  Prazosin hydrochloride (JP16/USP)
+            D00610  Terazosin hydrochloride hydrate (JAN)
+            D00679  Ergotamine tartrate (JP16/USP)
+            D00743  Naphazoline hydrochloride (JP16/USP)
+            D00997  Tolazoline hydrochloride (JAN/USP)
+            D01020  Methoxamine hydrochloride (JAN)
+            D01021  Naphazoline nitrate (JP16)
+            D01024  Tamsulosin hydrochloride (JP16/USAN)
+            D01163  Ergometrine maleate (JP16)
+            D01205  Dexmedetomidine hydrochloride (JAN/USAN)
+            D01333  Urapidil (JP16/INN)
+            D01469  Amosulalol hydrochloride (JP16)
+            D01674  Naftopidil (JP16/INN)
+            D01887  Bunazosin hydrochloride (JP16)
+            D03415  Carvedilol phosphate hydrate (JAN)
+            D04375  Guanabenz (USAN/INN)
+            D07451  Amosulalol (INN)
+            D07550  Bunazosin (INN)
+            D07874  Doxazosin (INN)
+            D07905  Ergometrine (INN)
+            D07906  Ergotamine (INN)
+            D08031  Guanfacine (INN)
+            D08201  Methoxamine (BAN)
+            D08362  Phentolamine (INN)
+            D08365  Phenylephrine (INN)
+            D08411  Prazosin (INN)
+            D08560  Tamsulosin (INN)
+            D08569  Terazosin (INN)
+            D08614  Tolazoline (INN)
+            D08662  Urapidil hydrochloride
+            D08966  Phenylephrine bitartrate (USP)
+///

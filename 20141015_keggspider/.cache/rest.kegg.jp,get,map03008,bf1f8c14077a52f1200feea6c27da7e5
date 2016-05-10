@@ -1,0 +1,44 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map03008
+server: Apache
+date: Wed, 15 Oct 2014 15:08:27 GMT
+content-type: text/plain
+
+ENTRY       map03008                    Pathway
+NAME        Ribosome biogenesis in eukaryotes
+DESCRIPTION Ribosomes are the cellular factories responsible for making proteins. In eukaryotes, ribosome biogenesis involves the production and correct assembly of four rRNAs and about 80 ribosomal proteins. It requires hundreds of factors not present in the mature particle. In the absence of these proteins, ribosome biogenesis is stalled and cell growth is terminated even under optimal growth conditions. The primary pre-rRNA transcript is  assembled into the 90S pre-ribosome, which contains both 40S and 60S assembly factors. Within this complex, the pre-rRNA is cleaved. pre-60S ribosomes are subjected to several sequential processing steps in the nucleoplasm involving numerous assembly intermediates before it is exported to the cytoplasm and matured into the 60S ribosomal subunit. The pre-40S ribosome is matured to the small ribosomal subunit in the cytoplasm by cleavage.
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP map03008  Ribosome biogenesis in eukaryotes
+MODULE      M00425  H/ACA ribonucleoprotein complex [PATH:map03008]
+DISEASE     H00063  Spinocerebellar ataxia (SCA)
+            H00439  Shwachman-Diamond syndrome (SDS)
+            H00507  Dyskeratosis congenita (DC)
+            H00518  RMRP related disorders
+            H00610  Treacher Collins syndrome
+            H00612  Primary open angle glaucoma
+            H00616  Bowen-Conradi syndrome (BCS)
+            H00621  Alopecia neurologic defects and endocrinopathy syndrome (ANE syndrome)
+            H00624  Familial cholestasis
+            H00788  Hoyeraal-Hreidarsson syndrome
+REFERENCE   PMID:20174677
+  AUTHORS   Freed EF, Bleichert F, Dutca LM, Baserga SJ
+  TITLE     When ribosomes go bad: diseases of ribosome biogenesis.
+  JOURNAL   Mol Biosyst 6:481-93 (2010)
+REFERENCE   PMID:17515605
+  AUTHORS   Perez-Fernandez J, Roman A, De Las Rivas J, Bustelo XR, Dosil M
+  TITLE     The 90S preribosome is a multimodular structure that is assembled through a hierarchical mechanism.
+  JOURNAL   Mol Cell Biol 27:5414-29 (2007)
+REFERENCE   PMID:19850913
+  AUTHORS   Strunk BS, Karbstein K
+  TITLE     Powering through ribosome assembly.
+  JOURNAL   RNA 15:2083-104 (2009)
+REFERENCE   PMID:15120992
+  AUTHORS   Granneman S, Baserga SJ
+  TITLE     Ribosome biogenesis: of knobs and RNA processing.
+  JOURNAL   Exp Cell Res 296:43-50 (2004)
+REFERENCE   PMID:19879902
+  AUTHORS   Kressler D, Hurt E, Bassler J
+  TITLE     Driving ribosome assembly.
+  JOURNAL   Biochim Biophys Acta 1803:673-83 (2010)
+KO_PATHWAY  ko03008
+///

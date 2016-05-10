@@ -1,0 +1,42 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00592
+server: Apache
+date: Wed, 15 Oct 2014 14:57:33 GMT
+content-type: text/plain
+
+ENTRY       map00592                    Pathway
+NAME        alpha-Linolenic acid metabolism
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00592  alpha-Linolenic acid metabolism
+MODULE      M00113  Jasmonic acid biosynthesis [PATH:map00592]
+DISEASE     H00407  Peroxisomal beta-oxidation enzyme deficiency
+REFERENCE   PMID:17172287
+  AUTHORS   Schilmiller AL, Koo AJ, Howe GA.
+  TITLE     Functional diversification of acyl-coenzyme A oxidases in jasmonic acid biosynthesis and action.
+  JOURNAL   Plant Physiol 143:812-24 (2007)
+REFERENCE   PMID:15141068
+  AUTHORS   Cruz Castillo M, Martinez C, Buchala A, Metraux JP, Leon J.
+  TITLE     Gene-specific involvement of beta-oxidation in wound-activated responses in Arabidopsis.
+  JOURNAL   Plant Physiol 135:85-94 (2004)
+REFERENCE   PMID:17215350
+  AUTHORS   Truman W, Bennett MH, Kubigsteltig I, Turnbull C, Grant M.
+  TITLE     Arabidopsis systemic immunity uses conserved defense signaling pathways and is mediated by jasmonates.
+  JOURNAL   Proc Natl Acad Sci U S A 104:1075-80 (2007)
+REFERENCE   PMID:16116284
+  AUTHORS   Kuroda H, Oshima T, Kaneda H, Takashio M.
+  TITLE     Identification and functional analyses of two cDNAs that encode fatty acid 9-/13-hydroperoxide lyase (CYP74C) in rice.
+  JOURNAL   Biosci Biotechnol Biochem 69:1545-54 (2005)
+REFERENCE   PMID:15670154
+  AUTHORS   Hamberg M.
+  TITLE     Hidden stereospecificity in the biosynthesis of divinyl ether fatty acids.
+  JOURNAL   FEBS J 272:736-43 (2005)
+REFERENCE   PMID:14522973
+  AUTHORS   Hamberg M, Sanz A, Rodriguez MJ, Calvo AP, Castresana C.
+  TITLE     Activation of the fatty acid alpha-dioxygenase pathway during bacterial infection of tobacco leaves. Formation of oxylipins protecting against cell death.
+  JOURNAL   J Biol Chem 278:51796-805 (2003)
+REFERENCE   
+  AUTHORS   Creelman RA, Mulpuri R.
+  TITLE     The Oxylipin Pathway in Arabidopsis
+  JOURNAL   The Arabidopsis Book
+KO_PATHWAY  ko00592
+///

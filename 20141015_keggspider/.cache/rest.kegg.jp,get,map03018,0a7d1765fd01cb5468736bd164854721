@@ -1,0 +1,50 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map03018
+server: Apache
+date: Wed, 15 Oct 2014 15:08:29 GMT
+content-type: text/plain
+
+ENTRY       map03018                    Pathway
+NAME        RNA degradation
+DESCRIPTION The correct processing, quality control and turnover of cellular RNA molecules are critical to many aspects in the expression of genetic information. In eukaryotes, two major pathways of mRNA decay exist and both pathways are initiated by poly(A) shortening of the mRNA. In the 5' to 3' pathway, this is followed by decapping which then permits the 5' to 3' exonucleolytic degradation of transcripts. In the 3' to 5' pathway, the exosome, a large multisubunit complex, plays a key role. The exosome exists in archaeal cells, too. In bacteria, endoribonuclease E, a key enzyme involved in RNA decay and processing, organizes a protein complex called degradosome. RNase E or R interacts with the phosphate-dependent exoribonuclease polynucleotide phosphorylase, DEAD-box helicases, and additional factors in the RNA-degrading complex.
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP map03018  RNA degradation
+MODULE      M00390  Exosome, archaea [PATH:map03018]
+            M00391  Exosome, eukaryotes [PATH:map03018]
+            M00392  Ski complex [PATH:map03018]
+            M00393  TRAMP complex [PATH:map03018]
+            M00394  RNA degradosome [PATH:map03018]
+            M00395  Decapping complex [PATH:map03018]
+            M00396  Lsm 2-8 complex [PATH:map03018]
+            M00397  Lsm 1-7 complex [PATH:map03018]
+DBLINKS     GO: 0006401
+REFERENCE   PMID:19239894
+  AUTHORS   Houseley J, Tollervey D
+  TITLE     The many pathways of RNA degradation.
+  JOURNAL   Cell 136:763-76 (2009)
+REFERENCE   PMID:16968219
+  AUTHORS   Buttner K, Wenig K, Hopfner KP
+  TITLE     The exosome: a macromolecular cage for controlled RNA degradation.
+  JOURNAL   Mol Microbiol 61:1372-9 (2006)
+REFERENCE   PMID:16939780
+  AUTHORS   Schilders G, van Dijk E, Raijmakers R, Pruijn GJ
+  TITLE     Cell and molecular biology of the exosome: how to make or break an RNA.
+  JOURNAL   Int Rev Cytol 251:159-208 (2006)
+REFERENCE   PMID:17471261
+  AUTHORS   Hartung S, Hopfner KP
+  TITLE     The exosome, plugged.
+  JOURNAL   EMBO Rep 8:456-7 (2007)
+REFERENCE   PMID:17447862
+  AUTHORS   Carpousis AJ
+  TITLE     The RNA degradosome of Escherichia coli: an mRNA-degrading machine assembled on RNase E.
+  JOURNAL   Annu Rev Microbiol 61:71-87 (2007)
+REFERENCE   PMID:16766188
+  AUTHORS   Marcaida MJ, DePristo MA, Chandran V, Carpousis AJ, Luisi BF
+  TITLE     The RNA degradosome: life in the fast lane of adaptive molecular evolution.
+  JOURNAL   Trends Biochem Sci 31:359-65 (2006)
+REFERENCE   PMID:17560162
+  AUTHORS   Condon C
+  TITLE     Maturation and degradation of RNA in bacteria.
+  JOURNAL   Curr Opin Microbiol 10:271-8 (2007)
+KO_PATHWAY  ko03018
+///

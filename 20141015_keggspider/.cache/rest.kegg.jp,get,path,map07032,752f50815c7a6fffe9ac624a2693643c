@@ -1,0 +1,101 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07032
+server: Apache
+date: Wed, 15 Oct 2014 14:59:23 GMT
+content-type: text/plain
+
+ENTRY       map07032          Drug      Pathway
+NAME        Hypnotics
+PATHWAY_MAP map07032  Hypnotics
+COMPOUND    C07490  Trichloroethanol
+            D00023  Urea (JP16/USP)
+            D00265  Chloral hydrate (JP16/USP)
+            D00293  Diazepam (JP16/USP/INN)
+            D00300  Diphenhydramine (JP16/INN)
+            D00311  Estazolam (JP16/USAN/INN)
+            D00329  Flurazepam (JAN/INN)
+            D00370  Temazepam (USP/INN)
+            D00387  Triazolam (JAN/USP/INN)
+            D00388  Triclofos sodium (JP16/USAN)
+            D00430  Secobarbital (USP/INN)
+            D00457  Quazepam (JAN/USP/INN)
+            D00480  Promethazine hydrochloride (JP16/USP)
+            D00494  Promethazine (JAN/INN)
+            D00499  Pentobarbital (USP/INN)
+            D00500  Pentobarbital sodium (JAN/USP)
+            D00506  Phenobarbital (JP16/USP/INN)
+            D00530  Zaleplon (JAN/USAN/INN)
+            D00531  Nitrazepam (JP16/USAN/INN)
+            D00532  Glutethimide (JAN/INN)
+            D00550  Midazolam (JAN/USP/INN)
+            D00555  Amobarbital (JP16/INN)
+            D00574  Aminoglutethimide (USP/INN)
+            D00669  Diphenhydramine hydrochloride (JP16/USP)
+            D00672  Hydroxyzine hydrochloride (JP16/USP)
+            D00695  Flurazepam hydrochloride (USP)
+            D00696  Midazolam hydrochloride (USAN)
+            D00701  Phenobarbital sodium (JAN/USP/INN)
+            D00706  Zolpidem tartrate (JP16/USAN)
+            D00754  Thalidomide (JAN/USP/INN)
+            D01096  Hydroxyzine pamoate (JP16/USP)
+            D01150  Methyprylon (JAN/INN)
+            D01230  Flunitrazepam (JP16/USAN/INN)
+            D01242  Promethazine teoclate (JAN/INN)
+            D01310  Secobarbital sodium (JAN/USP)
+            D01372  Zopiclone (JAN/INN)
+            D01391  Bromovalerylurea (JP16)
+            D01408  Flurazepam hydrochloride (JP16)
+            D01438  Perlapine (JAN/USAN/INN)
+            D01498  Butoctamide semisuccinate (JAN)
+            D01514  Etizolam (JP16/INN)
+            D01564  Rilmazafone hydrochloride hydrate (JAN)
+            D01593  Nimetazepam (JAN/INN)
+            D01657  Lormetazepam (JAN/USAN/INN)
+            D01740  Barbital (JP16/INN)
+            D01744  Brotizolam (JP16/USAN/INN)
+            D01758  Haloxazolam (JP16/INN)
+            D02252  Amobarbital sodium (JAN/USP)
+            D02253  Pentobarbital calcium (JP16)
+            D02419  Diphenhydramine salicylate (JAN)
+            D02618  Butobarbital (BAN)
+            D02619  Carbromal (INN)
+            D02624  Eszopiclone (JAN/USAN/INN)
+            D02640  Indiplon (USAN/INN)
+            D02689  Ramelteon (JAN/USAN/INN)
+            D03285  Diphenhydramine tannate (JP16)
+            D03290  Promethazine methylenedisalicylate (JAN)
+            D03360  Diphenhydramine laurylsulfate (JAN)
+            D03854  Diphenhydramine citrate (USP)
+            D05028  Midazolam maleate (USAN)
+            D08054  Hydroxyzine (INN)
+            D08356  Phenobarbital diethylamine
+            D08432  Promethazine maleate
+            D08481  Rilmazafone (INN)
+            D08634  Triclofos (INN)
+            D08690  Zolpidem (INN)
+            D08768  Promethazine hibenzate
+REFERENCE   (Japanese)
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Bertram GK (ed).
+  TITLE     Basic & Clinical Pharmacology (9th ed)
+  JOURNAL   Lange (2004)
+REFERENCE   PMID:16185169
+  AUTHORS   Neubauer DN.
+  TITLE     Indiplon: the development of a new hypnotic.
+  JOURNAL   Expert Opin Investig Drugs 14:1269-76 (2005)
+REFERENCE   PMID:34039
+  AUTHORS   Sternbach LH.
+  TITLE     The benzodiazepine story.
+  JOURNAL   J Med Chem 22:1-7 (1979)
+REFERENCE   PMID:16373464
+  AUTHORS   Halas CJ
+  TITLE     Eszopiclone.
+  JOURNAL   Am J Health Syst Pharm 63:41-8 (2006)
+///

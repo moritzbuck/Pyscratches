@@ -1,0 +1,38 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00730
+server: Apache
+date: Wed, 15 Oct 2014 14:57:41 GMT
+content-type: text/plain
+
+ENTRY       map00730                    Pathway
+NAME        Thiamine metabolism
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP map00730  Thiamine metabolism
+MODULE      M00127  Thiamine biosynthesis, AIR => thiamine-P/thiamine-2P [PATH:map00730]
+DBLINKS     GO: 0006772
+REFERENCE   PMID:15614489
+  AUTHORS   Kawasaki Y, Onozuka M, Mizote T, Nosaka K.
+  TITLE     Biosynthesis of hydroxymethylpyrimidine pyrophosphate in Saccharomyces cerevisiae.
+  JOURNAL   Curr Genet 47:156-62 (2005)
+REFERENCE   PMID:14567704
+  AUTHORS   Park JH, Dorrestein PC, Zhai H, Kinsland C, McLafferty FW, Begley TP.
+  TITLE     Biosynthesis of the thiazole moiety of thiamin pyrophosphate (vitamin B1).
+  JOURNAL   Biochemistry 42:12430-8 (2003)
+REFERENCE   PMID:22616866
+  AUTHORS   Begley TP, Ealick SE, McLafferty FW
+  TITLE     Thiamin biosynthesis: still yielding fascinating biological chemistry.
+  JOURNAL   Biochem Soc Trans 40:555-60 (2012)
+REFERENCE   PMID:12777485
+  AUTHORS   Wightman R, Meacock PA
+  TITLE     The THI5 gene family of Saccharomyces cerevisiae: distribution of homologues among the hemiascomycetes and functional redundancy in the aerobic biosynthesis of thiamin from pyridoxine.
+  JOURNAL   Microbiology 149:1447-60 (2003)
+REFERENCE   PMID:22031445
+  AUTHORS   Chatterjee A, Abeydeera ND, Bale S, Pai PJ, Dorrestein PC, Russell DH, Ealick SE, Begley TP
+  TITLE     Saccharomyces cerevisiae THI4p is a suicide thiamine thiazole synthase.
+  JOURNAL   Nature 478:542-6 (2011)
+REFERENCE   PMID:19348578
+  AUTHORS   Jurgenson CT, Begley TP, Ealick SE
+  TITLE     The structural and biochemical foundations of thiamin biosynthesis.
+  JOURNAL   Annu Rev Biochem 78:569-603 (2009)
+KO_PATHWAY  ko00730
+///

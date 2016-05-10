@@ -1,0 +1,71 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04330
+server: Apache
+date: Wed, 15 Oct 2014 15:08:47 GMT
+content-type: text/plain
+
+ENTRY       map04330                    Pathway
+NAME        Notch signaling pathway
+DESCRIPTION The Notch signaling pathway is an evolutionarily conserved, intercellular signaling mechanism essential for proper embryonic development in all metazoan organisms in the Animal kingdom. The Notch proteins (Notch1-Notch4 in vertebrates) are single-pass receptors that are activated by the Delta (or Delta-like) and Jagged/Serrate families of membrane-bound ligands. They are transported to the plasma membrane as cleaved, but otherwise intact polypeptides. Interaction with ligand leads to two additional proteolytic cleavages that liberate the Notch intracellular domain (NICD) from the plasma membrane. The NICD translocates to the nucleus, where it forms a complex with the DNA binding protein CSL, displacing a histone deacetylase (HDAc)-co-repressor (CoR) complex from CSL. Components of an activation complex, such as MAML1 and histone acetyltransferases (HATs), are recruited to the NICD-CSL complex, leading to the transcriptional activation of Notch target genes.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04330  Notch signaling pathway
+DISEASE     H00078  Frontotemporal lobar degeneration (FTLD)
+            H00409  Type II diabetes mellitus
+            H00517  Spondylocostal dysostosis (SCD)
+            H00536  Cerebral autosomal dominant arteriopathy with subcortical infarcts and leucoencephalopathy (CADASIL)
+            H00549  Tetralogy of Fallot
+            H00551  Alagille syndrome
+            H00554  Bicuspid aortic valve
+            H00623  Hajdu-Cheney syndrome
+            H00681  Acne inversa
+DBLINKS     GO: 0007219
+REFERENCE   PMID:15288257
+  AUTHORS   Hansson EM, Lendahl U, Chapman G.
+  TITLE     Notch signaling in development and disease.
+  JOURNAL   Semin Cancer Biol 14:320-8 (2004)
+REFERENCE   PMID:15300010
+  AUTHORS   Callahan R, Egan SE.
+  TITLE     Notch signaling in mammary development and oncogenesis.
+  JOURNAL   J Mammary Gland Biol Neoplasia 9:145-63 (2004)
+REFERENCE   PMID:15288258
+  AUTHORS   Zweidler-McKay PA, Pear WS.
+  TITLE     Notch and T cell malignancy.
+  JOURNAL   Semin Cancer Biol 14:329-40 (2004)
+REFERENCE   PMID:15288260
+  AUTHORS   Wu L, Griffin JD.
+  TITLE     Modulation of Notch signaling by mastermind-like (MAML) transcriptional co-activators and their involvement in tumorigenesis.
+  JOURNAL   Semin Cancer Biol 14:348-56 (2004)
+REFERENCE   PMID:15585829
+  AUTHORS   Tsukumo S, Yasutomo K.
+  TITLE     Notch governing mature T cell differentiation.
+  JOURNAL   J Immunol 173:7109-13 (2004)
+REFERENCE   PMID:12464310
+  AUTHORS   Haltiwanger RS.
+  TITLE     Regulation of signal transduction pathways in development by glycosylation.
+  JOURNAL   Curr Opin Struct Biol 12:593-8 (2002)
+REFERENCE   PMID:15272268
+  AUTHORS   Koo EH, Kopan R.
+  TITLE     Potential role of presenilin-regulated signaling pathways in sporadic neurodegeneration.
+  JOURNAL   Nat Med 10 Suppl:S26-33 (2004)
+REFERENCE   PMID:11896183
+  AUTHORS   Okano H, Imai T, Okabe M.
+  TITLE     Musashi: a translational regulator of cell fate.
+  JOURNAL   J Cell Sci 115:1355-9 (2002)
+REFERENCE   PMID:12417415
+  AUTHORS   Haltiwanger RS, Stanley P.
+  TITLE     Modulation of receptor signaling by glycosylation: fringe is an O-fucose-beta1,3-N-acetylglucosaminyltransferase.
+  JOURNAL   Biochim Biophys Acta 1573:328-35 (2002)
+REFERENCE   PMID:12015972
+  AUTHORS   Das G, Reynolds-Kenneally J, Mlodzik M.
+  TITLE     The atypical cadherin Flamingo links Frizzled and Notch signaling in planar polarity establishment in the Drosophila eye.
+  JOURNAL   Dev Cell 2:655-66 (2002)
+REFERENCE   PMID:10028969
+  AUTHORS   Cooper MT, Bray SJ.
+  TITLE     Frizzled regulation of Notch signalling polarizes cell fate in the Drosophila eye.
+  JOURNAL   Nature 397:526-30 (1999)
+REFERENCE   PMID:12681948
+  AUTHORS   Tanigaki K, Kuroda K, Han H, Honjo T.
+  TITLE     Regulation of B cell development by Notch/RBP-J signaling.
+  JOURNAL   Semin Immunol 15:113-9 (2003)
+KO_PATHWAY  ko04330
+///

@@ -1,0 +1,89 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04727
+server: Apache
+date: Wed, 15 Oct 2014 14:58:41 GMT
+content-type: text/plain
+
+ENTRY       map04727                    Pathway
+NAME        GABAergic synapse
+DESCRIPTION Gamma aminobutyric acid (GABA) is the most abundant inhibitory neurotransmitter in the mammalian central nervous system (CNS). When released in the synaptic cleft, GABA binds to three major classes of receptors: GABAA, GABAB, and GABAC receptors. GABAA and GABAC receptors are ionotropic and mediate fast GABA responses by triggering chloride channel openings, while GABAB receptors are metabotropic and mediate slower GABA responses by activating G-proteins and influencing second messenger systems. GABAA receptors, the major sites for fast inhibitory neurotransmission in the CNS, are regulated by phosphorylation mechanisms, affecting both their functional properties and their cell surface mobility and trafficking. GABA release by the presynaptic terminal is negatively regulated by GABAB autoreceptors, and is cleared from the extracellular space by GABA transporters (GATs) located either on the presynaptic terminal or neighboring glial cells.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP map04727  GABAergic synapse
+DISEASE     H00746  Hypokalemic periodic paralysis (HypoPP)
+            H00749  Episodic ataxias
+            H00775  Familial or sporadic hemiplegic migraine
+            H00783  Febrile seizures
+            H00808  Idiopathic generalized epilepsies (IGEs)
+            H00923  Congenital systemic glutamine deficiency (CSGD)
+            H01097  Cerebral palsy
+DBLINKS     GO: 0051932
+REFERENCE   
+  AUTHORS   Davis KL, Charney D, Coyle JT, Nemeroff C (ed).
+  TITLE     Neuropsychopharmacology: The fifth generation of progress
+  JOURNAL   Lippincott Williams & Wikins (2002)
+REFERENCE   PMID:17499109
+  AUTHORS   Farrant M, Kaila K
+  TITLE     The cellular, molecular and ionic basis of GABA(A) receptor signalling.
+  JOURNAL   Prog Brain Res 160:59-87 (2007)
+REFERENCE   PMID:9364667
+  AUTHORS   Ben-Ari Y, Khazipov R, Leinekugel X, Caillard O, Gaiarsa JL
+  TITLE     GABAA, NMDA and AMPA receptors: a developmentally regulated 'menage a trois'.
+  JOURNAL   Trends Neurosci 20:523-9 (1997)
+REFERENCE   PMID:20655485
+  AUTHORS   Pinard A, Seddik R, Bettler B
+  TITLE     GABAB receptors: physiological functions and mechanisms of diversity.
+  JOURNAL   Adv Pharmacol 58:231-55 (2010)
+REFERENCE   PMID:21376567
+  AUTHORS   Chalifoux JR, Carter AG
+  TITLE     GABAB receptor modulation of synaptic function.
+  JOURNAL   Curr Opin Neurobiol 21:339-44 (2011)
+REFERENCE   PMID:20655481
+  AUTHORS   Padgett CL, Slesinger PA
+  TITLE     GABAB receptor coupling to G-proteins and ion channels.
+  JOURNAL   Adv Pharmacol 58:123-47 (2010)
+REFERENCE   PMID:17499108
+  AUTHORS   Emson PC
+  TITLE     GABA(B) receptors: structure and function.
+  JOURNAL   Prog Brain Res 160:43-57 (2007)
+REFERENCE   PMID:16932937
+  AUTHORS   Kornau HC
+  TITLE     GABA(B) receptors and synaptic modulation.
+  JOURNAL   Cell Tissue Res 326:517-33 (2006)
+REFERENCE   PMID:18382465
+  AUTHORS   Jacob TC, Moss SJ, Jurd R
+  TITLE     GABA(A) receptor trafficking and its role in the dynamic modulation of neuronal inhibition.
+  JOURNAL   Nat Rev Neurosci 9:331-43 (2008)
+REFERENCE   PMID:12086709
+  AUTHORS   Kneussel M
+  TITLE     Dynamic regulation of GABA(A) receptors at synaptic sites.
+  JOURNAL   Brain Res Brain Res Rev 39:74-83 (2002)
+REFERENCE   PMID:21555068
+  AUTHORS   Luscher B, Fuchs T, Kilpatrick CL
+  TITLE     GABAA receptor trafficking-mediated plasticity of inhibitory synapses.
+  JOURNAL   Neuron 70:385-409 (2011)
+REFERENCE   PMID:19374920
+  AUTHORS   Arancibia-Carcamo IL, Kittler JT
+  TITLE     Regulation of GABA(A) receptor membrane trafficking and synaptic localization.
+  JOURNAL   Pharmacol Ther 123:17-31 (2009)
+REFERENCE   (Japanese)
+  AUTHORS   Kanematsu T, Terunuma M, Goto H, Kuratani A, Hirata M.
+  TITLE     [The life cycle of the GABAA receptor and its regulating molecules] (In Japanese)
+  JOURNAL   Folia Pharmacol. Jpn. (Nippon Yakurigaku Sasshi) (2004)
+REFERENCE   PMID:16787421
+  AUTHORS   Bak LK, Schousboe A, Waagepetersen HS
+  TITLE     The glutamate/GABA-glutamine cycle: aspects of transport, neurotransmitter homeostasis and ammonia transfer.
+  JOURNAL   J Neurochem 98:641-53 (2006)
+REFERENCE   PMID:15210304
+  AUTHORS   Conti F, Minelli A, Melone M
+  TITLE     GABA transporters in the mammalian cerebral cortex: localization, development and pathological implications.
+  JOURNAL   Brain Res Brain Res Rev 45:196-212 (2004)
+REFERENCE   PMID:12888801
+  AUTHORS   Brambilla P, Perez J, Barale F, Schettini G, Soares JC
+  TITLE     GABAergic dysfunction in mood disorders.
+  JOURNAL   Mol Psychiatry 8:721-37, 715 (2003)
+REFERENCE   PMID:10780899
+  AUTHORS   Chebib M, Johnston GA
+  TITLE     GABA-Activated ligand gated ion channels: medicinal chemistry and molecular biology.
+  JOURNAL   J Med Chem 43:1427-47 (2000)
+KO_PATHWAY  ko04727
+///

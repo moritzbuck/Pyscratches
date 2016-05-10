@@ -1,0 +1,44 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map03010
+server: Apache
+date: Wed, 15 Oct 2014 14:58:06 GMT
+content-type: text/plain
+
+ENTRY       map03010                    Pathway
+NAME        Ribosome
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP map03010  Ribosome
+MODULE      M00177  Ribosome, eukaryotes [PATH:map03010]
+            M00178  Ribosome, bacteria [PATH:map03010]
+            M00179  Ribosome, archaea [PATH:map03010]
+DISEASE     H00237  Diamond-Blackfan anemia (DBA)
+REFERENCE   PMID:10476961
+  AUTHORS   Ban N, Nissen P, Hansen J, Capel M, Moore PB, Steitz TA.
+  TITLE     Placement of protein and RNA structures into a 5 A-resolution map of the 50S ribosomal subunit.
+  JOURNAL   Nature 400:841-847 (1999)
+REFERENCE   PMID:10476960
+  AUTHORS   Clemons WM Jr, May JL, Wimberly BT, McCutcheon JP, Capel MS, Ramakrishnan V.
+  TITLE     Structure of a bacterial 30S ribosomal subunit at 5.5 A resolution.
+  JOURNAL   Nature 400:833-840 (1999)
+REFERENCE   PMID:10497122
+  AUTHORS   Cate JH, Yusupov MM, Yusupova GZ, Earnest TN, Noller HF.
+  TITLE     X-ray crystal structures of 70S ribosome functional complexes.
+  JOURNAL   Science 285:2095-2104 (1999)
+REFERENCE   PMID:10937989
+  AUTHORS   Ban N, Nissen P, Hansen J, Moore PB, Steitz TA.
+  TITLE     The complete atomic structure of the large ribosomal subunit at 2.4 A resolution.
+  JOURNAL   Science 289:905-920 (2000)
+REFERENCE   PMID:10937990
+  AUTHORS   Nissen P, Hansen J, Ban N, Moore PB, Steitz TA.
+  TITLE     The structural basis of ribosome activity in peptide bond synthesis.
+  JOURNAL   Science 289:920-930 (2000)
+REFERENCE   PMID:11014182
+  AUTHORS   Wimberly BT, Brodersen DE, Clemons WM Jr, Morgan-Warren RJ, Carter AP, Vonrhein C, Hartsch T, Ramakrishnan V.
+  TITLE     Structure of the 30S ribosomal subunit.
+  JOURNAL   Nature 407:327-339 (2000)
+REFERENCE   PMID:11014183
+  AUTHORS   Carter AP, Clemons WM, Brodersen DE, Morgan-Warren RJ, Wimberly BT, Ramakrishnan V.
+  TITLE     Functional insights from the structure of the 30S ribosomal subunit and its interactions with antibiotics.
+  JOURNAL   Nature 407:340-348 (2000)
+KO_PATHWAY  ko03010
+///

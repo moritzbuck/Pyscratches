@@ -1,0 +1,70 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07019
+server: Apache
+date: Wed, 15 Oct 2014 14:59:19 GMT
+content-type: text/plain
+
+ENTRY       map07019          Drug      Pathway
+NAME        Tetracyclines
+PATHWAY_MAP map07019  Tetracyclines
+COMPOUND    D00201  Tetracycline (JAN/USP/INN)
+            D00205  Oxytetracycline (JAN/USP/INN)
+            D00290  Demethylchlortetracycline hydrochloride (JP16)
+            D00307  Doxycycline (USP)
+            D00849  Methacycline hydrochloride (JAN/USP)
+            D00850  Minocycline hydrochloride (JP16/USP)
+            D01079  Tigecycline (JAN/USAN)
+            D01596  Oxytetracycline hydrochloride (JP16/USP)
+            D02122  Tetracycline hydrochloride (JP16/USP)
+            D02129  Doxycycline hydrochloride hydrate (JP16)
+            D02255  Chlortetracycline hydrochloride (JAN/USP)
+            D03477  Chlortetracycline bisulfate (USP)
+            D03680  Demethylchlortetracycline (JAN)
+            D03903  Doxycycline calcium (USP)
+            D04972  Methacycline (USAN)
+            D05045  Minocycline (USAN/INN)
+            D05322  Oxytetracycline calcium (USP)
+            D07689  Chlortetracycline (INN)
+            D07876  Doxycycline (INN)
+            D07877  Doxycycline hydrochloride
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   (Japanese)
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   
+  AUTHORS   Zimmerman TJ, Kooner K, Sharir M, Fechtner RD (eds).
+  TITLE     Textbook of Ocular Pharmacology (1997)
+  JOURNAL   Lippincott Williams & Wilkins (1997)
+REFERENCE   
+  AUTHORS   Hunter IS, Hill RA.
+  TITLE     Tetracyclines.
+  JOURNAL   Drugs and the Pharmaceutical Sciences 82:659-682 (1997)
+REFERENCE   
+  AUTHORS   Nelson ML.
+  TITLE     The chemistry and biology of the tetracyclines.
+  JOURNAL   Annual Reports in Medicinal Chemistry 37:105-114 (2002)
+REFERENCE   PMID:2280462 (Japanese)
+  AUTHORS   Kobayashi Y.
+  TITLE     [Tetracyclines]
+  JOURNAL   Nippon Rinsho 48:2184-8 (1990)
+REFERENCE   PMID:7628979
+  AUTHORS   Tally FT, Ellestad GA, Testa RT.
+  TITLE     Glycylcyclines: a new generation of tetracyclines.
+  JOURNAL   J Antimicrob Chemother 35:449-52 (1995)
+REFERENCE   PMID:12237079
+  AUTHORS   Chopra I.
+  TITLE     New developments in tetracycline antibiotics: glycylcyclines and tetracycline efflux pump inhibitors.
+  JOURNAL   Drug Resist Updat 5:119-25 (2002)
+REFERENCE   PMID:16249141
+  AUTHORS   Scheinfeld N.
+  TITLE     Tigecycline: a review of a new glycylcycline antibiotic.
+  JOURNAL   J Dermatolog Treat 16:207-12 (2005)
+///

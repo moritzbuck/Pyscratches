@@ -1,0 +1,80 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01051
+server: Apache
+date: Wed, 15 Oct 2014 14:57:55 GMT
+content-type: text/plain
+
+ENTRY       map01051                    Pathway
+NAME        Biosynthesis of ansamycins
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map01051  Biosynthesis of ansamycins
+REFERENCE   PMID:22193711
+  AUTHORS   Kang Q, Shen Y, Bai L
+  TITLE     Biosynthesis of 3,5-AHBA-derived natural products.
+  JOURNAL   Nat Prod Rep 29:243-63 (2012)
+REFERENCE   PMID:21081954
+  AUTHORS   Floss HG, Yu TW, Arakawa K
+  TITLE     The biosynthesis of 3-amino-5-hydroxybenzoic acid (AHBA), the precursor of mC7N units in ansamycin and mitomycin antibiotics: a review.
+  JOURNAL   J Antibiot (Tokyo) 64:35-44 (2011)
+REFERENCE   PMID:12207504
+  AUTHORS   Guo J, Frost JW
+  TITLE     Kanosamine biosynthesis: a likely source of the aminoshikimate pathway's nitrogen atom.
+  JOURNAL   J Am Chem Soc 124:10642-3 (2002)
+REFERENCE   PMID:17076505
+  AUTHORS   Wenzel SC, Williamson RM, Grunanger C, Xu J, Gerth K, Martinez RA, Moss SJ, Carroll BJ, Grond S, Unkefer CJ, Muller R, Floss HG
+  TITLE     On the biosynthetic origin of methoxymalonyl-acyl carrier protein, the substrate  for incorporation of "glycolate" units into ansamitocin and soraphen A.
+  JOURNAL   J Am Chem Soc 128:14325-36 (2006)
+REFERENCE   PMID:11996558
+  AUTHORS   Kato Y, Bai L, Xue Q, Revill WP, Yu TW, Floss HG
+  TITLE     Functional expression of genes involved in the biosynthesis of the novel polyketide chain extension unit, methoxymalonyl-acyl carrier protein, and engineered biosynthesis of 2-desmethyl-2-methoxy-6-deoxyerythronolide B.
+  JOURNAL   J Am Chem Soc 124:5268-9 (2002)
+REFERENCE   PMID:12060743
+  AUTHORS   Yu TW, Bai L, Clade D, Hoffmann D, Toelzer S, Trinh KQ, Xu J, Moss SJ, Leistner E, Floss HG
+  TITLE     The biosynthetic gene cluster of the maytansinoid antitumor agent ansamitocin from Actinosynnema pretiosum.
+  JOURNAL   Proc Natl Acad Sci U S A 99:7968-73 (2002)
+REFERENCE   PMID:14624546
+  AUTHORS   Spiteller P, Bai L, Shang G, Carroll BJ, Yu TW, Floss HG
+  TITLE     The post-polyketide synthase modification steps in the biosynthesis of the antitumor agent ansamitocin by Actinosynnema pretiosum.
+  JOURNAL   J Am Chem Soc 125:14236-7 (2003)
+REFERENCE   PMID:19292483
+  AUTHORS   Taft F, Brunjes M, Knobloch T, Floss HG, Kirschning A
+  TITLE     Timing of the Delta(10,12)-Delta(11,13) double bond migration during ansamitocin  biosynthesis in Actinosynnema pretiosum.
+  JOURNAL   J Am Chem Soc 131:3812-3 (2009)
+REFERENCE   PMID:22195559
+  AUTHORS   Li Y, Zhao P, Kang Q, Ma J, Bai L, Deng Z
+  TITLE     Dual carbamoylations on the polyketide and glycosyl moiety by asm21 result in extended ansamitocin biosynthesis.
+  JOURNAL   Chem Biol 18:1571-80 (2011)
+REFERENCE   PMID:21681880
+  AUTHORS   Wu Y, Kang Q, Shang G, Spiteller P, Carroll B, Yu TW, Su W, Bai L, Floss HG
+  TITLE     N-methylation of the amide bond by methyltransferase asm10 in ansamitocin biosynthesis.
+  JOURNAL   Chembiochem 12:1759-66 (2011)
+REFERENCE   PMID:18721757
+  AUTHORS   Zhao P, Bai L, Ma J, Zeng Y, Li L, Zhang Y, Lu C, Dai H, Wu Z, Li Y, Wu X, Chen G, Hao X, Shen Y, Deng Z, Floss HG
+  TITLE     Amide N-glycosylation by Asm25, an N-glycosyltransferase of ansamitocins.
+  JOURNAL   Chem Biol 15:863-74 (2008)
+REFERENCE   PMID:12207505
+  AUTHORS   Arakawa K, Muller R, Mahmud T, Yu TW, Floss HG
+  TITLE     Characterization of the early stage aminoshikimate pathway in the formation of 3-amino-5-hydroxybenzoic acid: the RifN protein specifically converts kanosamine  into kanosamine 6-phosphate.
+  JOURNAL   J Am Chem Soc 124:10644-5 (2002)
+REFERENCE   PMID:12888623
+  AUTHORS   Watanabe K, Rude MA, Walsh CT, Khosla C
+  TITLE     Engineered biosynthesis of an ansamycin polyketide precursor in Escherichia coli.
+  JOURNAL   Proc Natl Acad Sci U S A 100:9774-8 (2003)
+REFERENCE   PMID:15700959
+  AUTHORS   Floss HG, Yu TW.
+  TITLE     Rifamycin-mode of action, resistance, and biosynthesis.
+  JOURNAL   Chem Rev 105:621-32 (2005)
+REFERENCE   PMID:12623077
+  AUTHORS   Xu J, Mahmud T, Floss HG
+  TITLE     Isolation and characterization of 27-O-demethylrifamycin SV methyltransferase provides new insights into the post-PKS modification steps during the biosynthesis of the antitubercular drug rifamycin B by Amycolatopsis mediterranei S699.
+  JOURNAL   Arch Biochem Biophys 411:277-88 (2003)
+REFERENCE   PMID:15791687
+  AUTHORS   Xiong Y, Wu X, Mahmud T
+  TITLE     A homologue of the Mycobacterium tuberculosis PapA5 protein, rif-orf20, is an acetyltransferase involved in the biosynthesis of antitubercular drug rifamycin B by Amycolatopsis mediterranei S699.
+  JOURNAL   Chembiochem 6:834-7 (2005)
+REFERENCE   PMID:16079331
+  AUTHORS   Xu J, Wan E, Kim CJ, Floss HG, Mahmud T
+  TITLE     Identification of tailoring genes involved in the modification of the polyketide  backbone of rifamycin B by Amycolatopsis mediterranei S699.
+  JOURNAL   Microbiology 151:2515-28 (2005)
+KO_PATHWAY  ko01051
+///

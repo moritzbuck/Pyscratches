@@ -1,0 +1,82 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04210
+server: Apache
+date: Wed, 15 Oct 2014 14:58:24 GMT
+content-type: text/plain
+
+ENTRY       map04210                    Pathway
+NAME        Apoptosis
+DESCRIPTION Apoptosis is a genetically controlled mechanisms of cell death involved in the regulation of tissue homeostasis. The 2 major pathways of apoptosis are the extrinsic (Fas and other TNFR superfamily members and ligands) and the intrinsic (mitochondria-associated) pathways, both of which are found in the cytoplasm. The extrinsic pathway is triggered by death receptor engagement, which initiates a signaling cascade mediated by caspase-8 activation. Caspase-8 both feeds directly into caspase-3 activation and stimulates the release of cytochrome c by the mitochondria. Caspase-3 activation leads to the degradation of cellular proteins necessary to maintain cell survival and integrity. The intrinsic pathway occurs when various apoptotic stimuli trigger the release of cytochrome c from the mitochondria (independently of caspase-8 activation). Cytochrome c interacts with Apaf-1 and caspase-9 to promote the activation of caspase-3. Recent studies point to the ER as a third subcellular compartment implicated in apoptotic execution. Alterations in Ca2+ homeostasis and accumulation of misfolded proteins in the ER cause ER stress. Prolonged ER stress can result in the activation of BAD and/or caspase-12, and execute apoptosis.
+CLASS       Cellular Processes; Cell growth and death
+PATHWAY_MAP map04210  Apoptosis
+DISEASE     H00108  Autoimmune lymphoproliferative syndromes (ALPS)
+            H00265  Hereditary sensory and autonomic neuropathy (HSAN)
+            H00539  PTEN hamartoma tumor syndrome (PHTS)
+            H00540  Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID)
+            H00645  Incontinentia pigmenti
+            H00721  Pyogenic bacterial infections, recurrent, due to MYD88 deficiency
+            H00848  Ataxia with ocular apraxia (AOA)
+            H00881  Li-Fraumeni syndrome
+            H00882  Cocoon syndrome
+            H00912  Tumor necrosis factor receptor-associated periodic syndrome (TRAPS)
+            H01007  Choroid plexus papilloma
+            H01102  Pituitary adenomas
+DBLINKS     GO: 0006915
+REFERENCE   (Japanese)
+  AUTHORS   Murakawa M, Yonehara S.
+  TITLE     [Apoptosis induced by death receptors.] (In Japanese)
+  JOURNAL   Experimental Medicine 19(13):1690-1694 (2001)
+REFERENCE   PMID:14663476
+  AUTHORS   Kucharczak J, Simmons MJ, Fan Y, Gelinas C.
+  TITLE     To be, or not to be: NF-kappaB is the answer--role of Rel/NF-kappaB in the regulation of apoptosis.
+  JOURNAL   Oncogene 22:8961-82 (2003)
+REFERENCE   PMID:14996498
+  AUTHORS   Donovan M, Cotter TG.
+  TITLE     Control of mitochondrial integrity by Bcl-2 family members and caspase-independent cell death.
+  JOURNAL   Biochim Biophys Acta 1644:133-47 (2004)
+REFERENCE   PMID:14996497
+  AUTHORS   Sprick MR, Walczak H.
+  TITLE     The interplay between the Bcl-2 family and death receptor-mediated apoptosis.
+  JOURNAL   Biochim Biophys Acta 1644:125-32 (2004)
+REFERENCE   PMID:10690403
+  AUTHORS   Nagata S.
+  TITLE     Fas ligand-induced apoptosis.
+  JOURNAL   Annu Rev Genet 33:29-55 (1999)
+REFERENCE   (Japanese)
+  AUTHORS   Suda T.
+  TITLE     [The apoptosis is Kin to the inflammation.] (In Japanese)
+  JOURNAL   Experimental Medicine 19(13):1790-1797 (2001)
+REFERENCE   PMID:11048732
+  AUTHORS   Yuan J, Yankner BA.
+  TITLE     Apoptosis in the nervous system.
+  JOURNAL   Nature 407:802-9 (2000)
+REFERENCE   PMID:14556717
+  AUTHORS   Yuan J, Lipinski M, Degterev A.
+  TITLE     Diversity in the mechanisms of neuronal cell death.
+  JOURNAL   Neuron 40:401-13 (2003)
+REFERENCE   PMID:14737178
+  AUTHORS   Steelman LS, Pohnert SC, Shelton JG, Franklin RA, Bertrand FE, McCubrey JA.
+  TITLE     JAK/STAT, Raf/MEK/ERK, PI3K/Akt and BCR-ABL in cell cycle progression and leukemogenesis.
+  JOURNAL   Leukemia 18:189-218 (2004)
+REFERENCE   PMID:10692573
+  AUTHORS   Martinon F, Holler N, Richard C, Tschopp J.
+  TITLE     Activation of a pro-apoptotic amplification loop through inhibition of NF-kappaB-dependent survival signals by caspase-mediated inactivation of RIP.
+  JOURNAL   FEBS Lett 468:134-6 (2000)
+REFERENCE   PMID:11290317
+  AUTHORS   Goyal L.
+  TITLE     Cell death inhibition: keeping caspases in check.
+  JOURNAL   Cell 104:805-8 (2001)
+REFERENCE   PMID:10195903
+  AUTHORS   Wang HG, Pathan N, Ethell IM, Krajewski S, Yamaguchi Y, Shibasaki F, McKeon F, Bobo T, Franke TF, Reed JC.
+  TITLE     Ca2+-induced apoptosis through calcineurin dephosphorylation of BAD.
+  JOURNAL   Science 284:339-43 (1999)
+REFERENCE   PMID:14656699
+  AUTHORS   Remillard CV, Yuan JX.
+  TITLE     Activation of K+ channels: an essential pathway in programmed cell death.
+  JOURNAL   Am J Physiol Lung Cell Mol Physiol 286:L49-67 (2004)
+REFERENCE   PMID:9670005
+  AUTHORS   Gross A, Jockel J, Wei MC, Korsmeyer SJ.
+  TITLE     Enforced dimerization of BAX results in its translocation, mitochondrial dysfunction and apoptosis.
+  JOURNAL   EMBO J 17:3878-85 (1998)
+KO_PATHWAY  ko04210
+///

@@ -1,0 +1,17 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00231
+server: Apache
+date: Wed, 15 Oct 2014 15:07:34 GMT
+content-type: text/plain
+
+ENTRY       map00231                    Pathway
+NAME        Puromycin biosynthesis
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00231  Puromycin biosynthesis
+DBLINKS     GO: 0043638
+REFERENCE   PMID:8576156
+  AUTHORS   Tercero JA, Espinosa JC, Lacalle RA, Jimenez A.
+  TITLE     The biosynthetic pathway of the aminonucleoside antibiotic puromycin, as deduced from the molecular analysis of the pur cluster of Streptomyces alboniger.
+  JOURNAL   J Biol Chem 271:1579-90 (1996)
+KO_PATHWAY  ko00231
+///

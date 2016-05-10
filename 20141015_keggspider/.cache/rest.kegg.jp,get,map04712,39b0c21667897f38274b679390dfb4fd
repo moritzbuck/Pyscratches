@@ -1,0 +1,134 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04712
+server: Apache
+date: Wed, 15 Oct 2014 15:08:59 GMT
+content-type: text/plain
+
+ENTRY       map04712                    Pathway
+NAME        Circadian rhythm - plant
+DESCRIPTION The circadian system is an endogenous rhythm with the period of about 24 hours to provide temporal organization of biological activity. In Arabidopsis the circadian oscillator at the core of this system is composed of the interlocked feedback loop formed by the major transcriptional factors CCA1 (circadian clock associated), LHY (late elongated hypocotyl) and TOC1 (timing of cab), a pseudo response regulator (PRR). The morning-expressed CCA1/LHY Myb transcription factors suppress TOC1 expression by binding to its promoter. Moreover, CCA1/LHY activates the expression of PRR7/9 in the morning and then PRR7/9 repress the transcription of CCA1/LHY during the rest of the day. By contrast, the evening-expressed TOC1 activates the expression of CCA1/LHY.
+CLASS       Organismal Systems; Environmental adaptation
+PATHWAY_MAP map04712  Circadian rhythm - plant
+DBLINKS     GO: 0007623
+REFERENCE   PMID:11710980
+  AUTHORS   McWatters HG, Roden LC, Staiger D.
+  TITLE     Picking out parallels: plant circadian clocks in context.
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 356:1735-43 (2001)
+REFERENCE   PMID:11597501
+  AUTHORS   Yanovsky MJ, Kay SA.
+  TITLE     Signaling networks in the plant circadian system.
+  JOURNAL   Curr Opin Plant Biol 4:429-35 (2001)
+REFERENCE   PMID:10792828
+  AUTHORS   Kim L, Kircher S, Toth R, Adam E, Schafer E, Nagy F.
+  TITLE     Light-induced nuclear import of phytochrome-A:GFP fusion proteins is differentially regulated in transgenic tobacco and Arabidopsis.
+  JOURNAL   Plant J 22:125-33 (2000)
+REFERENCE   PMID:8953247
+  AUTHORS   Sakamoto K, Nagatani A.
+  TITLE     Nuclear localization activity of phytochrome B.
+  JOURNAL   Plant J 10:859-68 (1996)
+REFERENCE   PMID:11402161
+  AUTHORS   Liu XL, Covington MF, Fankhauser C, Chory J, Wagner DR.
+  TITLE     ELF3 encodes a circadian clock-regulated nuclear protein that functions in an Arabidopsis PHYB signal transduction pathway.
+  JOURNAL   Plant Cell 13:1293-304 (2001)
+REFERENCE   PMID:11069292
+  AUTHORS   Zhu Y, Tepperman JM, Fairchild CD, Quail PH.
+  TITLE     Phytochrome B binds with greater apparent affinity than phytochrome A to the basic helix-loop-helix factor PIF3 in a reaction requiring the PAS domain of PIF3.
+  JOURNAL   Proc Natl Acad Sci U S A 97:13419-24 (2000)
+REFERENCE   PMID:9845368
+  AUTHORS   Ni M, Tepperman JM, Quail PH.
+  TITLE     PIF3, a phytochrome-interacting factor necessary for normal photoinduced signal transduction, is a novel basic helix-loop-helix protein.
+  JOURNAL   Cell 95:657-67 (1998)
+REFERENCE   PMID:11743105
+  AUTHORS   Toth R, Kevei E, Hall A, Millar AJ, Nagy F, Kozma-Bognar L.
+  TITLE     Circadian clock-regulated expression of phytochrome and cryptochrome genes in Arabidopsis.
+  JOURNAL   Plant Physiol 127:1607-16 (2001)
+REFERENCE   PMID:11752379
+  AUTHORS   Schultz TF, Kiyosue T, Yanovsky M, Wada M, Kay SA.
+  TITLE     A role for LKP2 in the circadian clock of Arabidopsis.
+  JOURNAL   Plant Cell 13:2659-70 (2001)
+REFERENCE   PMID:11260718
+  AUTHORS   Jarillo JA, Capel J, Tang RH, Yang HQ, Alonso JM, Ecker JR, Cashmore AR.
+  TITLE     An Arabidopsis circadian clock component interacts with both CRY1 and phyB.
+  JOURNAL   Nature 410:487-90 (2001)
+REFERENCE   PMID:11828029
+  AUTHORS   Matsushika A, Makino S, Kojima M, Yamashino T, Mizuno T.
+  TITLE     The APRR1/TOC1 quintet implicated in circadian rhythms of Arabidopsis thaliana: II. Characterization with CCA1-overexpressing plants.
+  JOURNAL   Plant Cell Physiol 43:118-22 (2002)
+REFERENCE   PMID:10535927
+  AUTHORS   Sugano S, Andronis C, Ong MS, Green RM, Tobin EM.
+  TITLE     The protein kinase CK2 is involved in regulation of circadian rhythms in Arabidopsis.
+  JOURNAL   Proc Natl Acad Sci U S A 96:12362-6 (1999)
+REFERENCE   PMID:11089975
+  AUTHORS   Mas P, Devlin PF, Panda S, Kay SA.
+  TITLE     Functional interaction of phytochrome B and cryptochrome 2.
+  JOURNAL   Nature 408:207-11 (2000)
+REFERENCE   PMID:9651577
+  AUTHORS   Ahmad M, Jarillo JA, Smirnova O, Cashmore AR.
+  TITLE     The CRY1 blue light photoreceptor of Arabidopsis interacts with phytochrome A in vitro.
+  JOURNAL   Mol Cell 1:939-48 (1998)
+REFERENCE   PMID:11486091
+  AUTHORS   Alabadi D, Oyama T, Yanovsky MJ, Harmon FG, Mas P, Kay SA.
+  TITLE     Reciprocal regulation between TOC1 and LHY/CCA1 within the Arabidopsis circadian clock.
+  JOURNAL   Science 293:880-3 (2001)
+REFERENCE   PMID:11148285
+  AUTHORS   Borevitz JO, Xia Y, Blount J, Dixon RA, Lamb C.
+  TITLE     Activation tagging identifies a conserved MYB regulator of phenylpropanoid biosynthesis.
+  JOURNAL   Plant Cell 12:2383-2394 (2000)
+REFERENCE   PMID:12091722
+  AUTHORS   Murakami-Kojima M, Nakamichi N, Yamashino T, Mizuno T.
+  TITLE     The APRR3 component of the clock-associated APRR1/TOC1 quintet is phosphorylated by a novel protein kinase belonging to the WNK family, the gene for which is also transcribed rhythmically in Arabidopsis thaliana.
+  JOURNAL   Plant Cell Physiol 43:675-83 (2002)
+REFERENCE   PMID:19386812
+  AUTHORS   Pan Y, Michael TP, Hudson ME, Kay SA, Chory J, Schuler MA
+  TITLE     Cytochrome P450 monooxygenases as reporters for circadian-regulated pathways.
+  JOURNAL   Plant Physiol 150:858-78 (2009)
+REFERENCE   PMID:11118138
+  AUTHORS   Harmer SL, Hogenesch JB, Straume M, Chang HS, Han B, Zhu T, Wang X, Kreps JA, Kay SA
+  TITLE     Orchestrated transcription of key pathways in Arabidopsis by the circadian clock.
+  JOURNAL   Science 290:2110-3 (2000)
+REFERENCE   PMID:12045273
+  AUTHORS   Mouradov A, Cremer F, Coupland G
+  TITLE     Control of flowering time: interacting pathways as a basis for diversity.
+  JOURNAL   Plant Cell 14 Suppl:S111-30 (2002)
+REFERENCE   PMID:15568973
+  AUTHORS   Chen M, Chory J, Fankhauser C
+  TITLE     Light signal transduction in higher plants.
+  JOURNAL   Annu Rev Genet 38:87-117 (2004)
+REFERENCE   PMID:16096959
+  AUTHORS   Mas P
+  TITLE     Circadian clock signaling in Arabidopsis thaliana: from gene expression to physiology and development.
+  JOURNAL   Int J Dev Biol 49:491-500 (2005)
+REFERENCE   PMID:17304247
+  AUTHORS   Jiao Y, Lau OS, Deng XW
+  TITLE     Light-regulated transcriptional networks in higher plants.
+  JOURNAL   Nat Rev Genet 8:217-30 (2007)
+REFERENCE   PMID:18444908
+  AUTHORS   Turck F, Fornara F, Coupland G
+  TITLE     Regulation and identity of florigen: FLOWERING LOCUS T moves center stage.
+  JOURNAL   Annu Rev Plant Biol 59:573-94 (2008)
+REFERENCE   PMID:19836294
+  AUTHORS   Imaizumi T
+  TITLE     Arabidopsis circadian clock and photoperiodism: time to think about location.
+  JOURNAL   Curr Opin Plant Biol 13:83-9 (2010)
+REFERENCE   PMID:20459860
+  AUTHORS   McClung CR
+  TITLE     A modern circadian clock in the common angiosperm ancestor of monocots and eudicots.
+  JOURNAL   BMC Biol 8:55 (2010)
+REFERENCE   PMID:20809800
+  AUTHORS   Doherty CJ, Kay SA
+  TITLE     Circadian control of global gene expression patterns.
+  JOURNAL   Annu Rev Genet 44:419-44 (2010)
+REFERENCE   PMID:20889330
+  AUTHORS   McClung CR, Gutierrez RA
+  TITLE     Network news: prime time for systems biology of the plant circadian clock.
+  JOURNAL   Curr Opin Genet Dev 20:588-98 (2010)
+REFERENCE   PMID:22190341
+  AUTHORS   Lu SX, Webb CJ, Knowles SM, Kim SH, Wang Z, Tobin EM
+  TITLE     CCA1 and ELF3 Interact in the control of hypocotyl length and flowering time in Arabidopsis.
+  JOURNAL   Plant Physiol 158:1079-88 (2012)
+REFERENCE   PMID:22705257
+  AUTHORS   Lau OS, Deng XW
+  TITLE     The photomorphogenic repressors COP1 and DET1: 20 years later.
+  JOURNAL   Trends Plant Sci 17:584-93 (2012)
+KO_PATHWAY  ko04712
+///

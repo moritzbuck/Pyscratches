@@ -1,0 +1,79 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00270
+server: Apache
+date: Wed, 15 Oct 2014 15:07:36 GMT
+content-type: text/plain
+
+ENTRY       map00270                    Pathway
+NAME        Cysteine and methionine metabolism
+DESCRIPTION Cysteine and methionine are sulfur-containing amino acids. Cysteine is synthesized from serine through different pathways in different organism groups. In bacteria and plants, cysteine is converted from serine (via acetylserine) by transfer of hydrogen sulfide [MD:M00021]. In animals, methionine-derived homocysteine is used as sulfur source and its condensation product with serine (cystathionine) is converted to cysteine [MD:M00338]. Cysteine is metabolized to pyruvate in multiple routes. Methionine is an essential amino acid, which animals cannot synthesize. In bacteria and plants, methionine is synthesized from aspartate [MD:M00017]. S-Adenosylmethionine (SAM), synthesized from methionine and ATP, is a methyl group donor in many important transfer reactions including DNA methylation for regulation of gene expression. SAM may also be used to regenerate methionine in the methionine salvage pathway [MD:M00034].
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00270  Cysteine and methionine metabolism
+MODULE      M00017  Methionine biosynthesis, apartate => homoserine => methionine [PATH:map00270]
+            M00021  Cysteine biosynthesis, serine => cysteine [PATH:map00270]
+            M00034  Methionine salvage pathway [PATH:map00270]
+            M00035  Methionine degradation [PATH:map00270]
+            M00338  Cysteine biosynthesis, homocysteine + serine => cysteine [PATH:map00270]
+            M00368  Ethylene biosynthesis, methionine => ethylene [PATH:map00270]
+            M00609  Cysteine biosynthesis, methionine => cysteine [PATH:map00270]
+DISEASE     H00147  Sialuria/ Sialic acid storage disease
+            H00182  Cystathioninuria
+            H00183  Homocystinuria
+            H00184  Hypermethioninemia
+            H00597  Snyder-Robinson syndrome
+            H01285  Methylcobalamin deficiency type G (cblG)
+DBLINKS     GO: 0006534 0006555
+REFERENCE   PMID:15102328
+  AUTHORS   Sekowska A, Denervaud V, Ashida H, Michoud K, Haas D, Yokota A, Danchin A
+  TITLE     Bacterial variations on the methionine salvage pathway.
+  JOURNAL   BMC Microbiol 4:9 (2004)
+REFERENCE   PMID:14551435
+  AUTHORS   Ashida H, Saito Y, Kojima C, Kobayashi K, Ogasawara N, Yokota A.
+  TITLE     A functional link between RuBisCO-like protein of Bacillus and photosynthetic RuBisCO.
+  JOURNAL   Science 302:286-90 (2003)
+REFERENCE   PMID:12022921
+  AUTHORS   Sekowska A, Danchin A.
+  TITLE     The methionine salvage pathway in Bacillus subtilis.
+  JOURNAL   BMC Microbiol 2:8 (2002)
+REFERENCE   PMID:12670965
+  AUTHORS   Berger BJ, English S, Chan G, Knodel MH.
+  TITLE     Methionine regeneration and aminotransferases in Bacillus subtilis, Bacillus cereus, and Bacillus anthracis.
+  JOURNAL   J Bacteriol 185:2418-31 (2003)
+REFERENCE   PMID:17169919
+  AUTHORS   Goyer A, Collakova E, Shachar-Hill Y, Hanson AD
+  TITLE     Functional characterization of a methionine gamma-lyase in Arabidopsis and its implication in an alternative to the reverse trans-sulfuration pathway.
+  JOURNAL   Plant Cell Physiol 48:232-42 (2007)
+REFERENCE   PMID:17030798
+  AUTHORS   Rebeille F, Jabrin S, Bligny R, Loizeau K, Gambonnet B, Van Wilder V, Douce R, Ravanel S
+  TITLE     Methionine catabolism in Arabidopsis cells is initiated by a gamma-cleavage process and leads to S-methylcysteine and isoleucine syntheses.
+  JOURNAL   Proc Natl Acad Sci U S A 103:15687-92 (2006)
+REFERENCE   PMID:18625006
+  AUTHORS   Pirkov I, Norbeck J, Gustafsson L, Albers E
+  TITLE     A complete inventory of all enzymes in the eukaryotic methionine salvage pathway.
+  JOURNAL   FEBS J 275:4111-20 (2008)
+REFERENCE   PMID:18391471
+  AUTHORS   Ashida H, Saito Y, Kojima C, Yokota A
+  TITLE     Enzymatic characterization of 5-methylthioribulose-1-phosphate dehydratase of the methionine salvage pathway in Bacillus subtilis.
+  JOURNAL   Biosci Biotechnol Biochem 72:959-67 (2008)
+REFERENCE   PMID:10613873
+  AUTHORS   Kitabatake M, So MW, Tumbula DL, Soll D
+  TITLE     Cysteine biosynthesis pathway in the archaeon Methanosarcina barkeri encoded by acquired bacterial genes?
+  JOURNAL   J Bacteriol 182:143-5 (2000)
+REFERENCE   PMID:12644499
+  AUTHORS   Mino K, Ishikawa K
+  TITLE     Characterization of a novel thermostable O-acetylserine sulfhydrylase from Aeropyrum pernix K1.
+  JOURNAL   J Bacteriol 185:2277-84 (2003)
+REFERENCE   PMID:18520135
+  AUTHORS   Tanabe S
+  TITLE     Development of assay methods for endogenous inorganic sulfur compounds and sulfurtransferases and evaluation of the physiological functions of bound sulfur.
+  JOURNAL   Yakugaku Zasshi 128:881-900 (2008)
+REFERENCE   
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REFERENCE   PMID:19270684
+  AUTHORS   Gutierrez JA, Crowder T, Rinaldo-Matthis A, Ho MC, Almo SC, Schramm VL
+  TITLE     Transition state analogs of 5'-methylthioadenosine nucleosidase disrupt quorum sensing.
+  JOURNAL   Nat Chem Biol 5:251-7 (2009)
+KO_PATHWAY  ko00270
+///

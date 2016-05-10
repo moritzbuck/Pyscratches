@@ -1,0 +1,103 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04060
+server: Apache
+date: Wed, 15 Oct 2014 15:08:37 GMT
+content-type: text/plain
+
+ENTRY       map04060                    Pathway
+NAME        Cytokine-cytokine receptor interaction
+DESCRIPTION Cytokines are soluble extracellular proteins or glycoproteins that are crucial intercellular regulators and mobilizers of cells engaged in innate as well as adaptive inflammatory host defenses, cell growth, differentiation, cell death, angiogenesis, and development and repair processes aimed at the restoration of homeostasis. Cytokines are released by various cells in the body, usually in response to an activating stimulus, and they induce responses through binding to specific receptors on the cell surface of target cells. Cytokines can be grouped by structure into different families and their receptors can likewise be grouped.
+CLASS       Environmental Information Processing; Signaling molecules and interaction
+PATHWAY_MAP map04060  Cytokine-cytokine receptor interaction
+DISEASE     H00097  Chemokine receptor defect
+            H00227  Congenital amegakaryocytic thrombocytopenia (CAMT)
+            H00344  Leprosy
+            H00408  Type I diabetes mellitus
+            H00609  46,XY disorders of sex development (Other)
+            H00632  Heterotaxy
+            H00651  Ectodermal dysplasia
+            H00800  Loeys-Dietz syndrome (LDS)
+            H00801  Familial thoracic aortic aneurysm and dissection (TAAD)
+            H00821  Macular degeneration
+            H00912  Tumor necrosis factor receptor-associated periodic syndrome (TRAPS)
+            H00935  Cold-induced sweating syndrome (CISS) and Crisponi syndrome (CRISPS)
+            H01023  Juvenile polyposis syndrome
+            H01024  Hereditary mixed polyposis syndrome
+            H01109  Chronic mucocutaneous candidiasis (CMC)
+            H01122  Pulmonary alveolar proteinosis (PAP)
+            H01217  Primary localized cutaneous amyloidosis (PLCA)
+            H01227  Inflammatory bowel disease
+REFERENCE   
+  AUTHORS   Oppenheim JJ, Feldman M (ed).
+  TITLE     Cytokine Reference
+  JOURNAL   Academic Press (2001)
+REFERENCE   
+  AUTHORS   Thomson AW, Lotze MT (ed).
+  TITLE     The Cytokine Handbook (Fourth edition)
+  JOURNAL   Academic Press (2003)
+REFERENCE   PMID:10714678
+  AUTHORS   Zlotnik A, Yoshie O.
+  TITLE     Chemokines: a new classification system and their role in immunity.
+  JOURNAL   Immunity 12:121-7 (2000)
+REFERENCE   PMID:12072446
+  AUTHORS   Ozaki K, Leonard WJ.
+  TITLE     Cytokine and cytokine receptor pleiotropy and redundancy.
+  JOURNAL   J Biol Chem 277:29355-8 (2002)
+REFERENCE   PMID:12039028
+  AUTHORS   Kisseleva T, Bhattacharya S, Braunstein J, Schindler CW.
+  TITLE     Signaling through the JAK/STAT pathway, recent advances and future challenges.
+  JOURNAL   Gene 285:1-24 (2002)
+REFERENCE   PMID:12651221
+  AUTHORS   Li X, Eriksson U.
+  TITLE     Novel PDGF family members: PDGF-C and PDGF-D.
+  JOURNAL   Cytokine Growth Factor Rev 14:91-8 (2003)
+REFERENCE   PMID:11312110
+  AUTHORS   Li X, Eriksson U.
+  TITLE     Novel VEGF family members: VEGF-B, VEGF-C and VEGF-D.
+  JOURNAL   Int J Biochem Cell Biol 33:421-6 (2001)
+REFERENCE   PMID:11166270
+  AUTHORS   Zachary I, Gliki G.
+  TITLE     Signaling transduction mechanisms mediating biological actions of the vascular endothelial growth factor family.
+  JOURNAL   Cardiovasc Res 49:568-81 (2001)
+REFERENCE   PMID:11071910
+  AUTHORS   Dey A, She H, Kim L, Boruch A, Guris DL, Carlberg K, Sebti SM, Woodley DT, Imamoto A, Li W.
+  TITLE     Colony-stimulating factor-1 receptor utilizes multiple signaling pathways to induce cyclin D2 expression.
+  JOURNAL   Mol Biol Cell 11:3835-48 (2000)
+REFERENCE   PMID:15032600
+  AUTHORS   Pestka S, Krause CD, Sarkar D, Walter MR, Shi Y, Fisher PB.
+  TITLE     Interleukin-10 and related cytokines and receptors.
+  JOURNAL   Annu Rev Immunol 22:929-79 (2004)
+REFERENCE   PMID:11796220
+  AUTHORS   Bodmer JL, Schneider P, Tschopp J.
+  TITLE     The molecular architecture of the TNF superfamily.
+  JOURNAL   Trends Biochem Sci 27:19-26 (2002)
+REFERENCE   PMID:9395284
+  AUTHORS   Derynck R, Feng XH.
+  TITLE     TGF-beta receptor signaling.
+  JOURNAL   Biochim Biophys Acta 1333:F105-50 (1997)
+REFERENCE   PMID:7791754
+  AUTHORS   Liu F, Ventura F, Doody J, Massague J.
+  TITLE     Human type II receptor for bone morphogenic proteins (BMPs): extension of the two-kinase receptor model to the BMPs.
+  JOURNAL   Mol Cell Biol 15:3479-86 (1995)
+REFERENCE   PMID:9759503
+  AUTHORS   Massague J.
+  TITLE     TGF-beta signal transduction.
+  JOURNAL   Annu Rev Biochem 67:753-91 (1998)
+REFERENCE   PMID:11252892
+  AUTHORS   Massague J.
+  TITLE     How cells read TGF-beta signals.
+  JOURNAL   Nat Rev Mol Cell Biol 1:169-78 (2000)
+REFERENCE   PMID:12651226
+  AUTHORS   Moseley TA, Haudenschild DR, Rose L, Reddi AH.
+  TITLE     Interleukin-17 family and IL-17 receptors.
+  JOURNAL   Cytokine Growth Factor Rev 14:155-74 (2003)
+REFERENCE   PMID:12421671
+  AUTHORS   Martin MU, Wesche H.
+  TITLE     Summary and comparison of the signaling mechanisms of the Toll/interleukin-1 receptor family.
+  JOURNAL   Biochim Biophys Acta 1592:265-80 (2002)
+REFERENCE   PMID:9862719
+  AUTHORS   Lang D, Knop J, Wesche H, Raffetseder U, Kurrle R, Boraschi D, Martin MU.
+  TITLE     The type II IL-1 receptor interacts with the IL-1 receptor accessory protein: a novel mechanism of regulation of IL-1 responsiveness.
+  JOURNAL   J Immunol 161:6871-7 (1998)
+KO_PATHWAY  ko04060
+///

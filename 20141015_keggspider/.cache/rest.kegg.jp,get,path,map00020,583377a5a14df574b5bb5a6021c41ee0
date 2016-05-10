@@ -1,0 +1,37 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00020
+server: Apache
+date: Wed, 15 Oct 2014 14:57:04 GMT
+content-type: text/plain
+
+ENTRY       map00020                    Pathway
+NAME        Citrate cycle (TCA cycle)
+DESCRIPTION The citrate cycle (TCA cycle, Krebs cycle) is an important aerobic pathway for the final steps of the oxidation of carbohydrates and fatty acids. The cycle starts with acetyl-CoA, the activated form of acetate, derived from glycolysis and pyruvate oxidation for carbohydrates and from beta oxidation of fatty acids. The two-carbon acetyl group in acetyl-CoA is transferred to the four-carbon compound of oxaloacetate to form the six-carbon compound of citrate. In a series of reactions two carbons in citrate are oxidized to CO2 and the reaction pathway supplies NADH for use in the oxidative phosphorylation and other metabolic processes. The pathway also supplies important precursor metabolites including 2-oxoglutarate. At the end of the cycle the remaining four-carbon part is transformed back to oxaloacetate. According to the genome sequence data, many organisms seem to lack genes for the full cycle [MD:M00009], but contain genes for specific segments [MD:M00010 M00011].
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP map00020  Citrate cycle (TCA cycle)
+MODULE      M00003  Gluconeogenesis, oxaloacetate => fructose-6P [PATH:map00020]
+            M00009  Citrate cycle (TCA cycle, Krebs cycle) [PATH:map00020]
+            M00010  Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate [PATH:map00020]
+            M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate [PATH:map00020]
+            M00307  Pyruvate oxidation, pyruvate => acetyl-CoA [PATH:map00020]
+DISEASE     H00073  Pyruvate carboxylase deficiency
+            H00469  Mitochondrial DNA depletion syndrome (MDS)
+            H00804  Multiple cutaneous and uterine leiomyomata
+            H01022  Diseases of the tricarboxylic acid cycle
+            H01222  Cowden-like syndrome
+            H01225  D-2-hydroxyglutaric aciduria (D-2-HGA)
+DBLINKS     GO: 0006099
+REFERENCE   (map 2)
+  AUTHORS   Nishizuka Y (ed).
+  TITLE     [Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1980)
+REFERENCE   (map 3)
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REFERENCE   
+  AUTHORS   Michal G.
+  TITLE     Biochemical Pathways
+  JOURNAL   Wiley (1999)
+KO_PATHWAY  ko00020
+///

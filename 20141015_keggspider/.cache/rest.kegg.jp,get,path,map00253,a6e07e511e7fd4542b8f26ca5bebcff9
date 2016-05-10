@@ -1,0 +1,65 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00253
+server: Apache
+date: Wed, 15 Oct 2014 14:57:12 GMT
+content-type: text/plain
+
+ENTRY       map00253                    Pathway
+NAME        Tetracycline biosynthesis
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00253  Tetracycline biosynthesis
+DBLINKS     GO: 0043644
+REFERENCE   PMID:16959966
+  AUTHORS   Petkovic H, Cullum J, Hranueli D, Hunter IS, Peric-Concha N, Pigac J, Thamchaipenet A, Vujaklija D, Long PF
+  TITLE     Genetics of Streptomyces rimosus, the oxytetracycline producer.
+  JOURNAL   Microbiol Mol Biol Rev 70:704-28 (2006)
+REFERENCE   PMID:20522541
+  AUTHORS   Pickens LB, Tang Y
+  TITLE     Oxytetracycline biosynthesis.
+  JOURNAL   J Biol Chem 285:27509-15 (2010)
+REFERENCE   PMID:16597959
+  AUTHORS   Zhang W, Ames BD, Tsai SC, Tang Y
+  TITLE     Engineered biosynthesis of a novel amidated polyketide, using the malonamyl-specific initiation module from the oxytetracycline polyketide synthase.
+  JOURNAL   Appl Environ Microbiol 72:2573-80 (2006)
+REFERENCE   
+  AUTHORS   Paul M Dewick.
+  TITLE     Medicinal Natural Products -A Biosynthetic Approach- (2nd ed)
+  JOURNAL   John Wiley and Sons, LTD:376-379 (2001)
+REFERENCE   PMID:1134373
+  AUTHORS   Miller PA, Hash JH
+  TITLE     S-adenosylmethionine:dedimethylamino-4-aminoanhydrotetracycline N-methyltransferase.
+  JOURNAL   Methods Enzymol 43:603-6 (1975)
+REFERENCE   PMID:1134374
+  AUTHORS   Miller PA, Hash JH
+  TITLE     ADP; tetracyclin 5a(11a)dehydrogenase.
+  JOURNAL   Methods Enzymol 43:606-7 (1975)
+REFERENCE   PMID:19472250
+  AUTHORS   Wang P, Zhang W, Zhan J, Tang Y
+  TITLE     Identification of OxyE as an ancillary oxygenase during tetracycline biosynthesis.
+  JOURNAL   Chembiochem 10:1544-50 (2009)
+REFERENCE   PMID:18422316
+  AUTHORS   Zhang W, Watanabe K, Cai X, Jung ME, Tang Y, Zhan J
+  TITLE     Identifying the minimal enzymes required for anhydrotetracycline biosynthesis.
+  JOURNAL   J Am Chem Soc 130:6068-9 (2008)
+REFERENCE   PMID:10551844
+  AUTHORS   Petkovic H, Thamchaipenet A, Zhou LH, Hranueli D, Raspor P, Waterman PG, Hunter IS
+  TITLE     Disruption of an aromatase/cyclase from the oxytetracycline gene cluster of Streptomyces rimosus results in production of novel polyketides with shorter chain lengths.
+  JOURNAL   J Biol Chem 274:32829-34 (1999)
+REFERENCE   PMID:16148009
+  AUTHORS   Peric-Concha N, Borovicka B, Long PF, Hranueli D, Waterman PG, Hunter IS
+  TITLE     Ablation of the otcC gene encoding a post-polyketide hydroxylase from the oxytetracyline biosynthetic pathway in Streptomyces rimosus results in novel polyketides with altered chain length.
+  JOURNAL   J Biol Chem 280:37455-60 (2005)
+REFERENCE   PMID:17631493
+  AUTHORS   Zhang W, Watanabe K, Wang CC, Tang Y
+  TITLE     Investigation of early tailoring reactions in the oxytetracycline biosynthetic pathway.
+  JOURNAL   J Biol Chem 282:25717-25 (2007)
+REFERENCE   PMID:8163168
+  AUTHORS   Kim ES, Bibb MJ, Butler MJ, Hopwood DA, Sherman DH.
+  TITLE     Sequences of the oxytetracycline polyketide synthase-encoding otc genes from Streptomyces rimosus.
+  JOURNAL   Gene 141:141-2 (1994)
+REFERENCE   PMID:7612997
+  AUTHORS   Dairi T, Nakano T, Aisaka K, Katsumata R, Hasegawa M.
+  TITLE     Cloning and nucleotide sequence of the gene responsible for chlorination of tetracycline.
+  JOURNAL   Biosci Biotechnol Biochem 59:1099-106 (1995)
+KO_PATHWAY  ko00253
+///

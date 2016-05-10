@@ -1,0 +1,51 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00062
+server: Apache
+date: Wed, 15 Oct 2014 14:57:07 GMT
+content-type: text/plain
+
+ENTRY       map00062                    Pathway
+NAME        Fatty acid elongation
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00062  Fatty acid elongation
+MODULE      M00085  Fatty acid biosynthesis, elongation, mitochondria [PATH:map00062]
+            M00415  Fatty acid biosynthesis, elongation, endoplasmic reticulum [PATH:map00062]
+DISEASE     H00149  Neuronal ceroid lipofuscinosis
+            H00186  Hyperargininemia
+            H00810  Progressive myoclonic epilepsy (PME/ EPM)
+            H00819  Stargardt disease (STGD)
+            H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency
+REFERENCE   PMID:4387390
+  AUTHORS   Seubert W, Lamberts I, Kramer R, Ohly B
+  TITLE     On the mechanism of malonyl-CoA-independent fatty acid synthesis. I. The mechanism of elongation of long-chain fatty acids by acetyl-CoA.
+  JOURNAL   Biochim Biophys Acta 164:498-517 (1968)
+REFERENCE   PMID:7150615
+  AUTHORS   El-Fakhri M, Middleton B
+  TITLE     The existence of an inner-membrane-bound, long acyl-chain-specific 3-hydroxyacyl-CoA dehydrogenase in mammalian mitochondria.
+  JOURNAL   Biochim Biophys Acta 713:270-9 (1982)
+REFERENCE   PMID:8190743
+  AUTHORS   Cassagne C, Lessire R, Bessoule JJ, Moreau P, Creach A, Schneider F, Sturbois B
+  TITLE     Biosynthesis of very long chain fatty acids in higher plants.
+  JOURNAL   Prog Lipid Res 33:55-69 (1994)
+REFERENCE   PMID:16564093
+  AUTHORS   Jakobsson A, Westerberg R, Jacobsson A.
+  TITLE     Fatty acid elongases in mammals: their regulation and roles in metabolism.
+  JOURNAL   Prog Lipid Res 45:237-49 (2006)
+REFERENCE   PMID:16765910
+  AUTHORS   Blacklock BJ, Jaworski JG
+  TITLE     Substrate specificity of Arabidopsis 3-ketoacyl-CoA synthases.
+  JOURNAL   Biochem Biophys Res Commun 346:583-90 (2006)
+REFERENCE   PMID:16866954
+  AUTHORS   Shepherd T, Wynne Griffiths D
+  TITLE     The effects of stress on plant cuticular waxes.
+  JOURNAL   New Phytol 171:469-99 (2006)
+REFERENCE   PMID:17719534
+  AUTHORS   Riezman H
+  TITLE     The long and short of fatty acid synthesis.
+  JOURNAL   Cell 130:587-8 (2007)
+REFERENCE   PMID:19649180
+  AUTHORS   Raffaele S, Leger A, Roby D
+  TITLE     Very long chain fatty acid and lipid signaling in the response of plants to pathogens.
+  JOURNAL   Plant Signal Behav 4:94-9 (2009)
+KO_PATHWAY  ko00062
+///

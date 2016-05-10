@@ -1,0 +1,11 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01061
+server: Apache
+date: Wed, 15 Oct 2014 14:57:58 GMT
+content-type: text/plain
+
+ENTRY       map01061                    Pathway
+NAME        Biosynthesis of phenylpropanoids
+PATHWAY_MAP map01061  Biosynthesis of phenylpropanoids
+KO_PATHWAY  ko01061
+///

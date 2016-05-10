@@ -1,0 +1,57 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00563
+server: Apache
+date: Wed, 15 Oct 2014 14:57:31 GMT
+content-type: text/plain
+
+ENTRY       map00563                    Pathway
+NAME        Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+DESCRIPTION Cell surface proteins can be attached to the cell membrane via the glycolipid structure called glycosylphosphatidylinositol (GPI) anchor. Hundreds of GPI-anchored proteins have been identified in many eukaryotes ranging from protozoa and fungi to mammals. All protein-linked GPI anchors share a common core structure, characterized by the substructure Man (a1-4) GlcN (a1-6) myo-inositol-1P-lipid. Biosynthesis of GPI anchors proceeds in three stages: (i) preassembly of a GPI precursor in the ER membrane, (ii) attachment of the GPI to the C-terminus of a newly synthesized protein in the lumen of the ER, and (iii) lipid remodeling and/or carbohydrate side-chain modifications in the ER and the Golgi. Defects of GPI anchor biosynthesis gene result in a genetic disorder, paroxysmal nocturnal hemoglobinuria.
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00563  Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+MODULE      M00065  GPI-anchor biosynthesis, core oligosaccharide [PATH:map00563]
+DISEASE     H01053  Paroxysmal nocturnal hemoglobinuria (PNH)
+            H01127  Glycosylphosphatidylinositol (GPI) deficiency
+DBLINKS     GO: 0006506
+REFERENCE   PMID:12655644
+  AUTHORS   Eisenhaber B, Maurer-Stroh S, Novatchkova M, Schneider G, Eisenhaber F.
+  TITLE     Enzymes and auxiliary factors for GPI lipid anchor biosynthesis and post-translational transfer to proteins.
+  JOURNAL   Bioessays 25:367-85 (2003)
+REFERENCE   PMID:11102867
+  AUTHORS   Kinoshita T, Inoue N.
+  TITLE     Dissecting and manipulating the pathway for glycosylphos-phatidylinositol-anchor biosynthesis.
+  JOURNAL   Curr Opin Chem Biol 4:632-8 (2000)
+REFERENCE   PMID:8253761
+  AUTHORS   Fankhauser C, Homans SW, Thomas-Oates JE, McConville MJ, Desponds C, Conzelmann A, Ferguson MA.
+  TITLE     Structures of glycosylphosphatidylinositol membrane anchors from Saccharomyces cerevisiae.
+  JOURNAL   J Biol Chem 268:26365-74 (1993)
+REFERENCE   PMID:14517336
+  AUTHORS   Murakami Y, Siripanyapinyo U, Hong Y, Kang JY, Ishihara S, Nakakuma H, Maeda Y, Kinoshita T.
+  TITLE     PIG-W is critical for inositol acylation but not for flipping of glycosylphosphatidylinositol-anchor.
+  JOURNAL   Mol Biol Cell 14:4285-95 (2003)
+REFERENCE   PMID:10329735
+  AUTHORS   Benachour A, Sipos G, Flury I, Reggiori F, Canivenc-Gansel E, Vionnet C, Conzelmann A, Benghezal M.
+  TITLE     Deletion of GPI7, a yeast gene required for addition of a side chain to the glycosylphosphatidylinositol (GPI) core structure, affects GPI protein transport, remodeling, and cell wall integrity.
+  JOURNAL   J Biol Chem 274:15251-61 (1999)
+REFERENCE   PMID:14734546
+  AUTHORS   Tanaka S, Maeda Y, Tashima Y, Kinoshita T.
+  TITLE     Inositol deacylation of glycosylphosphatidylinositol-anchored proteins is mediated by mammalian PGAP1 and yeast Bst1p.
+  JOURNAL   J Biol Chem 279:14256-63 (2004)
+REFERENCE   PMID:12802054
+  AUTHORS   Hong Y, Ohishi K, Kang JY, Tanaka S, Inoue N, Nishimura J, Maeda Y, Kinoshita T.
+  TITLE     Human PIG-U and yeast Cdc91p are the fifth subunit of GPI transamidase that attaches GPI-anchors to proteins.
+  JOURNAL   Mol Biol Cell 14:1780-9 (2003)
+REFERENCE   PMID:12807000
+  AUTHORS   Tanaka S, Maeda Y, Kinoshita T.
+  TITLE     [Biosynthesis of GPI-anchored proteins]
+  JOURNAL   Tanpakushitsu Kakusan Koso 48:990-6 (2003)
+REFERENCE   PMID:15623507
+  AUTHORS   Kang JY, Hong Y, Ashida H, Shishioh N, Murakami Y, Morita YS, Maeda Y, Kinoshita T.
+  TITLE     PIG-V involved in transferring the second mannose in glycosylphosphatidylinositol.
+  JOURNAL   J Biol Chem 280:9489-97 (2005)
+REFERENCE   PMID:15635094
+  AUTHORS   Ashida H, Hong Y, Murakami Y, Shishioh N, Sugimoto N, Kim YU, Maeda Y, Kinoshita T.
+  TITLE     Mammalian PIG-X and yeast Pbn1p are the essential components of glycosylphosphatidylinositol-mannosyltransferase I.
+  JOURNAL   Mol Biol Cell 16:1439-48 (2005)
+KO_PATHWAY  ko00563
+///

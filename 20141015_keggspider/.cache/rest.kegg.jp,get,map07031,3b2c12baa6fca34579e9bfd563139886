@@ -1,0 +1,55 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07031
+server: Apache
+date: Wed, 15 Oct 2014 15:09:44 GMT
+content-type: text/plain
+
+ENTRY       map07031          Drug      Pathway
+NAME        Butyrophenones
+PATHWAY_MAP map07031  Butyrophenones
+COMPOUND    D00136  Haloperidol (JP16/USP/INN)
+            D00308  Droperidol (JP16/USP/INN)
+            D00560  Pimozide (JP16/USP/INN)
+            D01051  Spiperone (JAN/USAN)
+            D01101  Bromperidol (JAN/USAN/INN)
+            D01105  Moperone hydrochloride (JAN)
+            D01482  Pipamperone hydrochloride (JAN)
+            D01898  Haloperidol decanoate (JAN/USAN)
+            D02035  Timiperone (JAN)
+            D02620  Azaperone (USP/INN)
+            D02621  Fluanisone (INN)
+            D02622  Pipamperone (USAN/INN)
+            D02623  Moperone (INN)
+            D02625  Trifluperidol (USAN/INN)
+            D02626  Bromperidol decanoate (USAN)
+            D02627  Benperidol (USAN/INN)
+            D02628  Milenperone (USAN/INN)
+            D02629  Fluspirilene (USAN/INN)
+            D02630  Penfluridol (USAN/INN)
+            D08035  Haloperidol lactate
+            D08637  Trifluperidol hydrochloride
+REFERENCE   (Japanese)
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   Gestel SV, Schuermans V.
+  TITLE     Thirty-three years of drug discovery and research with Dr. Paul Janssen.
+  JOURNAL   Drug Development Research 8(1-4):1-13 (1986)
+///

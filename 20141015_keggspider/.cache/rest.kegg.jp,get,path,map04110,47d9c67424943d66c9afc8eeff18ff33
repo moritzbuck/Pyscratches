@@ -1,0 +1,119 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04110
+server: Apache
+date: Wed, 15 Oct 2014 14:58:17 GMT
+content-type: text/plain
+
+ENTRY       map04110                    Pathway
+NAME        Cell cycle
+DESCRIPTION Mitotic cell cycle progression is accomplished through a reproducible sequence of events, DNA replication (S phase) and mitosis (M phase) separated temporally by gaps known as G1 and G2 phases. Cyclin-dependent kinases (CDKs) are key regulatory enzymes, each consisting of a catalytic CDK subunit and an activating cyclin subunit. CDKs regulate the cell's progression through the phases of the cell cycle by modulating the activity of key substrates. Downstream targets of CDKs include transcription factor E2F and its regulator Rb. Precise activation and inactivation of CDKs at specific points in the cell cycle are required for orderly cell division. Cyclin-CDK inhibitors (CKIs), such as p16Ink4a, p15Ink4b, p27Kip1, and p21Cip1, are involved in the negative regulation of CDK activities, thus providing a pathway through which the cell cycle is negatively regulated.
+             Eukaryotic cells respond to DNA damage by activating signaling pathways that promote cell cycle arrest and DNA repair. In response to DNA damage, the checkpoint kinase ATM phosphorylates and activates Chk2, which in turn directly phosphorylates and activates p53 tumor suppressor protein. p53 and its transcriptional targets play an important role in both G1 and G2 checkpoints. ATR-Chk1-mediated protein degradation of Cdc25A protein phosphatase is also a mechanism conferring intra-S-phase checkpoint activation.
+CLASS       Cellular Processes; Cell growth and death
+PATHWAY_MAP map04110  Cell cycle
+MODULE      M00284  Origin recognition complex [PATH:map04110]
+            M00285  MCM complex [PATH:map04110]
+            M00297  DNA-PK complex [PATH:map04110]
+            M00381  SCF-SKP2 complex [PATH:map04110]
+            M00389  APC/C complex [PATH:map04110]
+DISEASE     H00409  Type II diabetes mellitus
+            H00631  Cornelia de Lange syndrome (CdLS)
+            H00713  Beckwith-Wiedemann syndrome
+            H00848  Ataxia with ocular apraxia (AOA)
+            H00881  Li-Fraumeni syndrome
+            H00992  Seckel syndrome
+            H01007  Choroid plexus papilloma
+            H01023  Juvenile polyposis syndrome
+            H01102  Pituitary adenomas
+            H01288  Mosaic variegated aneuploidy (MVA) syndrome
+            H01385  Rienhoff syndrome
+DBLINKS     GO: 0000278
+REFERENCE   PMID:7908906
+  AUTHORS   Matsuoka S, Yamaguchi M, Matsukage A
+  TITLE     D-type cyclin-binding regions of proliferating cell nuclear antigen.
+  JOURNAL   J Biol Chem 269:11030-6 (1994)
+REFERENCE   PMID:8242749
+  AUTHORS   Welch PJ, Wang JY
+  TITLE     A C-terminal protein-binding domain in the retinoblastoma protein regulates nuclear c-Abl tyrosine kinase in the cell cycle.
+  JOURNAL   Cell 75:779-90 (1993)
+REFERENCE   PMID:16936746
+  AUTHORS   Macaluso M, Montanari M, Giordano A
+  TITLE     Rb family proteins as modulators of gene expression and new aspects regarding the interaction with chromatin remodeling enzymes.
+  JOURNAL   Oncogene 25:5263-7 (2006)
+REFERENCE   PMID:15838516
+  AUTHORS   Cobrinik D
+  TITLE     Pocket proteins and cell cycle control.
+  JOURNAL   Oncogene 24:2796-809 (2005)
+REFERENCE   PMID:17568790
+  AUTHORS   Boutros R, Lobjois V, Ducommun B
+  TITLE     CDC25 phosphatases in cancer cells: key players? Good targets?
+  JOURNAL   Nat Rev Cancer 7:495-507 (2007)
+REFERENCE   PMID:9832503
+  AUTHORS   Diehl JA, Cheng M, Roussel MF, Sherr CJ
+  TITLE     Glycogen synthase kinase-3beta regulates cyclin D1 proteolysis and subcellular localization.
+  JOURNAL   Genes Dev 12:3499-511 (1998)
+REFERENCE   PMID:19020303
+  AUTHORS   Klein EA, Assoian RK
+  TITLE     Transcriptional regulation of the cyclin D1 gene at a glance.
+  JOURNAL   J Cell Sci 121:3853-7 (2008)
+REFERENCE   PMID:10385618
+  AUTHORS   Sherr CJ, Roberts JM
+  TITLE     CDK inhibitors: positive and negative regulators of G1-phase progression.
+  JOURNAL   Genes Dev 13:1501-12 (1999)
+REFERENCE   PMID:12809600
+  AUTHORS   Shi Y, Massague J.
+  TITLE     Mechanisms of TGF-beta signaling from cell membrane to the nucleus.
+  JOURNAL   Cell 113:685-700 (2003)
+REFERENCE   PMID:12925736
+  AUTHORS   Kamura T, Hara T, Kotoshiba S, Yada M, Ishida N, Imaki H, Hatakeyama S, Nakayama K, Nakayama KI
+  TITLE     Degradation of p57Kip2 mediated by SCFSkp2-dependent ubiquitylation.
+  JOURNAL   Proc Natl Acad Sci U S A 100:10231-6 (2003)
+REFERENCE   PMID:16212951
+  AUTHORS   Bond M, Sala-Newby GB, Wu YJ, Newby AC
+  TITLE     Biphasic effect of p21Cip1 on smooth muscle cell proliferation: role of PI 3-kinase and Skp2-mediated degradation.
+  JOURNAL   Cardiovasc Res 69:198-206 (2006)
+REFERENCE   PMID:15838523
+  AUTHORS   Harris SL, Levine AJ.
+  TITLE     The p53 pathway: positive and negative feedback loops.
+  JOURNAL   Oncogene 24:2899-908 (2005)
+REFERENCE   PMID:11099028
+  AUTHORS   Vogelstein B, Lane D, Levine AJ
+  TITLE     Surfing the p53 network.
+  JOURNAL   Nature 408:307-10 (2000)
+REFERENCE   PMID:7973727
+  AUTHORS   Smith ML, Chen IT, Zhan Q, Bae I, Chen CY, Gilmer TM, Kastan MB, O'Connor PM, Fornace AJ Jr
+  TITLE     Interaction of the p53-regulated protein Gadd45 with proliferating cell nuclear antigen.
+  JOURNAL   Science 266:1376-80 (1994)
+REFERENCE   PMID:9889196
+  AUTHORS   Petersen BO, Lukas J, Sorensen CS, Bartek J, Helin K
+  TITLE     Phosphorylation of mammalian CDC6 by cyclin A/CDK2 regulates its subcellular localization.
+  JOURNAL   EMBO J 18:396-410 (1999)
+REFERENCE   PMID:17018296
+  AUTHORS   Sheu YJ, Stillman B
+  TITLE     Cdc7-Dbf4 phosphorylates MCM proteins via a docking site-mediated mechanism to promote S phase progression.
+  JOURNAL   Mol Cell 24:101-13 (2006)
+REFERENCE   PMID:9029154
+  AUTHORS   Martinez AM, Afshar M, Martin F, Cavadore JC, Labbe JC, Doree M
+  TITLE     Dual phosphorylation of the T-loop in cdk7: its role in controlling cyclin H binding and CAK activity.
+  JOURNAL   EMBO J 16:343-54 (1997)
+REFERENCE   PMID:15876871
+  AUTHORS   Lolli G, Johnson LN
+  TITLE     CAK-Cyclin-dependent Activating Kinase: a key kinase in cell cycle control and a target for drugs?
+  JOURNAL   Cell Cycle 4:572-7 (2005)
+REFERENCE   PMID:17426725
+  AUTHORS   Musacchio A, Salmon ED
+  TITLE     The spindle-assembly checkpoint in space and time.
+  JOURNAL   Nat Rev Mol Cell Biol 8:379-93 (2007)
+REFERENCE   PMID:12573239
+  AUTHORS   Uhlmann F
+  TITLE     Chromosome cohesion and separation: from men and molecules.
+  JOURNAL   Curr Biol 13:R104-14 (2003)
+REFERENCE   PMID:15568976
+  AUTHORS   Stegmeier F, Amon A
+  TITLE     Closing mitosis: the functions of the Cdc14 phosphatase and its regulation.
+  JOURNAL   Annu Rev Genet 38:203-32 (2004)
+REFERENCE   PMID:9618481
+  AUTHORS   Moustakas A, Kardassis D
+  TITLE     Regulation of the human p21/WAF1/Cip1 promoter in hepatic cells by functional interactions between Sp1 and Smad family members.
+  JOURNAL   Proc Natl Acad Sci U S A 95:6733-8 (1998)
+KO_PATHWAY  ko04110
+///

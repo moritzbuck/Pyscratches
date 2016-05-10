@@ -1,0 +1,79 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07041
+server: Apache
+date: Wed, 15 Oct 2014 14:59:26 GMT
+content-type: text/plain
+
+ENTRY       map07041          Drug      Pathway
+NAME        Antineoplastics - antimetabolic agents
+PATHWAY_MAP map07041  Antineoplastics - antimetabolic agents
+COMPOUND    D00142  Methotrexate (JP16/USP/INN)
+            D00155  Pentostatin (JAN/USAN/INN)
+            D00161  Mercaptopurine hydrate (JP16)
+            D00168  Cytarabine (JP16/USP/INN)
+            D00341  Hydroxycarbamide (JAN/INN)
+            D00406  Vidarabine (USP)
+            D00584  Fluorouracil (JP16/USP/INN)
+            D01064  Raltitrexed (JAN/USAN/INN)
+            D01155  Gemcitabine hydrochloride (JAN/USAN)
+            D01223  Capecitabine (JAN/USAN/INN)
+            D01244  Tegafur (JP16/USAN/INN)
+            D01309  Doxifluridine (JP16/INN)
+            D01370  Cladribine (JAN/USAN/INN)
+            D01651  Ancitabine hydrochloride (JAN)
+            D01678  Thioinosine (JAN)
+            D01907  Fludarabine phosphate (JAN/USP)
+            D02115  Methotrexate sodium
+            D02368  Gemcitabine (USAN/INN)
+            D02527  Aminopterin sodium (INN)
+            D03021  Azacitidine (JAN/USAN/INN)
+            D03637  Cytarabine hydrochloride (USAN)
+            D03828  Pemetrexed disodium (USAN)
+            D04197  Floxuridine (USP/INN)
+            D04931  Mercaptopurine (INN)
+            D06109  Thioguanine (USP)
+            D06238  Trimetrexate (USAN/INN)
+            D06239  Trimetrexate glucuronate (USAN)
+            D06298  Vidarabine (JAN)
+            D06300  Vidarabine sodium phosphate (USAN)
+            D06503  Pemetrexed sodium hydrate (JAN)
+            D07472  Pemetrexed (INN)
+            D07966  Fludarabine (INN)
+            D07974  Fluorouracil sodium salt
+REFERENCE   
+  AUTHORS   Skeel RT (ed).
+  TITLE     [Handbook of Cancer Chemotherapy (6th ed)] (In Japanese)
+  JOURNAL   Medical science international (2005)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Bertram GK (ed).
+  TITLE     Basic & Clinical Pharmacology (9th ed)
+  JOURNAL   Lange (2004)
+REFERENCE   
+  AUTHORS   Kijjoa A, Sawangwong P.
+  TITLE     Drugs and cosmetics from the sea.
+  JOURNAL   Marine Drugs 2:73-82 (2004)
+REFERENCE   (Japanese)
+  AUTHORS   Wermuth CG (ed).
+  TITLE     [The Practice of Medicinal Chemistry vol.1 (2nd ed)] (In Japanese)
+  JOURNAL   Technomics (2006)
+///

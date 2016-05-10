@@ -1,0 +1,56 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00600
+server: Apache
+date: Wed, 15 Oct 2014 14:57:33 GMT
+content-type: text/plain
+
+ENTRY       map00600                    Pathway
+NAME        Sphingolipid metabolism
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00600  Sphingolipid metabolism
+MODULE      M00066  Lactosylceramide biosynthesis [PATH:map00600]
+            M00067  Cerebroside and sulfatide biosynthesis [PATH:map00600]
+            M00094  Ceramide biosynthesis [PATH:map00600]
+            M00099  Sphingosine biosynthesis [PATH:map00600]
+            M00100  Sphingosine degradation [PATH:map00600]
+DISEASE     H00125  Fabry disease
+            H00126  Gaucher disease
+            H00127  Metachromatic leukodystrophy (MLD)
+            H00135  Krabbe disease
+            H00137  Niemann-Pick disease (NPD) typeA and B
+            H00138  Farber lipogranulomatosis
+            H00142  Sialidosis
+            H00265  Hereditary sensory and autonomic neuropathy (HSAN)
+            H00276  Galactosialidosis
+            H00281  GM1 gangliosidosis
+            H00423  Defects in the degradation of sulfatide
+            H00424  Defects in the degradation of sphingomyelin
+            H00426  Defects in the degradation of ganglioside
+            H00810  Progressive myoclonic epilepsy (PME/ EPM)
+DBLINKS     GO: 0006665 0030148
+REFERENCE   PMID:12011104
+  AUTHORS   Merrill AH Jr.
+  TITLE     De novo sphingolipid biosynthesis: a necessary, but dangerous, pathway.
+  JOURNAL   J Biol Chem 277:25843-6 (2002)
+REFERENCE   PMID:10652340
+  AUTHORS   Tani M, Okino N, Mitsutake S, Tanigawa T, Izu H, Ito M.
+  TITLE     Purification and characterization of a neutral ceramidase from mouse liver. A single protein catalyzes the reversible reaction in which ceramide is both hydrolyzed and synthesized.
+  JOURNAL   J Biol Chem 275:3462-8 (2000)
+REFERENCE   PMID:11305904
+  AUTHORS   Hannun YA, Luberto C, Argraves KM.
+  TITLE     Enzymes of sphingolipid metabolism: from modular to integrative signaling.
+  JOURNAL   Biochemistry 40:4893-903 (2001)
+REFERENCE   PMID:1495423
+  AUTHORS   Merrill AH Jr, Wang E.
+  TITLE     Enzymes of ceramide biosynthesis.
+  JOURNAL   Methods Enzymol 209:427-37 (1992)
+REFERENCE   PMID:8457204
+  AUTHORS   Hirschberg K, Rodger J, Futerman AH.
+  TITLE     The long-chain sphingoid base of sphingolipids is acylated at the cytosolic surface of the endoplasmic reticulum in rat liver.
+  JOURNAL   Biochem J 290 ( Pt 3):751-7 (1993)
+REFERENCE   PMID:10366774
+  AUTHORS   Dickson RC, Lester RL.
+  TITLE     Metabolism and selected functions of sphingolipids in the yeast Saccharomyces cerevisiae.
+  JOURNAL   Biochim Biophys Acta 1438:305-21 (1999)
+KO_PATHWAY  ko00600
+///

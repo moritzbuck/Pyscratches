@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04626
+server: Apache
+date: Wed, 15 Oct 2014 15:08:55 GMT
+content-type: text/plain
+
+ENTRY       map04626                    Pathway
+NAME        Plant-pathogen interaction
+DESCRIPTION Plants lack animal-like adaptive immunity mechanisms, and therefore have evolved a specific system with multiple layers against invading pathogens. The primary response includes the perception of pathogens by cell-surface pattern-recognition receptors (PRRs) and is referred to as PAMP-triggered immunity (PTI). Activation of FLS2 and EFR triggers MAPK signaling pathway that activates defense genes for antimictobial compounds. The increase in the cytosolic Ca2+ concentration is also a regulator for production of reactive oxygen species and localized programmed cell death/hypersensitive response. The secondary response is called effector-triggered immunity (ETI). Pathogens can acquire the ability to suppress PTI by directly injecting effector proteins into the plant cell through secretion systems. In addition, pathogens can manipulate plant hormone signaling pathways to evade host immune responses using coronatine toxin. Some plants possess specific intracellular surveillance proteins (R proteins) to monitor the presence of pathogen virulence proteins. This ETI occurs with localized programmed cell death to arrest pathogen growth, resulting in cultivar-specific disease resistance.
+CLASS       Organismal Systems; Environmental adaptation
+PATHWAY_MAP map04626  Plant-pathogen interaction
+MODULE      M00339  RaxAB-RaxC type I secretion system [PATH:map04626]
+REFERENCE   PMID:18206360
+  AUTHORS   Zipfel C
+  TITLE     Pattern-recognition receptors in plant innate immunity.
+  JOURNAL   Curr Opin Immunol 20:10-6 (2008)
+REFERENCE   PMID:19748302
+  AUTHORS   Chinchilla D, Shan L, He P, de Vries S, Kemmerling B
+  TITLE     One for all: the receptor-associated kinase BAK1.
+  JOURNAL   Trends Plant Sci 14:535-41 (2009)
+REFERENCE   PMID:19423812
+  AUTHORS   Boller T, He SY
+  TITLE     Innate immunity in plants: an arms race between pattern recognition receptors in  plants and effectors in microbial pathogens.
+  JOURNAL   Science 324:742-4 (2009)
+REFERENCE   PMID:19794842
+  AUTHORS   Ma W, Smigel A, Verma R, Berkowitz GA
+  TITLE     Cyclic nucleotide gated channels and related signaling components in plant innate immunity.
+  JOURNAL   Plant Signal Behav 4:277-82 (2009)
+REFERENCE   PMID:11875555
+  AUTHORS   Asai T, Tena G, Plotnikova J, Willmann MR, Chiu WL, Gomez-Gomez L, Boller T, Ausubel FM, Sheen J
+  TITLE     MAP kinase signalling cascade in Arabidopsis innate immunity.
+  JOURNAL   Nature 415:977-83 (2002)
+REFERENCE   PMID:15922649
+  AUTHORS   Zipfel C, Felix G
+  TITLE     Plants and animals: a different taste for microbes?
+  JOURNAL   Curr Opin Plant Biol 8:353-60 (2005)
+REFERENCE   PMID:17451411
+  AUTHORS   He P, Shan L, Sheen J
+  TITLE     Elicitation and suppression of microbe-associated molecular pattern-triggered immunity in plant-microbe interactions.
+  JOURNAL   Cell Microbiol 9:1385-96 (2007)
+REFERENCE   PMID:17876517
+  AUTHORS   de Wit PJ
+  TITLE     How plants recognize pathogens and defend themselves.
+  JOURNAL   Cell Mol Life Sci 64:2726-32 (2007)
+REFERENCE   PMID:16497589
+  AUTHORS   Chisholm ST, Coaker G, Day B, Staskawicz BJ
+  TITLE     Host-microbe interactions: shaping the evolution of the plant immune response.
+  JOURNAL   Cell 124:803-14 (2006)
+REFERENCE   PMID:16677430
+  AUTHORS   McHale L, Tan X, Koehl P, Michelmore RW
+  TITLE     Plant NBS-LRR proteins: adaptable guards.
+  JOURNAL   Genome Biol 7:212 (2006)
+REFERENCE   PMID:11459065
+  AUTHORS   Dangl JL, Jones JD
+  TITLE     Plant pathogens and integrated defence responses to infection.
+  JOURNAL   Nature 411:826-33 (2001)
+REFERENCE   PMID:17108957
+  AUTHORS   Jones JD, Dangl JL
+  TITLE     The plant immune system.
+  JOURNAL   Nature 444:323-9 (2006)
+REFERENCE   PMID:16697674
+  AUTHORS   da Cunha L, McFall AJ, Mackey D
+  TITLE     Innate immunity in plants: a continuum of layered defenses.
+  JOURNAL   Microbes Infect 8:1372-81 (2006)
+REFERENCE   PMID:15862106
+  AUTHORS   Mudgett MB
+  TITLE     New insights to the function of phytopathogenic bacterial type III effectors in plants.
+  JOURNAL   Annu Rev Plant Biol 56:509-31 (2005)
+REFERENCE   PMID:17714518
+  AUTHORS   Ma W, Berkowitz GA
+  TITLE     The grateful dead: calcium and cell death in plant innate immunity.
+  JOURNAL   Cell Microbiol 9:2571-85 (2007)
+REFERENCE   PMID:14711430
+  AUTHORS   Schulze-Lefert P
+  TITLE     Plant immunity: the origami of receptor activation.
+  JOURNAL   Curr Biol 14:R22-4 (2004)
+REFERENCE   PMID:9868361
+  AUTHORS   Van der Biezen EA, Jones JD
+  TITLE     Plant disease-resistance proteins and the gene-for-gene concept.
+  JOURNAL   Trends Biochem Sci 23:454-6 (1998)
+REFERENCE   PMID:16936700
+  AUTHORS   Abramovitch RB, Anderson JC, Martin GB
+  TITLE     Bacterial elicitation and evasion of plant innate immunity.
+  JOURNAL   Nat Rev Mol Cell Biol 7:601-11 (2006)
+KO_PATHWAY  ko04626
+///

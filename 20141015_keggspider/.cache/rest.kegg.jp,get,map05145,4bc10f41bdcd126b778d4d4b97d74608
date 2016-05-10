@@ -1,0 +1,90 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05145
+server: Apache
+date: Wed, 15 Oct 2014 15:09:23 GMT
+content-type: text/plain
+
+ENTRY       map05145                    Pathway
+NAME        Toxoplasmosis
+DESCRIPTION Toxoplasma gondii is an obligate intracellular parasite that is prevalent worldwide. The tachyzoite form acquired by oral ingestion downmodulates proinflammatory signaling pathways via various mechanisms. During early infection, nuclear translocation of NFkB is temporally blocked and p38 MAPK phosphorylation is prevented, suppressing IL-12 production. Another pathway for IL-12 induction occurs through CCR5 dependent pathway, but parasitic induction of an eicosanoid LXA4 contributes to the downregulation of IL-12. Direct activation of STAT3 by the parasite enhance anti-inflammatory function of IL-10 and TGF beta. T. gondii can cause lifelong chronic infection by establishing an anti-apoptotic environment through induction of bcl-2 or IAPs and by redirecting LDL-mediated cholesterol transport to scavenge nutrients from the host.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05145  Toxoplasmosis
+DISEASE     H00435  Toxoplasmosis
+REFERENCE   PMID:15639739
+  AUTHORS   Denkers EY, Butcher BA
+  TITLE     Sabotage and exploitation in macrophages parasitized by intracellular protozoans.
+  JOURNAL   Trends Parasitol 21:35-41 (2005)
+REFERENCE   PMID:14642303
+  AUTHORS   Denkers EY
+  TITLE     From cells to signaling cascades: manipulation of innate immunity by Toxoplasma gondii.
+  JOURNAL   FEMS Immunol Med Microbiol 39:193-203 (2003)
+REFERENCE   PMID:19744886
+  AUTHORS   Pollard AM, Knoll LJ, Mordue DG
+  TITLE     The role of specific Toxoplasma gondii molecules in manipulation of innate immunity.
+  JOURNAL   Trends Parasitol 25:491-4 (2009)
+REFERENCE   PMID:19891610
+  AUTHORS   Leng J, Butcher BA, Denkers EY
+  TITLE     Dysregulation of macrophage signal transduction by Toxoplasma gondii: past progress and recent advances.
+  JOURNAL   Parasite Immunol 31:717-28 (2009)
+REFERENCE   PMID:18775432
+  AUTHORS   Miller CM, Boulter NR, Ikin RJ, Smith NC
+  TITLE     The immunobiology of the innate response to Toxoplasma gondii.
+  JOURNAL   Int J Parasitol 39:23-39 (2009)
+REFERENCE   PMID:12580944
+  AUTHORS   Denkers EY, Kim L, Butcher BA
+  TITLE     In the belly of the beast: subversion of macrophage proinflammatory signalling cascades during Toxoplasma gondii infection.
+  JOURNAL   Cell Microbiol 5:75-83 (2003)
+REFERENCE   PMID:17110955
+  AUTHORS   Gazzinelli RT, Denkers EY
+  TITLE     Protozoan encounters with Toll-like receptor signalling pathways: implications for host parasitism.
+  JOURNAL   Nat Rev Immunol 6:895-906 (2006)
+REFERENCE   PMID:17024357
+  AUTHORS   Lang C, Gross U, Luder CG
+  TITLE     Subversion of innate and adaptive immune responses by Toxoplasma gondii.
+  JOURNAL   Parasitol Res 100:191-203 (2007)
+REFERENCE   PMID:19400868
+  AUTHORS   Blader IJ, Saeij JP
+  TITLE     Communication between Toxoplasma gondii and its host: impact on parasite growth,  development, immune evasion, and virulence.
+  JOURNAL   APMIS 117:458-76 (2009)
+REFERENCE   PMID:18059289
+  AUTHORS   Boothroyd JC, Dubremetz JF
+  TITLE     Kiss and spit: the dual roles of Toxoplasma rhoptries.
+  JOURNAL   Nat Rev Microbiol 6:79-88 (2008)
+REFERENCE   PMID:15361242
+  AUTHORS   Denkers EY, Butcher BA, Del Rio L, Kim L
+  TITLE     Manipulation of mitogen-activated protein kinase/nuclear factor-kappaB-signaling  cascades during intracellular Toxoplasma gondii infection.
+  JOURNAL   Immunol Rev 201:191-205 (2004)
+REFERENCE   PMID:18617274
+  AUTHORS   Yarovinsky F
+  TITLE     Toll-like receptors and their role in host resistance to Toxoplasma gondii.
+  JOURNAL   Immunol Lett 119:17-21 (2008)
+REFERENCE   PMID:14987366
+  AUTHORS   Coppens I, Joiner KA
+  TITLE     Parasitehost cell interactions in toxoplasmosis: new avenues for intervention?
+  JOURNAL   Expert Rev Mol Med 2001:1-20 (2001)
+REFERENCE   PMID:12106793
+  AUTHORS   Aliberti J, Sher A
+  TITLE     Role of G-protein-coupled signaling in the induction and regulation of dendritic  cell function by Toxoplasma gondii.
+  JOURNAL   Microbes Infect 4:991-7 (2002)
+REFERENCE   PMID:12857995
+  AUTHORS   Sher A, Collazzo C, Scanga C, Jankovic D, Yap G, Aliberti J
+  TITLE     Induction and regulation of IL-12-dependent host resistance to Toxoplasma gondii.
+  JOURNAL   Immunol Res 27:521-8 (2003)
+REFERENCE   PMID:10525166
+  AUTHORS   Bonhomme A, Bouchot A, Pezzella N, Gomez J, Le Moal H, Pinon JM
+  TITLE     Signaling during the invasion of host cells by Toxoplasma gondii.
+  JOURNAL   FEMS Microbiol Rev 23:551-61 (1999)
+REFERENCE   PMID:18327664
+  AUTHORS   Laliberte J, Carruthers VB
+  TITLE     Host cell manipulation by the human pathogen Toxoplasma gondii.
+  JOURNAL   Cell Mol Life Sci 65:1900-15 (2008)
+REFERENCE   PMID:10234174
+  AUTHORS   Bogdan C, Rollinghoff M
+  TITLE     How do protozoan parasites survive inside macrophages?
+  JOURNAL   Parasitol Today 15:22-8 (1999)
+REFERENCE   PMID:16339966
+  AUTHORS   Molestina RE, Sinai AP
+  TITLE     Host and parasite-derived IKK activities direct distinct temporal phases of NF-kappaB activation and target gene expression following Toxoplasma gondii infection.
+  JOURNAL   J Cell Sci 118:5785-96 (2005)
+KO_PATHWAY  ko05145
+///

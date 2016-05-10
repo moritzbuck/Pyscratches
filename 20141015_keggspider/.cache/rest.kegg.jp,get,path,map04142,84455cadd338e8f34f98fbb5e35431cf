@@ -1,0 +1,89 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04142
+server: Apache
+date: Wed, 15 Oct 2014 14:58:21 GMT
+content-type: text/plain
+
+ENTRY       map04142                    Pathway
+NAME        Lysosome
+DESCRIPTION Lysosomes are membrane-delimited organelles in animal cells serving as the cell's main digestive compartment to which all sorts of macromolecules are delivered for degradation. They contain more than 40 hydrolases in an acidic environment (pH of about 5). After synthesis in the ER, lysosomal enzymes are decorated with mannose-6-phosphate residues, which are recognized by mannose-6-phosphate receptors in the trans-Golgi network. They are packaged into clathrin-coated vesicles and are transported to late endosomes. Substances for digestion are acquired by the lysosomes via a series of processes including endocytosis, phagocytosis, and autophagy.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP map04142  Lysosome
+DISEASE     H00123  Mucopolysaccharidosis type IV (MPS4)
+            H00124  GM2 gangliosidoses
+            H00125  Fabry disease
+            H00126  Gaucher disease
+            H00127  Metachromatic leukodystrophy (MLD)
+            H00128  Mucopolysaccharidosis type I (MPS1)
+            H00129  Mucopolysaccharidosis type II (MPS2)
+            H00130  Mucopolysaccharidosis type III (MPS3)
+            H00131  Mucopolysaccharidosis type VI (MPS6)
+            H00132  Mucopolysaccharidosis type VII (MPS7)
+            H00133  Mucopolysaccharidosis type IX (MPS9)
+            H00135  Krabbe disease
+            H00136  Niemann-Pick disease type C (NPC)
+            H00137  Niemann-Pick disease (NPD) typeA and B
+            H00138  Farber lipogranulomatosis
+            H00139  alpha-Mannosidosis
+            H00140  beta-Mannosidosis
+            H00141  Fucosidosis
+            H00142  Sialidosis
+            H00143  Mucolipidosis II and III
+            H00144  Mucolipidosis IV
+            H00145  Aspartylglucosaminuria (AGU)
+            H00146  Alpha-N-acetylgalactosaminidase deficiency
+            H00147  Sialuria/ Sialic acid storage disease
+            H00148  Lysosomal acid lipase deficiency
+            H00149  Neuronal ceroid lipofuscinosis
+            H00150  Danon disease
+            H00166  Hermansky-Pudlak syndrome (HPS)
+            H00272  Multiple sulfatase deficiency (MSD)
+            H00273  Pycnodysostosis
+            H00274  Papillon-Lefevre syndrome
+            H00275  Cystinosis
+            H00276  Galactosialidosis
+            H00281  GM1 gangliosidosis
+            H00421  Mucopolysaccharidosis (MPS)
+            H00422  Glycoproteinoses
+            H00423  Defects in the degradation of sulfatide
+            H00424  Defects in the degradation of sphingomyelin
+            H00425  Lysosomal cysteine protease deficiencies
+            H00426  Defects in the degradation of ganglioside
+            H00696  Haim-Munk syndrome
+            H00810  Progressive myoclonic epilepsy (PME/ EPM)
+            H00932  Tropical calcific pancreatitis
+            H01097  Cerebral palsy
+            H01113  Acid phosphatase deficiency
+            H01196  Hypochromic microcytic anemia
+            H01239  Combined SAP deficiency
+DBLINKS     GO: 0005764
+REFERENCE   
+  AUTHORS   Alberts B,  Johnson A, Lewis J, Raff M, Roberts K, Walter P
+  TITLE     Molecular Biology of the Cell 4th ed.
+  JOURNAL   Garland Science (2002)
+REFERENCE   PMID:12628346
+  AUTHORS   Eskelinen EL, Tanaka Y, Saftig P
+  TITLE     At the acidic edge: emerging functions for lysosomal membrane proteins.
+  JOURNAL   Trends Cell Biol 13:137-45 (2003)
+REFERENCE   PMID:1883197
+  AUTHORS   Neufeld EF
+  TITLE     Lysosomal storage diseases.
+  JOURNAL   Annu Rev Biochem 60:257-80 (1991)
+REFERENCE   PMID:2943218
+  AUTHORS   von Figura K, Hasilik A
+  TITLE     Lysosomal enzymes and their receptors.
+  JOURNAL   Annu Rev Biochem 55:167-93 (1986)
+REFERENCE   
+  AUTHORS   Uchiyama Y.
+  TITLE     [The analysis of a knockout mouse.] ( In Japanese)
+  JOURNAL   Cell Technology 25:1322-27 (2006)
+REFERENCE   PMID:15987739
+  AUTHORS   Janvier K, Bonifacino JS
+  TITLE     Role of the endocytic machinery in the sorting of lysosome-associated membrane proteins.
+  JOURNAL   Mol Biol Cell 16:4231-42 (2005)
+REFERENCE   PMID:18635948
+  AUTHORS   Vergarajauregui S, Puertollano R
+  TITLE     Mucolipidosis type IV: the importance of functional lysosomes for efficient autophagy.
+  JOURNAL   Autophagy 4:832-4 (2008)
+KO_PATHWAY  ko04142
+///

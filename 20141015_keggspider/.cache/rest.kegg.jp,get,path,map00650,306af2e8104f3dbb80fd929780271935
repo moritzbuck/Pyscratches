@@ -1,0 +1,19 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00650
+server: Apache
+date: Wed, 15 Oct 2014 14:57:39 GMT
+content-type: text/plain
+
+ENTRY       map00650                    Pathway
+NAME        Butanoate metabolism
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP map00650  Butanoate metabolism
+DISEASE     H00179  3-Hydroxy-3-methylglutaryl-CoA lyase deficiency
+            H00835  Succinic semialdehyde dehydrogenase (SSADH) deficiency
+            H01097  Cerebral palsy
+            H01121  Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency
+            H01123  HMG-CoA synthase (HMGCS) deficiency
+            H01280  L-2-hydroxyglutaric aciduria (L2HGA)
+            H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency
+KO_PATHWAY  ko00650
+///

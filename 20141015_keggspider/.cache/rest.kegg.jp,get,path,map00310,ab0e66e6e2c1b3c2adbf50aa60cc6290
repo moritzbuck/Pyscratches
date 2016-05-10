@@ -1,0 +1,32 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00310
+server: Apache
+date: Wed, 15 Oct 2014 14:57:15 GMT
+content-type: text/plain
+
+ENTRY       map00310                    Pathway
+NAME        Lysine degradation
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00310  Lysine degradation
+MODULE      M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA [PATH:map00310]
+DISEASE     H00178  Glutaric acidemia
+            H00188  Hyperlysinemia
+            H00570  Kabuki syndrome
+            H00718  Sotos syndrome and Weaver syndrome
+            H00802  Ehlers-Danlos syndrome (EDS)
+            H00907  Kleefstra syndrome
+            H00980  Nevo syndrome
+            H01192  Lysyl hydroxylase 3 (LH3) deficiency
+            H01242  Saccharopinuria
+            H01247  Pyridoxine-dependent epilepsy (PDE)
+            H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency
+REFERENCE   PMID:11802770
+  AUTHORS   Vaz FM, Wanders RJ.
+  TITLE     Carnitine biosynthesis in mammals.
+  JOURNAL   Biochem J 361:417-29 (2002)
+REFERENCE   PMID:1682209
+  AUTHORS   Large PJ, Robertson A.
+  TITLE     The route of lysine breakdown in Candida tropicalis.
+  JOURNAL   FEMS Microbiol Lett 66:209-13 (1991)
+KO_PATHWAY  ko00310
+///

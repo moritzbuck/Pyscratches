@@ -1,0 +1,54 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00908
+server: Apache
+date: Wed, 15 Oct 2014 15:08:09 GMT
+content-type: text/plain
+
+ENTRY       map00908                    Pathway
+NAME        Zeatin biosynthesis
+DESCRIPTION Zeatin is a member of the cytokinin family, a class of phytohormones involved in various processes of growth and development in plants. Most abundant cytokinins are adenine-type, where the N6 position of adenine is substituted with an isoprenoid, such as in zeatin, or an aromatic side chain, such as in kinetin. Zeatin can be synthesized in two different pathways: the tRNA pathway and the AMP pathway. In the tRNA pathway zeatin is a recycled product of isopentenylated tRNAs. In the AMP pathway zeatin is synthesized from an isopentenyl donor, dimethylallyl diphosphate (DMAPP), and AMP, ADP, or ATP by isopentenyltransferases. After synthesis cytokinins can be glucosylated.
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00908  Zeatin biosynthesis
+DBLINKS     GO: 0009691
+REFERENCE   PMID:14726522
+  AUTHORS   Kasahara H, Takei K, Ueda N, Hishiyama S, Yamaya T, Kamiya Y, Yamaguchi S, Sakakibara H.
+  TITLE     Distinct isoprenoid origins of cis- and trans-zeatin biosyntheses in Arabidopsis.
+  JOURNAL   J Biol Chem 279:14049-54 (2004)
+REFERENCE   PMID:11313355
+  AUTHORS   Takei K, Sakakibara H, Sugiyama T.
+  TITLE     Identification of genes encoding adenylate isopentenyltransferase, a cytokinin biosynthesis enzyme, in Arabidopsis thaliana.
+  JOURNAL   J Biol Chem 276:26405-10 (2001)
+REFERENCE   PMID:11479373
+  AUTHORS   Kakimoto T.
+  TITLE     Identification of plant cytokinin biosynthetic enzymes as dimethylallyl diphosphate:ATP/ADP isopentenyltransferases.
+  JOURNAL   Plant Cell Physiol 42:677-85 (2001)
+REFERENCE   PMID:15280363
+  AUTHORS   Takei K, Yamaya T, Sakakibara H.
+  TITLE     Arabidopsis CYP735A1 and CYP735A2 encode cytokinin hydroxylases that catalyze the biosynthesis of trans-Zeatin.
+  JOURNAL   J Biol Chem 279:41866-72 (2004)
+REFERENCE   PMID:15342621
+  AUTHORS   Hou B, Lim EK, Higgins GS, Bowles DJ.
+  TITLE     N-glucosylation of cytokinins by glycosyltransferases of Arabidopsis thaliana.
+  JOURNAL   J Biol Chem 279:47822-32 (2004)
+REFERENCE   PMID:9874810
+  AUTHORS   Martin RC, Mok MC, Mok DW
+  TITLE     Isolation of a cytokinin gene, ZOG1, encoding zeatin O-glucosyltransferase from Phaseolus lunatus.
+  JOURNAL   Proc Natl Acad Sci U S A 96:284-9 (1999)
+REFERENCE   PMID:10364407
+  AUTHORS   Martin RC, Mok MC, Mok DW
+  TITLE     A gene encoding the cytokinin enzyme zeatin O-xylosyltransferase of Phaseolus vulgaris.
+  JOURNAL   Plant Physiol 120:553-8 (1999)
+REFERENCE   PMID:12644686
+  AUTHORS   Veach YK, Martin RC, Mok DW, Malbeck J, Vankova R, Mok MC
+  TITLE     O-glucosylation of cis-zeatin in maize. Characterization of genes, enzymes, and endogenous cytokinins.
+  JOURNAL   Plant Physiol 131:1374-80 (2003)
+REFERENCE   PMID:14555694
+  AUTHORS   Werner T, Motyka V, Laucou V, Smets R, Van Onckelen H, Schmulling T
+  TITLE     Cytokinin-deficient transgenic Arabidopsis plants show multiple developmental alterations indicating opposite functions of cytokinins in the regulation of shoot and root meristem activity.
+  JOURNAL   Plant Cell 15:2532-50 (2003)
+REFERENCE   PMID:17062755
+  AUTHORS   Miyawaki K, Tarkowski P, Matsumoto-Kitano M, Kato T, Sato S, Tarkowska D, Tabata S, Sandberg G, Kakimoto T
+  TITLE     Roles of Arabidopsis ATP/ADP isopentenyltransferases and tRNA isopentenyltransferases in cytokinin biosynthesis.
+  JOURNAL   Proc Natl Acad Sci U S A 103:16598-603 (2006)
+KO_PATHWAY  ko00908
+///

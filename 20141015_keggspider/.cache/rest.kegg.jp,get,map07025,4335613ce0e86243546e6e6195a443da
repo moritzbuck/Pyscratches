@@ -1,0 +1,46 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07025
+server: Apache
+date: Wed, 15 Oct 2014 15:09:42 GMT
+content-type: text/plain
+
+ENTRY       map07025          Drug      Pathway
+NAME        Quinolines
+PATHWAY_MAP map07025  Quinolines
+COMPOUND    D00642  Quinidine gluconate (USP)
+            D00643  Quinidine polygalacturonate
+            D00831  Mefloquine hydrochloride (JP16/USP)
+            D01663  Quinine ethylcarbonate (JP16)
+            D02125  Chloroquine phosphate (USP)
+            D02126  Primaquine phosphate (USP)
+            D02261  Quinine hydrochloride hydrate (JP16)
+            D02262  Quinine sulfate hydrate (JP16)
+            D02272  Quinidine sulfate hydrate (JP16)
+            D02366  Chloroquine (USP/INN)
+            D02485  Halofantrine hydrochloride (USAN)
+            D02547  Pamaquine
+            D02548  Mepacrine dihydrochloride
+            D03469  Chloroquine hydrochloride (USP)
+            D04895  Mefloquine (USAN/INN)
+            D05681  Quinine ascorbate (USAN)
+            D07680  Chloroquine sulfate
+            D08033  Halofantrine (INN)
+            D08179  Mepacrine (INN)
+            D08420  Primaquine (INN)
+            D08458  Quinidine (BAN)
+            D08459  Quinidine phenylethylbarbiturate
+            D08460  Quinine (BAN)
+            D08461  Quinine dihydrochloride
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Wataya Y, Hye-Sook K.
+  TITLE     [Development of anti-mararial drugs: past, present, and future.] (In Japanese)
+  JOURNAL   Experimental Medicine 23(17):2741-2747 (2005)
+///

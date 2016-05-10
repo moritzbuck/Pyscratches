@@ -1,0 +1,78 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07045
+server: Apache
+date: Wed, 15 Oct 2014 15:09:49 GMT
+content-type: text/plain
+
+ENTRY       map07045          Drug      Pathway
+NAME        Antineoplastics - protein kinases inhibitors
+PATHWAY_MAP map07045  Antineoplastics - protein kinases inhibitors
+COMPOUND    D01441  Imatinib mesilate (JAN)
+            D01977  Gefitinib (JAN/USAN/INN)
+            D02714  Everolimus (JAN/USAN/INN)
+            D03218  Axitinib (JAN/USAN)
+            D03252  Bosutinib (USAN)
+            D03257  Trastuzumab (genetical recombination) (JAN)
+            D03350  Canertinib dihydrochloride (USAN)
+            D03455  Cetuximab (genetical recombination) (JAN)
+            D03658  Dasatinib (INN)
+            D04014  Enzastaurin hydrochloride (JAN/USAN)
+            D04023  Erlotinib hydrochloride (JAN/USAN)
+            D04024  Lapatinib tosilate hydrate (JAN)
+            D04696  Lestaurtinib (USAN/INN)
+            D05029  Midostaurin (USAN/INN)
+            D05350  Panitumumab (genetical recombination) (JAN)
+            D05380  Pazopanib hydrochloride (JAN/USAN)
+            D05446  Pertuzumab (genetical recombination) (JAN)
+            D05819  Semaxanib (USAN/INN)
+            D06005  Tandutinib (USAN/INN)
+            D06068  Temsirolimus (JAN/USAN/INN)
+            D06272  Sorafenib tosilate (JAN)
+            D06285  Vatalanib (USAN/INN)
+            D06402  Sunitinib malate (JAN/USAN)
+            D06407  Vandetanib (JAN/USAN/INN)
+            D06413  Nilotinib hydrochloride hydrate (JAN)
+            D06414  Dasatinib hydrate (JAN)
+            D06678  Motesanib
+            D07907  Erlotinib (INN)
+            D08066  Imatinib (INN)
+            D08108  Lapatinib (INN)
+            D08524  Sorafenib (USAN/INN)
+            D08552  Sunitinib (INN)
+            D08947  Motesanib phosphate (JAN)
+            D08953  Nilotinib (USAN/INN)
+            D09724  Afatinib (USAN/INN)
+            D09728  Bosutinib hydrate (JAN)
+            D09731  Crizotinib (JAN/USAN/INN)
+            D09733  Afatinib maleate (JAN)
+            D09955  Quizartinib (USAN/INN)
+            D09956  Quizartinib dihydrochloride (USAN)
+            D09959  Ruxolitinib (USAN/INN)
+            D09960  Ruxolitinib phosphate (JAN/USAN)
+            D09980  Trastuzumab emtansine (genetical recombination) (JAN)
+            D10202  Bafetinib (USAN)
+REFERENCE   PMID:15710326
+  AUTHORS   Weisberg E, Manley PW, Breitenstein W, Bruggen J, Cowan-Jacob SW, Ray A, Huntly B, Fabbro D, Fendrich G, Hall-Meyers E, Kung AL, Mestan J, Daley GQ, Callahan L, Catley L, Cavazza C, Azam M, Neuberg D, Wright RD, Gilliland DG, Griffin JD.
+  TITLE     Characterization of AMN107, a selective inhibitor of native and mutant Bcr-Abl.
+  JOURNAL   Cancer Cell 7:129-41 (2005)
+REFERENCE   PMID:17327610
+  AUTHORS   Chow LQ, Eckhardt SG.
+  TITLE     Sunitinib: from rational design to clinical efficacy.
+  JOURNAL   J Clin Oncol 25:884-96 (2007)
+REFERENCE   PMID:17956080
+  AUTHORS   Veach DR, Namavari M, Pillarsetty N, Santos EB, Beresten-Kochetkov T, Lambek C, Punzalan BJ, Antczak C, Smith-Jones PM, Djaballah H, Clarkson B, Larson SM.
+  TITLE     Synthesis and Biological Evaluation of a Fluorine-18 Derivative of Dasatinib.
+  JOURNAL   J Med Chem : (2007)
+REFERENCE   PMID:15685537
+  AUTHORS   Debiec-Rychter M, Cools J, Dumez H, Sciot R, Stul M, Mentens N, Vranckx H, Wasag B, Prenen H, Roesel J, Hagemeijer A, Van Oosterom A, Marynen P.
+  TITLE     Mechanisms of resistance to imatinib mesylate in gastrointestinal stromal tumors and activity of the PKC412 inhibitor against imatinib-resistant mutants.
+  JOURNAL   Gastroenterology 128:270-9 (2005)
+REFERENCE   PMID:17419150
+  AUTHORS   von Mehren M.
+  TITLE     Beyond imatinib: second generation c-KIT inhibitors for the management of gastrointestinal stromal tumors.
+  JOURNAL   Clin Colorectal Cancer 6 Suppl 1:S30-4 (2006)
+REFERENCE   PMID:17699867
+  AUTHORS   Guo T, Agaram NP, Wong GC, Hom G, D'Adamo D, Maki RG, Schwartz GK, Veach D, Clarkson BD, Singer S, DeMatteo RP, Besmer P, Antonescu CR
+  TITLE     Sorafenib inhibits the imatinib-resistant KITT670I gatekeeper mutation in gastrointestinal stromal tumor.
+  JOURNAL   Clin Cancer Res 13:4874-81 (2007)
+///

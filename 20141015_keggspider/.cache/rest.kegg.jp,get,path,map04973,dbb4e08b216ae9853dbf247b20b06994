@@ -1,0 +1,75 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04973
+server: Apache
+date: Wed, 15 Oct 2014 14:58:52 GMT
+content-type: text/plain
+
+ENTRY       map04973                    Pathway
+NAME        Carbohydrate digestion and absorption
+DESCRIPTION Dietary carbohydrate in humans and omnivorous animals is a major nutrient.  The carbohydrates that we ingest vary from the lactose in milk to complex carbohydrates. These carbohydrates are digested to monosaccharides, mostly glucose, galactose and fructose, prior to absorption in the small intestine. Glucose and galactose are initially transported into the enterocyte by SGLT1 located in the apical brush border membrane and then exit through the basolateral membrane by either GLUT2 or exocytosis. In a new model of intestinal glucose absorption, transport by SGLT1 induces rapid insertion and activation of GLUT2 in the brush border membrane by a PKC betaII-dependent mechanism. Moreover, trafficking of apical GLUT2 is rapidly up-regulated by glucose and artificial sweeteners, which act through T1R2 + T1R3/alpha-gustducin to activate PLC-beta2 and PKC-beta II. Fructose is transported separately by the brush border GLUT5 and then released out of the enterocyte into the blood by GLUT2.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP map04973  Carbohydrate digestion and absorption
+DISEASE     H01261  Congenital glucose-galactose malabsorption (GGM)
+DBLINKS     GO: 0044245 0001951
+REFERENCE   PMID:16586532
+  AUTHORS   Drozdowski LA, Thomson AB
+  TITLE     Intestinal sugar transport.
+  JOURNAL   World J Gastroenterol 12:1657-70 (2006)
+REFERENCE   PMID:14642859
+  AUTHORS   Wright EM, Martin MG, Turk E
+  TITLE     Intestinal absorption in health and disease--sugars.
+  JOURNAL   Best Pract Res Clin Gastroenterol 17:943-56 (2003)
+REFERENCE   PMID:18393659
+  AUTHORS   Kellett GL, Brot-Laroche E, Mace OJ, Leturque A
+  TITLE     Sugar absorption in the intestine: the role of GLUT2.
+  JOURNAL   Annu Rev Nutr 28:35-54 (2008)
+REFERENCE   PMID:19001049
+  AUTHORS   Mace OJ, Lister N, Morgan E, Shepherd E, Affleck J, Helliwell P, Bronk JR, Kellett GL, Meredith D, Boyd R, Pieri M, Bailey PD, Pettcrew R, Foley D
+  TITLE     An energy supply network of nutrient absorption coordinated by calcium and T1R taste receptors in rat small intestine.
+  JOURNAL   J Physiol 587:195-210 (2009)
+REFERENCE   PMID:16186415
+  AUTHORS   Kellett GL, Brot-Laroche E
+  TITLE     Apical GLUT2: a major pathway of intestinal sugar absorption.
+  JOURNAL   Diabetes 54:3056-62 (2005)
+REFERENCE   PMID:20522896
+  AUTHORS   Goodman BE
+  TITLE     Insights into digestion and absorption of major nutrients in humans.
+  JOURNAL   Adv Physiol Educ 34:44-53 (2010)
+REFERENCE   PMID:17222166
+  AUTHORS   Wright EM, Hirayama BA, Loo DF
+  TITLE     Active sugar transport in health and disease.
+  JOURNAL   J Intern Med 261:32-43 (2007)
+REFERENCE   PMID:12512027
+  AUTHORS   Santer R, Hillebrand G, Steinmann B, Schaub J
+  TITLE     Intestinal glucose transport: evidence for a membrane traffic-based pathway in humans.
+  JOURNAL   Gastroenterology 124:34-9 (2003)
+REFERENCE   PMID:11562503
+  AUTHORS   Stumpel F, Burcelin R, Jungermann K, Thorens B
+  TITLE     Normal kinetics of intestinal glucose absorption in the absence of GLUT2: evidence for a transport pathway requiring glucose phosphorylation and transfer into the endoplasmic reticulum.
+  JOURNAL   Proc Natl Acad Sci U S A 98:11330-5 (2001)
+REFERENCE   PMID:15546855
+  AUTHORS   Wright EM, Loo DD, Hirayama BA, Turk E
+  TITLE     Surprising versatility of Na+-glucose cotransporters: SLC5.
+  JOURNAL   Physiology (Bethesda) 19:370-6 (2004)
+REFERENCE   PMID:12750891
+  AUTHORS   Uldry M, Thorens B
+  TITLE     The SLC2 family of facilitated hexose and polyol transporters.
+  JOURNAL   Pflugers Arch 447:480-9 (2004)
+REFERENCE   PMID:7555019
+  AUTHORS   Van Beers EH, Buller HA, Grand RJ, Einerhand AW, Dekker J
+  TITLE     Intestinal brush border glycohydrolases: structure, function, and development.
+  JOURNAL   Crit Rev Biochem Mol Biol 30:197-262 (1995)
+REFERENCE   PMID:5089892
+  AUTHORS   Marsh MN
+  TITLE     Digestive-absorptive functions of the enterocyte.
+  JOURNAL   Ann R Coll Surg Engl 48:356-68 (1971)
+REFERENCE   PMID:12583961
+  AUTHORS   Guarner F, Malagelada JR
+  TITLE     Gut flora in health and disease.
+  JOURNAL   Lancet 361:512-9 (2003)
+REFERENCE   PMID:11427691
+  AUTHORS   Topping DL, Clifton PM
+  TITLE     Short-chain fatty acids and human colonic function: roles of resistant starch and nonstarch polysaccharides.
+  JOURNAL   Physiol Rev 81:1031-64 (2001)
+KO_PATHWAY  ko04973
+///

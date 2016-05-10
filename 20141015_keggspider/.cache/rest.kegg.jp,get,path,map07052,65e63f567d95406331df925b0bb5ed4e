@@ -1,0 +1,26 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07052
+server: Apache
+date: Wed, 15 Oct 2014 14:59:30 GMT
+content-type: text/plain
+
+ENTRY       map07052          Drug      Pathway
+NAME        Antidyslipidemic agents
+PATHWAY_MAP map07052  Antidyslipidemic agents
+COMPOUND    D00476  Probucol (JP16/USP/INN)
+            D01221  gamma Oryzanol (JAN)
+            D01291  Nicomol (JP16/INN)
+            D01754  Niceritrol (JP16/INN)
+            D01892  Ethyl icosapentate (JP16)
+            D01913  Riboflavin butyrate (JP16)
+            D01934  Colestimide (JP16)
+            D01966  Ezetimibe (JAN/USAN/INN)
+            D02047  Dextran sulfate sodium (JAN)
+            D02690  Colestyramine (JAN/INN)
+            D03343  Dextran sulfate sodium sulfur 5 (JP16)
+            D04267  Polyenephosphatidyl choline (JAN)
+            D04268  Elastase ES
+            D04269  Soysterol (JAN)
+            D07413  Pantothenic acid (BAN)
+            D08061  Icosapent (INN)
+///

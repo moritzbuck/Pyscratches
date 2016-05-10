@@ -1,0 +1,33 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00512
+server: Apache
+date: Wed, 15 Oct 2014 15:07:48 GMT
+content-type: text/plain
+
+ENTRY       map00512                    Pathway
+NAME        Mucin type O-Glycan biosynthesis
+DESCRIPTION O-glycans are a class of glycans that modify serine or threonine residues of proteins. Biosynthesis of O-glycans starts from the transfer of N-acetylgalactosamine (GalNAc) to serine or threonine. The first GalNAc may be extended with sugars including galactose, N-acetylglucosamine, fucose, or sialic acid, but not mannose, glucose, or xylose. Depending on the sugars added, there are four common O-glycan core structures, cores 1 through 4, and an additional four, cores 5 though 8. Mucins are highly O-glycosylated glycoproteins ubiquitous in mucous secretions on cell surfaces and in body fluids. Mucin O-glycans can be branched, and many sugars or groups of sugars are antigenic. Important modifications of mucin O-glycans include O-acetylation of sialic acid and O-sulfation of galactose and N-acetylglucosamine.
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00512  Mucin type O-Glycan biosynthesis
+MODULE      M00056  O-glycan biosynthesis, mucin type core [PATH:map00512]
+DISEASE     H01188  Tn syndrome
+            H01193  Familial tumoral calcinosis (FTC)
+DBLINKS     GO: 0006493
+REFERENCE   PMID:10580130
+  AUTHORS   Brockhausen I.
+  TITLE     Pathways of O-glycan biosynthesis in cancer cells.
+  JOURNAL   Biochim Biophys Acta 1473:67-95 (1999)
+REFERENCE   PMID:11821425
+  AUTHORS   Iwai T, Inaba N, Naundorf A, Zhang Y, Gotoh M, Iwasaki H, Kudo T, Togayachi A, Ishizuka Y, Nakanishi H, Narimatsu H.
+  TITLE     Molecular cloning and characterization of a novel UDP-GlcNAc:GalNAc-peptide beta1,3-N-acetylglucosaminyltransferase (beta 3Gn-T6), an enzyme synthesizing the core 3 structure of O-glycans.
+  JOURNAL   J Biol Chem 277:12802-9 (2002)
+REFERENCE   PMID:12626393
+  AUTHORS   Korekane H, Taguchi T, Sakamoto Y, Honke K, Dohmae N, Salminen H, Toivonen S, Helin J, Takio K, Renkonen O, Taniguchi N.
+  TITLE     Purification and cDNA cloning of UDP-GlcNAc:GlcNAcbeta1-3Galbeta1-4Glc(NAc)-R [GlcNAc to Gal]beta1,6N-acetylglucosaminyltransferase from rat small intestine: a major carrier of dIGnT activity in rat small intestine.
+  JOURNAL   Glycobiology 13:387-400 (2003)
+REFERENCE   PMID:10350056
+  AUTHORS   van Die I, van Tetering A, Schiphorst WE, Sato T, Furukawa K, van den Eijnden DH.
+  TITLE     The acceptor substrate specificity of human beta4-galactosyltransferase V indicates its potential function in O-glycosylation.
+  JOURNAL   FEBS Lett 450:52-6 (1999)
+KO_PATHWAY  ko00512
+///

@@ -1,0 +1,76 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05110
+server: Apache
+date: Wed, 15 Oct 2014 14:58:58 GMT
+content-type: text/plain
+
+ENTRY       map05110                    Pathway
+NAME        Vibrio cholerae infection
+DESCRIPTION Cholera toxin (CTX) is one of the main virulence factors of Vibrio cholerae. Once secreted, CTX B-chain (CTXB) binds to ganglioside GM1 on the surface of the host's cells. After binding takes place, the entire CTX complex is carried from plasma membrane (PM) to endoplasmic reticulum (ER). In the ER, the A-chain (CTXA) is recognized by protein disulfide isomerase (PDI), unfolded, and delivered to the membrane where the membrane-associated ER-oxidase, Ero1, oxidizes PDI to release the CTXA into the protein-conducting channel, Sec61. CTXA is then retro-translocated to the cytosol and induces water and electrolyte secretion by increasing cAMP levels via adenylate cyclase (AC) to exert toxicity.
+            Other than CTX, Vibrio cholerae generates several toxins that are perilous to eukaryotic cells. Zonula occludens toxin (ZOT) causes tight junction disruption through protein kinase C-dependent actin polymerization. RTX toxin (RtxA) causes actin depolymerization by covalently cross-linking actin monomers into dimers, trimers, and higher multimers. Vibrio cholerae cytolysin (VCC) is an important pore-forming toxin. The assembly of VCC anion channels in cells cause vacuolization and lysis.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05110  Vibrio cholerae infection
+MODULE      M00401  Sec61 complex [PATH:map05110]
+DISEASE     H00110  Cholera
+REFERENCE   PMID:10942706
+  AUTHORS   Trucksis M, Conn TL, Wasserman SS, Sears CL.
+  TITLE     Vibrio cholerae ACE stimulates Ca(2+)-dependent Cl(-)/HCO(3)(-) secretion in T84 cells in vitro.
+  JOURNAL   Am J Physiol Cell Physiol 279:C567-77 (2000)
+REFERENCE   PMID:11032799
+  AUTHORS   Fullner KJ, Mekalanos JJ.
+  TITLE     In vivo covalent cross-linking of cellular actin by the Vibrio cholerae RTX toxin.
+  JOURNAL   EMBO J 19:5315-23 (2000)
+REFERENCE   PMID:11292584
+  AUTHORS   Lencer WI.
+  TITLE     Microbes and microbial Toxins: paradigms for microbial-mucosal toxins. V. Cholera: invasion of the intestinal epithelial barrier by a stably folded protein toxin.
+  JOURNAL   Am J Physiol Gastrointest Liver Physiol 280:G781-6 (2001)
+REFERENCE   PMID:12102686
+  AUTHORS   Moschioni M, Tombola F, de Bernard M, Coelho A, Zitzer A, Zoratti M, Montecucco C.
+  TITLE     The Vibrio cholerae haemolysin anion channel is required for cell vacuolation and death.
+  JOURNAL   Cell Microbiol 4:397-409 (2002)
+REFERENCE   PMID:12403808
+  AUTHORS   Tsai B, Rapoport TA.
+  TITLE     Unfolded cholera toxin is transferred to the ER membrane and released from protein disulfide isomerase upon oxidation by Ero1.
+  JOURNAL   J Cell Biol 159:207-16 (2002)
+REFERENCE   PMID:13679513
+  AUTHORS   Fujinaga Y, Wolf AA, Rodighiero C, Wheeler H, Tsai B, Allen L, Jobling MG, Rapoport T, Holmes RK, Lencer WI.
+  TITLE     Gangliosides that associate with lipid rafts mediate transport of cholera and related toxins from the plasma membrane to endoplasmic reticulm.
+  JOURNAL   Mol Biol Cell 14:4783-93 (2003)
+REFERENCE   PMID:11953326
+  AUTHORS   Fasano A.
+  TITLE     Toxins and the gut: role in human disease.
+  JOURNAL   Gut 50 Suppl 3:III9-14 (2002)
+REFERENCE   PMID:11207565
+  AUTHORS   Uzzau S, Fasano A.
+  TITLE     Cross-talk between enteric pathogens and the intestine.
+  JOURNAL   Cell Microbiol 2:83-9 (2000)
+REFERENCE   PMID:11349009
+  AUTHORS   Sandkvist M.
+  TITLE     Type II secretion and pathogenesis.
+  JOURNAL   Infect Immun 69:3523-35 (2001)
+REFERENCE   PMID:12671039
+  AUTHORS   Field M.
+  TITLE     Intestinal ion transport and the pathophysiology of diarrhea.
+  JOURNAL   J Clin Invest 111:931-43 (2003)
+REFERENCE   PMID:14659695
+  AUTHORS   Lencer WI, Tsai B.
+  TITLE     The intracellular voyage of cholera toxin: going retro.
+  JOURNAL   Trends Biochem Sci 28:639-45 (2003)
+REFERENCE   PMID:15204437
+  AUTHORS   De Haan L, Hirst TR.
+  TITLE     Cholera toxin: a paradigm for multi-functional engagement of cellular mechanisms (Review).
+  JOURNAL   Mol Membr Biol 21:77-92 (2004)
+REFERENCE   PMID:17156122
+  AUTHORS   Chinnapen DJ, Chinnapen H, Saslowsky D, Lencer WI.
+  TITLE     Rafting with cholera toxin: endocytosis and trafficking from plasma membrane to ER.
+  JOURNAL   FEMS Microbiol Lett 266:129-37 (2007)
+REFERENCE   PMID:17464284
+  AUTHORS   Sheahan KL, Cordero CL, Satchell KJ.
+  TITLE     Autoprocessing of the Vibrio cholerae RTX toxin by the cysteine protease domain.
+  JOURNAL   EMBO J 26:2552-61 (2007)
+REFERENCE   PMID:11454785
+  AUTHORS   Fasano A.
+  TITLE     Intestinal zonulin: open sesame!
+  JOURNAL   Gut 49:159-62 (2001)
+KO_PATHWAY  ko05110
+///

@@ -1,0 +1,46 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07117
+server: Apache
+date: Wed, 15 Oct 2014 15:09:54 GMT
+content-type: text/plain
+
+ENTRY       map07117          Drug      Pathway
+NAME        Benzodiazepine family
+PATHWAY_MAP map07117  Benzodiazepine family
+COMPOUND    C11688  Asperlicin
+            C15026  L-365260
+            C15040  GYKI 52466
+            C15094  GYKI 52895
+            C15096  GV 150013X
+            C15104  LY-202769
+            D00283  Clozapine (JAN/USP/INN)
+            D00293  Diazepam (JP16/USP/INN)
+            D00454  Olanzapine (JAN/USAN/INN)
+            D01254  Tofisopam (JP16/INN)
+            D01858  Panazepide (JAN)
+            D02693  Devazepide (USAN/INN)
+            D02694  Tifluadom (INN)
+            D02696  Talampanel (INN)
+            D02710  Tarazepide (INN)
+            D02712  Tibezonium iodide (INN)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   PMID:12789687
+  AUTHORS   Herranz R.
+  TITLE     Cholecystokinin antagonists: pharmacological and therapeutic potential.
+  JOURNAL   Med Res Rev 23:559-605 (2003)
+REFERENCE   PMID:12369971
+  AUTHORS   Zappala M, Grasso S, Micale N, Polimeni S, De Micheli C.
+  TITLE     Synthesis and structure-activity relationships of 2,3-benzodiazepines as AMPA receptor antagonists.
+  JOURNAL   Mini Rev Med Chem 1:243-53 (2001)
+REFERENCE   PMID:11945139
+  AUTHORS   Solyom S, Tarnawa I.
+  TITLE     Non-competitive AMPA antagonists of 2,3-benzodiazepine type.
+  JOURNAL   Curr Pharm Des 8:913-39 (2002)
+REFERENCE   PMID:12477342
+  AUTHORS   Patchett AA.
+  TITLE     2002 Alfred Burger Award Address in Medicinal Chemistry. Natural products and design: interrelated approaches in drug discovery.
+  JOURNAL   J Med Chem 45:5609-16 (2002)
+///

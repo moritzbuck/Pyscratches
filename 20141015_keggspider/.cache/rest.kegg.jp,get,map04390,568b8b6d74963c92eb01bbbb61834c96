@@ -1,0 +1,96 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04390
+server: Apache
+date: Wed, 15 Oct 2014 15:08:49 GMT
+content-type: text/plain
+
+ENTRY       map04390                    Pathway
+NAME        Hippo signaling pathway
+DESCRIPTION Hippo signaling is an evolutionarily conserved signaling pathway that controls organ size from flies to humans. In humans and mice, the pathway consists of the MST1 and MST2 kinases, their cofactor Salvador and LATS1 and LATS2. In response to high cell densities, activated LATS1/2 phosphorylates the transcriptional coactivators YAP and TAZ, promoting its cytoplasmic localization, leading to cell apoptosis and restricting organ size overgrowth. When the Hippo pathway is inactivated at low cell density, YAP/TAZ translocates into the nucleus to bind to the transcription enhancer factor (TEAD/TEF) family of transcriptional factors to promote cell growth and proliferation. YAP/TAZ also interacts with other transcriptional factors or signaling molecules, by which Hippo pathway-mediated processes are interconnected with those of other key signaling cascades, such as those mediated by TGF-beta and Wnt growth factors.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04390  Hippo signaling pathway
+DISEASE     H00800  Loeys-Dietz syndrome (LDS)
+            H01385  Rienhoff syndrome
+DBLINKS     GO: 0035329
+REFERENCE   PMID:22750148
+  AUTHORS   Schroeder MC, Halder G
+  TITLE     Regulation of the Hippo pathway by cell architecture and mechanical signals.
+  JOURNAL   Semin Cell Dev Biol 23:803-11 (2012)
+REFERENCE   PMID:21808241
+  AUTHORS   Zhao B, Tumaneng K, Guan KL
+  TITLE     The Hippo pathway in organ size control, tissue regeneration and stem cell self-renewal.
+  JOURNAL   Nat Cell Biol 13:877-83 (2011)
+REFERENCE   PMID:21874053
+  AUTHORS   Mauviel A, Nallet-Staub F, Varelas X
+  TITLE     Integrating developmental signals: a Hippo in the (path)way.
+  JOURNAL   Oncogene 31:1743-56 (2012)
+REFERENCE   PMID:21084559
+  AUTHORS   Zhao B, Li L, Guan KL
+  TITLE     Hippo signaling at a glance.
+  JOURNAL   J Cell Sci 123:4001-6 (2010)
+REFERENCE   PMID:20439427
+  AUTHORS   Zhao B, Li L, Lei Q, Guan KL
+  TITLE     The Hippo-YAP pathway in organ size control and tumorigenesis: an updated version.
+  JOURNAL   Genes Dev 24:862-74 (2010)
+REFERENCE   PMID:23034192
+  AUTHORS   Tremblay AM, Camargo FD
+  TITLE     Hippo signaling in mammalian stem cells.
+  JOURNAL   Semin Cell Dev Biol 23:818-26 (2012)
+REFERENCE   PMID:21138973
+  AUTHORS   Halder G, Johnson RL
+  TITLE     Hippo signaling: growth control and beyond.
+  JOURNAL   Development 138:9-22 (2011)
+REFERENCE   PMID:22658639
+  AUTHORS   Ramos A, Camargo FD
+  TITLE     The Hippo signaling pathway and stem cell biology.
+  JOURNAL   Trends Cell Biol 22:339-46 (2012)
+REFERENCE   PMID:20951342
+  AUTHORS   Pan D
+  TITLE     The hippo signaling pathway in development and cancer.
+  JOURNAL   Dev Cell 19:491-505 (2010)
+REFERENCE   PMID:21324984
+  AUTHORS   Bao Y, Hata Y, Ikeda M, Withanage K
+  TITLE     Mammalian Hippo pathway: from development to cancer and beyond.
+  JOURNAL   J Biochem 149:361-79 (2011)
+REFERENCE   PMID:18955139
+  AUTHORS   Zhao B, Lei QY, Guan KL
+  TITLE     The Hippo-YAP pathway: new connections between regulation of organ size and cancer.
+  JOURNAL   Curr Opin Cell Biol 20:638-46 (2008)
+REFERENCE   PMID:20945341
+  AUTHORS   Chan SW, Lim CJ, Chen L, Chong YF, Huang C, Song H, Hong W
+  TITLE     The Hippo pathway in biological control and cancer development.
+  JOURNAL   J Cell Physiol 226:928-39 (2011)
+REFERENCE   PMID:18328423
+  AUTHORS   Zeng Q, Hong W
+  TITLE     The emerging role of the hippo pathway in cell contact inhibition, organ size control, and cancer development in mammals.
+  JOURNAL   Cancer Cell 13:188-92 (2008)
+REFERENCE   PMID:19846288
+  AUTHORS   Badouel C, Garg A, McNeill H
+  TITLE     Herding Hippos: regulating growth in flies and man.
+  JOURNAL   Curr Opin Cell Biol 21:837-43 (2009)
+REFERENCE   PMID:17975546
+  AUTHORS   Buttitta LA, Edgar BA
+  TITLE     How size is controlled: from Hippos to Yorkies.
+  JOURNAL   Nat Cell Biol 9:1225-7 (2007)
+REFERENCE   PMID:22683405
+  AUTHORS   Liu AM, Wong KF, Jiang X, Qiao Y, Luk JM
+  TITLE     Regulators of mammalian Hippo pathway in cancer.
+  JOURNAL   Biochim Biophys Acta 1826:357-64 (2012)
+REFERENCE   PMID:22830020
+  AUTHORS   Fausti F, Di Agostino S, Sacconi A, Strano S, Blandino G
+  TITLE     Hippo and rassf1a Pathways: A Growing Affair.
+  JOURNAL   Mol Biol Int 2012:307628 (2012)
+REFERENCE   PMID:22895435
+  AUTHORS   Halder G, Dupont S, Piccolo S
+  TITLE     Transduction of mechanical and cytoskeletal cues by YAP and TAZ.
+  JOURNAL   Nat Rev Mol Cell Biol 13:591-600 (2012)
+REFERENCE   PMID:22153608
+  AUTHORS   Varelas X, Wrana JL
+  TITLE     Coordinating developmental signaling: novel roles for the Hippo pathway.
+  JOURNAL   Trends Cell Biol 22:88-96 (2012)
+REFERENCE   PMID:21376238
+  AUTHORS   Schlegelmilch K, Mohseni M, Kirak O, Pruszak J, Rodriguez JR, Zhou D, Kreger BT, Vasioukhin V, Avruch J, Brummelkamp TR, Camargo FD
+  TITLE     Yap1 acts downstream of alpha-catenin to control epidermal proliferation.
+  JOURNAL   Cell 144:782-95 (2011)
+KO_PATHWAY  ko04390
+///

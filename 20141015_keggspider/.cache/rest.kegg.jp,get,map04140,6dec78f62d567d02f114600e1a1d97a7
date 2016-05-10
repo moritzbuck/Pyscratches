@@ -1,0 +1,49 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04140
+server: Apache
+date: Wed, 15 Oct 2014 15:08:42 GMT
+content-type: text/plain
+
+ENTRY       map04140                    Pathway
+NAME        Regulation of autophagy
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP map04140  Regulation of autophagy
+DBLINKS     GO: 0006914
+REFERENCE   PMID:15325584
+  AUTHORS   Meijer AJ, Codogno P.
+  TITLE     Regulation and role of autophagy in mammalian cells.
+  JOURNAL   Int J Biochem Cell Biol 36:2445-62 (2004)
+REFERENCE   PMID:16099218
+  AUTHORS   Deretic V.
+  TITLE     Autophagy in innate and adaptive immunity.
+  JOURNAL   Trends Immunol 26:523-8 (2005)
+REFERENCE   PMID:15752997
+  AUTHORS   Thompson AR, Vierstra RD.
+  TITLE     Autophagic recycling: lessons from yeast help define the process in plants.
+  JOURNAL   Curr Opin Plant Biol 8:165-73 (2005)
+REFERENCE   PMID:16200202
+  AUTHORS   Levine B, Yuan J.
+  TITLE     Autophagy in cell death: an innocent convict?
+  JOURNAL   J Clin Invest 115:2679-88 (2005)
+REFERENCE   PMID:15325588
+  AUTHORS   Tanida I, Ueno T, Kominami E.
+  TITLE     LC3 conjugation system in mammalian autophagy.
+  JOURNAL   Int J Biochem Cell Biol 36:2503-18 (2004)
+REFERENCE   PMID:15928708
+  AUTHORS   Lum JJ, DeBerardinis RJ, Thompson CB.
+  TITLE     Autophagy in metazoans: cell survival in the land of plenty.
+  JOURNAL   Nat Rev Mol Cell Biol 6:439-48 (2005)
+REFERENCE   PMID:15978794
+  AUTHORS   Reggiori F, Klionsky DJ.
+  TITLE     Autophagosomes: biogenesis from scratch?
+  JOURNAL   Curr Opin Cell Biol 17:415-22 (2005)
+REFERENCE   PMID:11099404
+  AUTHORS   Klionsky DJ, Emr SD.
+  TITLE     Autophagy as a regulated pathway of cellular degradation.
+  JOURNAL   Science 290:1717-21 (2000)
+REFERENCE   PMID:16125113
+  AUTHORS   Bechet D, Tassa A, Taillandier D, Combaret L, Attaix D.
+  TITLE     Lysosomal proteolysis in skeletal muscle.
+  JOURNAL   Int J Biochem Cell Biol 37:2098-114 (2005)
+KO_PATHWAY  ko04140
+///

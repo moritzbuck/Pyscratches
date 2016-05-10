@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07033
+server: Apache
+date: Wed, 15 Oct 2014 14:59:24 GMT
+content-type: text/plain
+
+ENTRY       map07033          Drug      Pathway
+NAME        Anticonvulsants
+PATHWAY_MAP map07033  Anticonvulsants
+COMPOUND    C07493  10-Hydroxycarbazepine
+            C07499  Phenylethylmalonamide
+            C14916  Nirvanol
+            C15341  Fluorofelbamate
+            D00218  Acetazolamide (JP16/USP/INN)
+            D00252  Carbamazepine (JP16/USP/INN)
+            D00280  Clonazepam (JP16/USP/INN)
+            D00293  Diazepam (JP16/USP/INN)
+            D00304  Divalproex sodium (USP)
+            D00332  Gabapentin (JAN/USAN/INN)
+            D00354  Lamotrigine (JAN/USAN/INN)
+            D00375  Mephenytoin (USP/INN)
+            D00392  Trimethadione (JP16/INN)
+            D00399  Valproic acid (USP)
+            D00474  Primidone (JP16/USP/INN)
+            D00504  Phenacemide (JAN/INN)
+            D00506  Phenobarbital (JP16/USP/INN)
+            D00512  Phenytoin (JP16/USP/INN)
+            D00531  Nitrazepam (JP16/USAN/INN)
+            D00533  Oxcarbazepine (JAN/USAN/INN)
+            D00535  Vigabatrin (JAN/USAN/INN)
+            D00536  Felbamate (USAN/INN)
+            D00537  Topiramate (JAN/USAN/INN)
+            D00538  Zonisamide (JAN/USAN/INN)
+            D00539  Ethosuximide (JP16/USP/INN)
+            D00701  Phenobarbital sodium (JAN/USP/INN)
+            D00708  Ethotoin (JAN/USP/INN)
+            D00709  Levetiracetam (JAN/USAN/INN)
+            D00710  Sodium valproate (JP16)
+            D01196  Acetazolamide sodium (JAN)
+            D01253  Clobazam (JAN/USAN/INN)
+            D01382  Metharbital (JAN/INN)
+            D01409  Acetylpheneturide (JAN)
+            D01740  Barbital (JP16/INN)
+            D01787  Sultiame (JP16)
+            D01914  Piracetam (JAN/USAN/INN)
+            D02096  Fosphenytoin sodium (USP)
+            D02097  Tiagabine hydrochloride (USP)
+            D02103  Phenytoin sodium for injection (JP16)
+            D02716  Pregabalin (JAN/USAN/INN)
+            D02717  Valnoctamide (USAN/INN)
+            D02718  Valrocemide (USAN/INN)
+            D02766  Valpromide (INN)
+            D07595  Fosphenytoin sodium hydrate (JAN)
+            D07993  Fosphenytoin (INN)
+            D08588  Tiagabine (INN)
+            D08667  Calcium valproate
+            D09539  Gabapentin enacarbil (JAN/USAN/INN)
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   PMID:16382190
+  AUTHORS   Stepien K, Tomaszewski M, Czuczwar SJ.
+  TITLE     Profile of anticonvulsant activity and neuroprotective effects of novel and potential antiepileptic drugs--an update.
+  JOURNAL   Pharmacol Rep 57:719-33 (2005)
+REFERENCE   PMID:11805728
+  AUTHORS   Bialer M.
+  TITLE     New antiepileptic drugs currently in clinical trials: is there a strategy in their development?
+  JOURNAL   Ther Drug Monit 24:85-90 (2002)
+REFERENCE   PMID:11056076
+  AUTHORS   Aiken SP, Brown WM.
+  TITLE     Treatment of epilepsy: existing therapies and future developments.
+  JOURNAL   Front Biosci 5:E124-52 (2000)
+REFERENCE   PMID:16922870
+  AUTHORS   Loscher W, Schmidt D.
+  TITLE     Experimental and clinical evidence for loss of effect (tolerance) during prolonged treatment with antiepileptic drugs.
+  JOURNAL   Epilepsia 47:1253-84 (2006)
+///

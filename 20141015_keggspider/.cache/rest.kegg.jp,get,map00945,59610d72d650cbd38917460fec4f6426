@@ -1,0 +1,25 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00945
+server: Apache
+date: Wed, 15 Oct 2014 15:08:13 GMT
+content-type: text/plain
+
+ENTRY       map00945                    Pathway
+NAME        Stilbenoid, diarylheptanoid and gingerol biosynthesis
+DESCRIPTION Stilbenoids are a group of phenolic compounds, biosynthetically interrelated through their common origin from a C6-C2-C6 intermediate, such as resveratol found in grapes. Stilbenoids can also exist as glycosides (e.g., piceid). Combretastatins are potentially useful stilbenoid natural products with known antitumor activity. Diarylheptanoid is a compound group having phenyl rings at 1,7 positions of n-heptane (C6-C7-C6), such as curcumin found in the ginger family. [6]-Gingerol is a major active component of ginger and has diverse pharmacologic effects.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00945  Stilbenoid, diarylheptanoid and gingerol biosynthesis
+REFERENCE   PMID:19258320
+  AUTHORS   Katsuyama Y, Kita T, Funa N, Horinouchi S
+  TITLE     Curcuminoid biosynthesis by two type III polyketide synthases in the herb Curcuma longa.
+  JOURNAL   J Biol Chem 284:11160-70 (2009)
+REFERENCE   PMID:16890967
+  AUTHORS   Ramirez-Ahumada Mdel C, Timmermann BN, Gang DR
+  TITLE     Biosynthesis of curcuminoids and gingerols in turmeric (Curcuma longa) and ginger (Zingiber officinale): identification of curcuminoid synthase and hydroxycinnamoyl-CoA thioesterases.
+  JOURNAL   Phytochemistry 67:2017-29 (2006)
+REFERENCE   PMID:17509574
+  AUTHORS   Masada S, Terasaka K, Mizukami H
+  TITLE     A single amino acid in the PSPG-box plays an important role in the catalytic function of CaUGT2 (Curcumin glucosyltransferase), a Group D Family 1 glucosyltransferase from Catharanthus roseus.
+  JOURNAL   FEBS Lett 581:2605-10 (2007)
+KO_PATHWAY  ko00945
+///

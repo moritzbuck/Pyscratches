@@ -1,0 +1,74 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04977
+server: Apache
+date: Wed, 15 Oct 2014 14:58:53 GMT
+content-type: text/plain
+
+ENTRY       map04977                    Pathway
+NAME        Vitamin digestion and absorption
+DESCRIPTION Vitamins are a diverse and chemically unrelated group of organic substances that share a common feature of being essential for normal health and well-being. They catalyze numerous biochemical reactions. Because humans and other mammals cannot synthesize these compounds (except for some synthesis of niacin), they must obtain them from exogenous sources via intestinal absorption. Vitamins  are classified based on their solubility in water or fat. Most of the water-soluble vitamins are transported across the small intestinal membrane by carrier-mediated mechanisms, but vitamin B12, cobalamin, is transported by a receptor-mediated mechanism. Intestinal absorption of fat-soluble vitamins requires all of the processes needed for fat absorption. After digestion, these vitamins and the products of pancreatic hydrolysis of triglycerides (TG) are emulsified by bile salts to form mixed micelles which are taken up by intestinal enterocytes and incorporated into chylomicrons (CM). CM are then secreted into the lymphatic system, and finally moves into the plasma.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP map04977  Vitamin digestion and absorption
+DISEASE     H00845  Familial amyloidosis
+            H00930  Hypoalphalipoproteinemia
+            H01182  Biotinidase deficiency
+            H01190  Transcobalamin II deficiency
+            H01231  Biotin-responsive basal ganglia disease (BBGD)
+            H01252  Hereditary folate malabsorption (HFM)
+            H01270  Familial hypobetalipoproteinemia (FHBL)
+            H01277  Vitamin B12 deficiency anaemia
+DBLINKS     GO: 0051180
+REFERENCE   PMID:16462170
+  AUTHORS   Said HM, Mohammed ZM
+  TITLE     Intestinal absorption of water-soluble vitamins: an update.
+  JOURNAL   Curr Opin Gastroenterol 22:140-6 (2006)
+REFERENCE   PMID:14642860
+  AUTHORS   Basu TK, Donaldson D
+  TITLE     Intestinal absorption in health and disease: micronutrients.
+  JOURNAL   Best Pract Res Clin Gastroenterol 17:957-79 (2003)
+REFERENCE   PMID:14977409
+  AUTHORS   Said HM
+  TITLE     Recent advances in carrier-mediated intestinal absorption of water-soluble vitamins.
+  JOURNAL   Annu Rev Physiol 66:419-46 (2004)
+REFERENCE   PMID:16206251
+  AUTHORS   Reidling JC, Nabokina SM, Balamurugan K, Said HM
+  TITLE     Developmental maturation of intestinal and renal thiamin uptake: studies in wild-type and transgenic mice carrying human THTR-1 and 2 promoters.
+  JOURNAL   J Cell Physiol 206:371-7 (2006)
+REFERENCE   PMID:20724488
+  AUTHORS   Fujimura M, Yamamoto S, Murata T, Yasujima T, Inoue K, Ohta KY, Yuasa H
+  TITLE     Functional characteristics of the human ortholog of riboflavin transporter 2 and  riboflavin-responsive expression of its rat ortholog in the small intestine indicate its involvement in riboflavin absorption.
+  JOURNAL   J Nutr 140:1722-7 (2010)
+REFERENCE   PMID:19056639
+  AUTHORS   Said HM
+  TITLE     Cell and molecular aspects of human intestinal biotin absorption.
+  JOURNAL   J Nutr 139:158-62 (2009)
+REFERENCE   PMID:20185591
+  AUTHORS   Green R
+  TITLE     Ins and outs of cellular cobalamin transport.
+  JOURNAL   Blood 115:1476-7 (2010)
+REFERENCE   PMID:19173758
+  AUTHORS   Zhao R, Matherly LH, Goldman ID
+  TITLE     Membrane transporters and folate homeostasis: intestinal absorption and transport into systemic compartments and tissues.
+  JOURNAL   Expert Rev Mol Med 11:e4 (2009)
+REFERENCE   PMID:11984580
+  AUTHORS   Hediger MA
+  TITLE     New view at C.
+  JOURNAL   Nat Med 8:445-6 (2002)
+REFERENCE   PMID:11340090
+  AUTHORS   Harrison EH, Hussain MM
+  TITLE     Mechanisms involved in the intestinal digestion and absorption of dietary vitamin A.
+  JOURNAL   J Nutr 131:1405-8 (2001)
+REFERENCE   PMID:16688755
+  AUTHORS   Blomhoff R, Blomhoff HK.
+  TITLE     Overview of retinoid metabolism and function.
+  JOURNAL   J Neurobiol 66:606-30 (2006)
+REFERENCE   PMID:20166147
+  AUTHORS   Lemaire-Ewing S, Desrumaux C, Neel D, Lagrost L
+  TITLE     Vitamin E transport, membrane incorporation and cell metabolism: Is alpha-tocopherol in lipid rafts an oar in the lifeboat?
+  JOURNAL   Mol Nutr Food Res 54:631-40 (2010)
+REFERENCE   PMID:18841274
+  AUTHORS   Shearer MJ, Newman P
+  TITLE     Metabolism and cell biology of vitamin K.
+  JOURNAL   Thromb Haemost 100:530-47 (2008)
+KO_PATHWAY  ko04977
+///

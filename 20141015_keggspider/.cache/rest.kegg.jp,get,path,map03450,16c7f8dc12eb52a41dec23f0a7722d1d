@@ -1,0 +1,43 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map03450
+server: Apache
+date: Wed, 15 Oct 2014 14:58:11 GMT
+content-type: text/plain
+
+ENTRY       map03450                    Pathway
+NAME        Non-homologous end-joining
+DESCRIPTION Nonhomologous end joining (NHEJ) eliminates DNA double-strand breaks (DSBs) by direct ligation. NHEJ involves binding of the KU heterodimer to double-stranded DNA ends, recruitment of DNA-PKcs (MRX complex in yeast), processing of ends, and recruitment of the DNA ligase IV (LIG4)-XRCC4 complex, which brings about ligation. A recent study shows that bacteria accomplish NHEJ using just two proteins (Ku and DNA ligase), whereas eukaryotes require many factors. NHEJ repairs DSBs at all stages of the cell cycle, bringing about the ligation of two DNA DSBs without the need for sequence homology, and so is error-prone.
+CLASS       Genetic Information Processing; Replication and repair
+PATHWAY_MAP map03450  Non-homologous end-joining
+MODULE      M00292  MRX complex [PATH:map03450]
+            M00297  DNA-PK complex [PATH:map03450]
+DISEASE     H00848  Ataxia with ocular apraxia (AOA)
+            H00924  Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation
+            H01344  Nijmegen Breakage Syndrome
+DBLINKS     GO: 0006303
+REFERENCE   PMID:16971555
+  AUTHORS   Gennery AR.
+  TITLE     Primary immunodeficiency syndromes associated with defective DNA double-strand break repair.
+  JOURNAL   Br Med Bull 77-78:71-85 (2006)
+REFERENCE   PMID:17589524
+  AUTHORS   Zhang Y, Hefferin ML, Chen L, Shim EY, Tseng HM, Kwon Y, Sung P, Lee SE, Tomkinson AE.
+  TITLE     Role of Dnl4-Lif1 in nonhomologous end-joining repair complex assembly and suppression of homologous recombination.
+  JOURNAL   Nat Struct Mol Biol 14:639-46 (2007)
+REFERENCE   PMID:16895466
+  AUTHORS   Wyman C, Kanaar R.
+  TITLE     DNA double-strand break repair: all's well that ends well.
+  JOURNAL   Annu Rev Genet 40:363-83 (2006)
+REFERENCE   PMID:15578053
+  AUTHORS   Weller GR, Brandt VL, Roth DB.
+  TITLE     Doing more with less in bacterial DNA repair.
+  JOURNAL   Nat Struct Mol Biol 11:1158-9 (2004)
+REFERENCE   PMID:12215643
+  AUTHORS   Weller GR, Kysela B, Roy R, Tonkin LM, Scanlan E, Della M, Devine SK, Day JP, Wilkinson A, d'Adda di Fagagna F, Devine KM, Bowater RP, Jeggo PA, Jackson SP, Doherty AJ.
+  TITLE     Identification of a DNA nonhomologous end-joining complex in bacteria.
+  JOURNAL   Science 297:1686-9 (2002)
+REFERENCE   PMID:17506672
+  AUTHORS   Pitcher RS, Brissett NC, Doherty AJ.
+  TITLE     Nonhomologous end-joining in bacteria: a microbial perspective.
+  JOURNAL   Annu Rev Microbiol 61:259-82 (2007)
+KO_PATHWAY  ko03450
+///

@@ -1,0 +1,45 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07221
+server: Apache
+date: Wed, 15 Oct 2014 15:09:58 GMT
+content-type: text/plain
+
+ENTRY       map07221          Drug      Pathway
+NAME        Nicotinic cholinergic receptor antagonists
+PATHWAY_MAP map07221  Nicotinic cholinergic receptor antagonists
+COMPOUND    C07547  Tubocurarine
+            C07548  Atracurium
+            C07550  Mivacurium
+            C07919  Metocurine
+            C11733  Decamethonium
+            D00492  Pancuronium bromide (JP16/USAN/INN)
+            D00758  Atracurium besylate (USP)
+            D00761  Metocurine iodide (USAN)
+            D00763  Mivacurium chloride (USAN/INN)
+            D00764  Pipecuronium bromide (USAN/INN)
+            D00765  Rocuronium bromide (JAN/USAN/INN)
+            D00766  Succinylcholine chloride (USP)
+            D00767  Vecuronium bromide (JAN/USAN/INN)
+            D02204  Hexamethonium bromide (JAN/INN)
+            D02207  Tubocurarine chloride hydrate (JAN)
+            D02275  Suxamethonium chloride hydrate (JP16)
+            D02292  Gallamine triethiodide (USP)
+            D07272  Dimethyltubocurarine (BAN)
+            D08655  Tubocurarine chloride (INN)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   PMID:16402115
+  AUTHORS   Bowman WC.
+  TITLE     Neuromuscular block.
+  JOURNAL   Br J Pharmacol 147 Suppl 1:S277-86 (2006)
+///

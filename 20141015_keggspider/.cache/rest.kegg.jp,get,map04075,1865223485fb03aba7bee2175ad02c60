@@ -1,0 +1,65 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04075
+server: Apache
+date: Wed, 15 Oct 2014 15:08:39 GMT
+content-type: text/plain
+
+ENTRY       map04075                    Pathway
+NAME        Plant hormone signal transduction
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04075  Plant hormone signal transduction
+DBLINKS     GO: 0009734 0009736 0009738 0009742 0009867 0009873 0010476
+REFERENCE   PMID:19686081
+  AUTHORS   Chapman EJ, Estelle M
+  TITLE     Mechanism of auxin-regulated gene expression in plants.
+  JOURNAL   Annu Rev Genet 43:265-85 (2009)
+REFERENCE   PMID:16212609
+  AUTHORS   Brenner WG, Romanov GA, Kollmer I, Burkle L, Schmulling T
+  TITLE     Immediate-early and delayed cytokinin response genes of Arabidopsis thaliana identified by genome-wide expression profiling reveal novel cytokinin-sensitive processes and suggest cytokinin action through transcriptional cascades.
+  JOURNAL   Plant J 44:314-33 (2005)
+REFERENCE   PMID:16227453
+  AUTHORS   Mason MG, Mathews DE, Argyros DA, Maxwell BB, Kieber JJ, Alonso JM, Ecker JR, Schaller GE
+  TITLE     Multiple type-B response regulators mediate cytokinin signal transduction in Arabidopsis.
+  JOURNAL   Plant Cell 17:3007-18 (2005)
+REFERENCE   PMID:19470587
+  AUTHORS   Harberd NP, Belfield E, Yasumura Y
+  TITLE     The angiosperm gibberellin-GID1-DELLA growth regulatory mechanism: how an "inhibitor of an inhibitor" enables flexible response to fluctuating environments.
+  JOURNAL   Plant Cell 21:1328-39 (2009)
+REFERENCE   PMID:17965273
+  AUTHORS   Hirano K, Nakajima M, Asano K, Nishiyama T, Sakakibara H, Kojima M, Katoh E, Xiang H, Tanahashi T, Hasebe M, Banks JA, Ashikari M, Kitano H, Ueguchi-Tanaka M, Matsuoka M
+  TITLE     The GID1-mediated gibberellin perception mechanism is conserved in the Lycophyte  Selaginella moellendorffii but not in the Bryophyte Physcomitrella patens.
+  JOURNAL   Plant Cell 19:3058-79 (2007)
+REFERENCE   PMID:19805022
+  AUTHORS   Umezawa T, Sugiyama N, Mizoguchi M, Hayashi S, Myouga F, Yamaguchi-Shinozaki K, Ishihama Y, Hirayama T, Shinozaki K
+  TITLE     Type 2C protein phosphatases directly regulate abscisic acid-activated protein kinases in Arabidopsis.
+  JOURNAL   Proc Natl Acad Sci U S A 106:17588-93 (2009)
+REFERENCE   PMID:15753119
+  AUTHORS   Chen YF, Etheridge N, Schaller GE
+  TITLE     Ethylene signal transduction.
+  JOURNAL   Ann Bot 95:901-15 (2005)
+REFERENCE   PMID:12628921
+  AUTHORS   Ouaked F, Rozhon W, Lecourieux D, Hirt H
+  TITLE     A MAPK pathway mediates ethylene signaling in plants.
+  JOURNAL   EMBO J 22:1282-8 (2003)
+REFERENCE   PMID:20192752
+  AUTHORS   Kim TW, Wang ZY
+  TITLE     Brassinosteroid signal transduction from receptor kinases to transcription factors.
+  JOURNAL   Annu Rev Plant Biol 61:681-704 (2010)
+REFERENCE   PMID:19734888
+  AUTHORS   Kim TW, Guan S, Sun Y, Deng Z, Tang W, Shang JX, Sun Y, Burlingame AL, Wang ZY
+  TITLE     Brassinosteroid signal transduction from cell-surface receptor kinases to nuclear transcription factors.
+  JOURNAL   Nat Cell Biol 11:1254-60 (2009)
+REFERENCE   PMID:20360743
+  AUTHORS   Pauwels L, Barbero GF, Geerinck J, Tilleman S, Grunewald W, Perez AC, Chico JM, Bossche RV, Sewell J, Gil E, Garcia-Casado G, Witters E, Inze D, Long JA, De Jaeger G, Solano R, Goossens A
+  TITLE     NINJA connects the co-repressor TOPLESS to jasmonate signalling.
+  JOURNAL   Nature 464:788-91 (2010)
+REFERENCE   PMID:18583180
+  AUTHORS   Katsir L, Chung HS, Koo AJ, Howe GA
+  TITLE     Jasmonate signaling: a conserved mechanism of hormone sensing.
+  JOURNAL   Curr Opin Plant Biol 11:428-35 (2008)
+REFERENCE   PMID:12897257
+  AUTHORS   Johnson C, Boden E, Arias J
+  TITLE     Salicylic acid and NPR1 induce the recruitment of trans-activating TGA factors to a defense gene promoter in Arabidopsis.
+  JOURNAL   Plant Cell 15:1846-58 (2003)
+KO_PATHWAY  ko04075
+///

@@ -1,0 +1,70 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00140
+server: Apache
+date: Wed, 15 Oct 2014 15:07:32 GMT
+content-type: text/plain
+
+ENTRY       map00140                    Pathway
+NAME        Steroid hormone biosynthesis
+DESCRIPTION Steroid hormones derived from cholesterol are a class of biologically active compounds in vertebrates. The cholesterol side-chain cleavage enzyme CYP11A1 catalyzes conversion of cholesterol, a C27 compound, to the first C21 steroid, pregnenolone, which is converted by a bifunctional enzyme complex to the gestagen hormone, progesterone [MD:M00107]. Pregnenolone and progesterone are the starting materials for the three groups of steroids: C21 steroids of glucocorticoids and mineralocorticoids, C19 steroids of androgens, and C18 steroids of estrogens. (i) Progesterone is converted by hydroxylations at carbons 21 and 11 to corticosterone, which is further modified by hydroxylation and oxydoreduction at carbon 18 to yield aldosterone, a mineralcorticoid [MD:M00108]. Cortisol, the main glucocorticoid, is formed from 17alpha-hydroxyprogesterone with 11-deoxycortisol as an intermediate [MD:M00109]. (ii) Male hormone testosterone is formed from pregnenolone by two pathways, delta5 pathway via dehydroepiandrosterone and delta4 pathway via androstenedione [MD:M00110]. The enzyme CYP17A1 is responsible for the 17,20 lyase and 17alpha-hydroxylase activities in respective pathways. (iii) Female hormones estrone and estradiol are formed from testosterone and 4-androstene-3,17-dione by oxidative removal of the C19 methyl group and subsequent aromatization of ring A [MD:M00111]. In addition to these three groups, recent studies show that there is another group, termed neurosteroids, synthesized in the brain rather than the peripheral endocrine gland.
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00140  Steroid hormone biosynthesis
+MODULE      M00107  Steroid hormone biosynthesis, cholesterol => prognenolone => progesterone [PATH:map00140]
+            M00108  C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone [PATH:map00140]
+            M00109  C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone [PATH:map00140]
+            M00110  C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone [PATH:map00140]
+DISEASE     H00134  X-linked ichthyosis (XLI)
+            H00216  Congenital adrenal hyperplasia (CAH)
+            H00258  Aldosterone synthase deficiency
+            H00259  Apparent mineralocorticoid excess syndrome
+            H00599  46,XX disorders of sex development (Disorders related to androgen excess)
+            H00602  Glucocorticoid-remediable aldosteronism (GRA)
+            H00608  46,XY disorders of sex development (Disorders in androgen synthesis or action)
+            H00628  Congenital bile acid synthesis defect (CBAS)
+            H00794  Aromatase excess syndrome
+            H01075  Peters anomaly
+            H01111  Cortisone reductase deficiency (CRD)
+            H01203  Primary congenital glaucoma (PCG)
+DBLINKS     GO: 0034754
+REFERENCE   PMID:10998348
+  AUTHORS   Penning TM, Burczynski ME, Jez JM, Hung CF, Lin HK, Ma H, Moore M, Palackal N, Ratnam K
+  TITLE     Human 3alpha-hydroxysteroid dehydrogenase isoforms (AKR1C1-AKR1C4) of the aldo-keto reductase superfamily: functional plasticity and tissue distribution reveals roles in the inactivation and formation of male and female sex hormones.
+  JOURNAL   Biochem J 351:67-77 (2000)
+REFERENCE   PMID:11469811
+  AUTHORS   Tomlinson JW, Stewart PM
+  TITLE     Cortisol metabolism and the role of 11beta-hydroxysteroid dehydrogenase.
+  JOURNAL   Best Pract Res Clin Endocrinol Metab 15:61-78 (2001)
+REFERENCE   PMID:12604236
+  AUTHORS   Higaki Y, Usami N, Shintani S, Ishikura S, El-Kabbani O, Hara A
+  TITLE     Selective and potent inhibitors of human 20alpha-hydroxysteroid dehydrogenase (AKR1C1) that metabolizes neurosteroids derived from progesterone.
+  JOURNAL   Chem Biol Interact 143-144:503-13 (2003)
+REFERENCE   PMID:12832414
+  AUTHORS   Thomas JL, Duax WL, Addlagatta A, Brandt S, Fuller RR, Norris W
+  TITLE     Structure/function relationships responsible for coenzyme specificity and the isomerase activity of human type 1 3 beta-hydroxysteroid dehydrogenase/isomerase.
+  JOURNAL   J Biol Chem 278:35483-90 (2003)
+REFERENCE   PMID:15642792
+  AUTHORS   Cavigelli SA, Monfort SL, Whitney TK, Mechref YS, Novotny M, McClintock MK
+  TITLE     Frequent serial fecal corticoid measures from rats reflect circadian and ovarian  corticosterone rhythms.
+  JOURNAL   J Endocrinol 184:153-63 (2005)
+REFERENCE   PMID:16413106
+  AUTHORS   Holmes MC, Seckl JR
+  TITLE     The role of 11beta-hydroxysteroid dehydrogenases in the brain.
+  JOURNAL   Mol Cell Endocrinol 248:9-14 (2006)
+REFERENCE   PMID:16547389
+  AUTHORS   Matsunaga T, Shintani S, Hara A
+  TITLE     Multiplicity of mammalian reductases for xenobiotic carbonyl compounds.
+  JOURNAL   Drug Metab Pharmacokinet 21:1-18 (2006)
+REFERENCE   PMID:17459698
+  AUTHORS   Morris DJ, Latif SA, Hardy MP, Brem AS
+  TITLE     Endogenous inhibitors (GALFs) of 11beta-hydroxysteroid dehydrogenase isoforms 1 and 2: derivatives of adrenally produced corticosterone and cortisol.
+  JOURNAL   J Steroid Biochem Mol Biol 104:161-8 (2007)
+REFERENCE   PMID:17475203
+  AUTHORS   Sanai M, Endo S, Matsunaga T, Ishikura S, Tajima K, El-Kabbani O, Hara A
+  TITLE     Rat NAD+-dependent 3alpha-hydroxysteroid dehydrogenase (AKR1C17): a member of the aldo-keto reductase family highly expressed in kidney cytosol.
+  JOURNAL   Arch Biochem Biophys 464:122-9 (2007)
+REFERENCE   PMID:17926129
+  AUTHORS   Ghayee HK, Auchus RJ
+  TITLE     Basic concepts and recent developments in human steroid hormone biosynthesis.
+  JOURNAL   Rev Endocr Metab Disord 8:289-300 (2007)
+KO_PATHWAY  ko00140
+///

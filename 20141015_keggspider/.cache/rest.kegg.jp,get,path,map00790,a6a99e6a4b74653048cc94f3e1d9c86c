@@ -1,0 +1,38 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00790
+server: Apache
+date: Wed, 15 Oct 2014 14:57:43 GMT
+content-type: text/plain
+
+ENTRY       map00790                    Pathway
+NAME        Folate biosynthesis
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP map00790  Folate biosynthesis
+MODULE      M00126  Tetrahydrofolate biosynthesis, GTP => THF [PATH:map00790]
+DISEASE     H00167  Phenylketonuria (PKU)
+            H00213  Hypophosphatasia
+            H00831  Primary dystonia
+            H01197  Dihydrofolate reductase (DHFR) deficiency
+DBLINKS     GO: 0046656
+REFERENCE   
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REFERENCE   PMID:19675644
+  AUTHORS   Schwarz G, Mendel RR, Ribbe MW
+  TITLE     Molybdenum cofactors, enzymes and pathways.
+  JOURNAL   Nature 460:839-47 (2009)
+REFERENCE   PMID:16632608
+  AUTHORS   Hanzelmann P, Schindelin H
+  TITLE     Binding of 5'-GTP to the C-terminal FeS cluster of the radical S-adenosylmethionine enzyme MoaA provides insights into its mechanism.
+  JOURNAL   Proc Natl Acad Sci U S A 103:6829-34 (2006)
+REFERENCE   PMID:18092812
+  AUTHORS   Daniels JN, Wuebbens MM, Rajagopalan KV, Schindelin H
+  TITLE     Crystal structure of a molybdopterin synthase-precursor Z complex: insight into its sulfur transfer mechanism and its role in molybdenum cofactor deficiency.
+  JOURNAL   Biochemistry 47:615-26 (2008)
+REFERENCE   PMID:12571226
+  AUTHORS   Wuebbens MM, Rajagopalan KV
+  TITLE     Mechanistic and mutational studies of Escherichia coli molybdopterin synthase clarify the final step of molybdopterin biosynthesis.
+  JOURNAL   J Biol Chem 278:14523-32 (2003)
+KO_PATHWAY  ko00790
+///

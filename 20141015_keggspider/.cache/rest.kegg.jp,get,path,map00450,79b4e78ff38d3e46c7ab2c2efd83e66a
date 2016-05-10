@@ -1,0 +1,36 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00450
+server: Apache
+date: Wed, 15 Oct 2014 14:57:23 GMT
+content-type: text/plain
+
+ENTRY       map00450                    Pathway
+NAME        Selenocompound metabolism
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP map00450  Selenocompound metabolism
+DISEASE     H00183  Homocystinuria
+            H00184  Hypermethioninemia
+            H00761  SEMD, Pakistani type
+            H01285  Methylcobalamin deficiency type G (cblG)
+REFERENCE   PMID:21190829
+  AUTHORS   Hoefig CS, Renko K, Kohrle J, Birringer M, Schomburg L
+  TITLE     Comparison of different selenocompounds with respect to nutritional value vs. toxicity using liver cells in culture.
+  JOURNAL   J Nutr Biochem (2010)
+REFERENCE   PMID:19051051
+  AUTHORS   McKenzie MJ, Hunter DA, Pathirana R, Watson LM, Joyce NI, Matich AJ, Rowan DD, Brummell DA
+  TITLE     Accumulation of an organic anticancer selenium compound in a transgenic Solanaceous species shows wider applicability of the selenocysteine methyltransferase transgene from selenium hyperaccumulators.
+  JOURNAL   Transgenic Res 18:407-24 (2009)
+REFERENCE   PMID:20383543
+  AUTHORS   Pinto JT, Lee JI, Sinha R, MacEwan ME, Cooper AJ
+  TITLE     Chemopreventive mechanisms of alpha-keto acid metabolites of naturally occurring  organoselenium compounds.
+  JOURNAL   Amino Acids 41:29-41 (2011)
+REFERENCE   PMID:17451884
+  AUTHORS   Suzuki KT, Kurasaki K, Suzuki N
+  TITLE     Selenocysteine beta-lyase and methylselenol demethylase in the metabolism of Se-methylated selenocompounds into selenide.
+  JOURNAL   Biochim Biophys Acta 1770:1053-61 (2007)
+REFERENCE   PMID:11782468
+  AUTHORS   Gromer S, Gross JH
+  TITLE     Methylseleninate is a substrate rather than an inhibitor of mammalian thioredoxin reductase. Implications for the antitumor effects of selenium.
+  JOURNAL   J Biol Chem 277:9701-6 (2002)
+KO_PATHWAY  ko00450
+///

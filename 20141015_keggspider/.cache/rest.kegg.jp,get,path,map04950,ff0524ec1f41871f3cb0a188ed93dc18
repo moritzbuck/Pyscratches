@@ -1,0 +1,34 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04950
+server: Apache
+date: Wed, 15 Oct 2014 14:58:49 GMT
+content-type: text/plain
+
+ENTRY       map04950                    Pathway
+NAME        Maturity onset diabetes of the young
+DESCRIPTION About 2-5% of type II diabetic patients suffer from a monogenic disease with autosomal dominant inheritance. This monogenic form of type II diabetes is called maturity onset diabetes of the young (MODY).
+            We now know that MODY is caused by heterozygous mutations in at least five genes encoding transcription factors: HNF4alpha (MODY1), HNF1alpha (MODY3), PDX1 (MODY4), HNF1beta (MODY5) and NEUROD1 (MODY6). MODY2, which is so far the only subtype not related to a transcription factor, is caused by mutations in the glucokinase gene. Mutations of MODY transcription factor genes lead to abnormal expression of genes involved in pancreatic islet development and metabolism.
+CLASS       Human Diseases; Endocrine and metabolic diseases
+PATHWAY_MAP map04950  Maturity onset diabetes of the young
+DISEASE     H00409  Type II diabetes mellitus
+            H00410  Maturity onset diabetes of the young (MODY)
+            H00512  Permanent neonatal diabetes mellitus (PNDM)
+            H00861  Pancreatic agenesis
+REFERENCE   PMID:15298336
+  AUTHORS   Servitja JM, Ferrer J.
+  TITLE     Transcriptional networks controlling pancreatic development and beta cell function.
+  JOURNAL   Diabetologia 47:597-613 (2004)
+REFERENCE   PMID:15604203
+  AUTHORS   Habener JF, Kemp DM, Thomas MK.
+  TITLE     Minireview: transcriptional regulation in pancreatic development.
+  JOURNAL   Endocrinology 146:1025-34 (2005)
+REFERENCE   PMID:15028942
+  AUTHORS   Ashizawa S, Brunicardi FC, Wang XP.
+  TITLE     PDX-1 and the pancreas.
+  JOURNAL   Pancreas 28:109-20 (2004)
+REFERENCE   PMID:14614204
+  AUTHORS   Yamagata K.
+  TITLE     Regulation of pancreatic beta-cell function by the HNF transcription network: lessons from maturity-onset diabetes of the young (MODY).
+  JOURNAL   Endocr J 50:491-9 (2003)
+KO_PATHWAY  ko04950
+///

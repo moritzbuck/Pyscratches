@@ -1,0 +1,68 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07024
+server: Apache
+date: Wed, 15 Oct 2014 14:59:21 GMT
+content-type: text/plain
+
+ENTRY       map07024          Drug      Pathway
+NAME        HMG-CoA reductase inhibitors
+DESCRIPTION HMG-CoA reductase inhibitors, also known as statins, are a class of cholesterol lowering drugs that target HMG-CoA reductase in the mevalonate pathway. In 1971 Akira Endo and his team working for the Japanese pharmaceutical company Sankyo started a project to search for microbial metabolites that would inhibit HMG-CoA reductase, the rate-limiting enzyme in the cholesterol biosynthesis, hoping that certain microorganisms would produce such inhibitors as a weapon against other microbes. After screening 6,000 microbial strains mevastatin was discovered from Penicillium citrinum, but the clinical trial of mevastatin was not completed because of its toxicity. The first successful statin was lovastatin isolated from Aspergillus terreus by Merck, which had repeated Sankyo's approach to microbial screening. Following the first generation statins that are based on natural products, the second and the third generation statins were developed using chemical synthesis.
+PATHWAY_MAP map07024  HMG-CoA reductase inhibitors
+COMPOUND    C00356  (S)-3-Hydroxy-3-methylglutaryl-CoA
+            C13334  Pitavastatin
+            C13963  Mevastatin
+            D00359  Lovastatin (USP/INN)
+            D00434  Simvastatin (JP16/USP/INN)
+            D00887  Atorvastatin calcium (USAN)
+            D00889  Cerivastatin sodium (JAN/USAN)
+            D00892  Fluvastatin sodium (JAN/USAN)
+            D00893  Pravastatin sodium (JP16/USAN)
+            D01862  Pitavastatin calcium (JAN)
+            D01915  Rosuvastatin calcium (JAN/USAN)
+            D02258  Atorvastatin calcium hydrate (JP16)
+            D07474  Atorvastatin (INN)
+            D07661  Cerivastatin (INN)
+            D07983  Fluvastatin (INN)
+            D08410  Pravastatin (INN)
+            D08492  Rosuvastatin (INN)
+REFERENCE   (Japanese)
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   (Japanese)
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   (Japanese)
+  AUTHORS   Noguchi S, Hibino S (eds).
+  TITLE     [Medicinal Chemistry: Bridge Between Biology (3rd ed)] (In Japanese)
+  JOURNAL   Hirokawa (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Teramoto T (ed).
+  TITLE     [Statins Q & A] (In Japanese)
+  JOURNAL   Iyaku journal (2001)
+REFERENCE   (Japanese)
+  AUTHORS   Takamisawa I, Shiba M.
+  TITLE     [Structure, activity and metabolism of statins.] (In Japanese)
+  JOURNAL   Chiryogaku 36(5):35-40 (2002)
+REFERENCE   PMID:9892578
+  AUTHORS   Furberg CD
+  TITLE     Natural statins and stroke risk.
+  JOURNAL   Circulation 99:185-8 (1999)
+REFERENCE   PMID:12530513
+  AUTHORS   Veillard NR, Mach F.
+  TITLE     Statins: the new aspirin?
+  JOURNAL   Cell Mol Life Sci 59:1771-86 (2002)
+REFERENCE   PMID:15531278
+  AUTHORS   Endo A.
+  TITLE     The discovery and development of HMG-CoA reductase inhibitors. 1992.
+  JOURNAL   Atheroscler Suppl 5:67-80 (2004)
+///

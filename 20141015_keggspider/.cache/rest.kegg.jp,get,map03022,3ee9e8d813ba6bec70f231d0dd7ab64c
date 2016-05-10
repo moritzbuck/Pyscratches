@@ -1,0 +1,29 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map03022
+server: Apache
+date: Wed, 15 Oct 2014 15:08:29 GMT
+content-type: text/plain
+
+ENTRY       map03022                    Pathway
+NAME        Basal transcription factors
+CLASS       Genetic Information Processing; Transcription
+PATHWAY_MAP map03022  Basal transcription factors
+DBLINKS     GO: 0005668 0005669 0005672 0005673 0005674 0005675
+REFERENCE   PMID:16858867
+  AUTHORS   Thomas MC, Chiang CM
+  TITLE     The general transcription machinery and general cofactors.
+  JOURNAL   Crit Rev Biochem Mol Biol 41:105-78 (2006)
+REFERENCE   PMID:12516863
+  AUTHORS   Martinez E
+  TITLE     Multi-protein complexes in eukaryotic gene transcription.
+  JOURNAL   Plant Mol Biol 50:925-47 (2002)
+REFERENCE   PMID:19308322
+  AUTHORS   Cler E, Papai G, Schultz P, Davidson I
+  TITLE     Recent advances in understanding the structure and function of general transcription factor TFIID.
+  JOURNAL   Cell Mol Life Sci 66:2123-34 (2009)
+REFERENCE   PMID:10838567
+  AUTHORS   Malik S, Roeder RG.
+  TITLE     Transcriptional regulation through Mediator-like coactivators in yeast and metazoan cells.
+  JOURNAL   Trends Biochem Sci 25:277-283 (2000)
+KO_PATHWAY  ko03022
+///

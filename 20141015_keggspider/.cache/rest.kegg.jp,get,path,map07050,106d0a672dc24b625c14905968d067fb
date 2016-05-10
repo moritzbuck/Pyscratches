@@ -1,0 +1,39 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07050
+server: Apache
+date: Wed, 15 Oct 2014 14:59:29 GMT
+content-type: text/plain
+
+ENTRY       map07050          Drug      Pathway
+NAME        Antirheumatics - DMARDs and biological agents
+PATHWAY_MAP map07050  Antirheumatics - DMARDs and biological agents
+COMPOUND    D00107  Tacrolimus hydrate (JP16)
+            D00142  Methotrexate (JP16/USP/INN)
+            D00237  Auranofin (JP16/USAN/INN)
+            D00238  Azathioprine (JP16/USP/INN)
+            D00287  Cyclophosphamide hydrate (JP16)
+            D00448  Salazosulfapyridine (JP16)
+            D00496  Penicillamine (JAN/USP/INN)
+            D00742  Etanercept (genetical recombination) (JAN)
+            D00749  Leflunomide (JAN/USAN/INN)
+            D00992  Sodium aurothiomalate (JP16)
+            D01146  Iguratimod (JAN/INN)
+            D01392  Mizoribine (JP16/INN)
+            D01395  Actarit (JAN/INN)
+            D01808  Lobenzarit sodium (JP16/USAN)
+            D01809  Bucillamine (JP16/INN)
+            D02115  Methotrexate sodium
+            D02596  Tocilizumab (genetical recombination) (JAN)
+            D02597  Adalimumab (genetical recombination) (JAN)
+            D02598  Infliximab (genetical recombination) (JAN)
+            D03033  Azathioprine sodium (USP)
+            D03203  Abatacept (genetical recombination) (JAN)
+            D03441  Certolizumab pegol (genetical recombination) (JAN)
+            D04358  Golimumab (genetical recombination) (JAN)
+            D07760  Cyclophosphamide (INN)
+            D08330  Penicillamine hydrochloride
+            D08556  Tacrolimus (INN)
+            D09314  Ofatumumab (genetical recombination) (JAN)
+            D09783  Tofacitinib citrate (JAN/USAN)
+            D09967  Secukinumab (genetical recombination) (JAN)
+///

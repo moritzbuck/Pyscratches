@@ -1,0 +1,85 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07043
+server: Apache
+date: Wed, 15 Oct 2014 14:59:27 GMT
+content-type: text/plain
+
+ENTRY       map07043          Drug      Pathway
+NAME        Antineoplastics - hormones
+PATHWAY_MAP map07043  Antineoplastics - hormones
+COMPOUND    D00292  Dexamethasone (JP16/USP/INN)
+            D00327  Fluoxymesterone (JP16/USP/INN)
+            D00472  Prednisolone (JP16/USP/INN)
+            D00473  Prednisone (USP)
+            D00573  Goserelin acetate (JAN/USP)
+            D00574  Aminoglutethimide (USP/INN)
+            D00586  Flutamide (JP16/USP/INN)
+            D00946  Fosfestrol (JAN/INN)
+            D00951  Medroxyprogesterone acetate (JAN/USP)
+            D00952  Megestrol acetate (USAN)
+            D00960  Anastrozole (JAN/USAN/INN)
+            D00961  Bicalutamide (JAN/USP/INN)
+            D00963  Exemestane (JAN/USP/INN)
+            D00964  Letrozole (JAN/USP/INN)
+            D00965  Nilutamide (USAN/INN)
+            D00966  Tamoxifen citrate (JP16/USP)
+            D00967  Toremifene citrate (JAN/USAN)
+            D00989  Leuprorelin acetate (JP16)
+            D01010  Levothyroxine sodium hydrate (JP16)
+            D01011  Liothyronine sodium (JP16/USAN)
+            D01161  Fulvestrant (JAN/USAN/INN)
+            D01265  Epitiostanol (JAN/INN)
+            D01299  Chlormadinone acetate (JP16/USAN)
+            D01602  Mepitiostane (JP16/INN)
+            D02217  Raloxifene hydrochloride (JAN/USP)
+            D02398  Estramustine phosphate sodium (USAN)
+            D02451  Fadrozole hydrochloride (USAN)
+            D03778  Fadrozole hydrochloride hydrate (JAN)
+            D04066  Estramustine (USAN/INN)
+            D04405  Goserelin (USAN/INN)
+            D06397  Estramustine phosphate sodium hydrate (JAN)
+            D07940  Fadrozole (INN)
+            D08113  Leuprorelin (INN)
+            D08125  Levothyroxine (BAN)
+            D08128  Liothyronine (INN)
+            D08129  Liothyronine hydrochloride
+            D08465  Raloxifene (INN)
+            D08559  Tamoxifen (INN)
+            D08620  Toremifene (INN)
+REFERENCE   
+  AUTHORS   Katori S.
+  TITLE     [Standard Pharmacology (6th ed)] (In Japanese)
+  JOURNAL   Igaku shoin
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   Noguchi S, Hibino S (eds).
+  TITLE     [Medicinal Chemistry: Bridge Between Biology (3rd ed)] (In Japanese)
+  JOURNAL   Hirokawa (2002)
+REFERENCE   
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   PMID:17504144
+  AUTHORS   Musa MA, Khan MO, Cooperwood JS.
+  TITLE     Medicinal chemistry and emerging strategies applied to the development of selective estrogen receptor modulators (SERMs).
+  JOURNAL   Curr Med Chem 14:1249-61 (2007)
+REFERENCE   PMID:12404296
+  AUTHORS   Buzdar AU, Robertson JF, Eiermann W, Nabholtz JM.
+  TITLE     An overview of the pharmacology and pharmacokinetics of the newer generation aromatase inhibitors anastrozole, letrozole, and exemestane.
+  JOURNAL   Cancer 95:2006-16 (2002)
+///

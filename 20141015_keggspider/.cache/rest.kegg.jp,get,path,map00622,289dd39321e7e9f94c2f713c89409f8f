@@ -1,0 +1,39 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00622
+server: Apache
+date: Wed, 15 Oct 2014 14:57:35 GMT
+content-type: text/plain
+
+ENTRY       map00622                    Pathway
+NAME        Xylene degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00622  Xylene degradation
+MODULE      M00419  Cymene degradation, p-cymene => p-cumate [PATH:map00622]
+            M00537  Xylene degradation, xylene => methylbenzoate [PATH:map00622]
+            M00539  Cumate degradation, p-cumate => 2-oxopent-4-enoate + 2-methylpropanoate [PATH:map00622]
+            M00551  Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol [PATH:map00622]
+            M00569  Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA [PATH:map00622]
+DBLINKS     GO: 0042184
+            UMBBD: mxy oxy pxy pcy tol
+REFERENCE   PMID:11375157
+  AUTHORS   Haddad S, Eby DM, Neidle EL.
+  TITLE     Cloning and expression of the benzoate dioxygenase genes from Rhodococcus sp. strain 19070.
+  JOURNAL   Appl Environ Microbiol 67:2507-14 (2001)
+REFERENCE   PMID:7768806
+  AUTHORS   Kim E, Zylstra GJ
+  TITLE     Molecular and biochemical characterization of two meta-cleavage dioxygenases involved in biphenyl and m-xylene degradation by Beijerinckia sp. strain B1.
+  JOURNAL   J Bacteriol 177:3095-103 (1995)
+REFERENCE   PMID:15127183
+  AUTHORS   Morasch B, Schink B, Tebbe CC, Meckenstock RU
+  TITLE     Degradation of o-xylene and m-xylene by a novel sulfate-reducer belonging to the  genus Desulfotomaculum.
+  JOURNAL   Arch Microbiol 181:407-17 (2004)
+REFERENCE   PMID:9150211
+  AUTHORS   Eaton RW.
+  TITLE     p-Cymene catabolic pathway in Pseudomonas putida F1: cloning and characterization of DNA encoding conversion of p-cymene to p-cumate.
+  JOURNAL   J Bacteriol 179:3171-80 (1997)
+REFERENCE   PMID:8631713
+  AUTHORS   Eaton RW.
+  TITLE     p-Cumate catabolic pathway in Pseudomonas putida Fl: cloning and characterization of DNA carrying the cmt operon.
+  JOURNAL   J Bacteriol 178:1351-62 (1996)
+KO_PATHWAY  ko00622
+///

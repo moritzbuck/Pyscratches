@@ -1,0 +1,41 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00830
+server: Apache
+date: Wed, 15 Oct 2014 15:08:07 GMT
+content-type: text/plain
+
+ENTRY       map00830                    Pathway
+NAME        Retinol metabolism
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP map00830  Retinol metabolism
+DISEASE     H00527  Retinitis pigmentosa (RP)
+            H00825  Familial flecked retina syndrome
+            H00837  Leber congenital amaurosis (LCR)
+            H01266  Hypercarotenemia and vitamin A deficiency
+DBLINKS     GO: 0006776
+REFERENCE   PMID:16968212
+  AUTHORS   Travis GH, Golczak M, Moise AR, Palczewski K.
+  TITLE     Diseases caused by defects in the visual cycle: retinoids as potential therapeutic agents.
+  JOURNAL   Annu Rev Pharmacol Toxicol 47:469-512 (2007)
+REFERENCE   PMID:17618621
+  AUTHORS   Muniz A, Villazana-Espinoza ET, Hatch AL, Trevino SG, Allen DM, Tsin AT.
+  TITLE     A novel cone visual cycle in the cone-dominated retina.
+  JOURNAL   Exp Eye Res 85:175-84 (2007)
+REFERENCE   PMID:11093772
+  AUTHORS   Marill J, Cresteil T, Lanotte M, Chabot GG.
+  TITLE     Identification of human cytochrome P450s involved in the formation of all-trans-retinoic acid principal metabolites.
+  JOURNAL   Mol Pharmacol 58:1341-8 (2000)
+REFERENCE   PMID:17893666
+  AUTHORS   Nezzar H, Chiambaretta F, Marceau G, Blanchon L, Faye B, Dechelotte P, Rigal D, Sapin V.
+  TITLE     Molecular and metabolic retinoid pathways in the human ocular surface.
+  JOURNAL   Mol Vis 13:1641-50 (2007)
+REFERENCE   PMID:16688755
+  AUTHORS   Blomhoff R, Blomhoff HK.
+  TITLE     Overview of retinoid metabolism and function.
+  JOURNAL   J Neurobiol 66:606-30 (2006)
+REFERENCE   PMID:16428379
+  AUTHORS   Liden M, Eriksson U.
+  TITLE     Understanding retinol metabolism: structure and function of retinol dehydrogenases.
+  JOURNAL   J Biol Chem 281:13001-4 (2006)
+KO_PATHWAY  ko00830
+///

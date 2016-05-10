@@ -1,0 +1,48 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00523
+server: Apache
+date: Wed, 15 Oct 2014 15:07:51 GMT
+content-type: text/plain
+
+ENTRY       map00523                    Pathway
+NAME        Polyketide sugar unit biosynthesis
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00523  Polyketide sugar unit biosynthesis
+REFERENCE   PMID:11336289
+  AUTHORS   Rawlings BJ.
+  TITLE     Type I polyketide biosynthesis in bacteria (Part A--erythromycin biosynthesis).
+  JOURNAL   Nat Prod Rep 18:190-227 (2001)
+REFERENCE   PMID:11476481
+  AUTHORS   Rawlings BJ.
+  TITLE     Type I polyketide biosynthesis in bacteria (part B).
+  JOURNAL   Nat Prod Rep 18:231-81 (2001)
+REFERENCE   PMID:11451669
+  AUTHORS   Wohlert S, Lomovskaya N, Kulowski K, Fonstein L, Occi JL, Gewain KM, MacNeil DJ, Hutchinson CR
+  TITLE     Insights about the biosynthesis of the avermectin deoxysugar L-oleandrose through heterologous expression of Streptomyces avermitilis deoxysugar genes in Streptomyces lividans.
+  JOURNAL   Chem Biol 8:681-700 (2001)
+REFERENCE   PMID:10770761
+  AUTHORS   Aguirrezabalaga I, Olano C, Allende N, Rodriguez L, Brana AF, Mendez C, Salas JA
+  TITLE     Identification and expression of genes involved in biosynthesis of L-oleandrose and its intermediate L-olivose in the oleandomycin producer Streptomyces antibioticus.
+  JOURNAL   Antimicrob Agents Chemother 44:1266-75 (2000)
+REFERENCE   PMID:10658660
+  AUTHORS   Bate N, Butler AR, Smith IP, Cundliffe E
+  TITLE     The mycarose-biosynthetic genes of Streptomyces fradiae, producer of tylosin.
+  JOURNAL   Microbiology 146 ( Pt 1):139-46 (2000)
+REFERENCE   PMID:11553351
+  AUTHORS   Amann S, Drager G, Rupprath C, Kirschning A, Elling L
+  TITLE     (Chemo)enzymatic synthesis of dTDP-activated 2,6-dideoxysugars as building blocks of polyketide antibiotics.
+  JOURNAL   Carbohydr Res 335:23-32 (2001)
+REFERENCE   PMID:17460661
+  AUTHORS   Thibodeaux CJ, Melancon CE, Liu HW
+  TITLE     Unusual sugar biosynthesis and natural product glycodiversification.
+  JOURNAL   Nature 446:1008-16 (2007)
+REFERENCE   PMID:10972798
+  AUTHORS   Volchegursky Y, Hu Z, Katz L, McDaniel R
+  TITLE     Biosynthesis of the anti-parasitic agent megalomicin: transformation of erythromycin to megalomicin in Saccharopolyspora erythraea.
+  JOURNAL   Mol Microbiol 37:752-62 (2000)
+REFERENCE   (PMID:15609849 (Article in Russian))
+  AUTHORS   Mironov VA, Sergienko OV, Nastasiak IN, Danilenko VN.
+  TITLE     Biogenesis and regulation of biosynthesis of erythromycins in Saccharopolyspora.
+  JOURNAL   Applied Biochemistry and Microbiology 40(6): 531-541 (2004)
+KO_PATHWAY  ko00523
+///

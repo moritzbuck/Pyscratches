@@ -1,0 +1,51 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04940
+server: Apache
+date: Wed, 15 Oct 2014 15:09:10 GMT
+content-type: text/plain
+
+ENTRY       map04940                    Pathway
+NAME        Type I diabetes mellitus
+DESCRIPTION Type I diabetes mellitus is a disease that results from autoimmune destruction of the insulin-producing beta-cells. Certain beta-cell proteins act as autoantigens after being processed by antigen-presenting cell (APC), such as macrophages and dendritic cells, and presented in a complex with MHC-II molecules on the surface of the APC. Then immunogenic signals from APC activate CD4+ T cells, predominantly of the Th1 subset. Antigen-activated Th1 cells produce IL-2 and IFNgamma. They activate macrophages and cytotoxic CD8+ T cells, and these effector cells may kill islet beta-cells by one or both of two types of mechanisms: (1) direct interactions of antigen-specific cytotoxic T cells with a beta-cell autoantigen-MHC-I complex on the beta-cell, and (2) non-specific inflammatory mediators, such as free radicals/oxidants and cytokines (IL-1, TNFalpha, TNFbeta, IFNgamma).
+            Type I diabetes is a polygenic disease. One of the principle determining genetic factors in diabetes incidence is the inheritance of mutant MHC-II alleles. Another plausible candidate gene is the insulin gene.
+CLASS       Human Diseases; Endocrine and metabolic diseases
+PATHWAY_MAP map04940  Type I diabetes mellitus
+DISEASE     H00408  Type I diabetes mellitus
+REFERENCE   PMID:9719467
+  AUTHORS   Rabinovitch A, Suarez-Pinzon WL.
+  TITLE     Cytokines and their roles in pancreatic islet beta-cell destruction and insulin-dependent diabetes mellitus.
+  JOURNAL   Biochem Pharmacol 55:1139-49 (1998)
+REFERENCE   PMID:11507694
+  AUTHORS   Cox NJ, Wapelhorst B, Morrison VA, Johnson L, Pinchuk L, Spielman RS, Todd JA, Concannon P
+  TITLE     Seven regions of the genome show evidence of linkage to type 1 diabetes in a consensus analysis of 767 multiplex families.
+  JOURNAL   Am J Hum Genet 69:820-30 (2001)
+REFERENCE   PMID:8072542
+  AUTHORS   Davies JL, Kawaguchi Y, Bennett ST, Copeman JB, Cordell HJ, Pritchard LE, Reed PW, Gough SC, Jenkins SC, Palmer SM, et al.
+  TITLE     A genome-wide search for human type 1 diabetes susceptibility genes.
+  JOURNAL   Nature 371:130-6 (1994)
+REFERENCE   PMID:8786033
+  AUTHORS   Fujisawa T, Ikegami H, Kawaguchi Y, Yamato E, Takekawa K, Nakagawa Y, Hamada Y, Ueda H, Shima K, Ogihara T.
+  TITLE     Class I HLA is associated with age-at-onset of IDDM, while class II HLA confers susceptibility to IDDM.
+  JOURNAL   Diabetologia 38:1493-5 (1995)
+REFERENCE   PMID:12796471
+  AUTHORS   Jaeckel E, Klein L, Martin-Orozco N, von Boehmer H.
+  TITLE     Normal incidence of diabetes in NOD mice tolerant to glutamic acid decarboxylase.
+  JOURNAL   J Exp Med 197:1635-44 (2003)
+REFERENCE   PMID:15889095
+  AUTHORS   Nakayama M, Abiru N, Moriyama H, Babaya N, Liu E, Miao D, Yu L, Wegmann DR, Hutton JC, Elliott JF, Eisenbarth GS.
+  TITLE     Prime role for an insulin epitope in the development of type 1 diabetes in NOD mice.
+  JOURNAL   Nature 435:220-3 (2005)
+REFERENCE   PMID:15889096
+  AUTHORS   Kent SC, Chen Y, Bregoli L, Clemmings SM, Kenyon NS, Ricordi C, Hering BJ, Hafler DA.
+  TITLE     Expanded T cells from pancreatic lymph nodes of type 1 diabetic subjects recognize an insulin epitope.
+  JOURNAL   Nature 435:224-8 (2005)
+REFERENCE   PMID:14617043
+  AUTHORS   Lieberman SM, DiLorenzo TP.
+  TITLE     A comprehensive guide to antibody and T-cell responses in type 1 diabetes.
+  JOURNAL   Tissue Antigens 62:359-77 (2003)
+REFERENCE   PMID:12752668
+  AUTHORS   Lord SJ, Rajotte RV, Korbutt GS, Bleackley RC.
+  TITLE     Granzyme B: a natural born killer.
+  JOURNAL   Immunol Rev 193:31-8 (2003)
+KO_PATHWAY  ko04940
+///

@@ -1,0 +1,73 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04066
+server: Apache
+date: Wed, 15 Oct 2014 15:08:38 GMT
+content-type: text/plain
+
+ENTRY       map04066                    Pathway
+NAME        HIF-1 signaling pathway
+DESCRIPTION Hypoxia-inducible factor 1 (HIF-1) is a transcription factor that functions as a master regulator of oxygen homeostasis. It consists of two subunits: an inducibly-expressed HIF-1alpha subunit and a constitutively-expressed HIF-1beta subunit. Under normoxia, HIF-1 alpha undergoes hydroxylation at specific prolyl residues which leads to an immediate ubiquitination and subsequent proteasomal degradation of the subunit. In contrast, under hypoxia, HIF-1 alpha subunit becomes stable and interacts with coactivators such as p300/CBP to modulate its transcriptional activity. Eventually, HIF-1 acts as a master regulator of numerous hypoxia-inducible genes under hypoxic conditions. The target genes of HIF-1 encode proteins that increase O2 delivery and mediate adaptive responses to O2 deprivation. Despite its name, HIF-1 is induced not only in response to reduced oxygen availability but also by other stimulants, such as nitric oxide, or various growth factors.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04066  HIF-1 signaling pathway
+REFERENCE   PMID:20836033
+  AUTHORS   Semenza GL
+  TITLE     Oxygen homeostasis.
+  JOURNAL   Wiley Interdiscip Rev Syst Biol Med 2:336-61 (2010)
+REFERENCE   PMID:17955264
+  AUTHORS   Mole DR, Ratcliffe PJ
+  TITLE     Cellular oxygen sensing in health and disease.
+  JOURNAL   Pediatr Nephrol 23:681-94 (2008)
+REFERENCE   PMID:22205687
+  AUTHORS   Palazon A, Aragones J, Morales-Kastresana A, de Landazuri MO, Melero I
+  TITLE     Molecular pathways: hypoxia response in immune cells fighting or promoting cancer.
+  JOURNAL   Clin Cancer Res 18:1207-13 (2012)
+REFERENCE   PMID:20965423
+  AUTHORS   Majmundar AJ, Wong WJ, Simon MC
+  TITLE     Hypoxia-inducible factors and the response to hypoxic stress.
+  JOURNAL   Mol Cell 40:294-309 (2010)
+REFERENCE   PMID:22562152
+  AUTHORS   Greer SN, Metcalf JL, Wang Y, Ohh M
+  TITLE     The updated biology of hypoxia-inducible factor.
+  JOURNAL   EMBO J 31:2448-60 (2012)
+REFERENCE   PMID:15448722
+  AUTHORS   Zagorska A, Dulak J
+  TITLE     HIF-1: the knowns and unknowns of hypoxia sensing.
+  JOURNAL   Acta Biochim Pol 51:563-85 (2004)
+REFERENCE   PMID:19364912
+  AUTHORS   Semenza GL
+  TITLE     Regulation of oxygen homeostasis by hypoxia-inducible factor 1.
+  JOURNAL   Physiology (Bethesda) 24:97-106 (2009)
+REFERENCE   PMID:16234508
+  AUTHORS   Wenger RH, Stiehl DP, Camenisch G
+  TITLE     Integration of oxygen signaling at the consensus HRE.
+  JOURNAL   Sci STKE 2005:re12 (2005)
+REFERENCE   PMID:15031665
+  AUTHORS   Lee JW, Bae SH, Jeong JW, Kim SH, Kim KW
+  TITLE     Hypoxia-inducible factor (HIF-1)alpha: its protein stability and biological functions.
+  JOURNAL   Exp Mol Med 36:1-12 (2004)
+REFERENCE   PMID:18259201
+  AUTHORS   Weidemann A, Johnson RS
+  TITLE     Biology of HIF-1alpha.
+  JOURNAL   Cell Death Differ 15:621-7 (2008)
+REFERENCE   PMID:11902584
+  AUTHORS   Harris AL
+  TITLE     Hypoxia--a key regulatory factor in tumour growth.
+  JOURNAL   Nat Rev Cancer 2:38-47 (2002)
+REFERENCE   PMID:19147540
+  AUTHORS   Knaup KX, Jozefowski K, Schmidt R, Bernhardt WM, Weidemann A, Juergensen JS, Warnecke C, Eckardt KU, Wiesener MS
+  TITLE     Mutual regulation of hypoxia-inducible factor and mammalian target of rapamycin as a function of oxygen availability.
+  JOURNAL   Mol Cancer Res 7:88-98 (2009)
+REFERENCE   PMID:18505681
+  AUTHORS   Kaluz S, Kaluzova M, Stanbridge EJ
+  TITLE     Regulation of gene expression by hypoxia: integration of the HIF-transduced hypoxic signal at the hypoxia-responsive element.
+  JOURNAL   Clin Chim Acta 395:6-13 (2008)
+REFERENCE   PMID:20679415
+  AUTHORS   Cadenas S, Aragones J, Landazuri MO
+  TITLE     Mitochondrial reprogramming through cardiac oxygen sensors in ischaemic heart disease.
+  JOURNAL   Cardiovasc Res 88:219-28 (2010)
+REFERENCE   PMID:19861159
+  AUTHORS   Berchner-Pfannschmidt U, Tug S, Kirsch M, Fandrey J
+  TITLE     Oxygen-sensing under the influence of nitric oxide.
+  JOURNAL   Cell Signal 22:349-56 (2010)
+KO_PATHWAY  ko04066
+///

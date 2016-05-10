@@ -1,0 +1,21 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00904
+server: Apache
+date: Wed, 15 Oct 2014 15:08:09 GMT
+content-type: text/plain
+
+ENTRY       map00904                    Pathway
+NAME        Diterpenoid biosynthesis
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00904  Diterpenoid biosynthesis
+DBLINKS     GO: 0016102
+REFERENCE   PMID:16137660
+  AUTHORS   Long RM, Croteau R.
+  TITLE     Preliminary assessment of the C13-side chain 2'-hydroxylase involved in taxol biosynthesis.
+  JOURNAL   Biochem Biophys Res Commun 338:410-7 (2005)
+REFERENCE   PMID:12089320
+  AUTHORS   Walker K, Long R, Croteau R.
+  TITLE     The final acylation step in taxol biosynthesis: cloning of the taxoid C13-side-chain N-benzoyltransferase from Taxus.
+  JOURNAL   Proc Natl Acad Sci U S A 99:9166-71 (2002)
+KO_PATHWAY  ko00904
+///

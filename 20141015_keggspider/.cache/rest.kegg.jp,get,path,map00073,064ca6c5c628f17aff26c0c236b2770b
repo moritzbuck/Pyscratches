@@ -1,0 +1,42 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00073
+server: Apache
+date: Wed, 15 Oct 2014 14:57:08 GMT
+content-type: text/plain
+
+ENTRY       map00073                    Pathway
+NAME        Cutin, suberine and wax biosynthesis
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00073  Cutin, suberine and wax biosynthesis
+DISEASE     H00184  Hypermethioninemia
+DBLINKS     GO: 0010143 0010345 0010025
+REFERENCE   PMID:18621978
+  AUTHORS   Li F, Wu X, Lam P, Bird D, Zheng H, Samuels L, Jetter R, Kunst L
+  TITLE     Identification of the wax ester synthase/acyl-coenzyme A: diacylglycerol acyltransferase WSD1 required for stem wax ester biosynthesis in Arabidopsis.
+  JOURNAL   Plant Physiol 148:97-107 (2008)
+REFERENCE   PMID:16866954
+  AUTHORS   Shepherd T, Wynne Griffiths D
+  TITLE     The effects of stress on plant cuticular waxes.
+  JOURNAL   New Phytol 171:469-99 (2006)
+REFERENCE   PMID:19649180
+  AUTHORS   Raffaele S, Leger A, Roby D
+  TITLE     Very long chain fatty acid and lipid signaling in the response of plants to pathogens.
+  JOURNAL   Plant Signal Behav 4:94-9 (2009)
+REFERENCE   PMID:16404574
+  AUTHORS   Kurdyukov S, Faust A, Trenkamp S, Bar S, Franke R, Efremova N, Tietjen K, Schreiber L, Saedler H, Yephremov A
+  TITLE     Genetic and biochemical evidence for involvement of HOTHEAD in the biosynthesis of long-chain alpha-,omega-dicarboxylic fatty acids and formation of extracellular matrix.
+  JOURNAL   Planta 224:315-29 (2006)
+REFERENCE   PMID:17323080
+  AUTHORS   King A, Nam JW, Han J, Hilliard J, Jaworski JG
+  TITLE     Cuticular wax biosynthesis in petunia petals: cloning and characterization of an  alcohol-acyltransferase that synthesizes wax-esters.
+  JOURNAL   Planta 226:381-94 (2007)
+REFERENCE   PMID:18440267
+  AUTHORS   Pollard M, Beisson F, Li Y, Ohlrogge JB
+  TITLE     Building lipid barriers: biosynthesis of cutin and suberin.
+  JOURNAL   Trends Plant Sci 13:236-46 (2008)
+REFERENCE   PMID:19344744
+  AUTHORS   Li Y, Beisson F
+  TITLE     The biosynthesis of cutin and suberin as an alternative source of enzymes for the production of bio-based chemicals and materials.
+  JOURNAL   Biochimie 91:685-91 (2009)
+KO_PATHWAY  ko00073
+///

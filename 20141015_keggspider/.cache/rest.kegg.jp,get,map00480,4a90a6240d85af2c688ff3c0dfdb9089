@@ -1,0 +1,115 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00480
+server: Apache
+date: Wed, 15 Oct 2014 15:07:47 GMT
+content-type: text/plain
+
+ENTRY       map00480                    Pathway
+NAME        Glutathione metabolism
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP map00480  Glutathione metabolism
+MODULE      M00118  Glutathione biosynthesis, glutamate => glutathione [PATH:map00480]
+DISEASE     H00597  Snyder-Robinson syndrome
+            H00668  Anemia due to disorders of glutathione metabolism
+            H01118  Progressive external ophthalmoplegia (PEO)
+            H01225  D-2-hydroxyglutaric aciduria (D-2-HGA)
+            H01375  Glucose 6-phosphate dehydrogenase deficiency
+DBLINKS     GO: 0006749
+REFERENCE   PMID:12675513
+  AUTHORS   Josch C, Klotz LO, Sies H.
+  TITLE     Identification of cytosolic leucyl aminopeptidase (EC 3.4.11.1) as the major cysteinylglycine-hydrolysing activity in rat liver.
+  JOURNAL   Biol Chem 384:213-8 (2003)
+REFERENCE   PMID:18482986
+  AUTHORS   Chu L, Lai Y, Xu X, Eddy S, Yang S, Song L, Kolodrubetz D.
+  TITLE     A 52-kDa leucyl aminopeptidase from treponema denticola is a cysteinylglycinase that mediates the second step of glutathione metabolism.
+  JOURNAL   J Biol Chem 283:19351-8 (2008)
+REFERENCE   PMID:14583094
+  AUTHORS   Cappiello M, Lazzarotti A, Buono F, Scaloni A, D'Ambrosio C, Amodeo P, Mendez BL, Pelosi P, Del Corso A, Mura U.
+  TITLE     New role for leucyl aminopeptidase in glutathione turnover.
+  JOURNAL   Biochem J 378:35-44 (2004)
+REFERENCE   PMID:11157967
+  AUTHORS   Suzuki H, Kamatani S, Kim ES, Kumagai H.
+  TITLE     Aminopeptidases A, B, and N and dipeptidase D are the four cysteinylglycinases of Escherichia coli K-12.
+  JOURNAL   J Bacteriol 183:1489-90 (2001)
+REFERENCE   PMID:15610825
+  AUTHORS   Oza SL, Shaw MP, Wyllie S, Fairlamb AH.
+  TITLE     Trypanothione biosynthesis in Leishmania major.
+  JOURNAL   Mol Biochem Parasitol 139:107-16 (2005)
+REFERENCE   PMID:12049631
+  AUTHORS   Oza SL, Ariyanayagam MR, Fairlamb AH.
+  TITLE     Characterization of recombinant glutathionylspermidine synthetase/amidase from Crithidia fasciculata.
+  JOURNAL   Biochem J 364:679-86 (2002)
+REFERENCE   PMID:9677355
+  AUTHORS   Tetaud E, Manai F, Barrett MP, Nadeau K, Walsh CT, Fairlamb AH.
+  TITLE     Cloning and characterization of the two enzymes responsible for trypanothione biosynthesis in Crithidia fasciculata.
+  JOURNAL   J Biol Chem 273:19383-90 (1998)
+REFERENCE   PMID:12750367
+  AUTHORS   Ariyanayagam MR, Oza SL, Mehlert A, Fairlamb AH.
+  TITLE     Bis(glutathionyl)spermine and other novel trypanothione analogues in Trypanosoma cruzi.
+  JOURNAL   J Biol Chem 278:27612-9 (2003)
+REFERENCE   PMID:12967709
+  AUTHORS   Oza SL, Ariyanayagam MR, Aitcheson N, Fairlamb AH.
+  TITLE     Properties of trypanothione synthetase from Trypanosoma brucei.
+  JOURNAL   Mol Biochem Parasitol 131:25-33 (2003)
+REFERENCE   PMID:12121990
+  AUTHORS   Oza SL, Tetaud E, Ariyanayagam MR, Warnon SS, Fairlamb AH.
+  TITLE     A single enzyme catalyses formation of Trypanothione from glutathione and spermidine in Trypanosoma cruzi.
+  JOURNAL   J Biol Chem 277:35853-61 (2002)
+REFERENCE   PMID:15537651
+  AUTHORS   Comini M, Menge U, Wissing J, Flohe L.
+  TITLE     Trypanothione synthesis in crithidia revisited.
+  JOURNAL   J Biol Chem 280:6850-60 (2005)
+REFERENCE   PMID:7813456
+  AUTHORS   Hunter KJ, Le Quesne SA, Fairlamb AH.
+  TITLE     Identification and biosynthesis of N1,N9-bis(glutathionyl)aminopropylcadaverine (homotrypanothione) in Trypanosoma cruzi.
+  JOURNAL   Eur J Biochem 226:1019-27 (1994)
+REFERENCE   PMID:12751784
+  AUTHORS   Krauth-Siegel RL, Meiering SK, Schmidt H.
+  TITLE     The parasite-specific trypanothione metabolism of trypanosoma and leishmania.
+  JOURNAL   Biol Chem 384:539-49 (2003)
+REFERENCE   PMID:18395526
+  AUTHORS   Krauth-Siegel RL, Comini MA.
+  TITLE     Redox control in trypanosomatids, parasitic protozoa with trypanothione-based thiol metabolism.
+  JOURNAL   Biochim Biophys Acta 1780:1236-48 (2008)
+REFERENCE   PMID:8892297
+  AUTHORS   Krauth-Siegel RL, Ludemann H.
+  TITLE     Reduction of dehydroascorbate by trypanothione.
+  JOURNAL   Mol Biochem Parasitol 80:203-8 (1996)
+REFERENCE   PMID:11150302
+  AUTHORS   Dormeyer M, Reckenfelderbaumer N, Ludemann H, Krauth-Siegel RL.
+  TITLE     Trypanothione-dependent synthesis of deoxyribonucleotides by Trypanosoma brucei ribonucleotide reductase.
+  JOURNAL   J Biol Chem 276:10602-6 (2001)
+REFERENCE   PMID:12949079
+  AUTHORS   Schmidt H, Krauth-Siegel RL.
+  TITLE     Functional and physicochemical characterization of the thioredoxin system in Trypanosoma brucei.
+  JOURNAL   J Biol Chem 278:46329-36 (2003)
+REFERENCE   PMID:9851611
+  AUTHORS   Tetaud E, Fairlamb AH.
+  TITLE     Cloning, expression and reconstitution of the trypanothione-dependent peroxidase system of Crithidia fasciculata.
+  JOURNAL   Mol Biochem Parasitol 96:111-23 (1998)
+REFERENCE   PMID:12446213
+  AUTHORS   Castro H, Sousa C, Santos M, Cordeiro-da-Silva A, Flohe L, Tomas AM.
+  TITLE     Complementary antioxidant defense by cytoplasmic and mitochondrial peroxiredoxins in Leishmania infantum.
+  JOURNAL   Free Radic Biol Med 33:1552-62 (2002)
+REFERENCE   PMID:10713147
+  AUTHORS   Wilkinson SR, Temperton NJ, Mondragon A, Kelly JM.
+  TITLE     Distinct mitochondrial and cytosolic enzymes mediate trypanothione-dependent peroxide metabolism in Trypanosoma cruzi.
+  JOURNAL   J Biol Chem 275:8220-5 (2000)
+REFERENCE   PMID:17922848
+  AUTHORS   Konig J, Fairlamb AH.
+  TITLE     A comparative study of type I and type II tryparedoxin peroxidases in Leishmania major.
+  JOURNAL   FEBS J 274:5643-58 (2007)
+REFERENCE   PMID:12466271
+  AUTHORS   Hillebrand H, Schmidt A, Krauth-Siegel RL.
+  TITLE     A second class of peroxidases linked to the trypanothione metabolism.
+  JOURNAL   J Biol Chem 278:6809-15 (2003)
+REFERENCE   PMID:14982633
+  AUTHORS   Soksawatmaekhin W, Kuraishi A, Sakata K, Kashiwagi K, Igarashi K.
+  TITLE     Excretion and uptake of cadaverine by CadB and its physiological functions in Escherichia coli.
+  JOURNAL   Mol Microbiol 51:1401-12 (2004)
+REFERENCE   PMID:6798961
+  AUTHORS   Pegg AE, Shuttleworth K, Hibasami H.
+  TITLE     Specificity of mammalian spermidine synthase and spermine synthase.
+  JOURNAL   Biochem J 197:315-20 (1981)
+KO_PATHWAY  ko00480
+///

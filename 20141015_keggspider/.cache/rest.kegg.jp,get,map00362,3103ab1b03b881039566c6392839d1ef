@@ -1,0 +1,73 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00362
+server: Apache
+date: Wed, 15 Oct 2014 15:07:41 GMT
+content-type: text/plain
+
+ENTRY       map00362                    Pathway
+NAME        Benzoate degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00362  Benzoate degradation
+MODULE      M00540  Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA [PATH:map00362]
+            M00541  Benzoyl-CoA degradation, benzoyl-CoA => 3-hydroxypimeloyl-CoA [PATH:map00362]
+            M00547  Benzene/toluene degradation, benzene => catechol / toluene => 3-methylcatechol [PATH:map00362]
+            M00548  Benzene degradation, benzene => catechol [PATH:map00362]
+            M00551  Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol [PATH:map00362]
+            M00568  Catechol ortho-cleavage, catechol => 3-oxoadipate [PATH:map00362]
+            M00569  Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA [PATH:map00362]
+DBLINKS     UMBBD: benz2 benz abs
+            GO: 0043639
+REFERENCE   PMID:19258534
+  AUTHORS   Carmona M, Zamarro MT, Blazquez B, Durante-Rodriguez G, Juarez JF, Valderrama JA, Barragan MJ, Garcia JL, Diaz E
+  TITLE     Anaerobic catabolism of aromatic compounds: a genetic and genomic view.
+  JOURNAL   Microbiol Mol Biol Rev 73:71-133 (2009)
+REFERENCE   PMID:12486039
+  AUTHORS   Hara H, Masai E, Miyauchi K, Katayama Y, Fukuda M.
+  TITLE     Characterization of the 4-carboxy-4-hydroxy-2-oxoadipate aldolase gene and operon structure of the protocatechuate 4,5-cleavage pathway genes in Sphingomonas paucimobilis SYK-6.
+  JOURNAL   J Bacteriol 185:41-50 (2003)
+REFERENCE   PMID:15277747
+  AUTHORS   Maruyama K, Shibayama T, Ichikawa A, Sakou Y, Yamada S, Sugisaki H.
+  TITLE     Cloning and characterization of the genes encoding enzymes for the protocatechuate meta-degradation pathway of Pseudomonas ochraceae NGJ1.
+  JOURNAL   Biosci Biotechnol Biochem 68:1434-41 (2004)
+REFERENCE   PMID:10589735
+  AUTHORS   Mampel J, Ruff J, Junker F, Cook AM.
+  TITLE     The oxygenase component of the 2-aminobenzenesulfonate dioxygenase system from Alcaligenes sp. strain O-1.
+  JOURNAL   Microbiology 145 ( Pt 11):3255-64 (1999)
+REFERENCE   PMID:8002948
+  AUTHORS   Junker F, Field JA, Bangerter F, Ramsteiner K, Kohler HP, Joannou CL, Mason JR, Leisinger T, Cook AM.
+  TITLE     Oxygenation and spontaneous deamination of 2-aminobenzenesulphonic acid in Alcaligenes sp. strain O-1 with subsequent meta ring cleavage and spontaneous desulphonation to 2-hydroxymuconic acid.
+  JOURNAL   Biochem J 300 ( Pt 2):429-36 (1994)
+REFERENCE   PMID:8990279
+  AUTHORS   Harwood CS, Gibson J.
+  TITLE     Shedding light on anaerobic benzene ring degradation: a process unique to prokaryotes?
+  JOURNAL   J Bacteriol 179:301-9 (1997)
+REFERENCE   PMID:17122342
+  AUTHORS   Peters F, Shinoda Y, McInerney MJ, Boll M.
+  TITLE     Cyclohexa-1,5-diene-1-carbonyl-coenzyme A (CoA) hydratases of Geobacter metallireducens and Syntrophus aciditrophicus: Evidence for a common benzoyl-CoA degradation pathway in facultative and strict anaerobes.
+  JOURNAL   J Bacteriol 189:1055-60 (2007)
+REFERENCE   PMID:11053377
+  AUTHORS   Cowles CE, Nichols NN, Harwood CS.
+  TITLE     BenR, a XylS homologue, regulates three different pathways of aromatic acid degradation in Pseudomonas putida.
+  JOURNAL   J Bacteriol 182:6339-46 (2000)
+REFERENCE   PMID:12514037
+  AUTHORS   Smith MA, Weaver VB, Young DM, Ornston LN.
+  TITLE     Genes for chlorogenate and hydroxycinnamate catabolism (hca) are linked to functionally related genes in the dca-pca-qui-pob-hca chromosomal cluster of Acinetobacter sp. strain ADP1.
+  JOURNAL   Appl Environ Microbiol 69:524-32 (2003)
+REFERENCE   PMID:18312395
+  AUTHORS   Kuntze K, Shinoda Y, Moutakki H, McInerney MJ, Vogt C, Richnow HH, Boll M
+  TITLE     6-Oxocyclohex-1-ene-1-carbonyl-coenzyme A hydrolases from obligately anaerobic bacteria: characterization and identification of its gene as a functional marker  for aromatic compounds degrading anaerobes.
+  JOURNAL   Environ Microbiol 10:1547-56 (2008)
+REFERENCE   PMID:10781543
+  AUTHORS   Pelletier DA, Harwood CS
+  TITLE     2-Hydroxycyclohexanecarboxyl coenzyme A dehydrogenase, an enzyme characteristic of the anaerobic benzoate degradation pathway used by Rhodopseudomonas palustris.
+  JOURNAL   J Bacteriol 182:2753-60 (2000)
+REFERENCE   PMID:11282627
+  AUTHORS   Elshahed MS, Bhupathiraju VK, Wofford NQ, Nanny MA, McInerney MJ
+  TITLE     Metabolism of benzoate, cyclohex-1-ene carboxylate, and cyclohexane carboxylate by "Syntrophus aciditrophicus" strain SB in syntrophic association with H(2)-using microorganisms.
+  JOURNAL   Appl Environ Microbiol 67:1728-38 (2001)
+REFERENCE   PMID:21219457
+  AUTHORS   Nogales J, Canales A, Jimenez-Barbero J, Serra B, Pingarron JM, Garcia JL, Diaz E
+  TITLE     Unravelling the gallic acid degradation pathway in bacteria: the gal cluster from Pseudomonas putida.
+  JOURNAL   Mol Microbiol 79:359-74 (2011)
+KO_PATHWAY  ko00362
+///

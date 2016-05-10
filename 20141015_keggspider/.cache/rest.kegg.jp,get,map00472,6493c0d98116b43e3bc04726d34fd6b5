@@ -1,0 +1,12 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00472
+server: Apache
+date: Wed, 15 Oct 2014 15:07:46 GMT
+content-type: text/plain
+
+ENTRY       map00472                    Pathway
+NAME        D-Arginine and D-ornithine metabolism
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP map00472  D-Arginine and D-ornithine metabolism
+KO_PATHWAY  ko00472
+///

@@ -1,0 +1,51 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00626
+server: Apache
+date: Wed, 15 Oct 2014 14:57:37 GMT
+content-type: text/plain
+
+ENTRY       map00626                    Pathway
+NAME        Naphthalene degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00626  Naphthalene degradation
+MODULE      M00534  Naphthalene degradation, naphthalene => salicylate [PATH:map00626]
+            M00638  Salicylate degradation, salicylate => gentisate [PATH:map00626]
+DBLINKS     UMBBD: naph nphs 1mna npa 2mna 2mna2
+REFERENCE   PMID:16461648
+  AUTHORS   Kim SJ, Kweon O, Freeman JP, Jones RC, Adjei MD, Jhoo JW, Edmondson RD, Cerniglia CE.
+  TITLE     Molecular cloning and expression of genes encoding a novel dioxygenase involved in low- and high-molecular-weight polycyclic aromatic hydrocarbon degradation in Mycobacterium vanbaalenii PYR-1.
+  JOURNAL   Appl Environ Microbiol 72:1045-54 (2006)
+REFERENCE   PMID:8226631
+  AUTHORS   Denome SA, Stanley DC, Olson ES, Young KD
+  TITLE     Metabolism of dibenzothiophene and naphthalene in Pseudomonas strains: complete DNA sequence of an upper naphthalene catabolic pathway.
+  JOURNAL   J Bacteriol 175:6890-901 (1993)
+REFERENCE   PMID:1447127
+  AUTHORS   Eaton RW, Chapman PJ
+  TITLE     Bacterial metabolism of naphthalene: construction and use of recombinant bacteria to study ring cleavage of 1,2-dihydroxynaphthalene and subsequent reactions.
+  JOURNAL   J Bacteriol 174:7542-54 (1992)
+REFERENCE   PMID:8981987
+  AUTHORS   Morawski B, Eaton RW, Rossiter JT, Guoping S, Griengl H, Ribbons DW
+  TITLE     2-Naphthoate catabolic pathway in Burkholderia strain JT 1500.
+  JOURNAL   J Bacteriol 179:115-21 (1997)
+REFERENCE   PMID:15500985
+  AUTHORS   Safinowski M, Meckenstock RU
+  TITLE     Enzymatic reactions in anaerobic 2-methylnaphthalene degradation by the sulphate-reducing enrichment culture N 47.
+  JOURNAL   FEMS Microbiol Lett 240:99-104 (2004)
+REFERENCE   PMID:11097910
+  AUTHORS   Annweiler E, Materna A, Safinowski M, Kappler A, Richnow HH, Michaelis W, Meckenstock RU
+  TITLE     Anaerobic degradation of 2-methylnaphthalene by a sulfate-reducing enrichment culture.
+  JOURNAL   Appl Environ Microbiol 66:5329-33 (2000)
+REFERENCE   PMID:11823228
+  AUTHORS   Annweiler E, Michaelis W, Meckenstock RU
+  TITLE     Identical ring cleavage products during anaerobic degradation of naphthalene, 2-methylnaphthalene, and tetralin indicate a new metabolic pathway.
+  JOURNAL   Appl Environ Microbiol 68:852-8 (2002)
+REFERENCE   PMID:15372028
+  AUTHORS   Aitken CM, Jones DM, Larter SR
+  TITLE     Anaerobic hydrocarbon biodegradation in deep subsurface oil reservoirs.
+  JOURNAL   Nature 431:291-4 (2004)
+REFERENCE   PMID:19854898
+  AUTHORS   Selesi D, Jehmlich N, von Bergen M, Schmidt F, Rattei T, Tischler P, Lueders T, Meckenstock RU
+  TITLE     Combined genomic and proteomic approaches identify gene clusters involved in anaerobic 2-methylnaphthalene degradation in the sulfate-reducing enrichment culture N47.
+  JOURNAL   J Bacteriol 192:295-306 (2010)
+KO_PATHWAY  ko00626
+///

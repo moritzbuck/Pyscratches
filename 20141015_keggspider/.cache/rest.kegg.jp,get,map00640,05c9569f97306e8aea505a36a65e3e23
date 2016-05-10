@@ -1,0 +1,17 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00640
+server: Apache
+date: Wed, 15 Oct 2014 15:08:01 GMT
+content-type: text/plain
+
+ENTRY       map00640                    Pathway
+NAME        Propanoate metabolism
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP map00640  Propanoate metabolism
+MODULE      M00013  Malonate semialdehyde pathway, propanoyl-CoA => Acetyl-CoA [PATH:map00640]
+DISEASE     H00174  Methylmalonic aciduria (MMA)
+            H00175  Propionic acidemia
+            H01283  Malonyl-CoA decarboxylase deficiency
+DBLINKS     GO: 0019541
+KO_PATHWAY  ko00640
+///

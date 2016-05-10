@@ -1,0 +1,26 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00071
+server: Apache
+date: Wed, 15 Oct 2014 14:57:07 GMT
+content-type: text/plain
+
+ENTRY       map00071                    Pathway
+NAME        Fatty acid degradation
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00071  Fatty acid degradation
+MODULE      M00086  beta-Oxidation, acyl-CoA synthesis [PATH:map00071]
+            M00087  beta-Oxidation [PATH:map00071]
+DISEASE     H00162  Sjogren-Larsson syndrome
+            H00178  Glutaric acidemia
+            H00407  Peroxisomal beta-oxidation enzyme deficiency
+            H00525  Disorders of fatty-acid oxidation
+            H01267  Familial hyperinsulinemic hypoglycemia (HHF)
+            H01352  Mitochondrial trifunctional protein (TFP) deficiency
+            H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency
+            H01400  Secondary hyperammonemia
+REFERENCE   PMID:869535
+  AUTHORS   Parekh VR, Traxler RW, Sobek JM
+  TITLE     N-Alkane oxidation enzymes of a pseudomonad.
+  JOURNAL   Appl Environ Microbiol 33:881-4 (1977)
+KO_PATHWAY  ko00071
+///

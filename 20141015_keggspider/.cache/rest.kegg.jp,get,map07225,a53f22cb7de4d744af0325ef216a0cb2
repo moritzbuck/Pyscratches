@@ -1,0 +1,109 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07225
+server: Apache
+date: Wed, 15 Oct 2014 15:10:00 GMT
+content-type: text/plain
+
+ENTRY       map07225          Drug      Pathway
+NAME        Glucocorticoid and meneralocorticoid receptor agonists/antagonists
+PATHWAY_MAP map07225  Glucocorticoid and meneralocorticoid receptor agonists/antagonists
+COMPOUND    C00410  Progesterone
+            C00735  Cortisol
+            C00762  Cortisone
+            C01780  Aldosterone
+            D00066  Progesterone (JP16/USP/INN)
+            D00088  Hydrocortisone (JP16/USP/INN)
+            D00165  Hydrocortisone acetate (JP16/USP)
+            D00244  Betamethasone (JP16/USP/INN)
+            D00292  Dexamethasone (JP16/USP/INN)
+            D00325  Fluocinonide (JP16/USP/INN)
+            D00385  Triamcinolone (JP16/USP/INN)
+            D00407  Methylprednisolone (JP16/USP/INN)
+            D00443  Spironolactone (JP16/USP/INN)
+            D00472  Prednisolone (JP16/USP/INN)
+            D00689  Beclometasone dipropionate (JP16)
+            D00751  Methylprednisolone sodium succinate (JAN/USP)
+            D00972  Betamethasone sodium phosphate (JP16/USP)
+            D00973  Cortisone acetate (JP16/USP)
+            D00975  Dexamethasone sodium phosphate (JAN/USP)
+            D00976  Hydrocortisone cypionate
+            D00977  Hydrocortisone sodium phosphate (JP16/USP)
+            D00978  Hydrocortisone sodium succinate (JP16/USP)
+            D00979  Methylprednisolone acetate (JAN/USP)
+            D00980  Prednisolone acetate (JP16/USP/INN)
+            D00981  Prednisolone sodium phosphate (JP16/USP)
+            D00982  Prednisolone tebutate (JAN/USP)
+            D00983  Triamcinolone acetonide (JP16/USP)
+            D00984  Triamcinolone diacetate (JAN/USP)
+            D00985  Triamcinolone hexacetonide (USP/INN)
+            D00986  Fludrocortisone acetate (JP16/USP)
+            D01115  Eplerenone (JAN/USAN/INN)
+            D01229  Paramethasone acetate (JAN/USP)
+            D01239  Prednisolone sodium succinate (JP16/USP)
+            D01299  Chlormadinone acetate (JP16/USAN)
+            D01357  Betamethasone valerate (JP16/USP)
+            D01387  Amcinonide (JAN/USP/INN)
+            D01402  Betamethasone acetate (JAN/USP)
+            D01442  Hydrocortisone succinate (JP16)
+            D01510  Dexamethasone metasulfobenzoate sodium (JAN)
+            D01615  Dexamethasone palmitate (JAN)
+            D01619  Hydrocortisone butyrate (JP16/USP)
+            D01632  Dexamethasone propionate (JAN)
+            D01637  Betamethasone dipropionate (JP16/USP)
+            D01708  Fluticasone propionate (JAN/USAN)
+            D01825  Fluocinolone acetonide (JP16/USP/INN)
+            D01886  Hydrocortisone butyrate propionate (JAN)
+            D01943  Potassium canrenoate (JP16)
+            D01948  Dexamethasone valerate (JAN)
+            D01998  Prednisolone farnesylate (JAN)
+            D02032  Betamethasone butyrate propionate (JAN)
+            D02156  Prednisolone succinate (JP16)
+            D02174  Dexamethasone acetate (JAN/USP)
+            D02286  Betamethasone benzoate (USP)
+            D02288  Hydrocortisone valerate (USP)
+            D02591  Dexamethasone acefurate (USAN/INN)
+            D02592  Dexamethasone beloxil (USAN)
+            D03301  Prednisolone valerate acetate (JAN)
+            D03363  Canrenone (USAN)
+            D03698  Desoxycorticosterone acetate (USP)
+            D03699  Desoxycorticosterone pivalate (USP)
+            D03792  Dicirenone (USAN)
+            D03917  Drospirenone (JAN/USP/INN)
+            D04467  Hydrocortisone hemisuccinate (USP)
+            D05000  Methylprednisolone succinate (JP16)
+            D05001  Methylprednisolone sodium phosphate (USAN)
+            D05002  Methylprednisolone suleptanate (USAN/INN)
+            D05020  Mexrenoate potassium (USAN)
+            D05640  Prorenoate potassium (USAN/INN)
+            D06216  Triamcinolone acetonide sodium phosphate (USAN)
+            D06315  Fluticasone furoate (JAN/USAN/INN)
+            D06876  Hydrocortisone aceponate (INN)
+            D07073  Dexamethasone cipecilate (JAN/INN)
+            D07203  Methylprednisolone aceponate (INN)
+            D07464  Paramethasone (INN)
+            D07495  Beclometasone (INN)
+            D07670  Chlormadinone (INN)
+            D07749  Cortisone (INN)
+            D07792  Desoxycortone (INN)
+            D07796  Dexamethasone 21-acetate
+            D07797  Dexamethasone isonicotinate
+            D07798  Dexamethasone sodium hemisulfate
+            D07799  Dexamethasone 21-tebutate
+            D07800  Dexamethasone 21-valerate
+            D07801  Dexamethasone phenylpropionate
+            D07802  Dexamethasone phosphate
+            D07967  Fludrocortisone (INN)
+            D07981  Fluticasone (INN)
+            D08412  Prednisolone pivalate
+            D08413  Prednisolone sodium metazoate (USAN)
+            D08414  Prednisolone 21-(sodium tetrahydrophthalate)
+            D08415  Prednisolone steaglate (BAN)
+REFERENCE   
+  AUTHORS   Yamakawa K., Kanaoka Y., Iwasawa Y.
+  TITLE     [Medicinal Chemistry (5th ed)] (In Japanase)
+  JOURNAL   Kodansha Scientific
+REFERENCE   
+  AUTHORS   Tanaka C., Kato R. (eds)
+  TITLE     [New pharmacology (revision 5th ed)] (In Japanese)
+  JOURNAL   Nankodo
+///

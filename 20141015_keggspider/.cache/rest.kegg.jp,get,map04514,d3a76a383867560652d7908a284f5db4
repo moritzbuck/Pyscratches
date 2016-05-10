@@ -1,0 +1,126 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04514
+server: Apache
+date: Wed, 15 Oct 2014 15:08:51 GMT
+content-type: text/plain
+
+ENTRY       map04514                    Pathway
+NAME        Cell adhesion molecules (CAMs)
+DESCRIPTION Cell adhesion molecules are (glyco)proteins expressed on the cell surface and play a critical role in a wide array of biologic processes that include hemostasis, the immune response, inflammation, embryogenesis, and development of neuronal tissue. There are four main groups: the integrin family, the immunoglobulin superfamily, selectins, and cadherins. Membrane proteins that mediate immune cell&#8211;cell interactions fall into different categories, namely those involved in antigen recognition, costimulation and cellular adhesion. Furthermore cell-cell adhesions are important for brain morphology and highly coordinated brain functions such as memory and learning. During early development of the nervous system, neurons elongate their axons towards their targets and establish and maintain synapses through formation of cell-cell adhesions. Cell-cell adhesions also underpin axon-axon contacts and link neurons with supporting schwann cells and oligodendrocytes.
+CLASS       Environmental Information Processing; Signaling molecules and interaction
+PATHWAY_MAP map04514  Cell adhesion molecules (CAMs)
+DISEASE     H00577  Syndromic X-linked mental retardation with epilepsy or seizures
+            H00586  Epidermolysis bullosa, junctional
+            H00639  Ectodermal dysplasia, ectrodactyly, and macular dystrophy (EEM syndrome)
+            H00742  Neonatal ichthyosis-sclerosing cholangitis (NISCH) syndrome
+            H00756  Pitt-Hopkins syndrome
+            H00773  Autosomal dominant mental retardation
+            H00785  Congenital hypotrichosis with juvenile macular dystrophy
+            H00805  Vitreoretinal degeneration
+            H00840  Band-like calcification with simplified gyration and polymicrogyria (BLC-PMG)
+            H01034  L1 syndrome
+            H01155  Roussy-Levy syndrome
+            H01210  Hypomagnesemia
+DBLINKS     GO: 0050839
+REFERENCE   PMID:14690046
+  AUTHORS   Barclay AN.
+  TITLE     Membrane proteins with immunoglobulin-like domains--a master superfamily of interaction molecules.
+  JOURNAL   Semin Immunol 15:215-23 (2003)
+REFERENCE   PMID:11910893
+  AUTHORS   Sharpe AH, Freeman GJ.
+  TITLE     The B7-CD28 superfamily.
+  JOURNAL   Nat Rev Immunol 2:116-26 (2002)
+REFERENCE   PMID:9597126
+  AUTHORS   Grewal IS, Flavell RA.
+  TITLE     CD40 and CD154 in cell-mediated immunity.
+  JOURNAL   Annu Rev Immunol 16:111-35 (1998)
+REFERENCE   PMID:16034094
+  AUTHORS   Dardalhon V, Schubart AS, Reddy J, Meyers JH, Monney L, Sabatos CA, Ahuja R, Nguyen K, Freeman GJ, Greenfield EA, Sobel RA, Kuchroo VK.
+  TITLE     CD226 is specifically expressed on the surface of Th1 cells and regulates their expansion and effector functions.
+  JOURNAL   J Immunol 175:1558-65 (2005)
+REFERENCE   PMID:12234363
+  AUTHORS   Montoya MC, Sancho D, Vicente-Manzanares M, Sanchez-Madrid F.
+  TITLE     Cell adhesion and polarity during immune interactions.
+  JOURNAL   Immunol Rev 186:68-82 (2002)
+REFERENCE   PMID:15071551
+  AUTHORS   Dejana E.
+  TITLE     Endothelial cell-cell junctions: happy together.
+  JOURNAL   Nat Rev Mol Cell Biol 5:261-70 (2004)
+REFERENCE   PMID:14519386
+  AUTHORS   Bazzoni G.
+  TITLE     The JAM family of junctional adhesion molecules.
+  JOURNAL   Curr Opin Cell Biol 15:525-30 (2003)
+REFERENCE   PMID:10798271
+  AUTHORS   Becker BF, Heindl B, Kupatt C, Zahler S.
+  TITLE     Endothelial function and hemostasis.
+  JOURNAL   Z Kardiol 89:160-7 (2000)
+REFERENCE   PMID:9150551
+  AUTHORS   Elangbam CS, Qualls CW Jr, Dahlgren RR.
+  TITLE     Cell adhesion molecules--update.
+  JOURNAL   Vet Pathol 34:61-73 (1997)
+REFERENCE   PMID:12810109
+  AUTHORS   Muller WA.
+  TITLE     Leukocyte-endothelial-cell interactions in leukocyte transmigration and the inflammatory response.
+  JOURNAL   Trends Immunol 24:327-34 (2003)
+REFERENCE   PMID:14519398
+  AUTHORS   Yamagata M, Sanes JR, Weiner JA.
+  TITLE     Synaptic adhesion molecules.
+  JOURNAL   Curr Opin Cell Biol 15:621-32 (2003)
+REFERENCE   PMID:15882774
+  AUTHORS   Ethell IM, Pasquale EB.
+  TITLE     Molecular mechanisms of dendritic spine development and remodeling.
+  JOURNAL   Prog Neurobiol 75:161-205 (2005)
+REFERENCE   PMID:11050419
+  AUTHORS   Benson DL, Schnapp LM, Shapiro L, Huntley GW.
+  TITLE     Making memories stick: cell-adhesion molecules in synaptic plasticity.
+  JOURNAL   Trends Cell Biol 10:473-82 (2000)
+REFERENCE   PMID:11860281
+  AUTHORS   Rosdahl JA, Mourton TL, Brady-Kalnay SM.
+  TITLE     Protein kinase C delta (PKCdelta) is required for protein tyrosine phosphatase mu (PTPmu)-dependent neurite outgrowth.
+  JOURNAL   Mol Cell Neurosci 19:292-306 (2002)
+REFERENCE   PMID:10964748
+  AUTHORS   Dunican DJ, Doherty P.
+  TITLE     The generation of localized calcium rises mediated by cell adhesion molecules and their role in neuronal growth cone motility.
+  JOURNAL   Mol Cell Biol Res Commun 3:255-63 (2000)
+REFERENCE   PMID:12367625
+  AUTHORS   Girault JA, Peles E.
+  TITLE     Development of nodes of Ranvier.
+  JOURNAL   Curr Opin Neurobiol 12:476-85 (2002)
+REFERENCE   PMID:10664064
+  AUTHORS   Arroyo EJ, Scherer SS.
+  TITLE     On the molecular architecture of myelinated fibers.
+  JOURNAL   Histochem Cell Biol 113:1-18 (2000)
+REFERENCE   PMID:14556710
+  AUTHORS   Salzer JL.
+  TITLE     Polarized domains of myelinated axons.
+  JOURNAL   Neuron 40:297-318 (2003)
+REFERENCE   PMID:15561584
+  AUTHORS   Irie K, Shimizu K, Sakisaka T, Ikeda W, Takai Y.
+  TITLE     Roles and modes of action of nectins in cell-cell adhesion.
+  JOURNAL   Semin Cell Dev Biol 15:643-56 (2004)
+REFERENCE   PMID:15551862
+  AUTHORS   Nakanishi H, Takai Y.
+  TITLE     Roles of nectins in cell adhesion, migration and polarization.
+  JOURNAL   Biol Chem 385:885-92 (2004)
+REFERENCE   PMID:15115723
+  AUTHORS   Siu MK, Cheng CY.
+  TITLE     Extracellular matrix: recent advances on its role in junction dynamics in the seminiferous epithelium during spermatogenesis.
+  JOURNAL   Biol Reprod 71:375-91 (2004)
+REFERENCE   PMID:15056568
+  AUTHORS   Lee NP, Cheng CY.
+  TITLE     Adaptors, junction dynamics, and spermatogenesis.
+  JOURNAL   Biol Reprod 71:392-404 (2004)
+REFERENCE   PMID:15728677
+  AUTHORS   Inagaki M, Irie K, Ishizaki H, Tanaka-Okamoto M, Morimoto K, Inoue E, Ohtsuka T, Miyoshi J, Takai Y.
+  TITLE     Roles of cell-adhesion molecules nectin 1 and nectin 3 in ciliary body development.
+  JOURNAL   Development 132:1525-37 (2005)
+REFERENCE   PMID:12500939
+  AUTHORS   Marthiens V, Gavard J, Lambert M, Mege RM.
+  TITLE     Cadherin-based cell adhesion in neuromuscular development.
+  JOURNAL   Biol Cell 94:315-26 (2002)
+REFERENCE   PMID:15923648
+  AUTHORS   Krauss RS, Cole F, Gaio U, Takaesu G, Zhang W, Kang JS.
+  TITLE     Close encounters: regulation of vertebrate skeletal myogenesis by cell-cell contact.
+  JOURNAL   J Cell Sci 118:2355-62 (2005)
+KO_PATHWAY  ko04514
+///

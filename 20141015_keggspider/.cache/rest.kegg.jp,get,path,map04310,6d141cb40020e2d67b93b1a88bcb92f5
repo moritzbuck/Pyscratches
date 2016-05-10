@@ -1,0 +1,79 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04310
+server: Apache
+date: Wed, 15 Oct 2014 14:58:25 GMT
+content-type: text/plain
+
+ENTRY       map04310                    Pathway
+NAME        Wnt signaling pathway
+DESCRIPTION Wnt proteins are secreted morphogens that are required for basic developmental processes, such as cell-fate specification, progenitor-cell proliferation and the control of asymmetric cell division, in many different species and organs. There are at least three different Wnt pathways: the canonical pathway, the planar cell polarity (PCP) pathway and the Wnt/Ca2+ pathway. In the canonical Wnt pathway, the major effect of Wnt ligand binding to its receptor is the stabilization of cytoplasmic beta-catenin through inhibition of the bea-catenin degradation complex. Beta-catenin is then free to enter the nucleus and activate Wnt-regulated genes through its interaction with TCF (T-cell factor) family transcription factors and concomitant recruitment of coactivators. Planar cell polarity (PCP) signaling leads to the activation of the small GTPases RHOA (RAS homologue gene-family member A) and RAC1, which activate the stress kinase JNK (Jun N-terminal kinase) and ROCK (RHO-associated coiled-coil-containing protein kinase 1) and leads to remodelling of the cytoskeleton and changes in cell adhesion and motility. WNT-Ca2+ signalling is mediated through G proteins and phospholipases and leads to transient increases in cytoplasmic free calcium that subsequently activate the kinase PKC (protein kinase C) and CAMKII (calcium calmodulin mediated kinase II) and the phosphatase calcineurin.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04310  Wnt signaling pathway
+MODULE      M00380  SCF-BTRC complex [PATH:map04310]
+DISEASE     H00078  Frontotemporal lobar degeneration (FTLD)
+            H00409  Type II diabetes mellitus
+            H00450  Sclerosing bone dysplasias
+            H00451  Osteoporosis-pseudoglioma syndrome (OPPG)
+            H00589  Familial exudative vitreoretinopathy (FEVR)
+            H00598  46,XX disorders of sex development (Disorders of gonadal development)
+            H00600  46,XX disorders of sex development (Other)
+            H00607  46,XY disorders of sex development (Disorders of gonadal development)
+            H00625  Tooth agenesis
+            H00636  Tetra-amelia
+            H00646  Odontoonychodermal dysplasia
+            H00681  Acne inversa
+            H00810  Progressive myoclonic epilepsy (PME/ EPM)
+            H00857  Oligodontia-colorectal cancer syndrome
+            H00881  Li-Fraumeni syndrome
+            H00934  Caudal duplication anomaly
+            H00947  Pilomatricoma
+            H00949  Focal dermal hypoplasia
+            H00979  Caudal regression syndrome and Sirenomelia
+            H01007  Choroid plexus papilloma
+            H01023  Juvenile polyposis syndrome
+            H01025  Familial adenomatous polyposis
+            H01037  Vesicoureteral reflux
+            H01307  Nonsyndromic congenital nail disorder (NDNC)
+DBLINKS     GO: 0016055
+REFERENCE   PMID:14635791
+  AUTHORS   Hatsell S, Rowlands T, Hiremath M, Cowin P.
+  TITLE     Beta-catenin and Tcfs in mammary development and cancer.
+  JOURNAL   J Mammary Gland Biol Neoplasia 8:145-58 (2003)
+REFERENCE   PMID:14745971
+  AUTHORS   Yang Y.
+  TITLE     Wnts and wing: Wnt signaling in vertebrate limb development and musculoskeletal morphogenesis.
+  JOURNAL   Birth Defects Res Part C Embryo Today 69:305-17 (2003)
+REFERENCE   PMID:12446114
+  AUTHORS   Kalderon D.
+  TITLE     Similarities between the Hedgehog and Wnt signaling pathways.
+  JOURNAL   Trends Cell Biol 12:523-31 (2002)
+REFERENCE   PMID:14530294
+  AUTHORS   Nusse R.
+  TITLE     Wnts and Hedgehogs: lipid-modified proteins and similarities in signaling mechanisms at the cell surface.
+  JOURNAL   Development 130:5297-305 (2003)
+REFERENCE   PMID:15102436
+  AUTHORS   Jope RS, Johnson GV.
+  TITLE     The glamour and gloom of glycogen synthase kinase-3.
+  JOURNAL   Trends Biochem Sci 29:95-102 (2004)
+REFERENCE   PMID:12967557
+  AUTHORS   Veeman MT, Axelrod JD, Moon RT.
+  TITLE     A second canon. Functions and mechanisms of beta-catenin-independent Wnt signaling.
+  JOURNAL   Dev Cell 5:367-77 (2003)
+REFERENCE   PMID:11433294
+  AUTHORS   Sun TQ, Lu B, Feng JJ, Reinhard C, Jan YN, Fantl WJ, Williams LT.
+  TITLE     PAR-1 is a Dishevelled-associated kinase and a positive regulator of Wnt signalling.
+  JOURNAL   Nat Cell Biol 3:628-36 (2001)
+REFERENCE   PMID:23256519
+  AUTHORS   Saito-Diaz K, Chen TW, Wang X, Thorne CA, Wallace HA, Page-McCaw A, Lee E
+  TITLE     The way Wnt works: Components and mechanism.
+  JOURNAL   Growth Factors 31:1-31 (2013)
+REFERENCE   PMID:19482104
+  AUTHORS   Carethers JM
+  TITLE     Intersection of transforming growth factor-beta and Wnt signaling pathways in colorectal cancer and metastasis.
+  JOURNAL   Gastroenterology 137:33-6 (2009)
+REFERENCE   PMID:18838381
+  AUTHORS   Lin Z, Gao C, Ning Y, He X, Wu W, Chen YG
+  TITLE     The pseudoreceptor BMP and activin membrane-bound inhibitor positively modulates  Wnt/beta-catenin signaling.
+  JOURNAL   J Biol Chem 283:33053-8 (2008)
+KO_PATHWAY  ko04310
+///

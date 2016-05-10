@@ -1,0 +1,67 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04144
+server: Apache
+date: Wed, 15 Oct 2014 14:58:21 GMT
+content-type: text/plain
+
+ENTRY       map04144                    Pathway
+NAME        Endocytosis
+DESCRIPTION Endocytosis is a mechanism for cells to remove ligands, nutrients, and plasma membrane (PM) proteins, and lipids from the cell surface, bringing them into the cell interior. Transmembrane proteins entering through clathrin-dependent endocytosis (CDE) have sequences in their cytoplasmic domains that bind to the APs (adaptor-related protein complexes) and enable their rapid removal from the PM. In addition to APs and clathrin, there are numerous accessory proteins including dynamin. Depending on the various proteins that enter the endosome membrane, these cargoes are sorted to distinct destinations. Some cargoes, such as nutrient receptors, are recycled back to the PM. Ubiquitylated membrane proteins, such as activated growth-factor receptors, are sorted into intraluminal vesicles and eventually end up in the lysosome lumen via multivesicular endosomes (MVEs). There are distinct mechanisms of clathrin-independent endocytosis (CIE) depending upon the cargo and the cell type.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP map04144  Endocytosis
+MODULE      M00408  ESCRT-0 complex [PATH:map04144]
+            M00409  ESCRT-I complex [PATH:map04144]
+            M00410  ESCRT-II complex [PATH:map04144]
+            M00412  ESCRT-III complex [PATH:map04144]
+DISEASE     H00078  Frontotemporal lobar degeneration (FTLD)
+            H00155  Hypercholesterolemia
+            H00265  Hereditary sensory and autonomic neuropathy (HSAN)
+            H00567  Caveolinopathies
+            H00593  Limb-girdle muscular dystrophy (LGMD)
+            H00642  Lacrimo-auriculo-dento-digital syndrome (LADD)
+            H00700  Centronuclear myopathy
+            H00800  Loeys-Dietz syndrome (LDS)
+            H00865  Lethal congenital contractural syndrome (LCCS)
+            H01202  Cataract
+            H01232  Syndromic multisystem autoimmune disease
+            H01295  Neurodegeneration due to cerebral folate transport deficiency
+            H01383  LDL Receptor Disorder
+DBLINKS     GO: 0006897
+REFERENCE   PMID:19007773
+  AUTHORS   Acconcia F, Sigismund S, Polo S
+  TITLE     Ubiquitin in trafficking: the network at work.
+  JOURNAL   Exp Cell Res 315:1610-8 (2009)
+REFERENCE   PMID:18647649
+  AUTHORS   Donaldson JG, Porat-Shliom N, Cohen LA
+  TITLE     Clathrin-independent endocytosis: a unique platform for cell signaling and PM remodeling.
+  JOURNAL   Cell Signal 21:1-6 (2009)
+REFERENCE   PMID:15261671
+  AUTHORS   Sorkin A
+  TITLE     Cargo recognition during clathrin-mediated endocytosis: a team effort.
+  JOURNAL   Curr Opin Cell Biol 16:392-9 (2004)
+REFERENCE   PMID:19325624
+  AUTHORS   Raiborg C, Stenmark H
+  TITLE     The ESCRT machinery in endosomal sorting of ubiquitylated membrane proteins.
+  JOURNAL   Nature 458:445-52 (2009)
+REFERENCE   (Japanese)
+  AUTHORS   Ohno H, Yoshimori T (eds).
+  TITLE     [Current Stream in Membrane Traffic] (in Japanese)
+  JOURNAL   Tanpakushitsu Kakusan Koso 53 (2008)
+REFERENCE   PMID:20110990
+  AUTHORS   Scita G, Di Fiore PP
+  TITLE     The endocytic matrix.
+  JOURNAL   Nature 463:464-73 (2010)
+REFERENCE   PMID:15687999
+  AUTHORS   Le Roy C, Wrana JL
+  TITLE     Clathrin- and non-clathrin-mediated endocytic regulation of cell signalling.
+  JOURNAL   Nat Rev Mol Cell Biol 6:112-26 (2005)
+REFERENCE   PMID:19924646
+  AUTHORS   Jovic M, Sharma M, Rahajeng J, Caplan S
+  TITLE     The early endosome: a busy sorting station for proteins at the crossroads.
+  JOURNAL   Histol Histopathol 25:99-112 (2010)
+REFERENCE   PMID:16203612
+  AUTHORS   Pietiainen VM, Marjomaki V, Heino J, Hyypia T
+  TITLE     Viral entry, lipid rafts and caveosomes.
+  JOURNAL   Ann Med 37:394-403 (2005)
+KO_PATHWAY  ko04144
+///

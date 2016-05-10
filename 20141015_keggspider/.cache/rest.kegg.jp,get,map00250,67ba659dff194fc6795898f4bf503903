@@ -1,0 +1,31 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00250
+server: Apache
+date: Wed, 15 Oct 2014 15:07:35 GMT
+content-type: text/plain
+
+ENTRY       map00250                    Pathway
+NAME        Alanine, aspartate and glutamate metabolism
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00250  Alanine, aspartate and glutamate metabolism
+MODULE      M00027  GABA (gamma-Aminobutyrate) shunt [PATH:map00250]
+DISEASE     H00074  Canavan disease (CD)
+            H00185  Citrullinemia (CTLN)
+            H00197  Adenylosuccinate lyase deficiency
+            H00835  Succinic semialdehyde dehydrogenase (SSADH) deficiency
+            H00923  Congenital systemic glutamine deficiency (CSGD)
+            H01028  Argininosuccinic aciduria (ARGINSA)
+            H01097  Cerebral palsy
+            H01257  GABA-transaminase deficiency
+            H01386  Asparagine synthetase deficiency
+DBLINKS     GO: 0006522 0006531 0006536
+REFERENCE   
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REFERENCE   PMID:9687539
+  AUTHORS   Wu G
+  TITLE     Intestinal mucosal amino acid catabolism.
+  JOURNAL   J Nutr 128:1249-52 (1998)
+KO_PATHWAY  ko00250
+///

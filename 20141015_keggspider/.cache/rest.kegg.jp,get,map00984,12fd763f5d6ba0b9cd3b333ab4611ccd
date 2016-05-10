@@ -1,0 +1,53 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00984
+server: Apache
+date: Wed, 15 Oct 2014 15:08:16 GMT
+content-type: text/plain
+
+ENTRY       map00984                    Pathway
+NAME        Steroid degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00984  Steroid degradation
+DBLINKS     GO: 0006707
+REFERENCE   PMID:21924910
+  AUTHORS   Ouellet H, Johnston JB, de Montellano PR
+  TITLE     Cholesterol catabolism as a therapeutic target in Mycobacterium tuberculosis.
+  JOURNAL   Trends Microbiol 19:530-9 (2011)
+REFERENCE   PMID:17264217
+  AUTHORS   Van der Geize R, Yam K, Heuser T, Wilbrink MH, Hara H, Anderton MC, Sim E, Dijkhuizen L, Davies JE, Mohn WW, Eltis LD
+  TITLE     A gene cluster encoding cholesterol catabolism in a soil actinomycete provides insight into Mycobacterium tuberculosis survival in macrophages.
+  JOURNAL   Proc Natl Acad Sci U S A 104:1947-52 (2007)
+REFERENCE   PMID:22045806
+  AUTHORS   Thomas ST, VanderVen BC, Sherman DR, Russell DG, Sampson NS
+  TITLE     Pathway profiling in Mycobacterium tuberculosis: elucidation of cholesterol-derived catabolite and enzymes that catalyze its metabolism.
+  JOURNAL   J Biol Chem 286:43668-78 (2011)
+REFERENCE   PMID:20889498
+  AUTHORS   Driscoll MD, McLean KJ, Levy C, Mast N, Pikuleva IA, Lafite P, Rigby SE, Leys D, Munro AW
+  TITLE     Structural and biochemical characterization of Mycobacterium tuberculosis CYP142: evidence for multiple cholesterol 27-hydroxylase activities in a human pathogen.
+  JOURNAL   J Biol Chem 285:38270-82 (2010)
+REFERENCE   PMID:20843794
+  AUTHORS   Johnston JB, Ouellet H, Ortiz de Montellano PR
+  TITLE     Functional redundancy of steroid C26-monooxygenase activity in Mycobacterium tuberculosis revealed by biochemical and genetic analyses.
+  JOURNAL   J Biol Chem 285:36352-60 (2010)
+REFERENCE   PMID:17630785
+  AUTHORS   Yang X, Dubnau E, Smith I, Sampson NS
+  TITLE     Rv1106c from Mycobacterium tuberculosis is a 3beta-hydroxysteroid dehydrogenase.
+  JOURNAL   Biochemistry 46:9058-67 (2007)
+REFERENCE   PMID:19875455
+  AUTHORS   Lack NA, Yam KC, Lowe ED, Horsman GP, Owen RL, Sim E, Eltis LD
+  TITLE     Characterization of a carbon-carbon hydrolase from Mycobacterium tuberculosis involved in cholesterol metabolism.
+  JOURNAL   J Biol Chem 285:434-43 (2010)
+REFERENCE   PMID:19843168
+  AUTHORS   Kreit J, Sampson NS
+  TITLE     Cholesterol oxidase: physiological functions.
+  JOURNAL   FEBS J 276:6844-56 (2009)
+REFERENCE   PMID:21056662
+  AUTHORS   Horinouchi M, Hayashi T, Kudo T
+  TITLE     Steroid degradation in Comamonas testosteroni.
+  JOURNAL   J Steroid Biochem Mol Biol 129:4-14 (2012)
+REFERENCE   PMID:20554032
+  AUTHORS   Horinouchi M, Kurita T, Hayashi T, Kudo T
+  TITLE     Steroid degradation genes in Comamonas testosteroni TA441: Isolation of genes encoding a Delta4(5)-isomerase and 3alpha- and 3beta-dehydrogenases and evidence  for a 100 kb steroid degradation gene hot spot.
+  JOURNAL   J Steroid Biochem Mol Biol 122:253-63 (2010)
+KO_PATHWAY  ko00984
+///

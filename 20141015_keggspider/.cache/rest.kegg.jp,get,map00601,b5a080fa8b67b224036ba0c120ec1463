@@ -1,0 +1,17 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00601
+server: Apache
+date: Wed, 15 Oct 2014 15:07:56 GMT
+content-type: text/plain
+
+ENTRY       map00601                    Pathway
+NAME        Glycosphingolipid biosynthesis - lacto and neolacto series
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+MODULE      M00070  Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer [PATH:map00601]
+            M00071  Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer [PATH:map00601]
+DISEASE     H00768  Nonsyndromic autosomal recessive mental retardation (NS-ARMR)
+            H01013  Adult i phenotype
+            H01202  Cataract
+KO_PATHWAY  ko00601
+///

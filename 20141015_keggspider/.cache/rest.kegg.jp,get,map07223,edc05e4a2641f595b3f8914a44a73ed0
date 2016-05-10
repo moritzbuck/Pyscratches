@@ -1,0 +1,29 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07223
+server: Apache
+date: Wed, 15 Oct 2014 15:09:59 GMT
+content-type: text/plain
+
+ENTRY       map07223          Drug      Pathway
+NAME        Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+PATHWAY_MAP map07223  Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+COMPOUND    D00094  Tretinoin (JAN/USP/INN)
+            D00164  Retinol palmitate (JP16)
+            D00316  Etretinate (JAN/USAN/INN)
+            D00348  Isotretinoin (USP)
+            D01112  Adapalene (JAN/USAN/INN)
+            D01132  Tazarotene (JAN/USAN/INN)
+            D01418  Tamibarotene (JAN/INN)
+            D01621  Retinol acetate (JP16)
+            D02754  Acitretin (USP/INN)
+            D02815  Alitretinoin (USAN)
+            D03106  Bexarotene (JAN/USAN/INN)
+            D04636  Isotretinoin anisatil (USAN)
+            D05082  Motretinide (USAN/INN)
+            D06543  Vitamin A (USP)
+            D08477  Retinol propionate
+REFERENCE   PMID:18622097
+  AUTHORS   Kagechika H
+  TITLE     [Chemical biology research on nuclear receptors]
+  JOURNAL   Nippon Yakurigaku Zasshi 132:11-7 (2008)
+///

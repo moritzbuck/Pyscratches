@@ -1,0 +1,64 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00260
+server: Apache
+date: Wed, 15 Oct 2014 15:07:36 GMT
+content-type: text/plain
+
+ENTRY       map00260                    Pathway
+NAME        Glycine, serine and threonine metabolism
+DESCRIPTION Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:M00020], and glycine is derived from serine. Threonine is an essential amino acid, which animals cannot synthesize. In bacteria and plants, threonine is derived from aspartate [MD:M00018].
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00260  Glycine, serine and threonine metabolism
+MODULE      M00018  Threonine biosynthesis, aspartate => homoserine => threonine [PATH:map00260]
+            M00020  Serine biosynthesis, glycerate-3P => serine [PATH:map00260]
+            M00033  Ectoine biosynthesis, aspartate => ectoine [PATH:map00260]
+            M00555  Betaine biosynthesis, choline => betaine [PATH:map00260]
+DISEASE     H00117  Primary hyperoxaluria (HP)
+            H00182  Cystathioninuria
+            H00183  Homocystinuria
+            H00184  Hypermethioninemia
+            H00191  Nonketotic hyperglycinemia
+            H00834  Guanidinoacetate methyltransferase (GAMT) deficiency
+            H00849  Creatine deficiency syndrome
+            H01003  Dimethylglycine dehydrogenase deficiency (DMGDHD)
+            H01079  3-Phosphoglycerate dehydrogenase (3-PGDH) deficiency
+            H01082  Phosphoserine aminotransferase (PSAT) deficiency
+DBLINKS     GO: 0006544 0006563 0070178 0006566
+REFERENCE   
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REFERENCE   PMID:11823218
+  AUTHORS   Kuhlmann AU, Bremer E.
+  TITLE     Osmotically regulated synthesis of the compatible solute ectoine in Bacillus pasteurii and related Bacillus spp.
+  JOURNAL   Appl Environ Microbiol 68:772-83 (2002)
+REFERENCE   PMID:10473374
+  AUTHORS   Canovas D, Borges N, Vargas C, Ventosa A, Nieto JJ, Santos H.
+  TITLE     Role of Ngamma-acetyldiaminobutyrate as an enzyme stabilizer and an intermediate in the biosynthesis of hydroxyectoine.
+  JOURNAL   Appl Environ Microbiol 65:3774-9 (1999)
+REFERENCE   PMID:17636255
+  AUTHORS   Bursy J, Pierik AJ, Pica N, Bremer E.
+  TITLE     Osmotically induced synthesis of the compatible solute hydroxyectoine is mediated by an evolutionarily conserved ectoine hydroxylase.
+  JOURNAL   J Biol Chem 282:31147-55 (2007)
+REFERENCE   PMID:16707670
+  AUTHORS   Garcia-Estepa R, Argandona M, Reina-Bueno M, Capote N, Iglesias-Guerra F, Nieto JJ, Vargas C.
+  TITLE     The ectD gene, which is involved in the synthesis of the compatible solute hydroxyectoine, is essential for thermoprotection of the halophilic bacterium Chromohalobacter salexigens.
+  JOURNAL   J Bacteriol 188:3774-84 (2006)
+REFERENCE   PMID:15470257
+  AUTHORS   Arevalo-Rodriguez M, Pan X, Boeke JD, Heitman J
+  TITLE     FKBP12 controls aspartate pathway flux in Saccharomyces cerevisiae to prevent toxic intermediate accumulation.
+  JOURNAL   Eukaryot Cell 3:1287-96 (2004)
+REFERENCE   PMID:7639721
+  AUTHORS   Rees WD, Hay SM
+  TITLE     The biosynthesis of threonine by mammalian cells: expression of a complete bacterial biosynthetic pathway in an animal cell.
+  JOURNAL   Biochem J 309 ( Pt 3):999-1007 (1995)
+REFERENCE   PMID:11341914
+  AUTHORS   Jacques SL, Nieman C, Bareich D, Broadhead G, Kinach R, Honek JF, Wright GD
+  TITLE     Characterization of yeast homoserine dehydrogenase, an antifungal target: the invariant histidine 309 is important for enzyme integrity.
+  JOURNAL   Biochim Biophys Acta 1544:28-41 (2001)
+REFERENCE   PMID:15520012
+  AUTHORS   Chen X, Jhee KH, Kruger WD
+  TITLE     Production of the neuromodulator H2S by cystathionine beta-synthase via the condensation of cysteine and homocysteine.
+  JOURNAL   J Biol Chem 279:52082-6 (2004)
+KO_PATHWAY  ko00260
+///

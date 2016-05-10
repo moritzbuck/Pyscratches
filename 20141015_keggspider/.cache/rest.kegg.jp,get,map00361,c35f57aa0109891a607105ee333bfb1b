@@ -1,0 +1,61 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00361
+server: Apache
+date: Wed, 15 Oct 2014 15:07:41 GMT
+content-type: text/plain
+
+ENTRY       map00361                    Pathway
+NAME        Chlorocyclohexane and chlorobenzene degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00361  Chlorocyclohexane and chlorobenzene degradation
+DBLINKS     UMBBD: hch ghch dcz 2,4-d pcp 2,4,5-t tcb
+REFERENCE   PMID:10600501
+  AUTHORS   Xun L, Bohuslavek J, Cai M.
+  TITLE     Characterization of 2,6-dichloro-p-hydroquinone 1,2-dioxygenase (PcpA) of Sphingomonas chlorophenolica ATCC 39723.
+  JOURNAL   Biochem Biophys Res Commun 266:322-5 (1999)
+REFERENCE   PMID:1987135
+  AUTHORS   van der Meer JR, van Neerven AR, de Vries EJ, de Vos WM, Zehnder AJ.
+  TITLE     Cloning and characterization of plasmid-encoded genes for the degradation of 1,2-dichloro-, 1,4-dichloro-, and 1,2,4-trichlorobenzene of Pseudomonas sp. strain P51.
+  JOURNAL   J Bacteriol 173:6-15 (1991)
+REFERENCE   PMID:10464214
+  AUTHORS   Nagata Y, Futamura A, Miyauchi K, Takagi M.
+  TITLE     Two different types of dehalogenases, LinA and LinB, involved in gamma-hexachlorocyclohexane degradation in Sphingomonas paucimobilis UT26 are localized in the periplasmic space without molecular processing.
+  JOURNAL   J Bacteriol 181:5409-13 (1999)
+REFERENCE   PMID:11423959
+  AUTHORS   Nagata Y, Miyauchi K, Takagi M.
+  TITLE     Complete analysis of genes and enzymes for gamma-hexachlorocyclohexane degradation in Sphingomonas paucimobilis UT26.
+  JOURNAL   J Ind Microbiol Biotechnol 23:380-390 (1999)
+REFERENCE   PMID:15060023
+  AUTHORS   Dogra C, Raina V, Pal R, Suar M, Lal S, Gartemann KH, Holliger C, van der Meer JR, Lal R.
+  TITLE     Organization of lin genes and IS6100 among different strains of hexachlorocyclohexane-degrading Sphingomonas paucimobilis: evidence for horizontal gene transfer.
+  JOURNAL   J Bacteriol 186:2225-35 (2004)
+REFERENCE   PMID:12676719
+  AUTHORS   Nagata Y, Prokop Z, Marvanova S, Sykorova J, Monincova M, Tsuda M, Damborsky J.
+  TITLE     Reconstruction of mycobacterial dehalogenase Rv2579 by cumulative mutagenesis of haloalkane dehalogenase LinB.
+  JOURNAL   Appl Environ Microbiol 69:2349-55 (2003)
+REFERENCE   PMID:15489427
+  AUTHORS   Vedler E, Vahter M, Heinaru A.
+  TITLE     The completely sequenced plasmid pEST4011 contains a novel IncP1 backbone and a catabolic transposon harboring tfd genes for 2,4-dichlorophenoxyacetic acid degradation.
+  JOURNAL   J Bacteriol 186:7161-74 (2004)
+REFERENCE   PMID:9148781
+  AUTHORS   Sommer C, Gorisch H.
+  TITLE     Enzymology of the degradation of (di)chlorobenzenes by Xanthobacter flavus 14p1.
+  JOURNAL   Arch Microbiol 167:384-91 (1997)
+REFERENCE   PMID:12070765
+  AUTHORS   Laemmli CM, Schonenberger R, Suter M, Zehnder AJ, van der Meer JR.
+  TITLE     TfdD(II), one of the two chloromuconate cycloisomerases of Ralstonia eutropha JMP134 (pJP4), cannot efficiently convert 2-chloro- cis, cis-muconate to trans-dienelactone to allow growth on 3-chlorobenzoate.
+  JOURNAL   Arch Microbiol 178:13-25 (2002)
+REFERENCE   PMID:16977465
+  AUTHORS   Wu J, Hong Q, Han P, He J, Li S.
+  TITLE     A gene linB2 responsible for the conversion of beta-HCH and 2,3,4,5,6-pentachlorocyclohexanol in Sphingomonas sp. BHC-A.
+  JOURNAL   Appl Microbiol Biotechnol 73:1097-105 (2007)
+REFERENCE   PMID:9758802
+  AUTHORS   Potrawfke T, Timmis KN, Wittich RM
+  TITLE     Degradation of 1,2,3,4-tetrachlorobenzene by pseudomonas chlororaphis RW71
+  JOURNAL   Appl Environ Microbiol 64:3798-806 (1998)
+REFERENCE   PMID:11208799
+  AUTHORS   Potrawfke T, Armengaud J, Wittich RM
+  TITLE     Chlorocatechols substituted at positions 4 and 5 are substrates of the broad-spectrum chlorocatechol 1,2-dioxygenase of Pseudomonas chlororaphis RW71.
+  JOURNAL   J Bacteriol 183:997-1011 (2001)
+KO_PATHWAY  ko00361
+///

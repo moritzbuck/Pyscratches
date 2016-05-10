@@ -1,0 +1,38 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04711
+server: Apache
+date: Wed, 15 Oct 2014 15:08:59 GMT
+content-type: text/plain
+
+ENTRY       map04711                    Pathway
+NAME        Circadian rhythm - fly
+DESCRIPTION Circadian rhythm is an internal biological clock, which enables to sustain an approximately 24-hour rhythm in the absence of environmental cues. In the fruit fly Drosophila melanogaster, seven genes that contribute to the central clock function are known: period (per), timeless (tim), Clock (Clk), cycle (cyc), vrille (vri), double-time (dbt), and shaggy (sgg). The core of the circadian clock consists of molecular feedback loops where per and tim gene products (PER and TIM proteins) eventually turn off their own transcription. The CLK/CYC heterodimer activates transcription of per and tim genes, while the PER and TIM repressor proteins accumulate in the cytoplasm. After nuclear entry of PER and TIM, transcription is inhibited by direct binding of the PER/TIM heterodimer to the CLK/CYC heterodimer. This shutoff lasts until the PER and TIM proteins are degraded allowing a new round of transcription to occur.
+CLASS       Organismal Systems; Environmental adaptation
+PATHWAY_MAP map04711  Circadian rhythm - fly
+DBLINKS     GO: 0007623
+REFERENCE   PMID:12015613
+  AUTHORS   Panda S, Hogenesch JB, Kay SA.
+  TITLE     Circadian rhythms from flies to human.
+  JOURNAL   Nature 417:329-35 (2002)
+REFERENCE   PMID:11687489
+  AUTHORS   Harmer SL, Panda S, Kay SA.
+  TITLE     Molecular bases of circadian rhythms.
+  JOURNAL   Annu Rev Cell Dev Biol 17:215-53 (2001)
+REFERENCE   PMID:11533719
+  AUTHORS   Young MW, Kay SA.
+  TITLE     Time zones: a comparative genetics of circadian clocks.
+  JOURNAL   Nat Rev Genet 2:702-15 (2001)
+REFERENCE   PMID:12581523
+  AUTHORS   Cyran SA, Buchsbaum AM, Reddy KL, Lin MC, Glossop NR, Hardin PE, Young MW, Storti RV, Blau J.
+  TITLE     vrille, Pdp1, and dClock form a second feedback loop in the Drosophila circadian clock.
+  JOURNAL   Cell 112:329-41 (2003)
+REFERENCE   PMID:16351879
+  AUTHORS   Helfrich-Forster C
+  TITLE     The circadian system of Drosophila melanogaster and its light input pathways.
+  JOURNAL   Zoology (Jena) 105:297-312 (2002)
+REFERENCE   PMID:12486701
+  AUTHORS   Stanewsky R
+  TITLE     Genetic analysis of the circadian system in Drosophila melanogaster and mammals.
+  JOURNAL   J Neurobiol 54:111-47 (2003)
+KO_PATHWAY  ko04711
+///

@@ -1,0 +1,99 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05206
+server: Apache
+date: Wed, 15 Oct 2014 15:09:29 GMT
+content-type: text/plain
+
+ENTRY       map05206                    Pathway
+NAME        MicroRNAs in cancer
+DESCRIPTION MicroRNA (miRNA) is a cluster of small non-encoding RNA molecules of 21 - 23 nucleotides in length, which controls gene expression post-transcriptionally either via the degradation of target mRNAs or the inhibition of protein translation. Using high-throughput profiling, dysregulation of miRNAs has been widely observed in different stages of cancer. The upregulation (overexpression) of specific miRNAs could lead to the repression of tumor suppressor gene expression, and conversely the downregulation of specific miRNAs could result in an increase of oncogene expression; both these situations induce subsequent malignant effects on cell proliferation, differentiation, and apoptosis that lead to tumor growth and progress. The miRNA signatures of cancer observed in various studies differ significantly. These inconsistencies occur due to the differences in the study populations and methodologies used. This pathway map shows the summarized results from various studies in 9 cancers, each of which is presented in a review article.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05206  MicroRNAs in cancer
+DISEASE     H00013  Small cell lung cancer
+            H00014  Non-small cell lung cancer
+            H00017  Esophageal cancer
+            H00020  Colorectal cancer
+            H00022  Bladder cancer
+            H00024  Prostate cancer
+            H00027  Ovarian cancer
+            H00031  Breast cancer
+            H00042  Glioma
+            H00048  Hepatocellular carcinoma
+REFERENCE   PMID:18817506
+  AUTHORS   Lee YS, Dutta A
+  TITLE     MicroRNAs in cancer.
+  JOURNAL   Annu Rev Pathol 4:199-227 (2009)
+REFERENCE   PMID:21402473
+  AUTHORS   Babashah S, Soleimani M
+  TITLE     The oncogenic and tumour suppressive roles of microRNAs in cancer and apoptosis.
+  JOURNAL   Eur J Cancer 47:1127-37 (2011)
+REFERENCE   PMID:19630570
+  AUTHORS   Garzon R, Calin GA, Croce CM
+  TITLE     MicroRNAs in Cancer.
+  JOURNAL   Annu Rev Med 60:167-79 (2009)
+REFERENCE   PMID:23075324
+  AUTHORS   Chen PS, Su JL, Hung MC
+  TITLE     Dysregulation of microRNAs in cancer.
+  JOURNAL   J Biomed Sci 19:90 (2012)
+REFERENCE   PMID:22035854
+  AUTHORS   Ling H, Zhang W, Calin GA
+  TITLE     Principles of microRNA involvement in human cancers.
+  JOURNAL   Chin J Cancer 30:739-48 (2011)
+REFERENCE   PMID:22351564
+  AUTHORS   Iorio MV, Croce CM
+  TITLE     MicroRNA dysregulation in cancer: diagnostics, monitoring and therapeutics. A comprehensive review.
+  JOURNAL   EMBO Mol Med 4:143-59 (2012)
+REFERENCE   PMID:21742789
+  AUTHORS   Sayed D, Abdellatif M
+  TITLE     MicroRNAs in development and disease.
+  JOURNAL   Physiol Rev 91:827-87 (2011)
+REFERENCE   PMID:22345301
+  AUTHORS   Wang Q, Wang S, Wang H, Li P, Ma Z
+  TITLE     MicroRNAs: novel biomarkers for lung cancer diagnosis, prediction and treatment.
+  JOURNAL   Exp Biol Med (Maywood) 237:227-35 (2012)
+REFERENCE   PMID:22580099
+  AUTHORS   Song JH, Meltzer SJ
+  TITLE     MicroRNAs in pathogenesis, diagnosis, and treatment of gastroesophageal cancers.
+  JOURNAL   Gastroenterology 143:35-47.e2 (2012)
+REFERENCE   PMID:23462054
+  AUTHORS   Chu Y, Zhu H, Lv L, Zhou Y, Huo J
+  TITLE     MiRNA s in oesophageal squamous cancer.
+  JOURNAL   Neth J Med 71:69-75 (2013)
+REFERENCE   PMID:19773200
+  AUTHORS   Kan T, Meltzer SJ
+  TITLE     MicroRNAs in Barrett's esophagus and esophageal adenocarcinoma.
+  JOURNAL   Curr Opin Pharmacol 9:727-32 (2009)
+REFERENCE   PMID:20128019
+  AUTHORS   Smith CM, Watson DI, Michael MZ, Hussey DJ
+  TITLE     MicroRNAs, development of Barrett's esophagus, and progression to esophageal adenocarcinoma.
+  JOURNAL   World J Gastroenterol 16:531-7 (2010)
+REFERENCE   PMID:23165235
+  AUTHORS   Song S, Ajani JA
+  TITLE     The role of microRNAs in cancers of the upper gastrointestinal tract.
+  JOURNAL   Nat Rev Gastroenterol Hepatol 10:109-18 (2013)
+REFERENCE   PMID:21565290
+  AUTHORS   Liu WH, Yeh SH, Chen PJ
+  TITLE     Role of microRNAs in hepatitis B virus replication and pathogenesis.
+  JOURNAL   Biochim Biophys Acta 1809:678-85 (2011)
+REFERENCE   PMID:23091478
+  AUTHORS   Hrasovec S, Glavac D
+  TITLE     MicroRNAs as Novel Biomarkers in Colorectal Cancer.
+  JOURNAL   Front Genet 3:180 (2012)
+REFERENCE   PMID:22926415
+  AUTHORS   Liu H
+  TITLE     MicroRNAs in breast cancer initiation and progression.
+  JOURNAL   Cell Mol Life Sci 69:3587-99 (2012)
+REFERENCE   PMID:20345848
+  AUTHORS   Li SD, Zhang JR, Wang YQ, Wan XP
+  TITLE     The role of microRNAs in ovarian cancer initiation and progression.
+  JOURNAL   J Cell Mol Med 14:2240-9 (2010)
+REFERENCE   PMID:23316212
+  AUTHORS   Zabolotneva AA, Zhavoronkov A, Garazha AV, Roumiantsev SA, Buzdin AA
+  TITLE     Characteristic patterns of microRNA expression in human bladder cancer.
+  JOURNAL   Front Genet 3:310 (2012)
+REFERENCE   PMID:20221895
+  AUTHORS   Saini S, Majid S, Dahiya R
+  TITLE     Diet, microRNAs and prostate cancer.
+  JOURNAL   Pharm Res 27:1014-26 (2010)
+KO_PATHWAY  ko05206
+///

@@ -1,0 +1,53 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07051
+server: Apache
+date: Wed, 15 Oct 2014 15:09:51 GMT
+content-type: text/plain
+
+ENTRY       map07051          Drug      Pathway
+NAME        Antidiabetics
+PATHWAY_MAP map07051  Antidiabetics
+COMPOUND    D00085  Insulin (JAN/USP)
+            D00216  Acarbose (JAN/USAN/INN)
+            D00336  Glibenclamide (JP16/INN)
+            D00380  Tolbutamide (JP16/USP/INN)
+            D00395  Troglitazone (JAN/USAN/INN)
+            D00594  Repaglinide (JAN/USP/INN)
+            D00595  Buformin (USAN/INN)
+            D00625  Miglitol (JAN/USAN/INN)
+            D00944  Metformin hydrochloride (JP16/USP)
+            D00945  Pioglitazone hydrochloride (JP16/USP)
+            D01111  Nateglinide (JP16/USAN/INN)
+            D01665  Voglibose (JP16/USAN/INN)
+            D01854  Mitiglinide calcium hydrate (JAN)
+            D02206  Buformin hydrochloride (JP16)
+            D03230  Insulin human (genetical recombination) (JP16)
+            D03250  Insulin glargine (genetical recombination) (JP16)
+            D04121  Exenatide (JAN/USAN/INN)
+            D04475  Insulin aspart (genetical recombination) (JAN)
+            D04477  Insulin lispro (genetical recombination) (JAN)
+            D04539  Insulin detemir (genetical recombination) (JAN)
+            D04540  Insulin glulisine (genetical recombination) (JAN)
+            D04541  Insulin human, isophane (USP)
+            D04547  Isophane insulin injection (aqueous suspension) (JAN)
+            D04966  Metformin (USAN/INN)
+            D06404  Liraglutide (genetical recombination) (JAN)
+            D06553  Alogliptin benzoate (JAN/USAN)
+            D06645  Sitagliptin phosphate hydrate (JAN)
+            D07080  Vildagliptin (JAN/USAN/INN)
+            D08378  Pioglitazone (INN)
+            D08516  Sitagliptin (Prop.INN)
+            D08897  Dapagliflozin (USAN/INN)
+            D08996  Saxagliptin (INN)
+            D09566  Linagliptin (JAN/USAN/INN)
+            D09592  Canagliflozin hydrate (JAN)
+            D09727  Insulin degludec (genetical recombination) (JAN)
+            D09729  Lixisenatide (JAN/INN)
+            D09753  Saxagliptin hydrate (JAN/USAN)
+            D09763  Dapagliflozin propylene glycolate hydrate (JAN)
+            D09978  Tofogliflozin hydrate (JAN)
+            D10195  Luseogliflozin hydrate (JAN)
+            D10196  Ipragliflozin (INN)
+            D10200  Ipragliflozin L-proline (JAN)
+            D10336  Fasiglifam (INN)
+///

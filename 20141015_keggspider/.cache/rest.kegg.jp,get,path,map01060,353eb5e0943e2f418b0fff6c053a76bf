@@ -1,0 +1,11 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01060
+server: Apache
+date: Wed, 15 Oct 2014 14:57:58 GMT
+content-type: text/plain
+
+ENTRY       map01060                    Pathway
+NAME        Biosynthesis of plant secondary metabolites
+PATHWAY_MAP map01060  Biosynthesis of plant secondary metabolites
+KO_PATHWAY  ko01060
+///

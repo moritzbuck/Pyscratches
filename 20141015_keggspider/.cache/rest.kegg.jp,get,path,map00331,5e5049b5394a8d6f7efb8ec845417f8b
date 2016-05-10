@@ -1,0 +1,21 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00331
+server: Apache
+date: Wed, 15 Oct 2014 14:57:16 GMT
+content-type: text/plain
+
+ENTRY       map00331                    Pathway
+NAME        Clavulanic acid biosynthesis
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00331  Clavulanic acid biosynthesis
+MODULE      M00674  Clavaminate biosynthesis, arginine + glyceraldehyde-3P => clavaminate [PATH:map00331]
+REFERENCE   PMID:9614345
+  AUTHORS   McGowan SJ, Bycroft BW, Salmond GP.
+  TITLE     Bacterial production of carbapenems and clavams: evolution of beta-lactam antibiotic pathways.
+  JOURNAL   Trends Microbiol 6:203-8 (1998)
+REFERENCE   PMID:14623876
+  AUTHORS   Caines ME, Elkins JM, Hewitson KS, Schofield CJ.
+  TITLE     Crystal structure and mechanistic implications of N2-(2-carboxyethyl)arginine synthase, the first enzyme in the clavulanic acid biosynthesis pathway.
+  JOURNAL   J Biol Chem 279:5685-92 (2004)
+KO_PATHWAY  ko00331
+///

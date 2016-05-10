@@ -1,0 +1,70 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04960
+server: Apache
+date: Wed, 15 Oct 2014 14:58:49 GMT
+content-type: text/plain
+
+ENTRY       map04960                    Pathway
+NAME        Aldosterone-regulated sodium reabsorption
+DESCRIPTION Sodium transport across the tight epithelia of Na+ reabsorbing tissues such as the distal part of the kidney nephron and colon is the major factor determining total-body Na+ levels, and thus, long-term blood pressure. Aldosterone plays a major role in sodium and potassium metabolism by binding to epithelial mineralocorticoid receptors (MR) in the renal collecting duct cells localized in the distal nephron, promoting sodium resorption and potassium excretion. Aldosterone enters a target cell and binds MR, which translocates into the nucleus and regulates gene transcription. Activation of MR leads to increased expression of Sgk-1, which phosphorylates Nedd4-2, an ubiquitin-ligase which targets ENAC to proteosomal degradation. Phosphorylated Nedd4-2 dissociates from ENAC, increasing its apical membrane abundance. Activation of MR also leads to increased expression of Na+/K+-ATPase, thus causing a net increase in sodium uptake from the renal filtrate. The specificity of MR for aldosterone is provided by 11beta-HSD2 by the rapid conversion of cortisol to cortisone in renal cortical collecting duct cells. Recently, besides genomic effects mediated by activated MR, rapid aldosterone actions that are independent of translation and transcription have been documented.
+CLASS       Organismal Systems; Excretory system
+PATHWAY_MAP map04960  Aldosterone-regulated sodium reabsorption
+DISEASE     H00239  Bartter syndrome
+            H00242  Liddle syndrome
+            H00243  Hyperkalemic distal renal tubular acidosis (RTA type 4)
+            H00603  Hypertension exacerbated in pregnancy
+            H00719  Leprechaunism
+            H00892  Bronchiectasis with or without elevated sweat chloride
+            H00942  Rabson-Mendenhall syndrome
+            H00998  Alternating hemiplegia of childhood
+            H01228  Insulin-resistant diabetes mellitus with acanthosis nigricans (IRAN)
+REFERENCE   PMID:16002531
+  AUTHORS   Connell JM, Davies E
+  TITLE     The new biology of aldosterone.
+  JOURNAL   J Endocrinol 186:1-20 (2005)
+REFERENCE   PMID:11850323
+  AUTHORS   Booth RE, Johnson JP, Stockand JD
+  TITLE     Aldosterone.
+  JOURNAL   Adv Physiol Educ 26:8-20 (2002)
+REFERENCE   PMID:18197893
+  AUTHORS   Lee IH, Campbell CR, Cook DI, Dinudom A
+  TITLE     Regulation of epithelial Na+ channels by aldosterone: role of Sgk1.
+  JOURNAL   Clin Exp Pharmacol Physiol 35:235-41 (2008)
+REFERENCE   PMID:18174920
+  AUTHORS   Viengchareun S, Le Menuet D, Martinerie L, Munier M, Pascual-Le Tallec L, Lombes M
+  TITLE     The mineralocorticoid receptor: insights into its molecular and (patho)physiological biology.
+  JOURNAL   Nucl Recept Signal 5:e012 (2007)
+REFERENCE   PMID:16286565
+  AUTHORS   Fuller PJ, Young MJ
+  TITLE     Mechanisms of mineralocorticoid action.
+  JOURNAL   Hypertension 46:1227-35 (2005)
+REFERENCE   PMID:12649599
+  AUTHORS   Verrey F, Loffing J, Zecevic M, Heitzmann D, Staub O
+  TITLE     SGK1: aldosterone-induced relay of Na+ transport regulation in distal kidney nephron cells.
+  JOURNAL   Cell Physiol Biochem 13:21-8 (2003)
+REFERENCE   PMID:17332888
+  AUTHORS   Pearce D, Kleyman TR
+  TITLE     Salt, sodium channels, and SGK1.
+  JOURNAL   J Clin Invest 117:592-5 (2007)
+REFERENCE   PMID:19549592
+  AUTHORS   Grossmann C, Gekle M
+  TITLE     New aspects of rapid aldosterone signaling.
+  JOURNAL   Mol Cell Endocrinol 308:53-62 (2009)
+REFERENCE   PMID:15590995
+  AUTHORS   Vallon V, Wulff P, Huang DY, Loffing J, Volkl H, Kuhl D, Lang F
+  TITLE     Role of Sgk1 in salt and potassium homeostasis.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 288:R4-10 (2005)
+REFERENCE   PMID:12943727
+  AUTHORS   Rogerson FM, Brennan FE, Fuller PJ
+  TITLE     Dissecting mineralocorticoid receptor structure and function.
+  JOURNAL   J Steroid Biochem Mol Biol 85:389-96 (2003)
+REFERENCE   PMID:11208606
+  AUTHORS   Wang J, Barbry P, Maiyar AC, Rozansky DJ, Bhargava A, Leong M, Firestone GL, Pearce D
+  TITLE     SGK integrates insulin and mineralocorticoid regulation of epithelial sodium transport.
+  JOURNAL   Am J Physiol Renal Physiol 280:F303-13 (2001)
+REFERENCE   PMID:17309947
+  AUTHORS   Good DW
+  TITLE     Nongenomic actions of aldosterone on the renal tubule.
+  JOURNAL   Hypertension 49:728-39 (2007)
+KO_PATHWAY  ko04960
+///

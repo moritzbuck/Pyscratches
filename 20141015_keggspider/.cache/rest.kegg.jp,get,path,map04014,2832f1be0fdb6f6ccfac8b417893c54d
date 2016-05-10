@@ -1,0 +1,110 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04014
+server: Apache
+date: Wed, 15 Oct 2014 14:58:13 GMT
+content-type: text/plain
+
+ENTRY       map04014                    Pathway
+NAME        Ras signaling pathway
+DESCRIPTION The Ras proteins are GTPases that function as molecular switches for signaling pathways regulating cell proliferation, survival, growth, migration, differentiation or cytoskeletal dynamism. Ras proteins transduce signals from extracellular growth factors by cycling between inactive GDP-bound and active GTP-bound states. The exchange of GTP for GDP on RAS is regulated by guanine nucleotide exchange factors (GEFs) and GTPase-activating proteins (GAPs). Activated RAS (RAS-GTP) regulates multiple cellular functions through effectors including Raf, phosphatidylinositol 3-kinase (PI3K) and Ral guanine nucleotide-dissociation stimulator (RALGDS).
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04014  Ras signaling pathway
+DBLINKS     GO: 0032318
+REFERENCE   PMID:18568040
+  AUTHORS   Karnoub AE, Weinberg RA
+  TITLE     Ras oncogenes: split personalities.
+  JOURNAL   Nat Rev Mol Cell Biol 9:517-31 (2008)
+REFERENCE   PMID:12778136
+  AUTHORS   Malumbres M, Barbacid M
+  TITLE     RAS oncogenes: the first 30 years.
+  JOURNAL   Nat Rev Cancer 3:459-65 (2003)
+REFERENCE   PMID:21686117
+  AUTHORS   Cox AD, Der CJ
+  TITLE     Ras history: The saga continues.
+  JOURNAL   Small GTPases 1:2-27 (2010)
+REFERENCE   PMID:12642680
+  AUTHORS   Cox AD, Der CJ
+  TITLE     Ras family signaling: therapeutic targeting.
+  JOURNAL   Cancer Biol Ther 1:599-606 (2002)
+REFERENCE   PMID:17428555
+  AUTHORS   Rajalingam K, Schreck R, Rapp UR, Albert S
+  TITLE     Ras oncogenes and their downstream targets.
+  JOURNAL   Biochim Biophys Acta 1773:1177-95 (2007)
+REFERENCE   PMID:17384584
+  AUTHORS   Schubbert S, Shannon K, Bollag G
+  TITLE     Hyperactive Ras in developmental disorders and cancer.
+  JOURNAL   Nat Rev Cancer 7:295-308 (2007)
+REFERENCE   PMID:22233291
+  AUTHORS   Poulogiannis G, Luo F, Arends MJ
+  TITLE     RAS signalling in the colorectum in health and disease.
+  JOURNAL   Cell Commun Adhes 19:1-9 (2012)
+REFERENCE   PMID:22020205
+  AUTHORS   Berndt N, Hamilton AD, Sebti SM
+  TITLE     Targeting protein prenylation for cancer therapy.
+  JOURNAL   Nat Rev Cancer 11:775-91 (2011)
+REFERENCE   PMID:21196257
+  AUTHORS   Overmeyer JH, Maltese WA
+  TITLE     Death pathways triggered by activated Ras in cancer cells.
+  JOURNAL   Front Biosci (Landmark Ed) 16:1693-713 (2011)
+REFERENCE   PMID:16869784
+  AUTHORS   Rodriguez-Viciana P, Tetsu O, Oda K, Okada J, Rauen K, McCormick F
+  TITLE     Cancer targets in the Ras pathway.
+  JOURNAL   Cold Spring Harb Symp Quant Biol 70:461-7 (2005)
+REFERENCE   PMID:14663478
+  AUTHORS   Cox AD, Der CJ
+  TITLE     The dark side of Ras: regulation of apoptosis.
+  JOURNAL   Oncogene 22:8999-9006 (2003)
+REFERENCE   PMID:18413813
+  AUTHORS   Braun BS, Shannon K
+  TITLE     Targeting Ras in myeloid leukemias.
+  JOURNAL   Clin Cancer Res 14:2249-52 (2008)
+REFERENCE   PMID:20420946
+  AUTHORS   Pino MS, Chung DC
+  TITLE     The chromosomal instability pathway in colon cancer.
+  JOURNAL   Gastroenterology 138:2059-72 (2010)
+REFERENCE   PMID:12217381
+  AUTHORS   Schrader JW, Schallhorn A, Grill B, Guo X
+  TITLE     Activation of small GTPases of the Ras and Rho family by growth factors active on mast cells.
+  JOURNAL   Mol Immunol 38:1181-6 (2002)
+REFERENCE   PMID:22189424
+  AUTHORS   Ahearn IM, Haigis K, Bar-Sagi D, Philips MR
+  TITLE     Regulating the regulator: post-translational modification of RAS.
+  JOURNAL   Nat Rev Mol Cell Biol 13:39-51 (2012)
+REFERENCE   PMID:11313946
+  AUTHORS   Ehrhardt GR, Korherr C, Wieler JS, Knaus M, Schrader JW
+  TITLE     A novel potential effector of M-Ras and p21 Ras negatively regulates p21 Ras-mediated gene induction and cell growth.
+  JOURNAL   Oncogene 20:188-97 (2001)
+REFERENCE   PMID:16966426
+  AUTHORS   Goldfinger LE, Ptak C, Jeffery ED, Shabanowitz J, Hunt DF, Ginsberg MH
+  TITLE     RLIP76 (RalBP1) is an R-Ras effector that mediates adhesion-dependent Rac activation and cell migration.
+  JOURNAL   J Cell Biol 174:877-88 (2006)
+REFERENCE   PMID:23506953
+  AUTHORS   Kortum RL, Rouquette-Jazdanian AK, Samelson LE
+  TITLE     Ras and extracellular signal-regulated kinase signaling in thymocytes and T cells.
+  JOURNAL   Trends Immunol 34:259-68 (2013)
+REFERENCE   PMID:15572660
+  AUTHORS   Roberts DM, Anderson AL, Hidaka M, Swetenburg RL, Patterson C, Stanford WL, Bautch VL
+  TITLE     A vascular gene trap screen defines RasGRP3 as an angiogenesis-regulated gene required for the endothelial response to phorbol esters.
+  JOURNAL   Mol Cell Biol 24:10515-28 (2004)
+REFERENCE   PMID:10712923
+  AUTHORS   Reuther GW, Der CJ
+  TITLE     The Ras branch of small GTPases: Ras family members don't fall far from the tree.
+  JOURNAL   Curr Opin Cell Biol 12:157-65 (2000)
+REFERENCE   PMID:21111786
+  AUTHORS   Fernandez-Medarde A, Santos E
+  TITLE     The RasGrf family of mammalian guanine nucleotide exchange factors.
+  JOURNAL   Biochim Biophys Acta 1815:170-88 (2011)
+REFERENCE   PMID:18437264
+  AUTHORS   Iwashita S, Song SY
+  TITLE     RasGAPs: a crucial regulator of extracellular stimuli for homeostasis of cellular functions.
+  JOURNAL   Mol Biosyst 4:213-22 (2008)
+REFERENCE   PMID:15062121
+  AUTHORS   Ory S, Morrison DK
+  TITLE     Signal transduction: implications for Ras-dependent ERK signaling.
+  JOURNAL   Curr Biol 14:R277-8 (2004)
+REFERENCE   PMID:19091743
+  AUTHORS   Matheny SA, White MA
+  TITLE     Signaling threshold regulation by the Ras effector IMP.
+  JOURNAL   J Biol Chem 284:11007-11 (2009)
+KO_PATHWAY  ko04014
+///

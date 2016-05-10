@@ -1,0 +1,46 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05216
+server: Apache
+date: Wed, 15 Oct 2014 14:59:10 GMT
+content-type: text/plain
+
+ENTRY       map05216                    Pathway
+NAME        Thyroid cancer
+DESCRIPTION Thyroid cancer is the most common endocrine malignancy and accounts for the majority of endocrine cancer- related deaths each year. More than 95% of thyroid carcinomas are derived from follicular cells.  Their behavior varies from the indolent growing, well-differentiated papillary and follicular carcinomas (PTC and FTC, respectively) to the extremely aggressive undifferentiated carcinoma (UC). Somatic rearrangements of RET and TRK are almost exclusively found in PTC and may be found in early stages. The most distinctive molecular features of FTC are the prominence of aneuploidy and the high prevalence of RAS mutations and PAX8-PPAR{gamma} rearrangements. p53 seems to play a crucial role in the dedifferentiation process of thyroid carcinoma.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05216  Thyroid cancer
+DISEASE     H00032  Thyroid cancer
+REFERENCE   PMID:16557281
+  AUTHORS   Kondo T, Ezzat S, Asa SL.
+  TITLE     Pathogenetic mechanisms in thyroid follicular-cell neoplasia.
+  JOURNAL   Nat Rev Cancer 6:292-306 (2006)
+REFERENCE   PMID:16551846
+  AUTHORS   Chiloeches A, Marais R.
+  TITLE     Is BRAF the Achilles' Heel of thyroid cancer?
+  JOURNAL   Clin Cancer Res 12:1661-4 (2006)
+REFERENCE   PMID:16946003
+  AUTHORS   Reddi HV, McIver B, Grebe SK, Eberhardt NL.
+  TITLE     THE PAX8/PPAR{gamma} ONCOGENE IN THYROID TUMORIGENESIS.
+  JOURNAL   Endocrinology : (2006)
+REFERENCE   PMID:17062879
+  AUTHORS   Santoro M, Melillo RM, Fusco A.
+  TITLE     RET/PTC activation in papillary thyroid carcinoma: European Journal of Endocrinology Prize Lecture.
+  JOURNAL   Eur J Endocrinol 155:645-653 (2006)
+REFERENCE   PMID:16242838
+  AUTHORS   Pierotti MA, Greco A.
+  TITLE     Oncogenic rearrangements of the NTRK1/NGF receptor.
+  JOURNAL   Cancer Lett 232:90-8 (2006)
+REFERENCE   PMID:16189702
+  AUTHORS   Sobrinho-Simoes M, Preto A, Rocha AS, Castro P, Maximo V, Fonseca E, Soares P.
+  TITLE     Molecular pathology of well-differentiated thyroid carcinomas.
+  JOURNAL   Virchows Arch 447:787-93 (2005)
+REFERENCE   PMID:11165748
+  AUTHORS   Gimm O.
+  TITLE     Thyroid cancer.
+  JOURNAL   Cancer Lett 163:143-56 (2001)
+REFERENCE   PMID:12094241
+  AUTHORS   Williams D.
+  TITLE     Cancer after nuclear fallout: lessons from the Chernobyl accident.
+  JOURNAL   Nat Rev Cancer 2:543-9 (2002)
+KO_PATHWAY  ko05216
+///

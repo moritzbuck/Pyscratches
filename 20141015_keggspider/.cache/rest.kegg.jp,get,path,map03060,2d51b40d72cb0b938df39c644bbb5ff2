@@ -1,0 +1,63 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map03060
+server: Apache
+date: Wed, 15 Oct 2014 14:58:09 GMT
+content-type: text/plain
+
+ENTRY       map03060                    Pathway
+NAME        Protein export
+DESCRIPTION The protein export is the active transport of proteins from the cytoplasm to the exterior of the cell, or to the periplasmic compartment in Gram-negative bacteria. The sec dependent pathway is the general protein export system that transports newly synthesized proteins into or across the cell membrane. The translocation channel is formed from a conserved trimeric membrane protein complex, called the Sec61/SecY complex. The twin-arginine translocation (Tat) pathway is another protein transport system that transports folded proteins in bacteria, archaea, and chloroplasts. Many Tat systems comprise three functionally different membrane proteins, TatA, TatB, and TatC, but TatA and TatE seem to have overlapping functions, with TatA having by far the more important role.
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP map03060  Protein export
+MODULE      M00401  Sec61 complex [PATH:map03060]
+DBLINKS     GO: 0043952 0043953
+REFERENCE   PMID:10087917
+  AUTHORS   Dalbey RE, Robinson C.
+  TITLE     Protein translocation into and across the bacterial plasma membrane and the plant thylakoid membrane.
+  JOURNAL   Trends Biochem Sci 24:17-22 (1999)
+REFERENCE   PMID:10652088
+  AUTHORS   Berks BC, Sargent F, Palmer T.
+  TITLE     The Tat protein export pathway.
+  JOURNAL   Mol Microbiol 35:260-74 (2000)
+REFERENCE   PMID:10747959
+  AUTHORS   Wexler M, Sargent F, Jack RL, Stanley NR, Bogsch EG, Robinson C, Berks BC, Palmer T.
+  TITLE     TatD is a cytoplasmic protein with DNase activity. No requirement for TatD family proteins in sec-independent protein export.
+  JOURNAL   J Biol Chem 275:16717-22 (2000)
+REFERENCE   PMID:11007775
+  AUTHORS   Jongbloed JD, Martin U, Antelmann H, Hecker M, Tjalsma H, Venema G, Bron S, van Dijl JM, Muller J.
+  TITLE     TatC is a specificity determinant for protein secretion via the twin-arginine translocation pathway.
+  JOURNAL   J Biol Chem 275:41350-7 (2000)
+REFERENCE   PMID:18046402
+  AUTHORS   Rapoport TA
+  TITLE     Protein translocation across the eukaryotic endoplasmic reticulum and bacterial plasma membranes.
+  JOURNAL   Nature 450:663-9 (2007)
+REFERENCE   PMID:17368028
+  AUTHORS   Flower AM
+  TITLE     The SecY translocation complex: convergence of genetics and structure.
+  JOURNAL   Trends Microbiol 15:203-10 (2007)
+REFERENCE   PMID:16212506
+  AUTHORS   Osborne AR, Rapoport TA, van den Berg B
+  TITLE     Protein translocation by the Sec61/SecY channel.
+  JOURNAL   Annu Rev Cell Dev Biol 21:529-50 (2005)
+REFERENCE   PMID:12475201
+  AUTHORS   Paetzel M, Karla A, Strynadka NC, Dalbey RE
+  TITLE     Signal peptidases.
+  JOURNAL   Chem Rev 102:4549-80 (2002)
+REFERENCE   PMID:10924740
+  AUTHORS   Paetzel M, Dalbey RE, Strynadka NC
+  TITLE     The structure and mechanism of bacterial type I signal peptidases. A novel antibiotic target.
+  JOURNAL   Pharmacol Ther 87:27-49 (2000)
+REFERENCE   PMID:17259602
+  AUTHORS   Ng SY, Chaban B, VanDyke DJ, Jarrell KF
+  TITLE     Archaeal signal peptidases.
+  JOURNAL   Microbiology 153:305-14 (2007)
+REFERENCE   PMID:19299134
+  AUTHORS   Desvaux M, Hebraud M, Talon R, Henderson IR
+  TITLE     Secretion and subcellular localizations of bacterial proteins: a semantic awareness issue.
+  JOURNAL   Trends Microbiol 17:139-45 (2009)
+REFERENCE   PMID:15063851
+  AUTHORS   Nakatogawa H, Murakami A, Ito K
+  TITLE     Control of SecA and SecM translation by protein secretion.
+  JOURNAL   Curr Opin Microbiol 7:145-50 (2004)
+KO_PATHWAY  ko03060
+///

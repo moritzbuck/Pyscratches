@@ -1,0 +1,33 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00232
+server: Apache
+date: Wed, 15 Oct 2014 14:57:11 GMT
+content-type: text/plain
+
+ENTRY       map00232                    Pathway
+NAME        Caffeine metabolism
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00232  Caffeine metabolism
+DBLINKS     UMBBD: caf caf2
+REFERENCE   PMID:9705852
+  AUTHORS   Madyastha KM, Sridhar GR.
+  TITLE     A novel pathway for the metabolism of caffeine by a mixed culture consortium.
+  JOURNAL   Biochem Biophys Res Commun 249:178-81 (1998)
+REFERENCE   PMID:14977550
+  AUTHORS   Mazzafera P.
+  TITLE     Catabolism of caffeine in plants and microorganisms.
+  JOURNAL   Front Biosci 9:1348-59 (2004)
+REFERENCE   PMID:11393735
+  AUTHORS   Nyeki A, Biollaz J, Kesselring UW, Decosterd LA.
+  TITLE     Extractionless method for the simultaneous high-performance liquid chromatographic determination of urinary caffeine metabolites for N-acetyltransferase 2, cytochrome P450 1A2 and xanthine oxidase activity assessment.
+  JOURNAL   J Chromatogr B Biomed Sci Appl 755:73-84 (2001)
+REFERENCE   PMID:11544129
+  AUTHORS   Ashihara H, Crozier A.
+  TITLE     Caffeine: a well known but little mentioned compound in plant science.
+  JOURNAL   Trends Plant Sci 6:407-13 (2001)
+REFERENCE   PMID:16333668
+  AUTHORS   Yoneyama N, Morimoto H, Ye CX, Ashihara H, Mizuno K, Kato M.
+  TITLE     Substrate specificity of N-methyltransferase involved in purine alkaloids synthesis is dependent upon one amino acid residue of the enzyme.
+  JOURNAL   Mol Genet Genomics 275:125-35 (2006)
+KO_PATHWAY  ko00232
+///

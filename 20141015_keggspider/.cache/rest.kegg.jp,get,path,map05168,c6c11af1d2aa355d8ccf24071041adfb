@@ -1,0 +1,134 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05168
+server: Apache
+date: Wed, 15 Oct 2014 14:59:05 GMT
+content-type: text/plain
+
+ENTRY       map05168                    Pathway
+NAME        Herpes simplex infection
+DESCRIPTION Herpes simplex virus (HSV) infections are very common worldwide, with the prevalence of HSV-1 reaching up to 80%-90%. Primary infection with HSV takes place in the mucosa, followed by the establishment of latent infection in neuronal ganglia. HSV is the main cause of herpes infections that lead to the formation of characteristic blistering lesion. HSV express multiple viral accessory proteins that interfere with host immune responses and are indispensable for viral replication. Among these proteins, the immediate early (IE) gene ICP0, ICP4, and ICP27 are essential for regulation of HSV gene expression in productive infection. On the other hand, ORF P and ORF O gene are transcribed during latency and blocks the expression of the IE genes, thus maintaining latent infection.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05168  Herpes simplex infection
+MODULE      M00381  SCF-SKP2 complex [PATH:map05168]
+REFERENCE   PMID:12797447
+  AUTHORS   Kobelt D, Lechmann M, Steinkasserer A
+  TITLE     The interaction between dendritic cells and herpes simplex virus-1.
+  JOURNAL   Curr Top Microbiol Immunol 276:145-61 (2003)
+REFERENCE   PMID:12224508
+  AUTHORS   Leib DA
+  TITLE     Counteraction of interferon-induced antiviral responses by herpes simplex viruses.
+  JOURNAL   Curr Top Microbiol Immunol 269:171-85 (2002)
+REFERENCE   PMID:20036979
+  AUTHORS   Martinez-Martin N, Viejo-Borbolla A
+  TITLE     Toll-like receptor-mediated recognition of herpes simplex virus.
+  JOURNAL   Front Biosci (Schol Ed) 2:718-29 (2010)
+REFERENCE   PMID:10696424
+  AUTHORS   Roizman B
+  TITLE     HSV gene functions: what have we learned that could be generally applicable to its near and distant cousins?
+  JOURNAL   Acta Virol 43:75-80 (1999)
+REFERENCE   PMID:12224518
+  AUTHORS   Bauer D, Tampe R
+  TITLE     Herpes viral proteins blocking the transporter associated with antigen processing TAP--from genes to function and structure.
+  JOURNAL   Curr Top Microbiol Immunol 269:87-99 (2002)
+REFERENCE   PMID:18508584
+  AUTHORS   Sandri-Goldin RM
+  TITLE     The many roles of the regulatory protein ICP27 during herpes simplex virus infection.
+  JOURNAL   Front Biosci 13:5241-56 (2008)
+REFERENCE   PMID:12224517
+  AUTHORS   Reits E, Griekspoor A, Neefjes J
+  TITLE     Herpes viral proteins manipulating the peptide transporter TAP.
+  JOURNAL   Curr Top Microbiol Immunol 269:75-83 (2002)
+REFERENCE   PMID:15056211
+  AUTHORS   Spear PG
+  TITLE     Herpes simplex virus: receptors and ligands for cell entry.
+  JOURNAL   Cell Microbiol 6:401-10 (2004)
+REFERENCE   PMID:18596690
+  AUTHORS   Umbach JL, Kramer MF, Jurak I, Karnowski HW, Coen DM, Cullen BR
+  TITLE     MicroRNAs expressed by herpes simplex virus 1 during latent infection regulate viral mRNAs.
+  JOURNAL   Nature 454:780-3 (2008)
+REFERENCE   PMID:16076403
+  AUTHORS   Ellermann-Eriksen S
+  TITLE     Macrophages and cytokines in the early defence against herpes simplex virus.
+  JOURNAL   Virol J 2:59 (2005)
+REFERENCE   PMID:16297150
+  AUTHORS   Novak N, Peng WM
+  TITLE     Dancing with the enemy: the interplay of herpes simplex virus with dendritic cells.
+  JOURNAL   Clin Exp Immunol 142:405-10 (2005)
+REFERENCE   PMID:12525427
+  AUTHORS   Koelle DM, Corey L
+  TITLE     Recent progress in herpes simplex virus immunobiology and vaccine research.
+  JOURNAL   Clin Microbiol Rev 16:96-113 (2003)
+REFERENCE   PMID:14747533
+  AUTHORS   Lin R, Noyce RS, Collins SE, Everett RD, Mossman KL
+  TITLE     The herpes simplex virus ICP0 RING finger domain inhibits IRF3- and IRF7-mediated activation of interferon-stimulated genes.
+  JOURNAL   J Virol 78:1675-84 (2004)
+REFERENCE   PMID:14963113
+  AUTHORS   Hagglund R, Roizman B
+  TITLE     Role of ICP0 in the strategy of conquest of the host cell by herpes simplex virus 1.
+  JOURNAL   J Virol 78:2169-78 (2004)
+REFERENCE   PMID:10918307
+  AUTHORS   Everett RD
+  TITLE     ICP0, a regulator of herpes simplex virus during lytic and latent infection.
+  JOURNAL   Bioessays 22:761-70 (2000)
+REFERENCE   PMID:12826401
+  AUTHORS   Wysocka J, Herr W
+  TITLE     The herpes simplex virus VP16-induced complex: the makings of a regulatory switch.
+  JOURNAL   Trends Biochem Sci 28:294-304 (2003)
+REFERENCE   PMID:19694546
+  AUTHORS   Paladino P, Mossman KL
+  TITLE     Mechanisms employed by herpes simplex virus 1 to inhibit the interferon response.
+  JOURNAL   J Interferon Cytokine Res 29:599-607 (2009)
+REFERENCE   PMID:11070032
+  AUTHORS   Bryant HE, Matthews DA, Wadd S, Scott JE, Kean J, Graham S, Russell WC, Clements JB
+  TITLE     Interaction between herpes simplex virus type 1 IE63 protein and cellular protein p32.
+  JOURNAL   J Virol 74:11322-8 (2000)
+REFERENCE   PMID:10998601
+  AUTHORS   Jackson PK, Eldridge AG, Freed E, Furstenthal L, Hsu JY, Kaiser BK, Reimann JD
+  TITLE     The lore of the RINGs: substrate recognition and catalysis by ubiquitin ligases.
+  JOURNAL   Trends Cell Biol 10:429-39 (2000)
+REFERENCE   PMID:10364308
+  AUTHORS   Long MC, Leong V, Schaffer PA, Spencer CA, Rice SA
+  TITLE     ICP22 and the UL13 protein kinase are both required for herpes simplex virus-induced modification of the large subunit of RNA polymerase II.
+  JOURNAL   J Virol 73:5593-604 (1999)
+REFERENCE   PMID:15163721
+  AUTHORS   Yokota S, Yokosawa N, Okabayashi T, Suzutani T, Miura S, Jimbow K, Fujii N
+  TITLE     Induction of suppressor of cytokine signaling-3 by herpes simplex virus type 1 contributes to inhibition of the interferon signaling pathway.
+  JOURNAL   J Virol 78:6282-6 (2004)
+REFERENCE   PMID:9499021
+  AUTHORS   Kawaguchi Y, Van Sant C, Roizman B
+  TITLE     Eukaryotic elongation factor 1delta is hyperphosphorylated by the protein kinase  encoded by the U(L)13 gene of herpes simplex virus 1.
+  JOURNAL   J Virol 72:1731-6 (1998)
+REFERENCE   PMID:10196275
+  AUTHORS   Bruni R, Fineschi B, Ogle WO, Roizman B
+  TITLE     A novel cellular protein, p60, interacting with both herpes simplex virus 1 regulatory proteins ICP22 and ICP0 is modified in a cell-type-specific manner and Is recruited to the nucleus after infection.
+  JOURNAL   J Virol 73:3810-7 (1999)
+REFERENCE   PMID:19879619
+  AUTHORS   Johnson KE, Knipe DM
+  TITLE     Herpes simplex virus-1 infection causes the secretion of a type I interferon-antagonizing protein and inhibits signaling at or before Jak-1 activation.
+  JOURNAL   Virology 396:21-9 (2010)
+REFERENCE   PMID:15047834
+  AUTHORS   Chee AV, Roizman B
+  TITLE     Herpes simplex virus 1 gene products occlude the interferon signaling pathway at  multiple sites.
+  JOURNAL   J Virol 78:4185-96 (2004)
+REFERENCE   PMID:17913820
+  AUTHORS   Rasmussen SB, Sorensen LN, Malmgaard L, Ank N, Baines JD, Chen ZJ, Paludan SR
+  TITLE     Type I interferon production during herpes simplex virus infection is controlled  by cell-type-specific viral recognition through Toll-like receptor 9, the mitochondrial antiviral signaling protein pathway, and novel recognition systems.
+  JOURNAL   J Virol 81:13315-24 (2007)
+REFERENCE   PMID:21107701
+  AUTHORS   Dufour F, Sasseville AM, Chabaud S, Massie B, Siegel RM, Langelier Y
+  TITLE     The ribonucleotide reductase R1 subunits of herpes simplex virus types 1 and 2 protect cells against TNFalpha- and FasL-induced apoptosis by interacting with caspase-8.
+  JOURNAL   Apoptosis 16:256-71 (2011)
+REFERENCE   PMID:9621021
+  AUTHORS   Schang LM, Phillips J, Schaffer PA
+  TITLE     Requirement for cellular cyclin-dependent kinases in herpes simplex virus replication and transcription.
+  JOURNAL   J Virol 72:5626-37 (1998)
+REFERENCE   PMID:12844494
+  AUTHORS   Medici MA, Sciortino MT, Perri D, Amici C, Avitabile E, Ciotti M, Balestrieri E, De Smaele E, Franzoso G, Mastino A
+  TITLE     Protection by herpes simplex virus glycoprotein D against Fas-mediated apoptosis: role of nuclear factor kappaB.
+  JOURNAL   J Biol Chem 278:36059-67 (2003)
+REFERENCE   PMID:17222692
+  AUTHORS   Nguyen ML, Blaho JA
+  TITLE     Apoptosis during herpes simplex virus infection.
+  JOURNAL   Adv Virus Res 69:67-97 (2007)
+KO_PATHWAY  ko05168
+///

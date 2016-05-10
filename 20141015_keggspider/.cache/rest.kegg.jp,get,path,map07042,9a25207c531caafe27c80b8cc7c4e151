@@ -1,0 +1,85 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07042
+server: Apache
+date: Wed, 15 Oct 2014 14:59:27 GMT
+content-type: text/plain
+
+ENTRY       map07042          Drug      Pathway
+NAME        Antineoplastics - agents from natural products
+PATHWAY_MAP map07042  Antineoplastics - agents from natural products
+COMPOUND    C01897  Camptothecin
+            D00125  Etoposide (JP16/USP/INN)
+            D00208  Mitomycin C (JP16)
+            D00214  Actinomycin D (JP16)
+            D00491  Paclitaxel (JAN/USP/INN)
+            D00753  Sirolimus (JAN/USAN/INN)
+            D01061  Irinotecan hydrochloride hydrate (JAN)
+            D01068  Vinblastine sulfate (JP16/USP)
+            D01264  Daunorubicin hydrochloride (JP16/USP)
+            D01275  Doxorubicin hydrochloride (JP16/USP)
+            D01747  Idarubicin hydrochloride (JP16/USP)
+            D01769  Vindesine sulfate (JAN/USAN)
+            D01885  Pirarubicin (JP16/INN)
+            D01911  Aclarubicin hydrochloride (JP16)
+            D01935  Vinorelbine ditartrate (JAN)
+            D02063  Peplomycin sulfate (JP16/USAN)
+            D02165  Docetaxel hydrate (JP16)
+            D02166  Mitoxantrone hydrochloride (JAN/USP)
+            D02168  Nogitecan hydrochloride (JAN)
+            D02177  Bleomycin sulfate (JP16/USP)
+            D02197  Vincristine sulfate (JP16/USP)
+            D02214  Epirubicin hydrochloride (JP16/USAN)
+            D02698  Teniposide (USAN/INN)
+            D02714  Everolimus (JAN/USAN/INN)
+            D02756  Aclarubicin (USAN/INN)
+            D03229  Bleomycin hydrochloride (JP16)
+            D03899  Doxorubicin (USAN/INN)
+            D04107  Etoposide phosphate (USAN)
+            D05333  Paclitaxel poliglumex (USAN/INN)
+            D05529  Podofilox (USAN)
+            D06068  Temsirolimus (JAN/USAN/INN)
+            D06304  Vindesine (USAN/INN)
+            D07100  Amrubicin hydrochloride (JAN/USAN)
+            D07535  Bleomycin (INN)
+            D07776  Daunorubicin (INN)
+            D07866  Docetaxel (JAN/INN)
+            D07901  Epirubicin (INN)
+            D08062  Idarubicin (INN)
+            D08086  Irinotecan (INN)
+            D08224  Mitoxantrone (INN)
+            D08336  Peplomycin (INN)
+            D08386  Pirarubicin hydrochloride
+            D08618  Topotecan (BAN)
+            D08675  Vinblastine (INN)
+            D08679  Vincristine (INN)
+            D08680  Vinorelbine (INN)
+            D08854  Amrubicin (USAN/INN)
+REFERENCE   
+  AUTHORS   Skeel RT (ed).
+  TITLE     [Handbook of Cancer Chemotherapy (6th ed)] (In Japanese)
+  JOURNAL   Medical science international (2005)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Bertram GK (ed).
+  TITLE     Basic & Clinical Pharmacology (9th ed)
+  JOURNAL   Lange (2004)
+///

@@ -1,0 +1,24 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00052
+server: Apache
+date: Wed, 15 Oct 2014 15:07:28 GMT
+content-type: text/plain
+
+ENTRY       map00052                    Pathway
+NAME        Galactose metabolism
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP map00052  Galactose metabolism
+MODULE      M00277  PTS system, N-acetylgalactosamine-specific II component [PATH:map00052]
+            M00279  PTS system, galactitol-specific II component [PATH:map00052]
+            M00281  PTS system, lactose-specific II component [PATH:map00052]
+            M00287  PTS system, galactosamine-specific II component [PATH:map00052]
+            M00309  Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate [PATH:map00052]
+            M00552  D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P [PATH:map00052]
+            M00554  Nucleotide sugar biosynthesis, galactose => UDP-galactose [PATH:map00052]
+            M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P [PATH:map00052]
+            M00633  Semi-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate-3P [PATH:map00052]
+DISEASE     H00070  Galactosemia
+            H00116  Congenital lactase deficiency
+DBLINKS     GO: 0006012
+KO_PATHWAY  ko00052
+///

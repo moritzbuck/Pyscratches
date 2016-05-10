@@ -1,0 +1,78 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05222
+server: Apache
+date: Wed, 15 Oct 2014 14:59:12 GMT
+content-type: text/plain
+
+ENTRY       map05222                    Pathway
+NAME        Small cell lung cancer
+DESCRIPTION Lung cancer is a leading cause of cancer death among men and women in industrialized countries. Small cell lung carcinoma (SCLC) is a highly aggressive neoplasm, which accounts for approximately 25% of all lung cancer cases.  Molecular mechanisms altered in SCLC include induced expression of oncogene, MYC, and loss of tumorsuppressor genes, such as p53, PTEN, RB, and FHIT. The overexpression of MYC proteins in SCLC is largely a result of gene amplification. Such overexpression leads to more rapid proliferation and loss of terminal differentiation. Mutation or deletion of p53 or PTEN can lead to more rapid proliferation and reduced apoptosis. The retinoblastoma gene RB1 encodes a nuclear phosphoprotein that helps to regulate cell-cycle progression. The fragile histidine triad gene FHIT encodes the enzyme diadenosine triphosphate hydrolase, which is thought to have an indirect role in proapoptosis and cell-cycle control.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05222  Small cell lung cancer
+DISEASE     H00013  Small cell lung cancer
+REFERENCE   PMID:12379883
+  AUTHORS   Osada H, Takahashi T.
+  TITLE     Genetic alterations of multiple tumor suppressors and oncogenes in the carcinogenesis and progression of lung cancer.
+  JOURNAL   Oncogene 21:7421-34 (2002)
+REFERENCE   PMID:12741677
+  AUTHORS   Yokota J, Nishioka M, Tani M, Kohno T.
+  TITLE     Genetic alterations responsible for metastatic phenotypes of lung cancer cells.
+  JOURNAL   Clin Exp Metastasis 20:189-93 (2003)
+REFERENCE   PMID:12711111
+  AUTHORS   Sanchez-Cespedes M.
+  TITLE     Dissecting the genetic alterations involved in lung carcinogenesis.
+  JOURNAL   Lung Cancer 40:111-21 (2003)
+REFERENCE   PMID:12407699
+  AUTHORS   Mitsuuchi Y, Testa JR.
+  TITLE     Cytogenetics and molecular genetics of lung cancer.
+  JOURNAL   Am J Med Genet 115:183-8 (2002)
+REFERENCE   PMID:11720739
+  AUTHORS   Kaye FJ.
+  TITLE     Molecular biology of lung cancer.
+  JOURNAL   Lung Cancer 34 Suppl 2:S35-41 (2001)
+REFERENCE   PMID:16112428
+  AUTHORS   Panani AD, Roussos C.
+  TITLE     Cytogenetic and molecular aspects of lung cancer.
+  JOURNAL   Cancer Lett 239:1-9 (2006)
+REFERENCE   PMID:11902573
+  AUTHORS   Altucci L, Gronemeyer H.
+  TITLE     The promise of retinoids to fight against cancer.
+  JOURNAL   Nat Rev Cancer 1:181-93 (2001)
+REFERENCE   PMID:10944551
+  AUTHORS   Virmani AK, Rathi A, Zochbauer-Muller S, Sacchi N, Fukuyama Y, Bryant D, Maitra A, Heda S, Fong KM, Thunnissen F, Minna JD, Gazdar AF.
+  TITLE     Promoter methylation and silencing of the retinoic acid receptor-beta gene in lung carcinomas.
+  JOURNAL   J Natl Cancer Inst 92:1303-7 (2000)
+REFERENCE   PMID:12616528
+  AUTHORS   Shivapurkar N, Reddy J, Chaudhary PM, Gazdar AF.
+  TITLE     Apoptosis and lung cancer: a review.
+  JOURNAL   J Cell Biochem 88:885-98 (2003)
+REFERENCE   PMID:11807782
+  AUTHORS   Sartorius UA, Krammer PH.
+  TITLE     Upregulation of Bcl-2 is involved in the mediation of chemotherapy resistance in human small cell lung cancer cell lines.
+  JOURNAL   Int J Cancer 97:584-92 (2002)
+REFERENCE   PMID:16064138
+  AUTHORS   Adhikary S, Eilers M.
+  TITLE     Transcriptional regulation and transformation by Myc proteins.
+  JOURNAL   Nat Rev Mol Cell Biol 6:635-45 (2005)
+REFERENCE   PMID:11463388
+  AUTHORS   Spruck C, Strohmaier H, Watson M, Smith AP, Ryan A, Krek TW, Reed SI.
+  TITLE     A CDK-independent function of mammalian Cks1: targeting of SCF(Skp2) to the CDK inhibitor p27Kip1.
+  JOURNAL   Mol Cell 7:639-50 (2001)
+REFERENCE   PMID:15109562
+  AUTHORS   Buttery RC, Rintoul RC, Sethi T.
+  TITLE     Small cell lung cancer: the importance of the extracellular matrix.
+  JOURNAL   Int J Biochem Cell Biol 36:1154-60 (2004)
+REFERENCE   PMID:11559746
+  AUTHORS   Yamada KM, Araki M.
+  TITLE     Tumor suppressor PTEN: modulator of cell signaling, growth, migration and apoptosis.
+  JOURNAL   J Cell Sci 114:2375-82 (2001)
+REFERENCE   PMID:11905738
+  AUTHORS   Rintoul RC, Sethi T.
+  TITLE     The role of extracellular matrix in small-cell lung cancer.
+  JOURNAL   Lancet Oncol 2:437-42 (2001)
+REFERENCE   PMID:12243753
+  AUTHORS   Ekedahl J, Joseph B, Grigoriev MY, Muller M, Magnusson C, Lewensohn R, Zhivotovsky B.
+  TITLE     Expression of inhibitor of apoptosis proteins in small- and non-small-cell lung carcinoma cells.
+  JOURNAL   Exp Cell Res 279:277-90 (2002)
+KO_PATHWAY  ko05222
+///

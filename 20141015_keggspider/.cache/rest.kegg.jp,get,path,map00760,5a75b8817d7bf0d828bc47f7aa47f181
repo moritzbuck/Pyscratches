@@ -1,0 +1,43 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00760
+server: Apache
+date: Wed, 15 Oct 2014 14:57:42 GMT
+content-type: text/plain
+
+ENTRY       map00760                    Pathway
+NAME        Nicotinate and nicotinamide metabolism
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP map00760  Nicotinate and nicotinamide metabolism
+MODULE      M00115  NAD biosynthesis, aspartate => NAD [PATH:map00760]
+            M00622  Nicotinate degradation, nicotinate => fumarate [PATH:map00760]
+DISEASE     H00824  Calcification of joints and arteries
+            H01002  Generalized arterial calcification of infancy
+            H01394  Cole disease
+DBLINKS     UMBBD: nic
+            GO: 0006769
+REFERENCE   PMID:13475371
+  AUTHORS   BEHRMAN EJ, STANIER RY.
+  TITLE     The bacterial oxidation of nicotinic acid.
+  JOURNAL   J Biol Chem 228:923-45 (1957)
+REFERENCE   PMID:16894175
+  AUTHORS   Alhapel A, Darley DJ, Wagener N, Eckel E, Elsner N, Pierik AJ.
+  TITLE     Molecular and functional analysis of nicotinate catabolism in Eubacterium barkeri.
+  JOURNAL   Proc Natl Acad Sci U S A 103:12341-6 (2006)
+REFERENCE   PMID:11514508
+  AUTHORS   Baitsch D, Sandu C, Brandsch R, Igloi GL.
+  TITLE     Gene cluster on pAO1 of Arthrobacter nicotinovorans involved in degradation of the plant alkaloid nicotine: cloning, purification, and characterization of 2,6-dihydroxypyridine 3-hydroxylase.
+  JOURNAL   J Bacteriol 183:5262-7 (2001)
+REFERENCE   PMID:16321959
+  AUTHORS   Sachelaru P, Schiltz E, Igloi GL, Brandsch R.
+  TITLE     An alpha/beta-fold C--C bond hydrolase is involved in a central step of nicotine catabolism by Arthrobacter nicotinovorans.
+  JOURNAL   J Bacteriol 187:8516-9 (2005)
+REFERENCE   PMID:5835946
+  AUTHORS   Gherna RL, Richardson SH, Rittenberg SC
+  TITLE     The bacterial oxidation of nicotine. VI. The metabolism of 2,6-dihydroxypseudooxynicotine.
+  JOURNAL   J Biol Chem 240:3669-74 (1965)
+REFERENCE   PMID:21953451
+  AUTHORS   Galeazzi L, Bocci P, Amici A, Brunetti L, Ruggieri S, Romine M, Reed S, Osterman AL, Rodionov DA, Sorci L, Raffaelli N
+  TITLE     Identification of nicotinamide mononucleotide deamidase of the bacterial pyridine nucleotide cycle reveals a novel broadly conserved amidohydrolase family.
+  JOURNAL   J Biol Chem 286:40365-75 (2011)
+KO_PATHWAY  ko00760
+///

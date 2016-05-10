@@ -1,0 +1,59 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05414
+server: Apache
+date: Wed, 15 Oct 2014 14:59:16 GMT
+content-type: text/plain
+
+ENTRY       map05414                    Pathway
+NAME        Dilated cardiomyopathy
+DESCRIPTION Dilated cardiomyopathy (DCM) is a heart muscle disease characterised by dilation and impaired contraction of the left or both ventricles that results in progressive heart failure and sudden cardiac death from ventricular arrhythmia. Genetically inherited forms of DCM ("familial" DCM) have been identified in 25-35% of patients presenting with this disease, and the inherited gene defects are an important cause of "familial" DCM. The pathophysiology may be separated into two categories: defects in force generation and defects in force transmission. In cases where an underlying pathology cannot be identified, the patient is diagnosed with an "idiopathic" DCM. Current hypotheses regarding causes of "idiopathic" DCM focus on myocarditis induced by enterovirus and subsequent autoimmune myocardium impairments. Antibodies to the beta1-adrenergic receptor (beta1AR), which are detected in a substantial number of patients with "idiopathic" DCM,  may increase the concentration of intracellular cAMP and intracellular Ca2+, a condition often leading to a transient hyper-performance of the heart followed by depressed heart function and heart failure.
+CLASS       Human Diseases; Cardiovascular diseases
+PATHWAY_MAP map05414  Dilated cardiomyopathy
+DISEASE     H00294  Dilated cardiomyopathy (DCM)
+            H00728  Brugada syndrome (BRS)
+REFERENCE   PMID:12270949
+  AUTHORS   Fatkin D, Graham RM
+  TITLE     Molecular mechanisms of inherited cardiomyopathies.
+  JOURNAL   Physiol Rev 82:945-80 (2002)
+REFERENCE   PMID:18672201
+  AUTHORS   Lappe JM, Pelfrey CM, Tang WH
+  TITLE     Recent insights into the role of autoimmunity in idiopathic dilated cardiomyopathy.
+  JOURNAL   J Card Fail 14:521-30 (2008)
+REFERENCE   PMID:19273156
+  AUTHORS   Zhao P, Sharma AC, Ren J
+  TITLE     Pathogenesis and therapy of autoimmunity-induced dilated cardiomyopathy.
+  JOURNAL   Front Biosci 14:1708-15 (2009)
+REFERENCE   PMID:11716909
+  AUTHORS   Franz WM, Muller OJ, Katus HA
+  TITLE     Cardiomyopathies: from genetics to the prospect of treatment.
+  JOURNAL   Lancet 358:1627-37 (2001)
+REFERENCE   PMID:11805847
+  AUTHORS   Towbin JA, Bowles NE
+  TITLE     The failing heart.
+  JOURNAL   Nature 415:227-33 (2002)
+REFERENCE   PMID:19017683
+  AUTHORS   Luk A, Ahn E, Soor GS, Butany J
+  TITLE     Dilated cardiomyopathy: a review.
+  JOURNAL   J Clin Pathol 62:219-25 (2009)
+REFERENCE   PMID:19246813
+  AUTHORS   Yoshikawa T, Baba A, Nagatomo Y
+  TITLE     Autoimmune mechanisms underlying dilated cardiomyopathy.
+  JOURNAL   Circ J 73:602-7 (2009)
+REFERENCE   PMID:14522402
+  AUTHORS   Mason JW
+  TITLE     Myocarditis and dilated cardiomyopathy: an inflammatory link.
+  JOURNAL   Cardiovasc Res 60:5-10 (2003)
+REFERENCE   PMID:15146239
+  AUTHORS   Jahns R, Boivin V, Hein L, Triebel S, Angermann CE, Ertl G, Lohse MJ
+  TITLE     Direct evidence for a beta 1-adrenergic receptor-directed autoimmune attack as a cause of idiopathic dilated cardiomyopathy.
+  JOURNAL   J Clin Invest 113:1419-29 (2004)
+REFERENCE   PMID:11524405
+  AUTHORS   Liu PP, Mason JW
+  TITLE     Advances in the understanding of myocarditis.
+  JOURNAL   Circulation 104:1076-82 (2001)
+REFERENCE   PMID:16817756
+  AUTHORS   Tam PE
+  TITLE     Coxsackievirus myocarditis: interplay between virus and host in the pathogenesis of heart disease.
+  JOURNAL   Viral Immunol 19:133-46 (2006)
+KO_PATHWAY  ko05414
+///

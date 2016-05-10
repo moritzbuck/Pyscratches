@@ -1,0 +1,51 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05320
+server: Apache
+date: Wed, 15 Oct 2014 14:59:13 GMT
+content-type: text/plain
+
+ENTRY       map05320                    Pathway
+NAME        Autoimmune thyroid disease
+DESCRIPTION The classification of autoimmune throid disease (AITD) includes Hashimoto's thyroiditis (HT) or chronic autoimmune thyroiditis and its variants,  Graves' disease (GD) and autoimmune atrophic thyroiditis or primary myxedema. HT is characterized by the presence of goitre, thyroid autoantibodies against thyroid peroxidase (TPO) and thyroglobulin (Tg) in serum and varying degrees of thyroid dysfunction. During HT, self-reactive CD4+ T lymphocytes (Th) recruit B cells and CD8+ T cells (CTL) into the thyroid. Disease progression leads to the death of thyroid cells and hypothyroidism. Both autoantibodies and thyroid-specific cytotoxic T lymphocytes (CTLs) have been proposed to be responsible for autoimmune thyrocyte depletion. In GD, the TSH-R is the most important autoantigen. Antibodies directed against it mimic the effects of the hormone on thyroid cells, TSH, stimulating autonomous production of thyroxine and triiodothyronine and causing hyperthyroidism. The presence of  TSH-R-blocking antibodies that bind the TSH receptor in a similar fashion to the antibodies in patients with Grave's disease but that block rather than activate the receptor explains some cases of atrophic hypothyroidism.
+CLASS       Human Diseases; Immune diseases
+PATHWAY_MAP map05320  Autoimmune thyroid disease
+DISEASE     H00081  Hashimoto's thyroiditis
+            H00082  Graves' disease
+REFERENCE   PMID:15049952
+  AUTHORS   Fountoulakis S, Tsatsoulis A.
+  TITLE     On the pathogenesis of autoimmune thyroid disease: a unifying hypothesis.
+  JOURNAL   Clin Endocrinol (Oxf) 60:397-409 (2004)
+REFERENCE   PMID:15762980
+  AUTHORS   Chistiakov DA.
+  TITLE     Immunogenetics of Hashimoto's thyroiditis.
+  JOURNAL   J Autoimmune Dis 2:1 (2005)
+REFERENCE   PMID:9534029
+  AUTHORS   McIver B, Morris JC.
+  TITLE     The pathogenesis of Graves' disease.
+  JOURNAL   Endocrinol Metab Clin North Am 27:73-89 (1998)
+REFERENCE   PMID:11913070
+  AUTHORS   Stassi G, De Maria R.
+  TITLE     Autoimmune thyroid disease: new models of cell death in autoimmunity.
+  JOURNAL   Nat Rev Immunol 2:195-204 (2002)
+REFERENCE   PMID:12192541
+  AUTHORS   Collins J, Gough S.
+  TITLE     Autoimmunity in thyroid disease.
+  JOURNAL   Eur J Nucl Med Mol Imaging 29 Suppl 2:S417-24 (2002)
+REFERENCE   PMID:11396701
+  AUTHORS   Ruwhof C, Drexhage HA.
+  TITLE     Iodine and thyroid autoimmune disease in animal models.
+  JOURNAL   Thyroid 11:427-36 (2001)
+REFERENCE   PMID:17192582
+  AUTHORS   Tsatsoulis A.
+  TITLE     The role of stress in the clinical expression of thyroid autoimmunity.
+  JOURNAL   Ann N Y Acad Sci 1088:382-95 (2006)
+REFERENCE   PMID:15132715
+  AUTHORS   Prummel MF, Strieder T, Wiersinga WM.
+  TITLE     The environment and autoimmune thyroid diseases.
+  JOURNAL   Eur J Endocrinol 150:605-18 (2004)
+REFERENCE   PMID:11577986
+  AUTHORS   Kopp P.
+  TITLE     The TSH receptor and its role in thyroid disease.
+  JOURNAL   Cell Mol Life Sci 58:1301-22 (2001)
+KO_PATHWAY  ko05320
+///

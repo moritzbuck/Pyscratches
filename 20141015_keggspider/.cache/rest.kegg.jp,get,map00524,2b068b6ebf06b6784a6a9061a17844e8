@@ -1,0 +1,84 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00524
+server: Apache
+date: Wed, 15 Oct 2014 15:07:51 GMT
+content-type: text/plain
+
+ENTRY       map00524                    Pathway
+NAME        Butirosin and neomycin biosynthesis
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00524  Butirosin and neomycin biosynthesis
+REFERENCE   PMID:19362652
+  AUTHORS   Kudo F, Eguchi T
+  TITLE     Biosynthetic enzymes for the aminoglycosides butirosin and neomycin.
+  JOURNAL   Methods Enzymol 459:493-519 (2009)
+REFERENCE   PMID:19644520
+  AUTHORS   Kudo F, Eguchi T
+  TITLE     Biosynthetic genes for aminoglycoside antibiotics.
+  JOURNAL   J Antibiot (Tokyo) 62:471-81 (2009)
+REFERENCE   PMID:17879343
+  AUTHORS   Nango E, Kumasaka T, Hirayama T, Tanaka N, Eguchi T
+  TITLE     Structure of 2-deoxy-scyllo-inosose synthase, a key enzyme in the biosynthesis of 2-deoxystreptamine-containing aminoglycoside antibiotics, in complex with a mechanism-based inhibitor and NAD+.
+  JOURNAL   Proteins 70:517-27 (2008)
+REFERENCE   PMID:15839685
+  AUTHORS   Yokoyama K, Kudo F, Kuwahara M, Inomata K, Tamegai H, Eguchi T, Kakinuma K
+  TITLE     Stereochemical recognition of doubly functional aminotransferase in 2-deoxystreptamine biosynthesis.
+  JOURNAL   J Am Chem Soc 127:5869-74 (2005)
+REFERENCE   PMID:12374384
+  AUTHORS   Tamegai H, Nango E, Kuwahara M, Yamamoto H, Ota Y, Kuriki H, Eguchi T, Kakinuma K
+  TITLE     Identification of L-glutamine: 2-deoxy-scyllo-inosose aminotransferase required for the biosynthesis of butirosin in Bacillus circulans.
+  JOURNAL   J Antibiot (Tokyo) 55:707-14 (2002)
+REFERENCE   PMID:16506694
+  AUTHORS   Kudo F, Yamamoto Y, Yokoyama K, Eguchi T, Kakinuma K
+  TITLE     Biosynthesis of 2-deoxystreptamine by three crucial enzymes in Streptomyces fradiae NBRC 12773.
+  JOURNAL   J Antibiot (Tokyo) 58:766-74 (2005)
+REFERENCE   PMID:18672902
+  AUTHORS   Yokoyama K, Ohmori D, Kudo F, Eguchi T
+  TITLE     Mechanistic study on the reaction of a radical SAM dehydrogenase BtrN by electron paramagnetic resonance spectroscopy.
+  JOURNAL   Biochemistry 47:8950-60 (2008)
+REFERENCE   PMID:18001019
+  AUTHORS   Yokoyama K, Numakura M, Kudo F, Ohmori D, Eguchi T
+  TITLE     Characterization and mechanistic study of a radical SAM dehydrogenase in the biosynthesis of butirosin.
+  JOURNAL   J Am Chem Soc 129:15147-55 (2007)
+REFERENCE   PMID:18311744
+  AUTHORS   Yokoyama K, Yamamoto Y, Kudo F, Eguchi T
+  TITLE     Involvement of two distinct N-acetylglucosaminyltransferases and a dual-function  deacetylase in neomycin biosynthesis.
+  JOURNAL   Chembiochem 9:865-9 (2008)
+REFERENCE   PMID:18802637
+  AUTHORS   Fan Q, Huang F, Leadlay PF, Spencer JB
+  TITLE     The neomycin biosynthetic gene cluster of Streptomyces fradiae NCIMB 8233: genetic and biochemical evidence for the roles of two glycosyltransferases and a deacetylase.
+  JOURNAL   Org Biomol Chem 6:3306-14 (2008)
+REFERENCE   PMID:17226887
+  AUTHORS   Truman AW, Huang F, Llewellyn NM, Spencer JB
+  TITLE     Characterization of the enzyme BtrD from Bacillus circulans and revision of its functional assignment in the biosynthesis of butirosin.
+  JOURNAL   Angew Chem Int Ed Engl 46:1462-4 (2007)
+REFERENCE   PMID:17482823
+  AUTHORS   Kudo F, Fujii T, Kinoshita S, Eguchi T
+  TITLE     Unique O-ribosylation in the biosynthesis of butirosin.
+  JOURNAL   Bioorg Med Chem 15:4360-8 (2007)
+REFERENCE   PMID:12870817
+  AUTHORS   Yukita T, Nishida H, Eguchi T, Kakinuma K
+  TITLE     Biosynthesis of (2R)-4-amino-2-hydroxybutyric acid, unique and biologically significant substituent in butirosins.
+  JOURNAL   J Antibiot (Tokyo) 56:497-500 (2003)
+REFERENCE   PMID:15975512
+  AUTHORS   Li Y, Llewellyn NM, Giri R, Huang F, Spencer JB
+  TITLE     Biosynthesis of the unique amino acid side chain of butirosin: possible protective-group chemistry in an acyl carrier protein-mediated pathway.
+  JOURNAL   Chem Biol 12:665-75 (2005)
+REFERENCE   PMID:17462573
+  AUTHORS   Llewellyn NM, Li Y, Spencer JB
+  TITLE     Biosynthesis of butirosin: transfer and deprotection of the unique amino acid side chain.
+  JOURNAL   Chem Biol 14:379-86 (2007)
+REFERENCE   PMID:18685777
+  AUTHORS   Llewellyn NM, Spencer JB
+  TITLE     Chemoenzymatic acylation of aminoglycoside antibiotics.
+  JOURNAL   Chem Commun (Camb) 3786-8 (2008)
+REFERENCE   PMID:19466609
+  AUTHORS   Nepal KK, Oh TJ, Sohng JK
+  TITLE     Heterologous production of paromamine in Streptomyces lividans TK24 using kanamycin biosynthetic genes from Streptomyces kanamyceticus ATCC12853.
+  JOURNAL   Mol Cells 27:601-8 (2009)
+REFERENCE   PMID:21983602
+  AUTHORS   Park JW, Park SR, Nepal KK, Han AR, Ban YH, Yoo YJ, Kim EJ, Kim EM, Kim D, Sohng JK, Yoon YJ
+  TITLE     Discovery of parallel pathways of kanamycin biosynthesis allows antibiotic manipulation.
+  JOURNAL   Nat Chem Biol 7:843-52 (2011)
+KO_PATHWAY  ko00524
+///

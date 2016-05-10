@@ -1,0 +1,78 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04724
+server: Apache
+date: Wed, 15 Oct 2014 15:09:01 GMT
+content-type: text/plain
+
+ENTRY       map04724                    Pathway
+NAME        Glutamatergic synapse
+DESCRIPTION Glutamate is the major excitatory neurotransmitter in the mammalian central nervous system(CNS). Glutamate is packaged into synaptic vesicles in the presynaptic terminal. Once released into the synaptic cleft,  glutamate acts on postsynaptic ionotropic glutamate receptors (iGluRs) to mediate fast excitatory synaptic transmission. Glutamate can also act on metabotropic glutamate receptors (mGluRs) and exert a variety of modulatory effects through their coupling to G proteins and the subsequent recruitment of second messenger systems. Presynaptically localized Group II and Group III mGluRs are thought to represent the classical inhibitory autoreceptor mechanism that suppresses excess glutamate release. After its action on these receptors, glutamate can be removed from the synaptic cleft by EAATs located either on the presynaptic terminal, neighboring glial cells, or the postsynaptic neuron. In glia, glutamate is converted to glutamine, which is then transported back to the presynaptic terminal and converted back to glutamate.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP map04724  Glutamatergic synapse
+DISEASE     H00577  Syndromic X-linked mental retardation with epilepsy or seizures
+            H00749  Episodic ataxias
+            H00768  Nonsyndromic autosomal recessive mental retardation (NS-ARMR)
+            H00775  Familial or sporadic hemiplegic migraine
+            H00787  Congenital stationary night blindness (CSNB)
+            H00911  Dicarboxylic aminoaciduria
+            H00923  Congenital systemic glutamine deficiency (CSGD)
+            H01238  Phelan-McDermid syndrome
+DBLINKS     GO: 0051966
+REFERENCE   PMID:20055706
+  AUTHORS   Niswender CM, Conn PJ
+  TITLE     Metabotropic glutamate receptors: physiology, pharmacology, and disease.
+  JOURNAL   Annu Rev Pharmacol Toxicol 50:295-322 (2010)
+REFERENCE   PMID:19112153
+  AUTHORS   Ferraguti F, Crepaldi L, Nicoletti F
+  TITLE     Metabotropic glutamate 1 receptor: current concepts and perspectives.
+  JOURNAL   Pharmacol Rev 60:536-81 (2008)
+REFERENCE   PMID:11672421
+  AUTHORS   Hermans E, Challiss RA
+  TITLE     Structural, signalling and regulatory properties of the group I metabotropic glutamate receptors: prototypic family C G-protein-coupled receptors.
+  JOURNAL   Biochem J 359:465-84 (2001)
+REFERENCE   PMID:17663464
+  AUTHORS   Kim CH, Lee J, Lee JY, Roche KW
+  TITLE     Metabotropic glutamate receptors: phosphorylation and receptor signaling.
+  JOURNAL   J Neurosci Res 86:1-10 (2008)
+REFERENCE   PMID:14684436
+  AUTHORS   Meador-Woodruff JH, Clinton SM, Beneyto M, McCullumsmith RE
+  TITLE     Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia.
+  JOURNAL   Ann N Y Acad Sci 1003:75-93 (2003)
+REFERENCE   PMID:18425072
+  AUTHORS   Sanacora G, Zarate CA, Krystal JH, Manji HK
+  TITLE     Targeting the glutamatergic system to develop novel, improved therapeutics for mood disorders.
+  JOURNAL   Nat Rev Drug Discov 7:426-37 (2008)
+REFERENCE   PMID:17706608
+  AUTHORS   Gass JT, Olive MF
+  TITLE     Glutamatergic substrates of drug addiction and alcoholism.
+  JOURNAL   Biochem Pharmacol 75:218-65 (2008)
+REFERENCE   PMID:9665875
+  AUTHORS   Palmada M, Centelles JJ
+  TITLE     Excitatory amino acid neurotransmission. Pathways for metabolism, storage and reuptake of glutamate in brain.
+  JOURNAL   Front Biosci 3:d701-18 (1998)
+REFERENCE   PMID:11561058
+  AUTHORS   Schoepp DD
+  TITLE     Unveiling the functions of presynaptic metabotropic glutamate receptors in the central nervous system.
+  JOURNAL   J Pharmacol Exp Ther 299:12-20 (2001)
+REFERENCE   PMID:19559598
+  AUTHORS   de Jong AP, Verhage M
+  TITLE     Presynaptic signal transduction pathways that modulate synaptic transmission.
+  JOURNAL   Curr Opin Neurobiol 19:245-53 (2009)
+REFERENCE   PMID:18464791
+  AUTHORS   Pinheiro PS, Mulle C
+  TITLE     Presynaptic glutamate receptors: physiological functions and mechanisms of action.
+  JOURNAL   Nat Rev Neurosci 9:423-36 (2008)
+REFERENCE   PMID:19110202
+  AUTHORS   Byrnes KR, Loane DJ, Faden AI
+  TITLE     Metabotropic glutamate receptors as targets for multipotential treatment of neurological disorders.
+  JOURNAL   Neurotherapeutics 6:94-107 (2009)
+REFERENCE   PMID:10481192
+  AUTHORS   Conti F, Weinberg RJ
+  TITLE     Shaping excitation at glutamatergic synapses.
+  JOURNAL   Trends Neurosci 22:451-8 (1999)
+REFERENCE   PMID:12399578
+  AUTHORS   Sheng M, Kim MJ
+  TITLE     Postsynaptic signaling and plasticity mechanisms.
+  JOURNAL   Science 298:776-80 (2002)
+KO_PATHWAY  ko04724
+///

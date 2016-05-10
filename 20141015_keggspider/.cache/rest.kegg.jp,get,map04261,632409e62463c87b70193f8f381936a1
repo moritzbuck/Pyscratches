@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04261
+server: Apache
+date: Wed, 15 Oct 2014 15:08:46 GMT
+content-type: text/plain
+
+ENTRY       map04261                    Pathway
+NAME        Adrenergic signaling in cardiomyocytes
+DESCRIPTION Cardiac myocytes express at least six subtypes of adrenergic receptor (AR) which include three subtypes of beta-AR (beta-1, beta-2, beta-3) and three subtypes of the alpha-1-AR (alpha-1A, alpha-1B, and alpha-1C).  In the human heart the beta-1-AR is the pre- dominate receptor. Acute sympathetic stimulation of cardiac beta-1-ARs induces positive inotropic and chronotropic effects, the most effective mechanism to acutely increase output of the heart, by coupling to Gs, formation of cAMP by adenylyl cyclase (AC), and PKA- dependent phosphorylation of various target proteins (e.g., ryanodine receptor [RyR]; phospholamban [PLB], troponin I [TnI], and the L-type Ca2+ channel [LTCC]). Chronic beta-1-AR stimulation is detrimental and induces cardiomyocyte hypertrophy and apoptosis. beta-2-AR coupled to Gs exerts a proapoptotic action as well as beta-1-AR, while beta-2-AR coupled to Gi exerts an antiapoptotic action.
+CLASS       Organismal Systems; Circulatory system
+PATHWAY_MAP map04261  Adrenergic signaling in cardiomyocytes
+DBLINKS     GO: 0001997
+REFERENCE   PMID:19883653
+  AUTHORS   Grimm M, Brown JH
+  TITLE     Beta-adrenergic receptor signaling in the heart: role of CaMKII.
+  JOURNAL   J Mol Cell Cardiol 48:322-30 (2010)
+REFERENCE   PMID:21212391
+  AUTHORS   Yang JH, Saucerman JJ
+  TITLE     Computational models reduce complexity and accelerate insight into cardiac signaling networks.
+  JOURNAL   Circ Res 108:85-97 (2011)
+REFERENCE   PMID:16765984
+  AUTHORS   Schaub MC, Hefti MA, Zaugg M
+  TITLE     Integration of calcium with the signaling network in cardiac myocytes.
+  JOURNAL   J Mol Cell Cardiol 41:183-214 (2006)
+REFERENCE   PMID:22022314
+  AUTHORS   Taggart P, Boyett MR, Logantha S, Lambiase PD
+  TITLE     Anger, emotion, and arrhythmias: from brain to heart.
+  JOURNAL   Front Physiol 2:67 (2011)
+REFERENCE   PMID:17988210
+  AUTHORS   Bers DM
+  TITLE     Calcium cycling and signaling in cardiac myocytes.
+  JOURNAL   Annu Rev Physiol 70:23-49 (2008)
+REFERENCE   PMID:20923637
+  AUTHORS   Soltis AR, Saucerman JJ
+  TITLE     Synergy between CaMKII substrates and beta-adrenergic signaling in regulation of  cardiac myocyte Ca(2+) handling.
+  JOURNAL   Biophys J 99:2038-47 (2010)
+REFERENCE   PMID:12439640
+  AUTHORS   Wallukat G
+  TITLE     The beta-adrenergic receptors.
+  JOURNAL   Herz 27:683-90 (2002)
+REFERENCE   PMID:11604549
+  AUTHORS   Xiao RP
+  TITLE     Beta-adrenergic signaling in the heart: dual coupling of the beta2-adrenergic receptor to G(s) and G(i) proteins.
+  JOURNAL   Sci STKE 2001:re15 (2001)
+REFERENCE   PMID:10571541
+  AUTHORS   Xiao RP, Cheng H, Zhou YY, Kuschel M, Lakatta EG
+  TITLE     Recent advances in cardiac beta(2)-adrenergic signal transduction.
+  JOURNAL   Circ Res 85:1092-100 (1999)
+REFERENCE   PMID:15979723
+  AUTHORS   Zheng M, Zhu W, Han Q, Xiao RP
+  TITLE     Emerging concepts and therapeutic implications of beta-adrenergic receptor subtype signaling.
+  JOURNAL   Pharmacol Ther 108:257-68 (2005)
+REFERENCE   PMID:17826821
+  AUTHORS   Kuzumoto M, Takeuchi A, Nakai H, Oka C, Noma A, Matsuoka S
+  TITLE     Simulation analysis of intracellular Na+ and Cl- homeostasis during beta 1-adrenergic stimulation of cardiac myocyte.
+  JOURNAL   Prog Biophys Mol Biol 96:171-86 (2008)
+REFERENCE   PMID:11805843
+  AUTHORS   Bers DM
+  TITLE     Cardiac excitation-contraction coupling.
+  JOURNAL   Nature 415:198-205 (2002)
+REFERENCE   PMID:20658186
+  AUTHORS   Ho D, Yan L, Iwatsubo K, Vatner DE, Vatner SF
+  TITLE     Modulation of beta-adrenergic receptor signaling in heart failure and longevity:  targeting adenylyl cyclase type 5.
+  JOURNAL   Heart Fail Rev 15:495-512 (2010)
+REFERENCE   PMID:15142747
+  AUTHORS   Saucerman JJ, McCulloch AD
+  TITLE     Mechanistic systems models of cell signaling networks: a case study of myocyte adrenergic regulation.
+  JOURNAL   Prog Biophys Mol Biol 85:261-78 (2004)
+REFERENCE   PMID:15765137
+  AUTHORS   Yano M, Ikeda Y, Matsuzaki M
+  TITLE     Altered intracellular Ca2+ handling in heart failure.
+  JOURNAL   J Clin Invest 115:556-64 (2005)
+REFERENCE   PMID:15232578
+  AUTHORS   Wehrens XH, Marks AR
+  TITLE     Novel therapeutic approaches for heart failure by normalizing calcium cycling.
+  JOURNAL   Nat Rev Drug Discov 3:565-73 (2004)
+REFERENCE   PMID:19874988
+  AUTHORS   Triposkiadis F, Karayannis G, Giamouzis G, Skoularigis J, Louridas G, Butler J
+  TITLE     The sympathetic nervous system in heart failure physiology, pathophysiology, and  clinical implications.
+  JOURNAL   J Am Coll Cardiol 54:1747-62 (2009)
+REFERENCE   PMID:18407781
+  AUTHORS   Barry SP, Davidson SM, Townsend PA
+  TITLE     Molecular regulation of cardiac hypertrophy.
+  JOURNAL   Int J Biochem Cell Biol 40:2023-39 (2008)
+KO_PATHWAY  ko04261
+///

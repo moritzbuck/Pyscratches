@@ -1,0 +1,26 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00930
+server: Apache
+date: Wed, 15 Oct 2014 15:08:11 GMT
+content-type: text/plain
+
+ENTRY       map00930                    Pathway
+NAME        Caprolactam degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00930  Caprolactam degradation
+DBLINKS     GO: 0019384
+            UMBBD: cap chx
+REFERENCE   PMID:11571189
+  AUTHORS   Parke D, Garcia MA, Ornston LN
+  TITLE     Cloning and genetic characterization of dca genes required for beta-oxidation of  straight-chain dicarboxylic acids in Acinetobacter sp. strain ADP1.
+  JOURNAL   Appl Environ Microbiol 67:4817-27 (2001)
+REFERENCE   PMID:12535077
+  AUTHORS   Campbell JW, Morgan-Kiss RM, Cronan JE Jr
+  TITLE     A new Escherichia coli metabolic competency: growth on fatty acids by a novel anaerobic beta-oxidation pathway.
+  JOURNAL   Mol Microbiol 47:793-805 (2003)
+REFERENCE   PMID:15658985
+  AUTHORS   Brzostowicz PC, Walters DM, Jackson RE, Halsey KH, Ni H, Rouviere PE
+  TITLE     Proposed involvement of a soluble methane monooxygenase homologue in the cyclohexane-dependent growth of a new Brachymonas species.
+  JOURNAL   Environ Microbiol 7:179-90 (2005)
+KO_PATHWAY  ko00930
+///

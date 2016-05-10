@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07020
+server: Apache
+date: Wed, 15 Oct 2014 14:59:20 GMT
+content-type: text/plain
+
+ENTRY       map07020          Drug      Pathway
+NAME        Macrolides and ketolides
+PATHWAY_MAP map07020  Macrolides and ketolides
+COMPOUND    D00140  Erythromycin (JP16/USP/INN)
+            D00276  Clarithromycin (JP16/USP/INN)
+            D00851  Erythromycin estorate (JAN)
+            D01078  Telithromycin (JAN/USAN/INN)
+            D01235  Josamycin (JP16/USAN/INN)
+            D01322  Triacetyloleandomycin (JAN)
+            D01339  Midecamycin (JP16/INN)
+            D01361  Erythromycin ethylsuccinate (JP16/USP)
+            D01614  Acetylkitasamycin (JP16)
+            D01636  Midecamycin acetate (JP16)
+            D01710  Roxithromycin (JP16/USAN/INN)
+            D01897  Rokitamycin (JP16/INN)
+            D02000  Kitasamycin tartrate (JP16)
+            D02009  Erythromycin lactobionate (JP16/USP)
+            D02134  Azithromycin hydrate (JP16)
+            D02184  Erythromycin stearate (JP16/USP)
+            D02186  Oleandomycin phosphate (JAN)
+            D02269  Kitasamycin (JP16/USAN)
+            D02391  Cethromycin (USAN/INN)
+            D02420  Acetylspiramycin (JP16)
+            D02490  Tylosin (USP/INN)
+            D02492  Tilmicosin (USP/INN)
+            D02493  Tilmicosin phosphate (USAN)
+            D02523  Erythromycin acistrate (USAN)
+            D02524  Erythromycin gluceptate (USP)
+            D02525  Erythromycin propionate (USAN)
+            D04054  Erythromycin salnacedin (USAN)
+            D05351  Josamycin propionate (JP16)
+            D05908  Spiramycin (USAN/INN)
+            D06390  Azithromycin (USP)
+            D07486  Azithromycin (INN)
+            D07710  Clarithromycin lactobionate
+            D07909  Erythromycin thiocyanate
+            D07910  Erythromycin stinoprate (INN)
+            D08527  Spiramycin adipate
+            D08528  Spiramycin embonate
+REFERENCE   (Japanese)
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   (Japanese)
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   (Japanese)
+  AUTHORS   Noguchi S, Hibino S (eds).
+  TITLE     [Medicinal Chemistry: Bridge Between Biology (3rd ed)] (In Japanese)
+  JOURNAL   Hirokawa (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Suzuki I, Maeda K.
+  TITLE     [Medicine Development (vol.5)] (In Japanese)
+  JOURNAL   Hirokawa
+REFERENCE   (Japanese)
+  AUTHORS   Nasu M.
+  TITLE     [New macrolides.] (In Japanese)
+  JOURNAL   Sogo Rinsho 42(2):297-302 (1993)
+REFERENCE   
+  AUTHORS   Hunter PA.
+  TITLE     Ketolides - a novel form of macrolide: the way forward?
+  JOURNAL   Drug Discovery Today 3(6):257-260 (1998)
+///

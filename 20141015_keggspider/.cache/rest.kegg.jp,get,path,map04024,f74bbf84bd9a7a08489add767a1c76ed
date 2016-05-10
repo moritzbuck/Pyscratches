@@ -1,0 +1,122 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04024
+server: Apache
+date: Wed, 15 Oct 2014 14:58:14 GMT
+content-type: text/plain
+
+ENTRY       map04024                    Pathway
+NAME        cAMP signaling pathway
+DESCRIPTION cAMP is one of the most common and universal second messengers, and its formation is promoted by adenylyl cyclase (AC) activation after ligation of G protein-coupled receptors (GPCRs) by ligands including hormones, neurotransmitters, and other signaling molecules. cAMP regulates pivotal physiologic processes including metabolism, secretion, calcium homeostasis, muscle contraction, cell fate, and gene transcription. cAMP acts directly on three main targets: protein kinase A (PKA), the exchange protein activated by cAMP (Epac), and cyclic nucleotide-gated ion channels (CNGCs). PKA modulates, via phosphorylation, a number of cellular substrates, including transcription factors, ion channels, transporters, exchangers, intracellular Ca2+ -handling proteins, and the contractile machinery. Epac proteins function as guanine nucleotide exchange factors (GEFs) for both Rap1 and Rap2. Various effector proteins, including adaptor proteins implicated in modulation of the actin cytoskeleton, regulators of G proteins of the Rho family, and phospholipases, relay signaling downstream from Rap.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04024  cAMP signaling pathway
+DBLINKS     GO: 0019933
+REFERENCE   PMID:11493633
+  AUTHORS   Fimia GM, Sassone-Corsi P
+  TITLE     Cyclic AMP signalling.
+  JOURNAL   J Cell Sci 114:1971-2 (2001)
+REFERENCE   PMID:18323530
+  AUTHORS   Serezani CH, Ballinger MN, Aronoff DM, Peters-Golden M
+  TITLE     Cyclic AMP: master regulator of innate immune cell function.
+  JOURNAL   Am J Respir Cell Mol Biol 39:127-32 (2008)
+REFERENCE   PMID:24281338
+  AUTHORS   Oldenburger A, Maarsingh H, Schmidt M
+  TITLE     Multiple facets of cAMP signalling and physiological impact: cAMP compartmentalization in the lung.
+  JOURNAL   Pharmaceuticals (Basel) 5:1291-331 (2012)
+REFERENCE   PMID:24613710
+  AUTHORS   Ahuja M, Jha A, Maleth J, Park S, Muallem S
+  TITLE     cAMP and Ca signaling in secretory epithelia: Crosstalk and synergism.
+  JOURNAL   Cell Calcium 55:385-393 (2014)
+REFERENCE   PMID:22082266
+  AUTHORS   Shirshev SV
+  TITLE     Role of Epac proteins in mechanisms of cAMP-dependent immunoregulation.
+  JOURNAL   Biochemistry (Mosc) 76:981-98 (2011)
+REFERENCE   PMID:18176800
+  AUTHORS   Roscioni SS, Elzinga CR, Schmidt M
+  TITLE     Epac: effectors and biological functions.
+  JOURNAL   Naunyn Schmiedebergs Arch Pharmacol 377:345-57 (2008)
+REFERENCE   PMID:24450633
+  AUTHORS   Roberts OL, Dart C
+  TITLE     cAMP signalling in the vasculature: the role of Epac (exchange protein directly activated by cAMP).
+  JOURNAL   Biochem Soc Trans 42:89-97 (2014)
+REFERENCE   PMID:16765984
+  AUTHORS   Schaub MC, Hefti MA, Zaugg M
+  TITLE     Integration of calcium with the signaling network in cardiac myocytes.
+  JOURNAL   J Mol Cell Cardiol 41:183-214 (2006)
+REFERENCE   PMID:19874988
+  AUTHORS   Triposkiadis F, Karayannis G, Giamouzis G, Skoularigis J, Louridas G, Butler J
+  TITLE     The sympathetic nervous system in heart failure physiology, pathophysiology, and  clinical implications.
+  JOURNAL   J Am Coll Cardiol 54:1747-62 (2009)
+REFERENCE   PMID:15142747
+  AUTHORS   Saucerman JJ, McCulloch AD
+  TITLE     Mechanistic systems models of cell signaling networks: a case study of myocyte adrenergic regulation.
+  JOURNAL   Prog Biophys Mol Biol 85:261-78 (2004)
+REFERENCE   PMID:21212391
+  AUTHORS   Yang JH, Saucerman JJ
+  TITLE     Computational models reduce complexity and accelerate insight into cardiac signaling networks.
+  JOURNAL   Circ Res 108:85-97 (2011)
+REFERENCE   PMID:22022314
+  AUTHORS   Taggart P, Boyett MR, Logantha S, Lambiase PD
+  TITLE     Anger, emotion, and arrhythmias: from brain to heart.
+  JOURNAL   Front Physiol 2:67 (2011)
+REFERENCE   PMID:21852968
+  AUTHORS   Bozzi Y, Dunleavy M, Henshall DC
+  TITLE     Cell signaling underlying epileptic behavior.
+  JOURNAL   Front Behav Neurosci 5:45 (2011)
+REFERENCE   PMID:10880354
+  AUTHORS   Lizcano JM, Morrice N, Cohen P
+  TITLE     Regulation of BAD by cAMP-dependent protein kinase is mediated via phosphorylation of a novel site, Ser155.
+  JOURNAL   Biochem J 349:547-57 (2000)
+REFERENCE   PMID:21744067
+  AUTHORS   Gerlo S, Kooijman R, Beck IM, Kolmus K, Spooren A, Haegeman G
+  TITLE     Cyclic AMP: a selective modulator of NF-kappaB action.
+  JOURNAL   Cell Mol Life Sci 68:3823-41 (2011)
+REFERENCE   PMID:7688165
+  AUTHORS   Lauder JM
+  TITLE     Neurotransmitters as growth regulatory signals: role of receptors and second messengers.
+  JOURNAL   Trends Neurosci 16:233-40 (1993)
+REFERENCE   PMID:17077866
+  AUTHORS   Voglis G, Tavernarakis N
+  TITLE     The role of synaptic ion channels in synaptic plasticity.
+  JOURNAL   EMBO Rep 7:1104-10 (2006)
+REFERENCE   PMID:21346730
+  AUTHORS   Altarejos JY, Montminy M
+  TITLE     CREB and the CRTC co-activators: sensors for hormonal and metabolic signals.
+  JOURNAL   Nat Rev Mol Cell Biol 12:141-51 (2011)
+REFERENCE   PMID:24062645
+  AUTHORS   Bozzi Y, Borrelli E
+  TITLE     The role of dopamine signaling in epileptogenesis.
+  JOURNAL   Front Cell Neurosci 7:157 (2013)
+REFERENCE   PMID:14715909
+  AUTHORS   Ceulemans H, Bollen M
+  TITLE     Functional diversity of protein phosphatase-1, a cellular economizer and reset button.
+  JOURNAL   Physiol Rev 84:1-39 (2004)
+REFERENCE   PMID:16571352
+  AUTHORS   Lipinski RJ, Gipp JJ, Zhang J, Doles JD, Bushman W
+  TITLE     Unique and complimentary activities of the Gli transcription factors in Hedgehog  signaling.
+  JOURNAL   Exp Cell Res 312:1925-38 (2006)
+REFERENCE   PMID:21693691
+  AUTHORS   Lasala C, Schteingart HF, Arouche N, Bedecarras P, Grinspon RP, Picard JY, Josso N, di Clemente N, Rey RA
+  TITLE     SOX9 and SF1 are involved in cyclic AMP-mediated upregulation of anti-Mullerian gene expression in the testicular prepubertal Sertoli cell line SMAT1.
+  JOURNAL   Am J Physiol Endocrinol Metab 301:E539-47 (2011)
+REFERENCE   PMID:19460777
+  AUTHORS   Rosenkranz AC, Rauch BH, Freidel K, Schror K
+  TITLE     Regulation of protease-activated receptor-1 by vasodilatory prostaglandins via NFAT.
+  JOURNAL   Cardiovasc Res 83:778-84 (2009)
+REFERENCE   PMID:11117527
+  AUTHORS   Lazennec G, Canaple L, Saugy D, Wahli W
+  TITLE     Activation of peroxisome proliferator-activated receptors (PPARs) by their ligands and protein kinase A activators.
+  JOURNAL   Mol Endocrinol 14:1962-75 (2000)
+REFERENCE   PMID:16460276
+  AUTHORS   Murthy KS
+  TITLE     Signaling for contraction and relaxation in smooth muscle of the gut.
+  JOURNAL   Annu Rev Physiol 68:345-74 (2006)
+REFERENCE   PMID:18064650
+  AUTHORS   Birukova AA, Zagranichnaya T, Alekseeva E, Bokoch GM, Birukov KG
+  TITLE     Epac/Rap and PKA are novel mechanisms of ANP-induced Rac-mediated pulmonary endothelial barrier protection.
+  JOURNAL   J Cell Physiol 215:715-24 (2008)
+REFERENCE   PMID:9204709
+  AUTHORS   Houslay MD, Milligan G
+  TITLE     Tailoring cAMP-signalling responses through isoform multiplicity.
+  JOURNAL   Trends Biochem Sci 22:217-24 (1997)
+KO_PATHWAY  ko04024
+///

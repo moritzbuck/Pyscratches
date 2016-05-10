@@ -1,0 +1,48 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05211
+server: Apache
+date: Wed, 15 Oct 2014 14:59:08 GMT
+content-type: text/plain
+
+ENTRY       map05211                    Pathway
+NAME        Renal cell carcinoma
+DESCRIPTION Renal cell cancer (RCC) accounts for ~3% of human malignancies and its incidence appears to be rising. Although most cases of RCC seem to occur sporadically, an inherited predisposition to renal cancer accounts for 1-4% of cases. RCC is not a single disease, it has several morphological subtypes. Conventional RCC (clear cell RCC) accounts for ~80% of cases, followed by papillary RCC (10-15%), chromophobe RCC (5%), and collecting duct RCC (<1%). Genes potentially involved in sporadic neoplasms of each particular type are VHL, MET, BHD, and FH respectively. In the absence of VHL, hypoxia-inducible factor alpha (HIF-alpha) accumulates, leading to production of several growth factors, including vascular endothelial growth factor and platelet-derived growth factor. Activated MET mediates a number of biological effects including motility, invasion of extracellular matrix, cellular transformation, prevention of apoptosis and metastasis formation. Loss of functional FH leads to accumulation of fumarate in the cell, triggering inhibition of HPH and preventing targeted pVHL-mediated degradation of HIF-alpha. BHD mutations cause the Birt-Hogg-Dube syndrome and its associated chromophobe, hybrid oncocytic, and conventional (clear cell) RCC.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05211  Renal cell carcinoma
+MODULE      M00383  ECV complex [PATH:map05211]
+DISEASE     H00021  Renal cell carcinoma
+            H00559  von Hippel-Lindau syndrome
+REFERENCE   PMID:16339096
+  AUTHORS   Cohen HT, McGovern FJ.
+  TITLE     Renal-cell carcinoma.
+  JOURNAL   N Engl J Med 353:2477-90 (2005)
+REFERENCE   PMID:15122209
+  AUTHORS   Pavlovich CP, Schmidt LS.
+  TITLE     Searching for the hereditary causes of renal-cell carcinoma.
+  JOURNAL   Nat Rev Cancer 4:381-93 (2004)
+REFERENCE   PMID:14634372
+  AUTHORS   Linehan WM, Walther MM, Zbar B.
+  TITLE     The genetic basis of cancer of the kidney.
+  JOURNAL   J Urol 170:2163-72 (2003)
+REFERENCE   PMID:14685170
+  AUTHORS   Birchmeier C, Birchmeier W, Gherardi E, Vande Woude GF.
+  TITLE     Met, metastasis, motility and more.
+  JOURNAL   Nat Rev Mol Cell Biol 4:915-25 (2003)
+REFERENCE   PMID:15611513
+  AUTHORS   Kim WY, Kaelin WG.
+  TITLE     Role of VHL gene mutation in human cancer.
+  JOURNAL   J Clin Oncol 22:4991-5004 (2004)
+REFERENCE   PMID:17211469
+  AUTHORS   Sudarshan S, Linehan WM, Neckers L.
+  TITLE     HIF and fumarate hydratase in renal cancer.
+  JOURNAL   Br J Cancer 96:403-7 (2007)
+REFERENCE   PMID:17287871
+  AUTHORS   Sudarshan S, Pinto PA, Neckers L, Linehan WM.
+  TITLE     Mechanisms of disease: hereditary leiomyomatosis and renal cell cancer--a distinct form of hereditary kidney cancer.
+  JOURNAL   Nat Clin Pract Urol 4:104-10 (2007)
+REFERENCE   PMID:12351585
+  AUTHORS   Bodmer D, van den Hurk W, van Groningen JJ, Eleveld MJ, Martens GJ, Weterman MA, van Kessel AG.
+  TITLE     Understanding familial and non-familial renal cell cancer.
+  JOURNAL   Hum Mol Genet 11:2489-98 (2002)
+KO_PATHWAY  ko05211
+///

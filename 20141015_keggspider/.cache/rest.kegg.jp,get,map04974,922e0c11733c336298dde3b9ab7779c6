@@ -1,0 +1,77 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04974
+server: Apache
+date: Wed, 15 Oct 2014 15:09:14 GMT
+content-type: text/plain
+
+ENTRY       map04974                    Pathway
+NAME        Protein digestion and absorption
+DESCRIPTION Protein is a dietary component essential for nutritional homeostasis in humans. Normally, ingested protein undergoes a complex series of degradative processes following the action of gastric, pancreatic and small intestinal enzymes. The result of this proteolytic activity is a mixture of amino acids and small peptides. Amino acids (AAs) are transported into the enterocyte (intestinal epithelial cell) by a variety of AA transporters that are specific for cationic (basic) AA, neutral AA, and anionic (acidic) AA. Small peptides are absorbed into enterocytes by the PEPT1 transporter. Inside enterocytes peptides are hydrolyzed, and the resulting amino acids are released together with those absorbed by AA transporters into blood via multiple, basolateral, AA transporters. Hydrolysis-resistant peptides, however, are transported out of the cells by a basolateral peptide transporter that has not been identified molecularly.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP map04974  Protein digestion and absorption
+DISEASE     H00843  Hartnup disorder
+            H00899  Lysinuric protein intolerance (LPI)
+            H00901  Cystinuria
+            H00905  Iminoglycinuria
+            H00911  Dicarboxylic aminoaciduria
+            H00933  Hereditary pancreatitis
+            H01304  Hyperglycinuria
+DBLINKS     GO: 0044256 0050892
+REFERENCE   PMID:18195088
+  AUTHORS   Broer S
+  TITLE     Amino acid transport across mammalian intestinal and renal epithelia.
+  JOURNAL   Physiol Rev 88:249-86 (2008)
+REFERENCE   PMID:15772300
+  AUTHORS   Palacin M, Nunes V, Font-Llitjos M, Jimenez-Vidal M, Fort J, Gasol E, Pineda M, Feliubadalo L, Chillaron J, Zorzano A
+  TITLE     The genetics of heteromeric amino acid transporters.
+  JOURNAL   Physiology (Bethesda) 20:112-24 (2005)
+REFERENCE   PMID:20522896
+  AUTHORS   Goodman BE
+  TITLE     Insights into digestion and absorption of major nutrients in humans.
+  JOURNAL   Adv Physiol Educ 34:44-53 (2010)
+REFERENCE   PMID:11546643
+  AUTHORS   Wagner CA, Lang F, Broer S
+  TITLE     Function and structure of heterodimeric amino acid transporters.
+  JOURNAL   Am J Physiol Cell Physiol 281:C1077-93 (2001)
+REFERENCE   PMID:18400692
+  AUTHORS   Broer S
+  TITLE     Apical transporters for neutral amino acids: physiology and pathophysiology.
+  JOURNAL   Physiology (Bethesda) 23:95-103 (2008)
+REFERENCE   PMID:9687539
+  AUTHORS   Wu G
+  TITLE     Intestinal mucosal amino acid catabolism.
+  JOURNAL   J Nutr 128:1249-52 (1998)
+REFERENCE   PMID:14977407
+  AUTHORS   Daniel H
+  TITLE     Molecular and integrative physiology of intestinal peptide transport.
+  JOURNAL   Annu Rev Physiol 66:361-84 (2004)
+REFERENCE   PMID:12237156
+  AUTHORS   Rubio-Aliaga I, Daniel H
+  TITLE     Mammalian peptide transporters as targets for drug delivery.
+  JOURNAL   Trends Pharmacol Sci 23:434-40 (2002)
+REFERENCE   PMID:7937532
+  AUTHORS   Bai JP
+  TITLE     Distribution of brush-border membrane peptidases along the rat intestine.
+  JOURNAL   Pharm Res 11:897-900 (1994)
+REFERENCE   PMID:12583961
+  AUTHORS   Guarner F, Malagelada JR
+  TITLE     Gut flora in health and disease.
+  JOURNAL   Lancet 361:512-9 (2003)
+REFERENCE   PMID:16887608
+  AUTHORS   Smith EA, Macfarlane GT
+  TITLE     Dissimilatory amino Acid metabolism in human colonic bacteria.
+  JOURNAL   Anaerobe 3:327-37 (1997)
+REFERENCE   PMID:20093818
+  AUTHORS   Schepers E, Glorieux G, Vanholder R
+  TITLE     The gut: the forgotten organ in uremia?
+  JOURNAL   Blood Purif 29:130-6 (2010)
+REFERENCE   
+  AUTHORS   John H.Cummings
+  TITLE     The large intestine in nutrition and disease
+  JOURNAL   Institut Danone
+REFERENCE   PMID:18626068
+  AUTHORS   Heitzmann D, Warth R
+  TITLE     Physiology and pathophysiology of potassium channels in gastrointestinal epithelia.
+  JOURNAL   Physiol Rev 88:1119-82 (2008)
+KO_PATHWAY  ko04974
+///

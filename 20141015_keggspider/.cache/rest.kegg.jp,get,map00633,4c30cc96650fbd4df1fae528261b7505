@@ -1,0 +1,62 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00633
+server: Apache
+date: Wed, 15 Oct 2014 15:08:00 GMT
+content-type: text/plain
+
+ENTRY       map00633                    Pathway
+NAME        Nitrotoluene degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00633  Nitrotoluene degradation
+DBLINKS     UMBBD: tnt tnt2 dnt
+            GO: 0046260
+REFERENCE   
+  AUTHORS   Esteve-Nunez A, Ramos JL.
+  TITLE     Metabolism of 2,4,6-Trinitrotoluene by Pseudomonas sp. JLR11.
+  JOURNAL   Environmental science & technology 32:3802-3808 (1998)
+REFERENCE   PMID:8534088
+  AUTHORS   Gilcrease PC, Murphy VG.
+  TITLE     Bioconversion of 2,4-diamino-6-nitrotoluene to a novel metabolite under anoxic and aerobic conditions.
+  JOURNAL   Appl Environ Microbiol 61:4209-14 (1995)
+REFERENCE   PMID:11527999
+  AUTHORS   Esteve-Nunez A, Caballero A, Ramos JL.
+  TITLE     Biological degradation of 2,4,6-trinitrotoluene.
+  JOURNAL   Microbiol Mol Biol Rev 65:335-52, table of contents (2001)
+REFERENCE   PMID:14751225
+  AUTHORS   Fleischmann TJ, Walker KC, Spain JC, Hughes JB, Morrie Craig A.
+  TITLE     Anaerobic transformation of 2,4,6-TNT by bovine ruminal microbes.
+  JOURNAL   Biochem Biophys Res Commun 314:957-63 (2004)
+REFERENCE   PMID:14753774
+  AUTHORS   Borch T, Gerlach R.
+  TITLE     Use of reversed-phase high-performance liquid chromatography-diode array detection for complete separation of 2,4,6-trinitrotoluene metabolites and EPA Method 8330 explosives: influence of temperature and an ion-pair reagent.
+  JOURNAL   J Chromatogr A 1022:83-94 (2004)
+REFERENCE   PMID:15490158
+  AUTHORS   Yin H, Wood TK, Smets BF.
+  TITLE     Reductive transformation of TNT by Escherichia coli: pathway description.
+  JOURNAL   Appl Microbiol Biotechnol 67:397-404 (2005)
+REFERENCE   PMID:16187099
+  AUTHORS   Kutty R, Bennett GN.
+  TITLE     Biochemical characterization of trinitrotoluene transforming oxygen-insensitive nitroreductases from Clostridium acetobutylicum ATCC 824.
+  JOURNAL   Arch Microbiol 184:158-67 (2005)
+REFERENCE   PMID:16535610
+  AUTHORS   Fiorella PD, Spain JC.
+  TITLE     Transformation of 2,4,6-Trinitrotoluene by Pseudomonas pseudoalcaligenes JS52.
+  JOURNAL   Appl Environ Microbiol 63:2007-2015 (1997)
+REFERENCE   PMID:17504490
+  AUTHORS   Gonzalez-Perez MM, van Dillewijn P, Wittich RM, Ramos JL.
+  TITLE     Escherichia coli has multiple enzymes that attack TNT and release nitrogen for growth.
+  JOURNAL   Environ Microbiol 9:1535-40 (2007)
+REFERENCE   PMID:16535348
+  AUTHORS   Noguera DR, Freedman DL
+  TITLE     Reduction and Acetylation of 2,4-Dinitrotoluene by a Pseudomonas aeruginosa Strain.
+  JOURNAL   Appl Environ Microbiol 62:2257-63 (1996)
+REFERENCE   PMID:9922262
+  AUTHORS   Haigler BE, Johnson GR, Suen WC, Spain JC
+  TITLE     Biochemical and genetic evidence for meta-ring cleavage of 2,4, 5-trihydroxytoluene in Burkholderia sp. strain DNT.
+  JOURNAL   J Bacteriol 181:965-72 (1999)
+REFERENCE   PMID:12107140
+  AUTHORS   Johnson GR, Jain RK, Spain JC
+  TITLE     Origins of the 2,4-dinitrotoluene pathway.
+  JOURNAL   J Bacteriol 184:4219-32 (2002)
+KO_PATHWAY  ko00633
+///

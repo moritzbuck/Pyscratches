@@ -1,0 +1,59 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07021
+server: Apache
+date: Wed, 15 Oct 2014 14:59:20 GMT
+content-type: text/plain
+
+ENTRY       map07021          Drug      Pathway
+NAME        Aminoglycosides
+PATHWAY_MAP map07021  Aminoglycosides
+COMPOUND    D00063  Tobramycin (JP16/USP)
+            D00865  Amikacin sulfate (JP16/USP)
+            D00866  Kanamycin monosulfate (JP16)
+            D00867  Netilmicin sulfate (JAN/USP)
+            D00868  Paromomycin sulfate (JAN/USP)
+            D00869  Spectinomycin hydrochloride hydrate (JP16)
+            D01063  Gentamicin sulfate (JP16/USP)
+            D01350  Streptomycin sulfate (JP16/USP)
+            D01523  Arbekacin sulfate (JP16)
+            D01618  Fradiomycin sulfate (JP16)
+            D01753  Dibekacin sulfate (JP16)
+            D01821  Micronomicin sulfate (JP16)
+            D01826  Isepamicin sulfate (JP16)
+            D01868  Bekanamycin sulfate (JP16)
+            D01881  Astromicin sulfate (JAN/USAN)
+            D02181  Sisomicin sulfate (JAN/USP)
+            D02209  Ribostamycin sulfate (JP16)
+            D02542  Tobramycin sulfate (USP)
+            D02543  Amikacin (USP/INN)
+            D02544  Sisomicin (USAN/INN)
+            D02545  Isepamicin (USAN/INN)
+            D03262  Kanamycin sulfate (JP16)
+            D05140  Framycetin (INN)
+            D07462  Arbekacin (INN)
+            D07467  Paromomycin (INN)
+            D07470  Astromicin (INN)
+            D07497  Bekanamycin (INN)
+            D07811  Dibekacin (INN)
+            D08219  Micronomicin (DCF)
+            D08268  Netilmicin (INN)
+            D08478  Ribostamycin (INN)
+            D08526  Spectinomycin (INN)
+            D08531  Streptomycin (INN)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   (Japanese)
+  AUTHORS   Sakurai J.
+  TITLE     [Illustrated Microbiology (2nd ed)] (In Japanese)
+  JOURNAL   Nanzando
+REFERENCE   PMID:12827054
+  AUTHORS   Scuderi AC, Paladino GM, Marino C, Trombetta F.
+  TITLE     In vitro toxicity of netilmicin and ofloxacin on corneal epithelial cells.
+  JOURNAL   Cornea 22:468-72 (2003)
+///

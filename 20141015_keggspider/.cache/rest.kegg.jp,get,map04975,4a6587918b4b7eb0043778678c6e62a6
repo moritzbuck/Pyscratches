@@ -1,0 +1,83 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04975
+server: Apache
+date: Wed, 15 Oct 2014 15:09:14 GMT
+content-type: text/plain
+
+ENTRY       map04975                    Pathway
+NAME        Fat digestion and absorption
+DESCRIPTION Fat is an important energy source from food. More than 95% of dietary fat is long-chain triacylglycerols (TAG), the remaining being phospholipids (4.5%) and sterols. In the small intestine lumen, dietary TAG is hydrolyzed to fatty acids (FA) and monoacylglycerols (MAG) by pancreatic lipase. These products are then emulsified with the help of phospholipids (PL) and bile acids (BA) present in bile to form micelles. Free FAs and MAGs are taken up by the enterocyte where they are rapidly resynthesized in endoplasmic reticulum (ER) to form TAG. PLs from the diet as well as bile - mainly LPA - too are absorbed by the enterocyte and are acylated to form phosphatidic acid (PA), which is also converted into TAG. Absorbed cholesterol (CL) is acylated to cholesterol esters (CE). Within the ER, TAG joins CE and apolipoprotein B (ApoB) to form chylomicrons that enter circulation through the lymph.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP map04975  Fat digestion and absorption
+DISEASE     H00845  Familial amyloidosis
+            H00930  Hypoalphalipoproteinemia
+            H01108  CD36 deficiency
+            H01213  Gallbladder disease
+            H01270  Familial hypobetalipoproteinemia (FHBL)
+DBLINKS     GO: 0044241 0030299
+REFERENCE   PMID:19158321
+  AUTHORS   Iqbal J, Hussain MM
+  TITLE     Intestinal lipid absorption.
+  JOURNAL   Am J Physiol Endocrinol Metab 296:E1183-94 (2009)
+REFERENCE   PMID:20522896
+  AUTHORS   Goodman BE
+  TITLE     Insights into digestion and absorption of major nutrients in humans.
+  JOURNAL   Adv Physiol Educ 34:44-53 (2010)
+REFERENCE   PMID:19280719
+  AUTHORS   Niot I, Poirier H, Tran TT, Besnard P
+  TITLE     Intestinal absorption of long-chain fatty acids: evidence and uncertainties.
+  JOURNAL   Prog Lipid Res 48:101-15 (2009)
+REFERENCE   PMID:15286736
+  AUTHORS   Shi Y, Burn P
+  TITLE     Lipid metabolic enzymes: emerging drug targets for the treatment of obesity.
+  JOURNAL   Nat Rev Drug Discov 3:695-710 (2004)
+REFERENCE   PMID:20148678
+  AUTHORS   Mansbach CM, Siddiqi SA
+  TITLE     The biogenesis of chylomicrons.
+  JOURNAL   Annu Rev Physiol 72:315-33 (2010)
+REFERENCE   PMID:19116371
+  AUTHORS   Shi Y, Cheng D
+  TITLE     Beyond triglyceride synthesis: the dynamic functional roles of MGAT and DGAT enzymes in energy metabolism.
+  JOURNAL   Am J Physiol Endocrinol Metab 297:E10-8 (2009)
+REFERENCE   PMID:10924713
+  AUTHORS   Ros E
+  TITLE     Intestinal absorption of triglyceride and cholesterol. Dietary and pharmacological inhibition to reduce cardiovascular risk.
+  JOURNAL   Atherosclerosis 151:357-79 (2000)
+REFERENCE   PMID:12621063
+  AUTHORS   Yen CL, Farese RV Jr
+  TITLE     MGAT2, a monoacylglycerol acyltransferase expressed in the small intestine.
+  JOURNAL   J Biol Chem 278:18532-7 (2003)
+REFERENCE   PMID:17495606
+  AUTHORS   Levy E, Spahis S, Sinnett D, Peretti N, Maupas-Schwalm F, Delvin E, Lambert M, Lavoie MA
+  TITLE     Intestinal cholesterol transport proteins: an update and beyond.
+  JOURNAL   Curr Opin Lipidol 18:310-8 (2007)
+REFERENCE   PMID:18830418
+  AUTHORS   Williams KJ
+  TITLE     Molecular processes that handle -- and mishandle -- dietary lipids.
+  JOURNAL   J Clin Invest 118:3247-59 (2008)
+REFERENCE   PMID:11504671
+  AUTHORS   Lu K, Lee MH, Patel SB
+  TITLE     Dietary cholesterol absorption; more than just bile.
+  JOURNAL   Trends Endocrinol Metab 12:314-20 (2001)
+REFERENCE   PMID:14976303
+  AUTHORS   Klett EL, Patel SB
+  TITLE     Biomedicine. Will the real cholesterol transporter please stand up.
+  JOURNAL   Science 303:1149-50 (2004)
+REFERENCE   PMID:17002594
+  AUTHORS   Wang DQ
+  TITLE     Regulation of intestinal cholesterol absorption.
+  JOURNAL   Annu Rev Physiol 69:221-48 (2007)
+REFERENCE   PMID:19663632
+  AUTHORS   Patel JP, Brocks DR
+  TITLE     The effect of oral lipids and circulating lipoproteins on the metabolism of drugs.
+  JOURNAL   Expert Opin Drug Metab Toxicol 5:1385-98 (2009)
+REFERENCE   PMID:15891388
+  AUTHORS   Hussain MM, Fatma S, Pan X, Iqbal J
+  TITLE     Intestinal lipoprotein assembly.
+  JOURNAL   Curr Opin Lipidol 16:281-5 (2005)
+REFERENCE   PMID:20493784
+  AUTHORS   Kindel T, Lee DM, Tso P
+  TITLE     The mechanism of the formation and secretion of chylomicrons.
+  JOURNAL   Atheroscler Suppl 11:11-6 (2010)
+KO_PATHWAY  ko04975
+///

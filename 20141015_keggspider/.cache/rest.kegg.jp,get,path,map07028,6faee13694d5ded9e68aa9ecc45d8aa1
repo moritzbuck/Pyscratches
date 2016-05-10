@@ -1,0 +1,77 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07028
+server: Apache
+date: Wed, 15 Oct 2014 14:59:22 GMT
+content-type: text/plain
+
+ENTRY       map07028          Drug      Pathway
+NAME        Antipsychotics
+PATHWAY_MAP map07028  Antipsychotics
+COMPOUND    D00136  Haloperidol (JP16/USP/INN)
+            D00228  Amoxapine (JP16/USP/INN)
+            D00270  Chlorpromazine (USP/INN)
+            D00300  Diphenhydramine (JP16/INN)
+            D00374  Tiotixene (JAN)
+            D00426  Risperidone (JP16/USAN/INN)
+            D00477  Procainamide hydrochloride (JP16/USP)
+            D00480  Promethazine hydrochloride (JP16/USP)
+            D00494  Promethazine (JAN/INN)
+            D00561  Sertindole (USAN/INN)
+            D00669  Diphenhydramine hydrochloride (JP16/USP)
+            D00726  Metoclopramide (JP16/INN)
+            D00789  Chlorpromazine hydrochloride (JP16/USP)
+            D00790  Chlorprothixene (JAN/USAN/INN)
+            D00796  Molindone hydrochloride (USP)
+            D01044  Flupentixol (INN)
+            D01226  Sulpiride (JP16/USAN/INN)
+            D01242  Promethazine teoclate (JAN/INN)
+            D01321  Zotepine (JAN/INN)
+            D01383  Pethidine hydrochloride (JP16)
+            D01438  Perlapine (JAN/USAN/INN)
+            D02091  Tripelennamine hydrochloride (USP)
+            D02162  Chlorprothixene hydrochloride (JAN)
+            D02213  Metoclopramide hydrochloride (JAN)
+            D02236  Flupentixol dihydrochloride (JAN)
+            D02419  Diphenhydramine salicylate (JAN)
+            D02603  Diethazine hydrochloride
+            D02611  Phenoperidine (INN)
+            D02612  Thiothixene hydrochloride (USP)
+            D02613  Clopenthixol (USAN)
+            D03274  Chlorpromazine hibenzate (JAN)
+            D03290  Promethazine methylenedisalicylate (JAN)
+            D03360  Diphenhydramine laurylsulfate (JAN)
+            D03556  Zuclopenthixol (INN)
+            D03854  Diphenhydramine citrate (USP)
+            D04034  Chlorpromazine phenolphthalinate (JAN)
+            D05008  Metoclopramide hydrochloride (USAN)
+            D06246  Tripelennamine citrate
+            D07686  Chlorprothixene acetate
+            D07687  Chlorprothixene citrate
+            D08343  Pethidine (INN)
+            D08432  Promethazine maleate
+            D08768  Promethazine hibenzate
+REFERENCE   (Japanese)
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   (Japanese)
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   (Japanese)
+  AUTHORS   Noguchi S, Hibino S (eds).
+  TITLE     [Medicinal Chemistry: Bridge Between Biology (3rd ed)] (In Japanese)
+  JOURNAL   Hirokawa (2002)
+///

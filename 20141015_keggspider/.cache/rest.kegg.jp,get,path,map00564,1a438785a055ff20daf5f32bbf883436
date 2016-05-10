@@ -1,0 +1,56 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00564
+server: Apache
+date: Wed, 15 Oct 2014 14:57:31 GMT
+content-type: text/plain
+
+ENTRY       map00564                    Pathway
+NAME        Glycerophospholipid metabolism
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00564  Glycerophospholipid metabolism
+MODULE      M00090  Phosphatidylcholine (PC) biosynthesis, choline => PC [PATH:map00564]
+            M00091  Phosphatidylcholine (PC) biosynthesis, PE => PC [PATH:map00564]
+            M00092  Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE [PATH:map00564]
+            M00093  Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE [PATH:map00564]
+DISEASE     H00158  Lecithin:cholesterol acyltransferase deficiency
+            H00207  Rhizomelic chondrodysplasia punctata
+            H00654  Barth syndrome (BTHS)
+            H00770  Congenital myasthenic syndrome
+            H00833  Neurodegeneration with brain iron accumulation (NBIA)
+            H01117  Majeed syndrome
+            H01290  Acute recurrent myoglobinuria
+DBLINKS     GO: 0006650 0046474 0046475
+REFERENCE   PMID:1512203
+  AUTHORS   Racenis PV, Lai JL, Das AK, Mullick PC, Hajra AK, Greenberg ML.
+  TITLE     The acyl dihydroxyacetone phosphate pathway enzymes for glycerolipid biosynthesis are present in the yeast Saccharomyces cerevisiae.
+  JOURNAL   J Bacteriol 174:5702-10 (1992)
+REFERENCE   PMID:10092508
+  AUTHORS   Taniyama Y, Shibata S, Kita S, Horikoshi K, Fuse H, Shirafuji H, Sumino Y, Fujino M.
+  TITLE     Cloning and expression of a novel lysophospholipase which structurally resembles lecithin cholesterol acyltransferase.
+  JOURNAL   Biochem Biophys Res Commun 257:50-6 (1999)
+REFERENCE   PMID:10542045
+  AUTHORS   Athenstaedt K, Daum G.
+  TITLE     Phosphatidic acid, a key intermediate in lipid metabolism.
+  JOURNAL   Eur J Biochem 266:1-16 (1999)
+REFERENCE   PMID:12431977
+  AUTHORS   Shields DJ, Lehner R, Agellon LB, Vance DE.
+  TITLE     Membrane topography of human phosphatidylethanolamine N-methyltransferase.
+  JOURNAL   J Biol Chem 278:2956-62 (2003)
+REFERENCE   PMID:14663079
+  AUTHORS   Martinez-Morales F, Schobert M, Lopez-Lara IM, Geiger O.
+  TITLE     Pathways for phosphatidylcholine biosynthesis in bacteria.
+  JOURNAL   Microbiology 149:3461-71 (2003)
+REFERENCE   PMID:15522832
+  AUTHORS   Burgermeister M, Birner-Grunberger R, Nebauer R, Daum G.
+  TITLE     Contribution of different pathways to the supply of phosphatidylethanolamine and phosphatidylcholine to mitochondrial membranes of the yeast Saccharomyces cerevisiae.
+  JOURNAL   Biochim Biophys Acta 1686:161-8 (2004)
+REFERENCE   PMID:1649829
+  AUTHORS   Hsu L, Jackowski S, Rock CO
+  TITLE     Isolation and characterization of Escherichia coli K-12 mutants lacking both 2-acyl-glycerophosphoethanolamine acyltransferase and acyl-acyl carrier protein synthetase activity.
+  JOURNAL   J Biol Chem 266:13783-8 (1991)
+REFERENCE   PMID:10938271
+  AUTHORS   Stone SJ, Vance JE.
+  TITLE     Phosphatidylserine synthase-1 and -2 are localized to mitochondria-associated membranes.
+  JOURNAL   J Biol Chem 275:34534-40 (2000)
+KO_PATHWAY  ko00564
+///

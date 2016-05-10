@@ -1,0 +1,87 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04723
+server: Apache
+date: Wed, 15 Oct 2014 14:58:39 GMT
+content-type: text/plain
+
+ENTRY       map04723                    Pathway
+NAME        Retrograde endocannabinoid signaling
+DESCRIPTION Endogenous cannabinoids (endocannabinoids) serve as retrograde messengers at synapses in various regions of the brain. The family of endocannabinoids includes at least five derivatives of arachidonic acid; the two best characterized are arachydonoyl ethanolamide (anandamide, AEA) and 2-arachydonoil glycerol (2AG). They are released from postsynaptic neurons upon postsynaptic depolarization and/or receptor activation. The released endocannabinoids then activate the CB1 receptors (CB1R) at presynaptic terminals and suppress the release of inhibitory transmitter GABA (depolarization-induced suppression of inhibition, DSI) or excitatory transmitter glutamate (depolarization-induced suppression of excitation, DSE) by inhibiting Ca2+ channels. Whereas DSI and DSE result in short-term synaptic plasticity, endocannabinoids also mediate long-term synaptic changes (eCB-LTD). Persistent activation of CB1 receptors over a period of minutes triggers eCB-LTD by a RIM1alpha-dependent mechanism.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP map04723  Retrograde endocannabinoid signaling
+DISEASE     H00577  Syndromic X-linked mental retardation with epilepsy or seizures
+DBLINKS     GO: 0071926
+REFERENCE   PMID:17419048
+  AUTHORS   Hashimotodani Y, Ohno-Shosaku T, Kano M
+  TITLE     Ca(2+)-assisted receptor-driven endocannabinoid release: mechanisms that associate presynaptic and postsynaptic activities.
+  JOURNAL   Curr Opin Neurobiol 17:360-5 (2007)
+REFERENCE   PMID:21531987
+  AUTHORS   Ohno-Shosaku T, Tanimura A, Hashimotodani Y, Kano M
+  TITLE     Endocannabinoids and retrograde modulation of synaptic transmission.
+  JOURNAL   Neuroscientist 18:119-32 (2012)
+REFERENCE   PMID:18084639
+  AUTHORS   Basavarajappa BS
+  TITLE     Neuropharmacology of the endocannabinoid signaling system-molecular mechanisms, biological actions and synaptic plasticity.
+  JOURNAL   Curr Neuropharmacol 5:81-97 (2007)
+REFERENCE   PMID:16968947
+  AUTHORS   Pacher P, Batkai S, Kunos G
+  TITLE     The endocannabinoid system as an emerging target of pharmacotherapy.
+  JOURNAL   Pharmacol Rev 58:389-462 (2006)
+REFERENCE   PMID:15340387
+  AUTHORS   Di Marzo V, Bifulco M, De Petrocellis L
+  TITLE     The endocannabinoid system and its therapeutic exploitation.
+  JOURNAL   Nat Rev Drug Discov 3:771-84 (2004)
+REFERENCE   PMID:17404373
+  AUTHORS   Hashimotodani Y, Ohno-Shosaku T, Kano M
+  TITLE     Endocannabinoids and synaptic function in the CNS.
+  JOURNAL   Neuroscientist 13:127-37 (2007)
+REFERENCE   PMID:19126760
+  AUTHORS   Kano M, Ohno-Shosaku T, Hashimotodani Y, Uchigashima M, Watanabe M
+  TITLE     Endocannabinoid-mediated control of synaptic transmission.
+  JOURNAL   Physiol Rev 89:309-80 (2009)
+REFERENCE   PMID:19640475
+  AUTHORS   Regehr WG, Carey MR, Best AR
+  TITLE     Activity-dependent regulation of synapses by retrograde messengers.
+  JOURNAL   Neuron 63:154-70 (2009)
+REFERENCE   PMID:17636069
+  AUTHORS   Benarroch E
+  TITLE     Endocannabinoids in basal ganglia circuits: implications for Parkinson disease.
+  JOURNAL   Neurology 69:306-9 (2007)
+REFERENCE   PMID:16085309
+  AUTHORS   Ohno-Shosaku T, Hashimotodani Y, Maejima T, Kano M
+  TITLE     Calcium signaling and synaptic modulation: regulation of endocannabinoid-mediated synaptic modulation by calcium.
+  JOURNAL   Cell Calcium 38:369-74 (2005)
+REFERENCE   PMID:18801434
+  AUTHORS   Harkany T, Mackie K, Doherty P
+  TITLE     Wiring and firing neuronal networks: endocannabinoids take center stage.
+  JOURNAL   Curr Opin Neurobiol 18:338-45 (2008)
+REFERENCE   PMID:18515270
+  AUTHORS   Hosking RD, Zajicek JP
+  TITLE     Therapeutic potential of cannabis in pain medicine.
+  JOURNAL   Br J Anaesth 101:59-68 (2008)
+REFERENCE   PMID:21187849
+  AUTHORS   Di Marzo V
+  TITLE     Endocannabinoid signaling in the brain: biosynthetic mechanisms in the limelight.
+  JOURNAL   Nat Neurosci 14:9-15 (2011)
+REFERENCE   PMID:18948642
+  AUTHORS   McPartland JM
+  TITLE     The endocannabinoid system: an osteopathic perspective.
+  JOURNAL   J Am Osteopath Assoc 108:586-600 (2008)
+REFERENCE   PMID:17553427
+  AUTHORS   Chevaleyre V, Heifets BD, Kaeser PS, Sudhof TC, Castillo PE
+  TITLE     Endocannabinoid-mediated long-term plasticity requires cAMP/PKA signaling and RIM1alpha.
+  JOURNAL   Neuron 54:801-12 (2007)
+REFERENCE   PMID:19553483
+  AUTHORS   Lafourcade CA
+  TITLE     Presynaptic mechanisms of endocannabinoid-mediated long-term depression in the hippocampus.
+  JOURNAL   J Neurophysiol 102:2009-12 (2009)
+REFERENCE   PMID:21117095
+  AUTHORS   Ueda N, Tsuboi K, Uyama T, Ohnishi T
+  TITLE     Biosynthesis and degradation of the endocannabinoid 2-arachidonoylglycerol.
+  JOURNAL   Biofactors (2010)
+REFERENCE   PMID:14978245
+  AUTHORS   Guo J, Ikeda SR
+  TITLE     Endocannabinoids modulate N-type calcium channels and G-protein-coupled inwardly  rectifying potassium channels via CB1 cannabinoid receptors heterologously expressed in mammalian neurons.
+  JOURNAL   Mol Pharmacol 65:665-74 (2004)
+KO_PATHWAY  ko04723
+///

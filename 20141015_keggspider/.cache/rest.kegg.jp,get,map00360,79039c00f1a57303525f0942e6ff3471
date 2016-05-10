@@ -1,0 +1,40 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00360
+server: Apache
+date: Wed, 15 Oct 2014 15:07:41 GMT
+content-type: text/plain
+
+ENTRY       map00360                    Pathway
+NAME        Phenylalanine metabolism
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00360  Phenylalanine metabolism
+MODULE      M00350  Capsaicin biosynthesis, L-Phenylalanine => Capsaicin [PATH:map00360]
+            M00545  Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA [PATH:map00360]
+DISEASE     H00165  Tyrosinemia
+DBLINKS     GO: 0006558
+REFERENCE   
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REFERENCE   PMID:10537203
+  AUTHORS   Arai H, Yamamoto T, Ohishi T, Shimizu T, Nakata T, Kudo T.
+  TITLE     Genetic organization and characteristics of the 3-(3-hydroxyphenyl)propionic acid degradation pathway of Comamonas testosteroni TA441.
+  JOURNAL   Microbiology 145 ( Pt 10):2813-20 (1999)
+REFERENCE   PMID:9603882
+  AUTHORS   Diaz E, Ferrandez A, Garcia JL.
+  TITLE     Characterization of the hca cluster encoding the dioxygenolytic pathway for initial catabolism of 3-phenylpropionic acid in Escherichia coli K-12.
+  JOURNAL   J Bacteriol 180:2915-23 (1998)
+REFERENCE   PMID:9098055
+  AUTHORS   Ferrandez A, Garcia JL, Diaz E.
+  TITLE     Genetic characterization and expression in heterologous hosts of the 3-(3-hydroxyphenyl)propionate catabolic pathway of Escherichia coli K-12.
+  JOURNAL   J Bacteriol 179:2573-81 (1997)
+REFERENCE   PMID:19016485
+  AUTHORS   Hwang JY, Park J, Seo JH, Cha M, Cho BK, Kim J, Kim BG
+  TITLE     Simultaneous synthesis of 2-phenylethanol and L-homophenylalanine using aromatic transaminase with yeast Ehrlich pathway.
+  JOURNAL   Biotechnol Bioeng 102:1323-9 (2009)
+REFERENCE   PMID:20660314
+  AUTHORS   Teufel R, Mascaraque V, Ismail W, Voss M, Perera J, Eisenreich W, Haehnel W, Fuchs G
+  TITLE     Bacterial phenylalanine and phenylacetate catabolic pathway revealed.
+  JOURNAL   Proc Natl Acad Sci U S A 107:14390-5 (2010)
+KO_PATHWAY  ko00360
+///

@@ -1,0 +1,65 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07228
+server: Apache
+date: Wed, 15 Oct 2014 14:59:39 GMT
+content-type: text/plain
+
+ENTRY       map07228          Drug      Pathway
+NAME        Eicosanoid receptor agonists/antagonists
+PATHWAY_MAP map07228  Eicosanoid receptor agonists/antagonists
+COMPOUND    D00079  Dinoprostone (JAN/USP/INN)
+            D00081  Dinoprost (JP16/USAN/INN)
+            D00106  Epoprostenol (USAN/INN)
+            D00180  Alprostadil (JP16/USP/INN)
+            D00356  Latanoprost (JAN/USAN/INN)
+            D00411  Zafirlukast (JAN/USAN/INN)
+            D00419  Misoprostol (JAN/USAN/INN)
+            D00529  Montelukast sodium (JAN/USAN)
+            D00682  Carboprost tromethamine (USP)
+            D01123  Seratrodast (JAN/USAN/INN)
+            D01128  Ramatroban (JAN/INN)
+            D01188  Pimilprost (JAN/INN)
+            D01337  Epoprostenol sodium (JAN/USAN)
+            D01352  Dinoprost tromethamine (JAN/USP)
+            D01385  Ibudilast (JP16/INN)
+            D01452  Isopropyl unoprostone (JAN)
+            D01551  Beraprost sodium (JP16/USAN)
+            D01869  Ornoprostil (JAN/INN)
+            D01891  Enprostil (JAN/USAN/INN)
+            D01964  Travoprost (JAN/USAN/INN)
+            D02048  Clinprost (JAN/INN)
+            D02073  Gemeprost (JAN/USAN/INN)
+            D02343  Carboprost (USAN/INN)
+            D02705  Alprostadil alfadex (JP16)
+            D02719  Rosaprostol (INN)
+            D02720  Beraprost (USAN)
+            D02721  Iloprost (USAN/INN)
+            D02722  Limaprost (INN)
+            D02724  Bimatoprost (JAN/USAN/INN)
+            D02725  Sulprostone (USAN/INN)
+            D02732  Pranlukast hydrate (JP16)
+            D02860  Limaprost alfadex (JP16)
+            D03187  Butaprost (USAN/INN)
+            D03269  Dinoprostone betadex (JAN)
+            D03399  Carboprost methyl (USAN)
+            D05732  Rioprostil (USAN/INN)
+            D06213  Treprostinil (JAN/USAN/INN)
+            D06274  Tafluprost (JAN/USAN/INN)
+            D08065  Iloprost tromethamine
+            D08229  Montelukast (INN)
+            D08408  Pranlukast (INN)
+            D08628  Treprostinil monosodium salt
+            D08661  Unoprostone (INN)
+REFERENCE   
+  AUTHORS   Tanaka C., Kato R. (eds)
+  TITLE     [New pharmacology (revision 5th ed)] (In Japanese)
+  JOURNAL   Nankodo
+REFERENCE   
+  AUTHORS   Brunton LL, Lazo JS, Parker KL.
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics, eleventh edition
+  JOURNAL   McGraw-Hill (2005)
+REFERENCE   
+  AUTHORS   Watanabe T., Kamisaki Y.
+  TITLE     [Molecular Targeting Pharmacology 2nd Ed)] (In Japanase)
+  JOURNAL   Ishiyaku Publishers
+///

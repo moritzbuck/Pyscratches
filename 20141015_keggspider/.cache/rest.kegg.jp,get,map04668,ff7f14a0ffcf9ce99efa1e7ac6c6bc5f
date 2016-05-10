@@ -1,0 +1,46 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04668
+server: Apache
+date: Wed, 15 Oct 2014 15:08:58 GMT
+content-type: text/plain
+
+ENTRY       map04668                    Pathway
+NAME        TNF signaling pathway
+DESCRIPTION Tumor necrosis factor (TNF), as a critical cytokine, can induce a wide range of intracellular signal pathways including apoptosis and cell survival as well as inflammation and immunity. Activated TNF is assembled to a homotrimer and binds to its receptors (TNFR1, TNFR2) resulting in the trimerization of TNFR1 or TNFR2. TNFR1 is expressed by nearly all cells and is the major receptor for TNF (also called TNF-alpha). In contrast, TNFR2 is expressed in limited cells such as CD4 and CD8 T lymphocytes, endothelial cells, microglia, oligodendrocytes, neuron subtypes, cardiac myocytes, thymocytes and human mesenchymal stem cells. It is the receptor for both TNF and LTA (also called TNF-beta). Upon binding of the ligand, TNFR mediates the association of some adaptor proteins such as TRADD or TRAF2, which in turn initiate recruitment of signal transducers. TNFR1 signaling induces activation of many genes, primarily controlled by two distinct pathways, NF-kappa B pathway and the MAPK cascade, or apoptosis and necroptosis. TNFR2 signaling activates NF-kappa B pathway including PI3K-dependent NF-kappa B pathway and JNK pathway leading to survival.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04668  TNF signaling pathway
+DBLINKS     GO: 0033209
+REFERENCE   PMID:23085193
+  AUTHORS   Chu WM
+  TITLE     Tumor necrosis factor.
+  JOURNAL   Cancer Lett 328:222-5 (2013)
+REFERENCE   PMID:23531747
+  AUTHORS   Shuh M, Bohorquez H, Loss GE Jr, Cohen AJ
+  TITLE     Tumor Necrosis Factor-alpha: Life and Death of Hepatocytes During Liver Ischemia/Reperfusion Injury.
+  JOURNAL   Ochsner J 13:119-30 (2013)
+REFERENCE   PMID:11897488
+  AUTHORS   MacEwan DJ
+  TITLE     TNF receptor subtype signalling: differences and cellular consequences.
+  JOURNAL   Cell Signal 14:477-92 (2002)
+REFERENCE   PMID:22296764
+  AUTHORS   Newton K, Dixit VM
+  TITLE     Signaling in innate immunity and inflammation.
+  JOURNAL   Cold Spring Harb Perspect Biol 4 (2012)
+REFERENCE   PMID:10581243
+  AUTHORS   Pomerantz JL, Baltimore D
+  TITLE     NF-kappaB activation by a signaling complex containing TRAF2, TANK and TBK1, a novel IKK-related kinase.
+  JOURNAL   EMBO J 18:6694-704 (1999)
+REFERENCE   PMID:21232019
+  AUTHORS   Naude PJ, den Boer JA, Luiten PG, Eisel UL
+  TITLE     Tumor necrosis factor receptor cross-talk.
+  JOURNAL   FEBS J 278:888-98 (2011)
+REFERENCE   PMID:20489699
+  AUTHORS   Faustman D, Davis M
+  TITLE     TNF receptor 2 pathway: drug target for autoimmune diseases.
+  JOURNAL   Nat Rev Drug Discov 9:482-93 (2010)
+REFERENCE   PMID:14532286
+  AUTHORS   Chan FK, Shisler J, Bixby JG, Felices M, Zheng L, Appel M, Orenstein J, Moss B, Lenardo MJ
+  TITLE     A role for tumor necrosis factor receptor-2 and receptor-interacting protein in programmed necrosis and antiviral responses.
+  JOURNAL   J Biol Chem 278:51613-21 (2003)
+KO_PATHWAY  ko04668
+///

@@ -1,0 +1,49 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00944
+server: Apache
+date: Wed, 15 Oct 2014 15:08:12 GMT
+content-type: text/plain
+
+ENTRY       map00944                    Pathway
+NAME        Flavone and flavonol biosynthesis
+DESCRIPTION Flavones and flavonols (3-hydroxyflavones) are common flavonoids in the plant kingdom. They are synthesized as part of the flavonoid modification pathways in aglycone and glucoside forms.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00944  Flavone and flavonol biosynthesis
+REFERENCE   PMID:3994393
+  AUTHORS   De Luca V, Ibrahim RK
+  TITLE     Enzymatic synthesis of polymethylated flavonols in Chrysosplenium americanum. I. Partial purification and some properties of S-adenosyl-L-methionine:flavonol 3-, 6-, 7-, and 4'-O-methyltransferases.
+  JOURNAL   Arch Biochem Biophys 238:596-605 (1985)
+REFERENCE   PMID:6462109
+  AUTHORS   Jourdan PS, Mansell RL
+  TITLE     Isolation and partial characterization of three glucosyl transferases involved in the biosynthesis of flavonol triglucosides in Pisum sativum L.
+  JOURNAL   Arch Biochem Biophys 213:434-43 (1982)
+REFERENCE   PMID:10567367
+  AUTHORS   Miller KD, Guyon V, Evans JN, Shuttleworth WA, Taylor LP
+  TITLE     Purification, cloning, and heterologous expression of a catalytically efficient flavonol 3-O-galactosyltransferase expressed in the male gametophyte of Petunia hybrida.
+  JOURNAL   J Biol Chem 274:34011-9 (1999)
+REFERENCE   PMID:12482447
+  AUTHORS   Cacace S, Schroder G, Wehinger E, Strack D, Schmidt J, Schroder J
+  TITLE     A flavonol O-methyltransferase from Catharanthus roseus performing two sequential methylations.
+  JOURNAL   Phytochemistry 62:127-37 (2003)
+REFERENCE   PMID:15807784
+  AUTHORS   Tohge T, Nishiyama Y, Hirai MY, Yano M, Nakajima J, Awazuhara M, Inoue E, Takahashi H, Goodenowe DB, Kitayama M, Noji M, Yamazaki M, Saito K
+  TITLE     Functional genomics by integrated analysis of metabolome and transcriptome of Arabidopsis plants over-expressing an MYB transcription factor.
+  JOURNAL   Plant J 42:218-35 (2005)
+REFERENCE   PMID:17277900
+  AUTHORS   Kubo H, Nawa N, Lupsea SA
+  TITLE     Anthocyaninless1 gene of Arabidopsis thaliana encodes a UDP-glucose:flavonoid-3-O-glucosyltransferase.
+  JOURNAL   J Plant Res 120:445-9 (2007)
+REFERENCE   
+  AUTHORS   Knogge W, Weissenbock G.
+  TITLE     Tissue-distribution of secondary phenolic biosynthesis in developing primary leaves of Avena sativa L.
+  JOURNAL   Planta 167:196-205 (1986)
+REFERENCE   
+  AUTHORS   Anhalt S, Weissenbock G.
+  TITLE     Subcellular localization of luteolin glucuronides and related enzymes in rye mesophyll.
+  JOURNAL   Planta 187:83-88 (1992)
+REFERENCE   
+  AUTHORS   Suzuki H, Nakayama T, Nagae S, Yamaguchi M, Iwashita T, Fukui Y, Nishino T.
+  TITLE     cDNA cloning and functional characterization of flavonol 3-O-glucoside-6''-O-malonyltransferases from flowers of Verbena hybrida and Lamium purpureum.
+  JOURNAL   J Mol Catal B 28:87-93 (2004)
+KO_PATHWAY  ko00944
+///

@@ -1,0 +1,34 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00550
+server: Apache
+date: Wed, 15 Oct 2014 15:07:53 GMT
+content-type: text/plain
+
+ENTRY       map00550                    Pathway
+NAME        Peptidoglycan biosynthesis
+DESCRIPTION Peptidoglycan is a macromolecule made of long aminosugar strands cross-linked by short peptides. It forms the cell wall in bacteria surrounding the cytoplasmic membrane. The glycan strands are typically comprised of repeating N-acetylglucosamine (GlcNAc) and N-acetylmuramic acid (MurNAc) disaccharides. Each MurNAc is linked to a peptide of three to five amino acid residues. Disaccharide subunits are first assembled on the cytoplasmic side of the bacterial membrane on a polyisoprenoid anchor (lipid I and II). Polymerization of disaccharide subunits by transglycosylases and cross-linking of glycan strands by transpeptidases occur on the other side of the membrane. Bacterial cell wall biosynthesis inhibitors form a major class of antibiotics.
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00550  Peptidoglycan biosynthesis
+DISEASE     H00424  Defects in the degradation of sphingomyelin
+REFERENCE   PMID:18081839
+  AUTHORS   Bouhss A, Trunkfield AE, Bugg TD, Mengin-Lecreulx D
+  TITLE     The biosynthesis of peptidoglycan lipid-linked intermediates.
+  JOURNAL   FEMS Microbiol Rev 32:208-33 (2008)
+REFERENCE   PMID:18077448
+  AUTHORS   Lloyd AJ, Gilbey AM, Blewett AM, De Pascale G, El Zoeiby A, Levesque RC, Catherwood AC, Tomasz A, Bugg TD, Roper DI, Dowson CG
+  TITLE     Characterization of tRNA-dependent peptide bond formation by MurM in the synthesis of Streptococcus pneumoniae peptidoglycan.
+  JOURNAL   J Biol Chem 283:6402-17 (2008)
+REFERENCE   PMID:18266853
+  AUTHORS   Barreteau H, Kovac A, Boniface A, Sova M, Gobec S, Blanot D
+  TITLE     Cytoplasmic steps of peptidoglycan biosynthesis.
+  JOURNAL   FEMS Microbiol Rev 32:168-207 (2008)
+REFERENCE   PMID:11699883
+  AUTHORS   van Heijenoort J
+  TITLE     Recent advances in the formation of the bacterial peptidoglycan monomer unit.
+  JOURNAL   Nat Prod Rep 18:503-19 (2001)
+REFERENCE   PMID:11320055
+  AUTHORS   van Heijenoort  J
+  TITLE     Formation of the glycan chains in the synthesis of bacterial peptidoglycan.
+  JOURNAL   Glycobiology 11:25R-36R (2001)
+KO_PATHWAY  ko00550
+///

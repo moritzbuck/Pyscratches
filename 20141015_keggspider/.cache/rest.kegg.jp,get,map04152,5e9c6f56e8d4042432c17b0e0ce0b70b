@@ -1,0 +1,94 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04152
+server: Apache
+date: Wed, 15 Oct 2014 15:08:45 GMT
+content-type: text/plain
+
+ENTRY       map04152                    Pathway
+NAME        AMPK signaling pathway
+DESCRIPTION AMP-activated protein kinase (AMPK) is a serine threonine kinase that is highly conserved through evolution. AMPK system acts as a sensor of cellular energy status. It is activated by increases in the cellular AMP:ATP ratio caused by metabolic stresses that either interfere with ATP production (eg, deprivation for glucose or oxygen) or that accelerate ATP consumption (eg, muscle contraction). Several upstream kinases, including liver kinase B1 (LKB1), calcium/calmodulin kinase kinase-beta (CaMKK beta), and TGF-beta-activated kinase-1 (TAK-1), can activate AMPK by phosphorylating a threonine residue on its catalytic alpha-subunit. Once activated, AMPK leads to a concomitant inhibition of energy-consuming biosynthetic pathways, such as protein, fatty acid and glycogen synthesis, and activation of ATP-producing catabolic pathways, such as fatty acid oxidation and glycolysis.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04152  AMPK signaling pathway
+DBLINKS     GO: 2000479
+REFERENCE   PMID:19584320
+  AUTHORS   Steinberg GR, Kemp BE
+  TITLE     AMPK in Health and Disease.
+  JOURNAL   Physiol Rev 89:1025-78 (2009)
+REFERENCE   PMID:15509864
+  AUTHORS   Hardie DG.
+  TITLE     The AMP-activated protein kinase pathway--new players upstream and downstream.
+  JOURNAL   J Cell Sci 117:5479-87 (2004)
+REFERENCE   PMID:23747347
+  AUTHORS   Russo GL, Russo M, Ungaro P
+  TITLE     AMP-activated protein kinase: a target for old drugs against diabetes and cancer.
+  JOURNAL   Biochem Pharmacol 86:339-50 (2013)
+REFERENCE   PMID:19393004
+  AUTHORS   Ronnett GV, Ramamurthy S, Kleman AM, Landree LE, Aja S
+  TITLE     AMPK in the brain: its roles in energy balance and neuroprotection.
+  JOURNAL   J Neurochem 109 Suppl 1:17-23 (2009)
+REFERENCE   PMID:20010958
+  AUTHORS   Li J, McCullough LD
+  TITLE     Effects of AMP-activated protein kinase in cerebral ischemia.
+  JOURNAL   J Cereb Blood Flow Metab 30:480-92 (2010)
+REFERENCE   PMID:22700795
+  AUTHORS   Sanchez AM, Candau RB, Csibi A, Pagano AF, Raibon A, Bernardi H
+  TITLE     The role of AMP-activated protein kinase in the coordination of skeletal muscle turnover and energy homeostasis.
+  JOURNAL   Am J Physiol Cell Physiol 303:C475-85 (2012)
+REFERENCE   PMID:16644802
+  AUTHORS   Viollet B, Foretz M, Guigas B, Horman S, Dentin R, Bertrand L, Hue L, Andreelli F
+  TITLE     Activation of AMP-activated protein kinase in the liver: a new strategy for the management of metabolic hepatic disorders.
+  JOURNAL   J Physiol 574:41-53 (2006)
+REFERENCE   PMID:19629071
+  AUTHORS   Shackelford DB, Shaw RJ
+  TITLE     The LKB1-AMPK pathway: metabolism and growth control in tumour suppression.
+  JOURNAL   Nat Rev Cancer 9:563-75 (2009)
+REFERENCE   PMID:22885100
+  AUTHORS   Chung JH, Manganiello V, Dyck JR
+  TITLE     Resveratrol as a calorie restriction mimetic: therapeutic implications.
+  JOURNAL   Trends Cell Biol 22:546-54 (2012)
+REFERENCE   PMID:20357764
+  AUTHORS   Iwabu M, Yamauchi T, Okada-Iwabu M, Sato K, Nakagawa T, Funata M, Yamaguchi M, Namiki S, Nakayama R, Tabata M, Ogata H, Kubota N, Takamoto I, Hayashi YK, Yamauchi N, Waki H, Fukayama M, Nishino I, Tokuyama K, Ueki K, Oike Y, Ishii S, Hirose K, Shimizu T, Touhara K, Kadowaki T
+  TITLE     Adiponectin and AdipoR1 regulate PGC-1alpha and mitochondria by Ca(2+) and AMPK/SIRT1.
+  JOURNAL   Nature 464:1313-9 (2010)
+REFERENCE   PMID:17307971
+  AUTHORS   Towler MC, Hardie DG
+  TITLE     AMP-activated protein kinase in metabolic control and insulin signaling.
+  JOURNAL   Circ Res 100:328-41 (2007)
+REFERENCE   PMID:23899560
+  AUTHORS   Richter EA, Hargreaves M
+  TITLE     Exercise, GLUT4, and skeletal muscle glucose uptake.
+  JOURNAL   Physiol Rev 93:993-1017 (2013)
+REFERENCE   PMID:16054041
+  AUTHORS   Kahn BB, Alquier T, Carling D, Hardie DG
+  TITLE     AMP-activated protein kinase: ancient energy gauge provides clues to modern understanding of metabolism.
+  JOURNAL   Cell Metab 1:15-25 (2005)
+REFERENCE   PMID:23565491
+  AUTHORS   Minokoshi Y, Toda C, Okamoto S
+  TITLE     Regulatory role of leptin in glucose and lipid metabolism in skeletal muscle.
+  JOURNAL   Indian J Endocrinol Metab 16:S562-8 (2012)
+REFERENCE   PMID:16723978
+  AUTHORS   Guggino WB, Stanton BA
+  TITLE     New insights into cystic fibrosis: molecular switches that regulate CFTR.
+  JOURNAL   Nat Rev Mol Cell Biol 7:426-36 (2006)
+REFERENCE   PMID:16479585
+  AUTHORS   Cheng A, Saltiel AR
+  TITLE     More TORC for the gluconeogenic engine.
+  JOURNAL   Bioessays 28:231-4 (2006)
+REFERENCE   PMID:19197243
+  AUTHORS   Herrero-Martin G, Hoyer-Hansen M, Garcia-Garcia C, Fumarola C, Farkas T, Lopez-Rivas A, Jaattela M
+  TITLE     TAK1 activates AMPK-dependent cytoprotective autophagy in TRAIL-treated epithelial cells.
+  JOURNAL   EMBO J 28:677-85 (2009)
+REFERENCE   PMID:19724019
+  AUTHORS   Morris DL, Rui L
+  TITLE     Recent advances in understanding leptin signaling and leptin resistance.
+  JOURNAL   Am J Physiol Endocrinol Metab 297:E1247-59 (2009)
+REFERENCE   PMID:18725075
+  AUTHORS   Minokoshi Y, Shiuchi T, Lee S, Suzuki A, Okamoto S
+  TITLE     Role of hypothalamic AMP-kinase in food intake regulation.
+  JOURNAL   Nutrition 24:786-90 (2008)
+REFERENCE   PMID:23024365
+  AUTHORS   Miyamoto L, Ebihara K, Kusakabe T, Aotani D, Yamamoto-Kataoka S, Sakai T, Aizawa-Abe M, Yamamoto Y, Fujikura J, Hayashi T, Hosoda K, Nakao K
+  TITLE     Leptin activates hepatic 5'-AMP-activated protein kinase through sympathetic nervous system and alpha1-adrenergic receptor: a potential mechanism for improvement of fatty liver in lipodystrophy by leptin.
+  JOURNAL   J Biol Chem 287:40441-7 (2012)
+KO_PATHWAY  ko04152
+///

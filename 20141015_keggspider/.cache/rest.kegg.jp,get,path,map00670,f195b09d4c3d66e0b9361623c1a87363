@@ -1,0 +1,21 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00670
+server: Apache
+date: Wed, 15 Oct 2014 14:57:40 GMT
+content-type: text/plain
+
+ENTRY       map00670                    Pathway
+NAME        One carbon pool by folate
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP map00670  One carbon pool by folate
+MODULE      M00126  Tetrahydrofolate biosynthesis, GTP => THF [PATH:map00670]
+            M00140  C1-unit interconversion, prokaryotes [PATH:map00670]
+            M00141  C1-unit interconversion, eukaryotes [PATH:map00670]
+DISEASE     H00183  Homocystinuria
+            H00262  Spina bifida
+            H00966  AICA-ribosiduria
+            H01197  Dihydrofolate reductase (DHFR) deficiency
+            H01262  Formiminotransferase deficiency
+            H01285  Methylcobalamin deficiency type G (cblG)
+KO_PATHWAY  ko00670
+///

@@ -1,0 +1,110 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04062
+server: Apache
+date: Wed, 15 Oct 2014 15:08:37 GMT
+content-type: text/plain
+
+ENTRY       map04062                    Pathway
+NAME        Chemokine signaling pathway
+DESCRIPTION Inflammatory immune response requires the recruitment of leukocytes to the site of inflammation upon foreign insult. Chemokines are small chemoattractant peptides that provide directional cues for the cell trafficking and thus are vital for protective host response. In addition, chemokines regulate plethora of biological processes of hematopoietic cells to lead cellular activation, differentiation and survival.
+            The chemokine signal is transduced by chemokine receptors (G-protein coupled receptors) expressed on the immune cells. After receptor activation, the alpha- and beta-gamma-subunits of G protein dissociate to activate diverse downstream pathways resulting in cellular polarization and actin reorganization. Various members of small GTPases are involved in this process. Induction of nitric oxide and production of reactive oxygen species are as well regulated by chemokine signal via calcium mobilization and diacylglycerol production.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04062  Chemokine signaling pathway
+DISEASE     H00539  PTEN hamartoma tumor syndrome (PHTS)
+            H00540  Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID)
+            H00645  Incontinentia pigmenti
+            H00821  Macular degeneration
+            H00882  Cocoon syndrome
+            H00931  Growth hormone insensitivity with immunodeficiency
+            H01109  Chronic mucocutaneous candidiasis (CMC)
+DBLINKS     GO: 0070098
+REFERENCE   PMID:12495636
+  AUTHORS   Wong MM, Fish EN
+  TITLE     Chemokines: attractive mediators of the immune response.
+  JOURNAL   Semin Immunol 15:5-14 (2003)
+REFERENCE   PMID:11872087
+  AUTHORS   Curnock AP, Logan MK, Ward SG
+  TITLE     Chemokine signalling: pivoting around multiple phosphoinositide 3-kinases.
+  JOURNAL   Immunology 105:125-36 (2002)
+REFERENCE   PMID:12069927
+  AUTHORS   Olson TS, Ley K
+  TITLE     Chemokines and chemokine receptors in leukocyte trafficking.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 283:R7-28 (2002)
+REFERENCE   PMID:17169327
+  AUTHORS   Busillo JM, Benovic JL
+  TITLE     Regulation of CXCR4 signaling.
+  JOURNAL   Biochim Biophys Acta 1768:952-63 (2007)
+REFERENCE   PMID:11244042
+  AUTHORS   Mellado M, Rodriguez-Frade JM, Manes S, Martinez-A C
+  TITLE     Chemokine signaling and functional responses: the role of receptor dimerization and TK pathway activation.
+  JOURNAL   Annu Rev Immunol 19:397-421 (2001)
+REFERENCE   PMID:8576262
+  AUTHORS   Knall C, Young S, Nick JA, Buhl AM, Worthen GS, Johnson GL
+  TITLE     Interleukin-8 regulation of the Ras/Raf/mitogen-activated protein kinase pathway in human neutrophils.
+  JOURNAL   J Biol Chem 271:2832-8 (1996)
+REFERENCE   PMID:17537990
+  AUTHORS   Patrussi L, Ulivieri C, Lucherini OM, Paccani SR, Gamberucci A, Lanfrancone L, Pelicci PG, Baldari CT
+  TITLE     p52Shc is required for CXCR4-dependent signaling and chemotaxis in T cells.
+  JOURNAL   Blood 110:1730-8 (2007)
+REFERENCE   PMID:18662984
+  AUTHORS   Sai J, Raman D, Liu Y, Wikswo J, Richmond A
+  TITLE     Parallel phosphatidylinositol 3-kinase (PI3K)-dependent and Src-dependent pathways lead to CXCL8-mediated Rac2 activation and chemotaxis.
+  JOURNAL   J Biol Chem 283:26538-47 (2008)
+REFERENCE   PMID:10852130
+  AUTHORS   Hauck CR, Klingbeil CK, Schlaepfer DD
+  TITLE     Focal adhesion kinase functions as a receptor-proximal signaling component required for directed cell migration.
+  JOURNAL   Immunol Res 21:293-303 (2000)
+REFERENCE   PMID:14625285
+  AUTHORS   Chandrasekar B, Bysani S, Mummidi S
+  TITLE     CXCL16 signals via Gi, phosphatidylinositol 3-kinase, Akt, I kappa B kinase, and nuclear factor-kappa B and induces cell-cell adhesion and aortic smooth muscle cell proliferation.
+  JOURNAL   J Biol Chem 279:3188-96 (2004)
+REFERENCE   PMID:17371236
+  AUTHORS   Smith L, Webb A, Ward SG
+  TITLE     T-lymphocyte navigation and migration: beyond the PI3K paradigm.
+  JOURNAL   Biochem Soc Trans 35:193-8 (2007)
+REFERENCE   PMID:16144840
+  AUTHORS   Huttenrauch F, Pollok-Kopp B, Oppermann M
+  TITLE     G protein-coupled receptor kinases promote phosphorylation and beta-arrestin-mediated internalization of CCR5 homo- and hetero-oligomers.
+  JOURNAL   J Biol Chem 280:37503-15 (2005)
+REFERENCE   PMID:18711432
+  AUTHORS   Thelen M, Stein JV
+  TITLE     How chemokines invite leukocytes to dance.
+  JOURNAL   Nat Immunol 9:953-9 (2008)
+REFERENCE   PMID:19159344
+  AUTHORS   Ward SG, Marelli-Berg FM
+  TITLE     Mechanisms of chemokine and antigen-dependent T-lymphocyte navigation.
+  JOURNAL   Biochem J 418:13-27 (2009)
+REFERENCE   PMID:15803148
+  AUTHORS   Schwartzberg PL, Finkelstein LD, Readinger JA
+  TITLE     TEC-family kinases: regulators of T-helper-cell differentiation.
+  JOURNAL   Nat Rev Immunol 5:284-95 (2005)
+REFERENCE   PMID:15771581
+  AUTHORS   Berg LJ, Finkelstein LD, Lucas JA, Schwartzberg PL.
+  TITLE     Tec family kinases in T lymphocyte development and function.
+  JOURNAL   Annu Rev Immunol 23:549-600 (2005)
+REFERENCE   PMID:17496928
+  AUTHORS   Ticchioni M, Essafi M, Jeandel PY, Davi F, Cassuto JP, Deckert M, Bernard A
+  TITLE     Homeostatic chemokines increase survival of B-chronic lymphocytic leukemia cells through inactivation of transcription factor FOXO3a.
+  JOURNAL   Oncogene 26:7081-91 (2007)
+REFERENCE   PMID:9765254
+  AUTHORS   Korchak HM, Rossi MW, Kilpatrick LE
+  TITLE     Selective role for beta-protein kinase C in signaling for O-2 generation but not degranulation or adherence in differentiated HL60 cells.
+  JOURNAL   J Biol Chem 273:27292-9 (1998)
+REFERENCE   PMID:15046611
+  AUTHORS   Johnson Z, Power CA, Weiss C, Rintelen F, Ji H, Ruckle T, Camps M, Wells TN, Schwarz MK, Proudfoot AE, Rommel C
+  TITLE     Chemokine inhibition--why, when, where, which and how?
+  JOURNAL   Biochem Soc Trans 32:366-77 (2004)
+REFERENCE   PMID:12051620
+  AUTHORS   Zhelev DV, Alteraifi A
+  TITLE     Signaling in the motility responses of the human neutrophil.
+  JOURNAL   Ann Biomed Eng 30:356-70 (2002)
+REFERENCE   PMID:17675482
+  AUTHORS   Bach TL, Chen QM, Kerr WT, Wang Y, Lian L, Choi JK, Wu D, Kazanietz MG, Koretzky GA, Zigmond S, Abrams CS
+  TITLE     Phospholipase cbeta is critical for T cell chemotaxis.
+  JOURNAL   J Immunol 179:2223-7 (2007)
+REFERENCE   PMID:14607270
+  AUTHORS   Hornstein I, Alcover A, Katzav S
+  TITLE     Vav proteins, masters of the world of cytoskeleton organization.
+  JOURNAL   Cell Signal 16:1-11 (2004)
+KO_PATHWAY  ko04062
+///

@@ -1,0 +1,104 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07011
+server: Apache
+date: Wed, 15 Oct 2014 15:09:38 GMT
+content-type: text/plain
+
+ENTRY       map07011          Drug      Pathway
+NAME        Penicillins
+PATHWAY_MAP map07011  Penicillins
+COMPOUND    C02954  6-Aminopenicillanate
+            C06662  Clavulanic acid
+            D00204  Anhydrous ampicillin (JP16)
+            D00229  Amoxicillin hydrate (JP16)
+            D00230  Amoxicillin - potassium clavulanate combination
+            D00466  Piperacillin sodium (JP16/USP)
+            D00497  Phenoxymethylpenicillin potassium (JAN)
+            D00660  Tazobactam (JP16/USAN/INN)
+            D00927  Bacampicillin hydrochloride (JP16/USP)
+            D00929  Oxacillin sodium (JAN/USP)
+            D01053  Benzylpenicillin potassium (JP16)
+            D01074  Hetacillin (USAN/INN)
+            D01178  Phenethicillin potassium (JP16)
+            D01249  Flucloxacillin sodium (JAN)
+            D01251  Ampicillin hydrate (JP16)
+            D01283  Carindacillin sodium (JAN)
+            D01334  Ciclacillin (JP16/INN)
+            D01489  Sulbenicillin sodium (JP16)
+            D01499  Pivmecillinam hydrochloride (JP16)
+            D01649  Propicillin potassium (JAN)
+            D01668  Sultamicillin tosilate hydrate (JP16)
+            D01696  Lenampicillin hydrochloride (JP16)
+            D02119  Ampicillin sodium (JP16/USP)
+            D02137  Dicloxacillin sodium hydrate (JP16)
+            D02190  Carbenicillin sodium (JAN)
+            D02196  Meticillin sodium (JAN)
+            D02199  Carfecillin sodium (JAN)
+            D02201  Talampicillin hydrochloride (JP16/USAN)
+            D02203  Hetacillin potassium (JAN/USAN)
+            D02221  Mezlocillin sodium (JAN)
+            D02223  Sulbactam sodium (JP16/USP)
+            D02231  Cloxacillin sodium hydrate (JP16)
+            D02241  Ticarcillin sodium (JAN)
+            D02251  Piperacillin hydrate (JP16)
+            D02336  Benzylpenicillin (INN)
+            D02339  Azlocillin (USAN/INN)
+            D02348  Dicloxacillin (USAN/INN)
+            D02370  Clavulanate potassium (JP16/USP)
+            D02504  Aspoxicillin hydrate (JP16)
+            D02505  Tazobactam and piperacillin for injection (JP16)
+            D02508  Pivampicillin hydrochloride (USAN)
+            D02889  Amdinocillin pivoxil (USAN)
+            D02925  Amoxicillin sodium (USAN)
+            D03387  Carbenicillin potassium (USAN)
+            D03707  Tazobactam sodium (USAN)
+            D04196  Floxacillin (USAN)
+            D05021  Mezlocillin (USAN/INN)
+            D05022  Mezlocillin sodium (USP)
+            D05220  Octanoic acid (USAN/INN)
+            D05221  Octazamide (USAN/INN)
+            D05408  Penicillin G sodium (USP)
+            D05411  Penicillin V (USP)
+            D05972  Sultamicillin (USAN/INN)
+            D06137  Ticarcillin cresyl sodium (USAN)
+            D06138  Ticarcillin monosodium (USP)
+            D07452  Amoxicillin (INN)
+            D07469  Aspoxicillin (JAN/INN)
+            D07487  Bacampicillin (INN)
+            D07614  Carbenicillin (INN)
+            D07621  Carindacillin (INN)
+            D07711  Clavulanic acid (INN)
+            D07733  Cloxacillin (INN)
+            D07965  Flucloxacillin sodium salt
+            D08110  Lenampicillin (INN)
+            D08307  Oxacillin (INN)
+            D08350  Pheneticillin (INN)
+            D08360  Phenoxymethylpenicillin calcium
+            D08380  Piperacillin (INN)
+            D08396  Pivampicillin (INN)
+            D08438  Propicillin (BAN)
+            D08533  Sulbactam (INN)
+            D08534  Sulbenicillin (INN)
+            D08557  Talampicillin (INN)
+            D08593  Ticarcillin (INN)
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   PMID:3547627
+  AUTHORS   Sjovall J, Huitfeldt B, Magni L, Nord CE.
+  TITLE     Effect of beta-lactam prodrugs on human intestinal microflora.
+  JOURNAL   Scand J Infect Dis Suppl 49:73-84 (1986)
+///

@@ -1,0 +1,48 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04914
+server: Apache
+date: Wed, 15 Oct 2014 15:09:07 GMT
+content-type: text/plain
+
+ENTRY       map04914                    Pathway
+NAME        Progesterone-mediated oocyte maturation
+DESCRIPTION Xenopus oocytes are naturally arrested at G2 of meiosis I. Exposure to either insulin/IGF-1 or the steroid hormone progesterone breaks this arrest and induces resumption of the two meiotic division cycles and maturation of the oocyte into a mature, fertilizable egg. This process is termed oocyte maturation. The transition is accompanied by an increase in maturation promoting factor (MPF or Cdc2/cyclin B) which precedes germinal vesicle breakdown (GVBD). Most reports point towards the Mos-MEK1-ERK2 pathway [where ERK is an extracellular signal-related protein kinase, MEK is a MAPK/ERK kinase and Mos is a p42(MAPK) activator] and the polo-like kinase/CDC25 pathway as responsible for the activation of MPF in meiosis, most likely triggered by a decrease in cAMP.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04914  Progesterone-mediated oocyte maturation
+MODULE      M00389  APC/C complex [PATH:map04914]
+DISEASE     H01274  Growth delay due to insulin-like growth factor I resistance
+DBLINKS     GO: 0001556
+REFERENCE   PMID:12045215
+  AUTHORS   Schmitt A, Nebreda AR.
+  TITLE     Signalling pathways in oocyte meiotic maturation.
+  JOURNAL   J Cell Sci 115:2457-9 (2002)
+REFERENCE   PMID:12084906
+  AUTHORS   Cato AC, Nestl A, Mink S.
+  TITLE     Rapid actions of steroid receptors in cellular signaling pathways.
+  JOURNAL   Sci STKE 2002:RE9 (2002)
+REFERENCE   PMID:11730319
+  AUTHORS   Maller JL, Schwab MS, Roberts BT, Gross SD, Taieb FE, Tunquist BJ.
+  TITLE     The pathway of MAP kinase mediation of CSF arrest in Xenopus oocytes.
+  JOURNAL   Biol Cell 93:27-33 (2001)
+REFERENCE   PMID:11063930
+  AUTHORS   Nebreda AR, Ferby I.
+  TITLE     Regulation of the meiotic cell cycle in oocytes.
+  JOURNAL   Curr Opin Cell Biol 12:666-75 (2000)
+REFERENCE   PMID:10497333
+  AUTHORS   Ferrell JE Jr.
+  TITLE     Xenopus oocyte maturation: new lessons from a good egg.
+  JOURNAL   Bioessays 21:833-42 (1999)
+REFERENCE   PMID:12374568
+  AUTHORS   Andersen CB, Sakaue H, Nedachi T, Kovacina KS, Clayberger C, Conti M, Roth RA.
+  TITLE     Protein kinase B/Akt is essential for the insulin- but not progesterone-stimulated resumption of meiosis in Xenopus oocytes.
+  JOURNAL   Biochem J 369:227-38 (2003)
+REFERENCE   PMID:12477927
+  AUTHORS   Duckworth BC, Weaver JS, Ruderman JV.
+  TITLE     G2 arrest in Xenopus oocytes depends on phosphorylation of cdc25 by protein kinase A.
+  JOURNAL   Proc Natl Acad Sci U S A 99:16794-9 (2002)
+REFERENCE   PMID:11148128
+  AUTHORS   Abrieu A, Doree M, Fisher D.
+  TITLE     The interplay between cyclin-B-Cdc2 kinase (MPF) and MAP kinase during maturation of oocytes.
+  JOURNAL   J Cell Sci 114:257-67 (2001)
+KO_PATHWAY  ko04914
+///

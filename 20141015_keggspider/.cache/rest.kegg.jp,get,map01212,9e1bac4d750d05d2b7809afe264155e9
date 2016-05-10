@@ -1,0 +1,19 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map01212
+server: Apache
+date: Wed, 15 Oct 2014 15:08:24 GMT
+content-type: text/plain
+
+ENTRY       map01212          Global    Pathway
+NAME        Fatty acid metabolism
+CLASS       Metabolism; Overview
+PATHWAY_MAP map01212  Fatty acid metabolism
+MODULE      M00082  Fatty acid biosynthesis, initiation [PATH:map01212]
+            M00083  Fatty acid biosynthesis, elongation [PATH:map01212]
+            M00085  Fatty acid biosynthesis, elongation, mitochondria [PATH:map01212]
+            M00086  beta-Oxidation, acyl-CoA synthesis [PATH:map01212]
+            M00087  beta-Oxidation [PATH:map01212]
+            M00415  Fatty acid biosynthesis, elongation, endoplasmic reticulum [PATH:map01212]
+DISEASE     H01352  Mitochondrial trifunctional protein (TFP) deficiency
+KO_PATHWAY  ko01212
+///

@@ -1,0 +1,96 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04911
+server: Apache
+date: Wed, 15 Oct 2014 14:58:44 GMT
+content-type: text/plain
+
+ENTRY       map04911                    Pathway
+NAME        Insulin secretion
+DESCRIPTION Pancreatic beta cells are specialised endocrine cells that continuously sense the levels of blood sugar and other fuels and, in response, secrete insulin to maintain normal fuel homeostasis. Glucose-induced insulin secretion and its potentiation constitute the principal mechanism of insulin release. Glucose is transported by the glucose transporter (GLUT) into the pancreatic beta-cell. Metabolism of glucose generates ATP, which inhibits ATP-sensitive K+ channels and causes voltage-dependent Ca2+ influx. Elevation of [Ca2+]i triggers exocytotic release of insulin granules. Insulin secretion is further regulated by several hormones and neurotransmitters. Peptide hormones, such as glucagon-like peptide 1 (GLP-1), increase cAMP levels and thereby potentiate insulin secretion via the combined action of PKA and Epac2. Achetylcholine (ACh), a major parasympathetic neurotransmitter, binds to Gq-coupled receptors and activates phospholipase C- (PLC-),  and the stimulatory effects involve activation of protein kinase C (PKC), which stimulates exocytosis. In addition, ACh mobilizes intracellular Ca2+ by activation of IP3 receptors.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04911  Insulin secretion
+DISEASE     H00409  Type II diabetes mellitus
+            H00426  Defects in the degradation of ganglioside
+DBLINKS     GO: 0030073
+REFERENCE   PMID:20551594
+  AUTHORS   Seino S, Shibasaki T, Minami K
+  TITLE     Pancreatic beta-cell signaling: toward better understanding of diabetes and its treatment.
+  JOURNAL   Proc Jpn Acad Ser B Phys Biol Sci 86:563-77 (2010)
+REFERENCE   PMID:20225132
+  AUTHORS   Jitrapakdee S, Wutthisathapornchai A, Wallace JC, MacDonald MJ
+  TITLE     Regulation of insulin secretion: role of mitochondrial signalling.
+  JOURNAL   Diabetologia 53:1019-32 (2010)
+REFERENCE   PMID:22974438
+  AUTHORS   Rorsman P, Braun M
+  TITLE     Regulation of insulin secretion in human pancreatic islets.
+  JOURNAL   Annu Rev Physiol 75:155-79 (2013)
+REFERENCE   PMID:9715374
+  AUTHORS   Jones PM, Persaud SJ
+  TITLE     Protein kinases, protein phosphorylation, and the regulation of insulin secretion from pancreatic beta-cells.
+  JOURNAL   Endocr Rev 19:429-61 (1998)
+REFERENCE   PMID:21934040
+  AUTHORS   MacDonald PE
+  TITLE     Signal integration at the level of ion channel and exocytotic function in pancreatic beta-cells.
+  JOURNAL   Am J Physiol Endocrinol Metab 301:E1065-9 (2011)
+REFERENCE   PMID:9914469
+  AUTHORS   Lang J
+  TITLE     Molecular mechanisms and regulation of insulin exocytosis as a paradigm of endocrine secretion.
+  JOURNAL   Eur J Biochem 259:3-17 (1999)
+REFERENCE   PMID:10605628
+  AUTHORS   Kieffer TJ, Habener JF
+  TITLE     The glucagon-like peptides.
+  JOURNAL   Endocr Rev 20:876-913 (1999)
+REFERENCE   PMID:19036624
+  AUTHORS   Girard J
+  TITLE     The incretins: from the concept to their use in the treatment of type 2 diabetes. Part A: incretins: concept and physiological functions.
+  JOURNAL   Diabetes Metab 34:550-9 (2008)
+REFERENCE   PMID:15655710
+  AUTHORS   Holz GG
+  TITLE     New insights concerning the glucose-dependent insulin secretagogue action of glucagon-like peptide-1 in pancreatic beta-cells.
+  JOURNAL   Horm Metab Res 36:787-94 (2004)
+REFERENCE   PMID:15271645
+  AUTHORS   Holst JJ, Gromada J
+  TITLE     Role of incretin hormones in the regulation of insulin secretion in diabetic and  nondiabetic humans.
+  JOURNAL   Am J Physiol Endocrinol Metab 287:E199-206 (2004)
+REFERENCE   PMID:17306374
+  AUTHORS   Doyle ME, Egan JM
+  TITLE     Mechanisms of action of glucagon-like peptide 1 in the pancreas.
+  JOURNAL   Pharmacol Ther 113:546-93 (2007)
+REFERENCE   PMID:19074620
+  AUTHORS   Kim W, Egan JM
+  TITLE     The role of incretins in glucose homeostasis and diabetes treatment.
+  JOURNAL   Pharmacol Rev 60:470-512 (2008)
+REFERENCE   PMID:19817800
+  AUTHORS   Seino S, Takahashi H, Fujimoto W, Shibasaki T
+  TITLE     Roles of cAMP signalling in insulin granule exocytosis.
+  JOURNAL   Diabetes Obes Metab 11 Suppl 4:180-8 (2009)
+REFERENCE   PMID:22970724
+  AUTHORS   Tengholm A
+  TITLE     Cyclic AMP dynamics in the pancreatic beta-cell.
+  JOURNAL   Ups J Med Sci 117:355-69 (2012)
+REFERENCE   PMID:14693691
+  AUTHORS   Holz GG
+  TITLE     Epac: A new cAMP-binding protein in support of glucagon-like peptide-1 receptor-mediated signal transduction in the pancreatic beta-cell.
+  JOURNAL   Diabetes 53:5-13 (2004)
+REFERENCE   PMID:20055708
+  AUTHORS   Gloerich M, Bos JL
+  TITLE     Epac: defining a new mechanism for cAMP action.
+  JOURNAL   Annu Rev Pharmacol Toxicol 50:355-75 (2010)
+REFERENCE   PMID:17084085
+  AUTHORS   Bos JL
+  TITLE     Epac proteins: multi-purpose cAMP targets.
+  JOURNAL   Trends Biochem Sci 31:680-6 (2006)
+REFERENCE   PMID:11522660
+  AUTHORS   Filipsson K, Kvist-Reimer M, Ahren B
+  TITLE     The neuropeptide pituitary adenylate cyclase-activating polypeptide and islet function.
+  JOURNAL   Diabetes 50:1959-69 (2001)
+REFERENCE   PMID:19817784
+  AUTHORS   Kebede MA, Alquier T, Latour MG, Poitout V
+  TITLE     Lipid receptors and islet function: therapeutic implications?
+  JOURNAL   Diabetes Obes Metab 11 Suppl 4:10-20 (2009)
+REFERENCE   PMID:19660440
+  AUTHORS   Morgan NG, Dhayal S
+  TITLE     G-protein coupled receptors mediating long chain fatty acid signalling in the pancreatic beta-cell.
+  JOURNAL   Biochem Pharmacol 78:1419-27 (2009)
+KO_PATHWAY  ko04911
+///

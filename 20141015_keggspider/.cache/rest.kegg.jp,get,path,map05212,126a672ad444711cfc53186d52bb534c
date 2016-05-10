@@ -1,0 +1,74 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05212
+server: Apache
+date: Wed, 15 Oct 2014 14:59:08 GMT
+content-type: text/plain
+
+ENTRY       map05212                    Pathway
+NAME        Pancreatic cancer
+DESCRIPTION Infiltrating ductal adenocarcinoma is the most common malignancy of the pancreas. When most investigators use the term 'pancreatic cancer' they are referring to pancreatic ductal adenocarcinoma (PDA). Normal duct epithelium progresses to infiltrating cancer through a series of histologically defined precursors (PanINs). The overexpression of HER-2/neu and activating point mutations in the K-ras gene occur early, inactivation of the p16 gene at an intermediate stage, and the inactivation of p53, SMAD4, and BRCA2 occur relatively late. Activated K-ras engages multiple effector pathways.  Although EGF receptors are conventionally regarded as upstream activators of RAS proteins, they can also act as RAS signal transducers via RAS-induced autocrine activation of the EGFR family ligands. Moreover, PDA shows extensive genomic instability and aneuploidy. Telomere attrition and mutations in p53 and BRCA2 are likely to contribute to these phenotypes. Inactivation of the SMAD4 tumour suppressor gene leads to loss of the inhibitory influence of the transforming growth factor-beta signalling pathway.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05212  Pancreatic cancer
+DISEASE     H00019  Pancreatic cancer
+REFERENCE   (Japanese)
+  AUTHORS   Niitsu Y, Yokota J (ed).
+  TITLE     [Oncogenes and Tumor Suppressor Genes for Medical Oncologist] (In Japanese)
+  JOURNAL   Nankodo (1999)
+REFERENCE   PMID:12459728
+  AUTHORS   Bardeesy N, DePinho RA.
+  TITLE     Pancreatic cancer biology and genetics.
+  JOURNAL   Nat Rev Cancer 2:897-909 (2002)
+REFERENCE   PMID:11407945
+  AUTHORS   Bardeesy N, Sharpless NE, DePinho RA, Merlino G.
+  TITLE     The genetics of pancreatic adenocarcinoma: a roadmap for a mouse model.
+  JOURNAL   Semin Cancer Biol 11:201-18 (2001)
+REFERENCE   PMID:12946833
+  AUTHORS   Cowgill SM, Muscarella P.
+  TITLE     The genetics of pancreatic cancer.
+  JOURNAL   Am J Surg 186:279-86 (2003)
+REFERENCE   PMID:16702400
+  AUTHORS   Hezel AF, Kimmelman AC, Stanger BZ, Bardeesy N, Depinho RA.
+  TITLE     Genetics and biology of pancreatic ductal adenocarcinoma.
+  JOURNAL   Genes Dev 20:1218-49 (2006)
+REFERENCE   PMID:10740269
+  AUTHORS   Shields JM, Pruitt K, McFall A, Shaub A, Der CJ.
+  TITLE     Understanding Ras: 'it ain't over 'til it's over'.
+  JOURNAL   Trends Cell Biol 10:147-54 (2000)
+REFERENCE   PMID:12648469
+  AUTHORS   Holbro T, Civenni G, Hynes NE.
+  TITLE     The ErbB receptors and their role in cancer progression.
+  JOURNAL   Exp Cell Res 284:99-110 (2003)
+REFERENCE   PMID:14967450
+  AUTHORS   Marmor MD, Skaria KB, Yarden Y.
+  TITLE     Signal transduction and oncogenesis by ErbB/HER receptors.
+  JOURNAL   Int J Radiat Oncol Biol Phys 58:903-13 (2004)
+REFERENCE   PMID:14586404
+  AUTHORS   DeArmond D, Brattain MG, Jessup JM, Kreisberg J, Malik S, Zhao S, Freeman JW.
+  TITLE     Autocrine-mediated ErbB-2 kinase activation of STAT3 is required for growth factor independence of pancreatic cancer cell lines.
+  JOURNAL   Oncogene 22:7781-95 (2003)
+REFERENCE   PMID:12545153
+  AUTHORS   Wei D, Le X, Zheng L, Wang L, Frey JA, Gao AC, Peng Z, Huang S, Xiong HQ, Abbruzzese JL, Xie K.
+  TITLE     Stat3 activation regulates the expression of vascular endothelial growth factor and human pancreatic cancer angiogenesis and metastasis.
+  JOURNAL   Oncogene 22:319-29 (2003)
+REFERENCE   PMID:14580692
+  AUTHORS   Toyonaga T, Nakano K, Nagano M, Zhao G, Yamaguchi K, Kuroki S, Eguchi T, Chijiiwa K, Tsuneyoshi M, Tanaka M.
+  TITLE     Blockade of constitutively activated Janus kinase/signal transducer and activator of transcription-3 pathway inhibits growth of human pancreatic cancer.
+  JOURNAL   Cancer Lett 201:107-16 (2003)
+REFERENCE   PMID:12079267
+  AUTHORS   Schmid RM.
+  TITLE     Genetic basis of pancreatic cancer.
+  JOURNAL   Best Pract Res Clin Gastroenterol 16:421-33 (2002)
+REFERENCE   PMID:15774796
+  AUTHORS   Elliott RL, Blobe GC.
+  TITLE     Role of transforming growth factor Beta in human cancer.
+  JOURNAL   J Clin Oncol 23:2078-93 (2005)
+REFERENCE   PMID:15823750
+  AUTHORS   Rudkin TM, Foulkes WD.
+  TITLE     BRCA2: breaks, mistakes and failed separations.
+  JOURNAL   Trends Mol Med 11:145-8 (2005)
+REFERENCE   PMID:11707511
+  AUTHORS   Venkitaraman AR.
+  TITLE     Functions of BRCA1 and BRCA2 in the biological response to DNA damage.
+  JOURNAL   J Cell Sci 114:3591-8 (2001)
+KO_PATHWAY  ko05212
+///

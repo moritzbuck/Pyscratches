@@ -1,0 +1,29 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map01058
+server: Apache
+date: Wed, 15 Oct 2014 15:08:20 GMT
+content-type: text/plain
+
+ENTRY       map01058                    Pathway
+NAME        Acridone alkaloid biosynthesis
+DESCRIPTION Acridone alkaloids are anthranillic acid-derived plant alkaloids found in Rutaceae (rue family). Compounds in this class have been tested for antitumor and antimicrobial activities.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map01058  Acridone alkaloid biosynthesis
+REFERENCE   
+  AUTHORS   Funayama S.
+  TITLE     [Arukaroido -Doku to Kusuri no Houko-] (In Japanese)
+  JOURNAL   Kyouritu shuppan kabusikikaisya:183-187 (1998)
+REFERENCE   
+  AUTHORS   Paul M Dewick.
+  TITLE     Medicinal Natural Products -A Biosynthetic Approach- (2nd ed)
+  JOURNAL   John Wiley and Sons, LTD:376-379 (2001)
+REFERENCE   
+  AUTHORS   Jeffrey B, Herbert B, Gerard P.
+  TITLE     Phytochemical Dictionary-A Handbook of Bioactive Compounds from Plants (2nd ed)
+  JOURNAL   Taylor and Francis:301-316 (1999)
+REFERENCE   PMID:10217426
+  AUTHORS   Lukacin R, Springob K, Urbanke C, Ernwein C, Schroder G, Schroder J, Matern U.
+  TITLE     Native acridone synthases I and II from Ruta graveolens L. form homodimers
+  JOURNAL   FEBS Lett 448:135-40 (1999)
+KO_PATHWAY  ko01058
+///

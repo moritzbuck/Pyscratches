@@ -1,0 +1,90 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05162
+server: Apache
+date: Wed, 15 Oct 2014 15:09:25 GMT
+content-type: text/plain
+
+ENTRY       map05162                    Pathway
+NAME        Measles
+DESCRIPTION Measles virus (MV) is highly contagious virus that leads infant death worldwide. Humans are the unique natural reservoir for this virus. It causes severe immunosuppression favouring secondary bacterial infections. Several MV proteins have been suggested to disturb host immunity. After infection of host lymphoid cells via SLAM, MV inhibits cytokine response by direct interference with host signaling systems. Three proteins (P, V, and C) associate with Jak/STAT proteins in interferon-triggered pathway and other important proteins related to apoptosis. Interaction between MV and host brings about the shift towards a Th2 response by decreasing IL-12 production and induces lymphopenia by suppressing cell proliferation.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05162  Measles
+DISEASE     H00394  Measles
+REFERENCE   PMID:19203113
+  AUTHORS   Schneider-Schaulies S, Schneider-Schaulies J
+  TITLE     Measles virus-induced immunosuppression.
+  JOURNAL   Curr Top Microbiol Immunol 330:243-69 (2009)
+REFERENCE   PMID:19198562
+  AUTHORS   Navaratnarajah CK, Leonard VH, Cattaneo R
+  TITLE     Measles virus glycoprotein complex assembly, receptor attachment, and cell entry.
+  JOURNAL   Curr Top Microbiol Immunol 329:59-76 (2009)
+REFERENCE   PMID:19203114
+  AUTHORS   Hahm B
+  TITLE     Hostile communication of measles virus with host innate immunity and dendritic cells.
+  JOURNAL   Curr Top Microbiol Immunol 330:271-87 (2009)
+REFERENCE   PMID:19203109
+  AUTHORS   Naniche D
+  TITLE     Human immunology of measles virus infection.
+  JOURNAL   Curr Top Microbiol Immunol 330:151-71 (2009)
+REFERENCE   PMID:19198566
+  AUTHORS   Gerlier D, Valentin H
+  TITLE     Measles virus interaction with host cells and impact on innate immunity.
+  JOURNAL   Curr Top Microbiol Immunol 329:163-91 (2009)
+REFERENCE   PMID:12620806
+  AUTHORS   Yokota S, Saito H, Kubota T, Yokosawa N, Amano K, Fujii N
+  TITLE     Measles virus suppresses interferon-alpha signaling pathway: suppression of Jak1  phosphorylation and association of viral accessory proteins, C and V, with interferon-alpha receptor complex.
+  JOURNAL   Virology 306:135-46 (2003)
+REFERENCE   PMID:16963735
+  AUTHORS   Yanagi Y, Takeda M, Ohno S
+  TITLE     Measles virus: cellular receptors, tropism and pathogenesis.
+  JOURNAL   J Gen Virol 87:2767-79 (2006)
+REFERENCE   PMID:16237742
+  AUTHORS   Kerdiles YM, Sellin CI, Druelle J, Horvat B
+  TITLE     Immunosuppression caused by measles virus: role of viral proteins.
+  JOURNAL   Rev Med Virol 16:49-63 (2006)
+REFERENCE   PMID:16690907
+  AUTHORS   Schneider-Schaulies S, Dittmer U
+  TITLE     Silencing T cells or T-cell silencing: concepts in virus-induced immunosuppression.
+  JOURNAL   J Gen Virol 87:1423-38 (2006)
+REFERENCE   PMID:20376484
+  AUTHORS   Avota E, Gassert E, Schneider-Schaulies S
+  TITLE     Measles virus-induced immunosuppression: from effectors to mechanisms.
+  JOURNAL   Med Microbiol Immunol 199:227-37 (2010)
+REFERENCE   PMID:11582511
+  AUTHORS   Schneider-Schaulies J, ter Meulen V, Schneider-Schaulies S
+  TITLE     Measles virus interactions with cellular receptors: consequences for viral pathogenesis.
+  JOURNAL   J Neurovirol 7:391-9 (2001)
+REFERENCE   PMID:20636817
+  AUTHORS   Griffin DE
+  TITLE     Measles virus-induced suppression of immune responses.
+  JOURNAL   Immunol Rev 236:176-89 (2010)
+REFERENCE   PMID:11385511
+  AUTHORS   Avota E, Avots A, Niewiesk S, Kane LP, Bommhardt U, ter Meulen V, Schneider-Schaulies S
+  TITLE     Disruption of Akt kinase activation is important for immunosuppression induced by measles virus.
+  JOURNAL   Nat Med 7:725-31 (2001)
+REFERENCE   PMID:18922877
+  AUTHORS   Pfaller CK, Conzelmann KK
+  TITLE     Measles virus V protein is a decoy substrate for IkappaB kinase alpha and prevents Toll-like receptor 7/9-mediated interferon induction.
+  JOURNAL   J Virol 82:12365-73 (2008)
+REFERENCE   PMID:17720800
+  AUTHORS   Yokota S, Okabayashi T, Yokosawa N, Fujii N
+  TITLE     Measles virus P protein suppresses Toll-like receptor signal through up-regulation of ubiquitin-modifying enzyme A20.
+  JOURNAL   FASEB J 22:74-83 (2008)
+REFERENCE   PMID:12804771
+  AUTHORS   Takeuchi K, Kadota SI, Takeda M, Miyajima N, Nagata K
+  TITLE     Measles virus V protein blocks interferon (IFN)-alpha/beta but not IFN-gamma signaling by inhibiting STAT1 and STAT2 phosphorylation.
+  JOURNAL   FEBS Lett 545:177-82 (2003)
+REFERENCE   PMID:12410527
+  AUTHORS   Gotoh B, Komatsu T, Takeuchi K, Yokoo J
+  TITLE     Paramyxovirus strategies for evading the interferon response.
+  JOURNAL   Rev Med Virol 12:337-57 (2002)
+REFERENCE   PMID:12805463
+  AUTHORS   Palosaari H, Parisien JP, Rodriguez JJ, Ulane CM, Horvath CM
+  TITLE     STAT protein interference and suppression of cytokine signal transduction by measles virus V protein.
+  JOURNAL   J Virol 77:7635-44 (2003)
+REFERENCE   PMID:14585342
+  AUTHORS   Shaffer JA, Bellini WJ, Rota PA
+  TITLE     The C protein of measles virus inhibits the type I interferon response.
+  JOURNAL   Virology 315:389-97 (2003)
+KO_PATHWAY  ko05162
+///

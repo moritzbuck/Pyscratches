@@ -1,0 +1,65 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07217
+server: Apache
+date: Wed, 15 Oct 2014 14:59:35 GMT
+content-type: text/plain
+
+ENTRY       map07217          Drug      Pathway
+NAME        Renin-angiotensin system inhibitors
+PATHWAY_MAP map07217  Renin-angiotensin system inhibitors
+COMPOUND    C11711  Succinylproline
+            C11712  Teprotide
+            D00251  Captopril (JP16/USP/INN)
+            D00362  Lisinopril hydrate (JP16)
+            D00421  Ramipril (USP/INN)
+            D00459  Quinapril hydrochloride (JP16/USP)
+            D00620  Benazepril hydrochloride (JAN/USAN)
+            D00621  Enalapril maleate (JP16/USP)
+            D00622  Fosinopril sodium (USAN)
+            D01069  Cilazapril hydrate (JP16)
+            D01119  Temocapril hydrochloride (JP16/USAN)
+            D01549  Imidapril hydrochloride (JP16)
+            D01667  Delapril hydrochloride (JAN/USAN)
+            D01900  Alacepril (JP16/INN)
+            D03208  Aliskiren (USAN/INN)
+            D03440  Ceronapril (USAN/INN)
+            D03738  Enalkiren (USAN/INN)
+            D03752  Quinapril (USP/INN)
+            D03756  Indolapril hydrochloride (USAN)
+            D03769  Enalaprilat (USP)
+            D06076  Teprotide (USAN/INN)
+            D06412  Aliskiren fumarate (JAN/USAN)
+            D07499  Benazepril (INN)
+            D07699  Cilazapril (INN)
+            D07781  Delapril  (INN)
+            D07892  Enalapril (INN)
+            D07992  Fosinopril (INN)
+            D08068  Imidapril (INN)
+            D08131  Lisinopril (INN)
+            D08566  Temocapril (INN)
+            D09038  Remikiren (INN)
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   PMID:14526382
+  AUTHORS   Lewis RJ, Garcia ML.
+  TITLE     Therapeutic potential of venom peptides.
+  JOURNAL   Nat Rev Drug Discov 2:790-802 (2003)
+REFERENCE   PMID:10579749
+  AUTHORS   Timmermans PB.
+  TITLE     Pharmacological properties of angiotensin II receptor antagonists.
+  JOURNAL   Can J Cardiol 15 Suppl F:26F-8F (1999)
+///

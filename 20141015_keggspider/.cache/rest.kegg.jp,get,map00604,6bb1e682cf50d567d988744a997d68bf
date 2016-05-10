@@ -1,0 +1,17 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00604
+server: Apache
+date: Wed, 15 Oct 2014 15:07:57 GMT
+content-type: text/plain
+
+ENTRY       map00604                    Pathway
+NAME        Glycosphingolipid biosynthesis - ganglio series
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00604  Glycosphingolipid biosynthesis - ganglio series
+MODULE      M00069  Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3 [PATH:map00604]
+DISEASE     H00124  GM2 gangliosidoses
+            H00281  GM1 gangliosidosis
+            H00426  Defects in the degradation of ganglioside
+            H00996  Amish infantile epilepsy syndrome
+KO_PATHWAY  ko00604
+///

@@ -1,0 +1,72 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07049
+server: Apache
+date: Wed, 15 Oct 2014 14:59:29 GMT
+content-type: text/plain
+
+ENTRY       map07049          Drug      Pathway
+NAME        Antithrombosis agents
+PATHWAY_MAP map07049  Antithrombosis agents
+COMPOUND    D00106  Epoprostenol (USAN/INN)
+            D00109  Aspirin (JP16/USP)
+            D00181  Argatroban hydrate (JP16)
+            D00564  Warfarin sodium (USP)
+            D00769  Clopidogrel sulfate (JP16)
+            D01028  Ticlopidine hydrochloride (JP16/USAN)
+            D01029  Tirofiban hydrochloride (USAN)
+            D01280  Warfarin potassium (JP16)
+            D01337  Epoprostenol sodium (JAN/USAN)
+            D01551  Beraprost sodium (JP16/USAN)
+            D01624  Sarpogrelate hydrochloride (JP16)
+            D01670  Nafamostat mesilate (JP16)
+            D01672  Gabexate mesilate (JP16)
+            D01684  Ozagrel sodium (JP16)
+            D01844  Fondaparinux sodium (JAN/USAN/INN)
+            D01896  Cilostazol (JP16/USAN/INN)
+            D01981  Ximelagatran (JAN/USAN/INN)
+            D02112  Heparin sodium (JP16/USP/INN)
+            D02720  Beraprost (USAN)
+            D02778  Abciximab (genetical recombination) (JAN)
+            D02956  Anticoagulant heparin (USP)
+            D02980  Ardeparin sodium (USAN/INN)
+            D03136  Bivalirudin (USAN/INN)
+            D03213  Apixaban (JAN/USAN/INN)
+            D03324  Nasaruplase (cell culture) (JAN)
+            D03341  Urokinase (JP16/USAN/INN)
+            D03353  Dalteparin sodium (JAN/USAN/INN)
+            D03692  Desirudin (USAN/INN)
+            D03960  Aspirin - dialuminate mixt
+            D04427  Heparin calcium (JP16/USAN)
+            D05123  Nasaruplase beta (USAN/INN)
+            D06270  Urokinase alfa (USAN/INN)
+            D06571  Antithrombin III human (USP)
+            D06880  Lepirudin (INN)
+            D06888  Eptifibatide (INN)
+            D07082  Dabigatran etexilate methanesulfonate (JAN)
+            D07086  Rivaroxaban (JAN/USAN/INN)
+            D07144  Dabigatran etexilate (USAN/INN)
+            D07510  Adomiparin (USAN)
+            D07729  Clopidogrel (INN)
+            D08004  Gabexate (INN)
+            D08327  Ozagrel (INN)
+            D08508  Sarpogrelate (INN)
+            D08594  Ticlopidine (INN)
+            D08607  Tirofiban (INN)
+            D08682  Warfarin (INN)
+            D08795  Human anti-thrombin III, freeze-dried concentrated
+            D09546  Edoxaban tosilate hydrate (JAN)
+            D09710  Edoxaban (USAN/INN)
+            D09817  Darexaban maleate (JAN)
+REFERENCE   PMID:20702966
+  AUTHORS   Morishima Y, Shibano T
+  TITLE     [Research and development strategy of antithrombotic agents: pharmacology of the  oral factor Xa-inhibitor edoxaban].
+  JOURNAL   Nihon Yakurigaku Zasshi 136:83-7 (2010)
+REFERENCE   PMID:21828942
+  AUTHORS   Ohmura T, Takahashi I, Ikegami K, Encinas J
+  TITLE     [Pharmacological and clinical profiles of the direct thrombin inhibitor dabigatran etexilate methane sulfate (Prazaxa((R))) ].
+  JOURNAL   Nihon Yakurigaku Zasshi 138:79-88 (2011)
+REFERENCE   
+  AUTHORS   Tomiyama Y.
+  TITLE     [Types and their mechanism of action of antiplatelet drugs] (in Japanese)
+  JOURNAL   CLINICIAN
+///

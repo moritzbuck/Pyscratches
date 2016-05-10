@@ -1,0 +1,58 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07047
+server: Apache
+date: Wed, 15 Oct 2014 15:09:50 GMT
+content-type: text/plain
+
+ENTRY       map07047          Drug      Pathway
+NAME        Osteoporosis drugs
+PATHWAY_MAP map07047  Osteoporosis drugs
+COMPOUND    D00100  Menatetrenone (JP16/INN)
+            D00105  Estradiol (JAN/USP/INN)
+            D00129  Calcitriol (JAN/USP/INN)
+            D00185  Estriol (JP16/USP)
+            D00249  Calcitonin salmon (JP16/USAN/INN)
+            D00314  Etidronate disodium (JP16/USP)
+            D00937  Dibasic calcium phosphate hydrate (JP16)
+            D00939  Alendronate sodium hydrate (JP16)
+            D00941  Pamidronate disodium hydrate (JAN)
+            D00942  Risedronate sodium (USP)
+            D00955  Nandrolone decanoate (JAN/USP)
+            D00956  Nandrolone phenylpropionate (JAN)
+            D01301  Metenolone enanthate (JP16)
+            D01338  Ipriflavone (JP16/INN)
+            D01375  Metenolone acetate (JP16)
+            D01518  Alfacalcidol (JAN/INN)
+            D01533  Mestanolone (JAN/INN)
+            D01598  Calcium L-aspartate hydrate (JAN)
+            D01968  Zoledronic acid hydrate (JAN)
+            D02217  Raloxifene hydrochloride (JAN/USP)
+            D02285  Tiludronate disodium (USAN)
+            D02373  Etidronic acid (USAN/INN)
+            D03062  Bazedoxifene acetate (JAN/USAN)
+            D03234  Sodium risedronate hydrate (JP16)
+            D03287  Elcatonin (JP16/INN)
+            D03302  Dibasic calcium phosphate, anhydrous (JAN)
+            D03358  Teriparatide acetate (JAN)
+            D03544  Sodium clodronate hydrate (JAN)
+            D03545  Clodronic acid (USAN/INN)
+            D04486  Ibandronate sodium hydrate (JAN)
+            D04672  Lasofoxifene tartrate (JAN/USAN)
+            D06078  Teriparatide (genetical recombination) (JAN)
+            D06378  Zoledronate disodium (USAN)
+            D06379  Zoledronate trisodium (USAN)
+            D06437  Anhydrous dibasic calcium phosphate (JP16)
+            D07119  Alendronic acid (INN)
+            D07281  Pamidronic acid (INN)
+            D07578  Eldecalcitol (JAN/INN)
+            D07720  Clodronic acid disodium salt
+            D08056  Ibandronic acid (INN)
+            D08193  Metenolone (INN)
+            D08465  Raloxifene (INN)
+            D08467  Ranelic acid (INN)
+            D08468  Strontium ranelate
+            D08484  Risedronic acid (INN)
+            D08599  Tiludronic acid (INN)
+            D08689  Zoledronic acid (INN)
+            D09198  Minodronic acid hydrate (JAN)
+///

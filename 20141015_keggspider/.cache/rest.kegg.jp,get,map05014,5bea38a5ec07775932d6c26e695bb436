@@ -1,0 +1,110 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05014
+server: Apache
+date: Wed, 15 Oct 2014 15:09:16 GMT
+content-type: text/plain
+
+ENTRY       map05014                    Pathway
+NAME        Amyotrophic lateral sclerosis (ALS)
+DESCRIPTION Amyotrophic lateral sclerosis (ALS) is a progressive, lethal, degenerative disorder of motor neurons. The hallmark of this disease is the selective death of motor neurons in the brain and spinal cord, leading to paralysis of voluntary muscles. Mutant superoxide dismutase 1 (SOD1), as seen in some familial ALS (FALS) cases, is unstable, forming aggregates in the motor neuron cytoplasm, axoplasm and mitochondria. Within mitochondria, mutant SOD1 may interfere with the anti-apoptotic function of Bcl-2, affect mitochondrial import by interfering with the translocation machinery (TOM/TIM), and generate toxic free radicals (ROS). Reactive oxygen species (ROS), produced within mitochondria, inhibit the function of EAAT2, the main glial glutamate transporter protein, responsible for most of the reuptake of synaptically released glutamate. Glutamate excess increases intracellular calcium, which enhances oxidative stress and mitochondrial damage. Mutant SOD1 can also trigger oxidative reactions , which can then cause damage through the formation of hydroxyl radicals or via nitration of tyrosine residues on proteins. Nitration may target neurofilament proteins, affecting axonal transport. Collectively, these mechanisms are predicted to disturb cellular homeostasis, ultimately triggering motor neuron death.
+CLASS       Human Diseases; Neurodegenerative diseases
+PATHWAY_MAP map05014  Amyotrophic lateral sclerosis (ALS)
+DISEASE     H00058  Amyotrophic lateral sclerosis (ALS)
+REFERENCE   PMID:16924260
+  AUTHORS   Pasinelli P, Brown RH
+  TITLE     Molecular biology of amyotrophic lateral sclerosis: insights from genetics.
+  JOURNAL   Nat Rev Neurosci 7:710-23 (2006)
+REFERENCE   PMID:16723044
+  AUTHORS   Goodall EF, Morrison KE
+  TITLE     Amyotrophic lateral sclerosis (motor neuron disease): proposed mechanisms and pathways to treatment.
+  JOURNAL   Expert Rev Mol Med 8:1-22 (2006)
+REFERENCE   PMID:17015226
+  AUTHORS   Boillee S, Vande Velde C, Cleveland DW
+  TITLE     ALS: a disease of motor neurons and their nonneuronal neighbors.
+  JOURNAL   Neuron 52:39-59 (2006)
+REFERENCE   PMID:11239414
+  AUTHORS   Julien JP.
+  TITLE     Amyotrophic lateral sclerosis. unfolding the toxicity of the misfolded.
+  JOURNAL   Cell 104:581-91 (2001)
+REFERENCE   PMID:16050975
+  AUTHORS   Manfredi G, Xu Z
+  TITLE     Mitochondrial dysfunction and its role in motor neuron degeneration in ALS.
+  JOURNAL   Mitochondrion 5:77-87 (2005)
+REFERENCE   PMID:11870681
+  AUTHORS   Hand CK, Rouleau GA
+  TITLE     Familial amyotrophic lateral sclerosis.
+  JOURNAL   Muscle Nerve 25:135-59 (2002)
+REFERENCE   PMID:16713195
+  AUTHORS   Barber SC, Mead RJ, Shaw PJ
+  TITLE     Oxidative stress in ALS: a mechanism of neurodegeneration and a therapeutic target.
+  JOURNAL   Biochim Biophys Acta 1762:1051-67 (2006)
+REFERENCE   PMID:16026864
+  AUTHORS   von Lewinski F, Keller BU
+  TITLE     Ca2+, mitochondria and selective motoneuron vulnerability: implications for ALS.
+  JOURNAL   Trends Neurosci 28:494-500 (2005)
+REFERENCE   PMID:10970056
+  AUTHORS   Al-Chalabi A, Leigh PN
+  TITLE     Recent advances in amyotrophic lateral sclerosis.
+  JOURNAL   Curr Opin Neurol 13:397-405 (2000)
+REFERENCE   PMID:12531867
+  AUTHORS   Guegan C, Przedborski S
+  TITLE     Programmed cell death in amyotrophic lateral sclerosis.
+  JOURNAL   J Clin Invest 111:153-61 (2003)
+REFERENCE   PMID:16909017
+  AUTHORS   Bendotti C, Bao Cutrona M, Cheroni C, Grignaschi G, Lo Coco D, Peviani M, Tortarolo M, Veglianese P, Zennaro E
+  TITLE     Inter- and intracellular signaling in amyotrophic lateral sclerosis: role of p38 mitogen-activated protein kinase.
+  JOURNAL   Neurodegener Dis 2:128-34 (2005)
+REFERENCE   PMID:14739060
+  AUTHORS   Emerit J, Edeas M, Bricaire F
+  TITLE     Neurodegenerative diseases and oxidative stress.
+  JOURNAL   Biomed Pharmacother 58:39-46 (2004)
+REFERENCE   PMID:11715057
+  AUTHORS   Cleveland DW, Rothstein JD
+  TITLE     From Charcot to Lou Gehrig: deciphering selective motor neuron death in ALS.
+  JOURNAL   Nat Rev Neurosci 2:806-19 (2001)
+REFERENCE   PMID:15310460
+  AUTHORS   Bendotti C, Carri MT
+  TITLE     Lessons from models of SOD1-linked familial ALS.
+  JOURNAL   Trends Mol Med 10:393-400 (2004)
+REFERENCE   PMID:12595144
+  AUTHORS   Robertson J, Kriz J, Nguyen MD, Julien JP
+  TITLE     Pathways to motor neuron degeneration in transgenic mouse models.
+  JOURNAL   Biochimie 84:1151-60 (2002)
+REFERENCE   PMID:16603792
+  AUTHORS   Bacman SR, Bradley WG, Moraes CT
+  TITLE     Mitochondrial involvement in amyotrophic lateral sclerosis: trigger or target?
+  JOURNAL   Mol Neurobiol 33:113-31 (2006)
+REFERENCE   PMID:18519638
+  AUTHORS   Nishitoh H, Kadowaki H, Nagai A, Maruyama T, Yokota T, Fukutomi H, Noguchi T, Matsuzawa A, Takeda K, Ichijo H
+  TITLE     ALS-linked mutant SOD1 induces ER stress- and ASK1-dependent motor neuron death by targeting Derlin-1.
+  JOURNAL   Genes Dev 22:1451-64 (2008)
+REFERENCE   PMID:14569202
+  AUTHORS   Simpson EP, Yen AA, Appel SH
+  TITLE     Oxidative Stress: a common denominator in the pathogenesis of amyotrophic lateral sclerosis.
+  JOURNAL   Curr Opin Rheumatol 15:730-6 (2003)
+REFERENCE   PMID:12728264
+  AUTHORS   Vila M, Przedborski S
+  TITLE     Targeting programmed cell death in neurodegenerative diseases.
+  JOURNAL   Nat Rev Neurosci 4:365-75 (2003)
+REFERENCE   PMID:11513882
+  AUTHORS   Volkel H, Scholz M, Link J, Selzle M, Werner P, Tunnemann R, Jung G, Ludolph AC, Reuter A
+  TITLE     Superoxide dismutase mutations of familial amyotrophic lateral sclerosis and the oxidative inactivation of calcineurin.
+  JOURNAL   FEBS Lett 503:201-5 (2001)
+REFERENCE   PMID:17434459
+  AUTHORS   Eve DJ, Dennis JS, Citron BA
+  TITLE     Transcription factor p53 in degenerating spinal cords.
+  JOURNAL   Brain Res 1150:174-81 (2007)
+REFERENCE   PMID:16909020
+  AUTHORS   Van Damme P, Dewil M, Robberecht W, Van Den Bosch L
+  TITLE     Excitotoxicity and amyotrophic lateral sclerosis.
+  JOURNAL   Neurodegener Dis 2:147-59 (2005)
+REFERENCE   PMID:17566607
+  AUTHORS   Hadano S, Kunita R, Otomo A, Suzuki-Utsunomiya K, Ikeda JE
+  TITLE     Molecular and cellular function of ALS2/alsin: implication of membrane dynamics in neuronal development and degeneration.
+  JOURNAL   Neurochem Int 51:74-84 (2007)
+REFERENCE   PMID:17409386
+  AUTHORS   Kunita R, Otomo A, Mizumura H, Suzuki-Utsunomiya K, Hadano S, Ikeda JE
+  TITLE     The Rab5 activator ALS2/alsin acts as a novel Rac1 effector through Rac1-activated endocytosis.
+  JOURNAL   J Biol Chem 282:16599-611 (2007)
+KO_PATHWAY  ko05014
+///

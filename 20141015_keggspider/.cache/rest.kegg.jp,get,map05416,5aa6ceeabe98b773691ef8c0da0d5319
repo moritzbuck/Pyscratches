@@ -1,0 +1,70 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05416
+server: Apache
+date: Wed, 15 Oct 2014 15:09:38 GMT
+content-type: text/plain
+
+ENTRY       map05416                    Pathway
+NAME        Viral myocarditis
+DESCRIPTION Myocarditis is a cardiac disease associated with inflammation and injury of the myocardium. It results from various etiologies, both noninfectious and infectious, but coxsackievirus B3 (CVB3) is still considered the dominant etiological agent. Myocarditis may be caused by direct cytopathic effects of virus, a pathologic immune response to persistent virus, or autoimmunity triggered by the viral infection. The virus enters the myocyte through internalization of the coxsackie-adenoviral receptor (CAR) and its coreceptor, decay-accelerating factor (DAF). Viral proteases cleave various proteins in the host cell. One example is viral protease 2A, which cleaves eukaryote initiation factor 4G (eIF4G) and the dystrophin protein, resulting in a complete shutdown of cap-dependent RNA translation and cytoskeletal destruction in infected cardiomyocytes, respectively. CVB3 also cleaves the member of the Bcl-2 family Bid, leading to apoptosis. CVB3 infection also induces the cleavage of cyclin D protein through a proteasome-dependent pathway, leading to the host cell-growth arrest. Viral infection and necrosis of myocytes may lead to the release of intracellular antigens, resulting in activation of self-reactive T cells. CVB infection is a significant cause of dilated cardiomyopathy (DCM) as well as myocarditis. Epidemiologically, myocarditis underlies a significant portion of patients with DCM.
+CLASS       Human Diseases; Cardiovascular diseases
+PATHWAY_MAP map05416  Viral myocarditis
+DISEASE     H00295  Viral myocarditis
+REFERENCE   PMID:18039131
+  AUTHORS   Esfandiarei M, McManus BM
+  TITLE     Molecular biology and pathogenesis of viral myocarditis.
+  JOURNAL   Annu Rev Pathol 3:127-55 (2008)
+REFERENCE   PMID:12920582
+  AUTHORS   Badorff C, Knowlton KU
+  TITLE     Dystrophin disruption in enterovirus-induced myocarditis and dilated cardiomyopathy: from bench to bedside.
+  JOURNAL   Med Microbiol Immunol 193:121-6 (2004)
+REFERENCE   PMID:17200452
+  AUTHORS   Maekawa Y, Ouzounian M, Opavsky MA, Liu PP
+  TITLE     Connecting the missing link between dilated cardiomyopathy and viral myocarditis: virus, cytoskeleton, and innate immunity.
+  JOURNAL   Circulation 115:5-8 (2007)
+REFERENCE   PMID:12439638
+  AUTHORS   Pankuweit S, Portig I, Maisch B
+  TITLE     Pathophysiology of cardiac inflammation: molecular mechanisms.
+  JOURNAL   Herz 27:669-76 (2002)
+REFERENCE   PMID:16845885
+  AUTHORS   Gao G, Luo H
+  TITLE     The ubiquitin-proteasome pathway in viral infections.
+  JOURNAL   Can J Physiol Pharmacol 84:5-14 (2006)
+REFERENCE   PMID:16413486
+  AUTHORS   Coyne CB, Bergelson JM
+  TITLE     Virus-induced Abl and Fyn kinase signals permit coxsackievirus entry through epithelial tight junctions.
+  JOURNAL   Cell 124:119-31 (2006)
+REFERENCE   PMID:10904843
+  AUTHORS   Badorff C, Lee GH, Knowlton KU
+  TITLE     Enteroviral cardiomyopathy: bad news for the dystrophin-glycoprotein complex.
+  JOURNAL   Herz 25:227-32 (2000)
+REFERENCE   PMID:18357777
+  AUTHORS   Knowlton KU
+  TITLE     CVB infection and mechanisms of viral cardiomyopathy.
+  JOURNAL   Curr Top Microbiol Immunol 323:315-35 (2008)
+REFERENCE   PMID:18545064
+  AUTHORS   Castellano G, Affuso F, Di Conza P, Fazio S
+  TITLE     Myocarditis and dilated cardiomyopathy: possible connections and treatments.
+  JOURNAL   J Cardiovasc Med (Hagerstown) 9:666-71 (2008)
+REFERENCE   PMID:19357408
+  AUTHORS   Cooper LT Jr
+  TITLE     Myocarditis.
+  JOURNAL   N Engl J Med 360:1526-38 (2009)
+REFERENCE   PMID:10051305
+  AUTHORS   Kawai C
+  TITLE     From myocarditis to cardiomyopathy: mechanisms of inflammation and cell death: learning from the past for the future.
+  JOURNAL   Circulation 99:1091-100 (1999)
+REFERENCE   PMID:11524405
+  AUTHORS   Liu PP, Mason JW
+  TITLE     Advances in the understanding of myocarditis.
+  JOURNAL   Circulation 104:1076-82 (2001)
+REFERENCE   PMID:14522402
+  AUTHORS   Mason JW
+  TITLE     Myocarditis and dilated cardiomyopathy: an inflammatory link.
+  JOURNAL   Cardiovasc Res 60:5-10 (2003)
+REFERENCE   PMID:16817756
+  AUTHORS   Tam PE
+  TITLE     Coxsackievirus myocarditis: interplay between virus and host in the pathogenesis of heart disease.
+  JOURNAL   Viral Immunol 19:133-46 (2006)
+KO_PATHWAY  ko05416
+///

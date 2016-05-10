@@ -1,0 +1,63 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04810
+server: Apache
+date: Wed, 15 Oct 2014 15:09:05 GMT
+content-type: text/plain
+
+ENTRY       map04810                    Pathway
+NAME        Regulation of actin cytoskeleton
+CLASS       Cellular Processes; Cell motility
+PATHWAY_MAP map04810  Regulation of actin cytoskeleton
+DISEASE     H00255  Hypogonadotropic hypogonadism
+            H00480  Non-syndromic X-linked mental retardation
+            H00484  Other brachydactylies
+            H00569  Aarskog-Scott syndrome
+            H00578  MYH9-related kidney diseases
+            H00586  Epidermolysis bullosa, junctional
+            H00590  Congenital muscular dystrophies (CMD/MDC)
+            H00626  Nephrotic syndrome and focal segmental glomerulosclerosis
+            H00627  Premature ovarian failure
+            H00642  Lacrimo-auriculo-dento-digital syndrome (LADD)
+            H00698  Nemaline myopathy
+            H00801  Familial thoracic aortic aneurysm and dissection (TAAD)
+            H00845  Familial amyloidosis
+            H00865  Lethal congenital contractural syndrome (LCCS)
+            H00956  Lattice corneal dystrophies (LCD)
+            H00957  Fleck corneal dystrophy (FCD)
+            H00997  CATSHL syndrome
+            H01025  Familial adenomatous polyposis
+            H01193  Familial tumoral calcinosis (FTC)
+            H01207  Trigonocephaly
+            H01255  Juvenile-onset dystonia
+            H01260  Glomerulopathy with fibronectin deposits (GFND)
+DBLINKS     GO: 0030036
+REFERENCE   PMID:14744429
+  AUTHORS   Burridge K, Wennerberg K.
+  TITLE     Rho and Rac take center stage.
+  JOURNAL   Cell 116:167-79 (2004)
+REFERENCE   PMID:11082269
+  AUTHORS   Schmitz AA, Govek EE, Bottner B, Van Aelst L.
+  TITLE     Rho GTPases: signaling, migration, and invasion.
+  JOURNAL   Exp Cell Res 261:1-12 (2000)
+REFERENCE   PMID:11152757
+  AUTHORS   Takai Y, Sasaki T, Matozaki T.
+  TITLE     Small GTP-binding proteins.
+  JOURNAL   Physiol Rev 81:153-208 (2001)
+REFERENCE   PMID:12700767
+  AUTHORS   Pollard TD.
+  TITLE     The cytoskeleton, cellular motility and the reductionist agenda.
+  JOURNAL   Nature 422:741-5 (2003)
+REFERENCE   PMID:14657486
+  AUTHORS   Ridley AJ, Schwartz MA, Burridge K, Firtel RA, Ginsberg MH, Borisy G, Parsons JT, Horwitz AR.
+  TITLE     Cell migration: integrating signals from front to back.
+  JOURNAL   Science 302:1704-9 (2003)
+REFERENCE   PMID:11082272
+  AUTHORS   Sastry SK, Burridge K.
+  TITLE     Focal adhesions: a nexus for intracellular signaling and cytoskeletal dynamics.
+  JOURNAL   Exp Cell Res 261:25-36 (2000)
+REFERENCE   PMID:10574699
+  AUTHORS   Fukata M, Nakagawa M, Kuroda S, Kaibuchi K.
+  TITLE     Cell adhesion and Rho small GTPases.
+  JOURNAL   J Cell Sci 112 ( Pt 24):4491-500 (1999)
+KO_PATHWAY  ko04810
+///

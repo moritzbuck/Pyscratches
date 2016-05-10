@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07046
+server: Apache
+date: Wed, 15 Oct 2014 15:09:49 GMT
+content-type: text/plain
+
+ENTRY       map07046          Drug      Pathway
+NAME        Immunosuppressive agents
+PATHWAY_MAP map07046  Immunosuppressive agents
+COMPOUND    D00107  Tacrolimus hydrate (JP16)
+            D00142  Methotrexate (JP16/USP/INN)
+            D00161  Mercaptopurine hydrate (JP16)
+            D00168  Cytarabine (JP16/USP/INN)
+            D00184  Ciclosporin (JP16)
+            D00214  Actinomycin D (JP16)
+            D00238  Azathioprine (JP16/USP/INN)
+            D00287  Cyclophosphamide hydrate (JP16)
+            D00292  Dexamethasone (JP16/USP/INN)
+            D00369  Melphalan (JP16/USP/INN)
+            D00472  Prednisolone (JP16/USP/INN)
+            D00473  Prednisone (USP)
+            D00749  Leflunomide (JAN/USAN/INN)
+            D00752  Mycophenolate mofetil (JAN/USAN)
+            D00753  Sirolimus (JAN/USAN/INN)
+            D00754  Thalidomide (JAN/USP/INN)
+            D01068  Vinblastine sulfate (JP16/USP)
+            D01392  Mizoribine (JP16/INN)
+            D01566  Gusperimus hydrochloride (JAN)
+            D02115  Methotrexate sodium
+            D02197  Vincristine sulfate (JP16/USP)
+            D02714  Everolimus (JAN/USAN/INN)
+            D03033  Azathioprine sodium (USP)
+            D03637  Cytarabine hydrochloride (USAN)
+            D04687  Lenalidomide (USAN/INN)
+            D04931  Mercaptopurine (INN)
+            D05094  Mycophenolate mofetil hydrochloride (USAN)
+            D05095  Mycophenolate sodium (USAN)
+            D05096  Mycophenolic acid (USAN/INN)
+            D06673  Meprednisone (USP/INN)
+            D07760  Cyclophosphamide (INN)
+            D08032  Gusperimus (INN)
+            D08173  Melphalan hydrochloride
+            D08556  Tacrolimus (INN)
+            D08675  Vinblastine (INN)
+            D08679  Vincristine (INN)
+REFERENCE   
+  AUTHORS   Bertram GK (ed).
+  TITLE     Basic & Clinical Pharmacology (9th ed)
+  JOURNAL   Lange (2004)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Katori S.
+  TITLE     [Standard Pharmacology (6th ed)] (In Japanese)
+  JOURNAL   Igaku shoin
+REFERENCE   
+  AUTHORS   Wermuth CG (ed).
+  TITLE     [The Practice of Medicinal Chemistry vol.1 (2nd ed)] (In Japanese)
+  JOURNAL   Technomics (2006)
+REFERENCE   PMID:11896891
+  AUTHORS   Tsuzuki K.
+  TITLE     Role of mizoribine in renal transplantation.
+  JOURNAL   Pediatr Int 44:224-31 (2002)
+REFERENCE   PMID:2195722
+  AUTHORS   Crandall BG, Gilbert EM, Renlund DG, Menlove RL, Herrick CM, Holland CS, Hagan ME, Rasmussen LG, Karwande SV, O'Connell JB, et al.
+  TITLE     A randomized trial of the immunosuppressive efficacy of vincristine in cardiac transplantation.
+  JOURNAL   Transplantation 50:34-8 (1990)
+REFERENCE   PMID:17287604
+  AUTHORS   Nakanishi C, Kawagishi N, Sekiguchi S, Akamatsu Y, Sato K, Miyagi S, Takeda I, Hukushima K, Aiso T, Sato A, Fujimori K, Satomi S.
+  TITLE     Steroid-resistant late acute rejection after a living donor liver transplantation: case report and review of the literature.
+  JOURNAL   Tohoku J Exp Med 211:195-200 (2007)
+REFERENCE   PMID:9233698
+  AUTHORS   Schuler W, Sedrani R, Cottens S, Haberlin B, Schulz M, Schuurman HJ, Zenke G, Zerwes HG, Schreier MH.
+  TITLE     SDZ RAD, a new rapamycin derivative: pharmacological properties in vitro and in vivo.
+  JOURNAL   Transplantation 64:36-42 (1997)
+///

@@ -1,0 +1,37 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00196
+server: Apache
+date: Wed, 15 Oct 2014 15:07:33 GMT
+content-type: text/plain
+
+ENTRY       map00196                    Pathway
+NAME        Photosynthesis - antenna proteins
+DESCRIPTION The chlorophyll-binding subunits of photosystems I and II are internal antenna light-harvesting proteins of oxygenic photosynthesis. The antenna proteins that exist in phycobilisomes in cyanobacteria and light-harvesting chlorophyll protein complexes in green plants act as peripheral antenna systems, enabling more efficient absorption of light energy.
+CLASS       Metabolism; Energy metabolism
+PATHWAY_MAP map00196  Photosynthesis - antenna proteins
+REFERENCE   PMID:10625426
+  AUTHORS   Nield J, Orlova EV, Morris EP, Gowen B, van Heel M, Barber J.
+  TITLE     3D map of the plant photosystem II supercomplex obtained by cryoelectron microscopy and single particle analysis.
+  JOURNAL   Nat Struct Biol 7:44-7 (2000)
+REFERENCE   PMID:15994896
+  AUTHORS   Sener MK, Jolley C, Ben-Shem A, Fromme P, Nelson N, Croce R, Schulten K.
+  TITLE     Comparison of the light-harvesting networks of plant and cyanobacterial photosystem I.
+  JOURNAL   Biophys J 89:1630-42 (2005)
+REFERENCE   PMID:14668855
+  AUTHORS   Ben-Shem A, Frolow F, Nelson N.
+  TITLE     Crystal structure of plant photosystem I.
+  JOURNAL   Nature 426:630-5 (2003)
+REFERENCE   PMID:15955818
+  AUTHORS   Jolley C, Ben-Shem A, Nelson N, Fromme P.
+  TITLE     Structure of plant photosystem I revealed by theoretical modeling.
+  JOURNAL   J Biol Chem 280:33627-36 (2005)
+REFERENCE   PMID:16098971
+  AUTHORS   Ihalainen JA, Klimmek F, Ganeteg U, van Stokkum IH, van Grondelle R, Jansson S, Dekker JP.
+  TITLE     Excitation energy trapping in photosystem I complexes depleted in Lhca1 and Lhca4.
+  JOURNAL   FEBS Lett 579:4787-91 (2005)
+REFERENCE   PMID:16401064
+  AUTHORS   Melkozernov AN, Barber J, Blankenship RE.
+  TITLE     Light harvesting in photosystem I supercomplexes.
+  JOURNAL   Biochemistry 45:331-45 (2006)
+KO_PATHWAY  ko00196
+///

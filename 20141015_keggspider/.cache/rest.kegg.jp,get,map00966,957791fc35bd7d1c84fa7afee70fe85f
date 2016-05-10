@@ -1,0 +1,39 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00966
+server: Apache
+date: Wed, 15 Oct 2014 15:08:14 GMT
+content-type: text/plain
+
+ENTRY       map00966                    Pathway
+NAME        Glucosinolate biosynthesis
+DESCRIPTION Glucosinolates are biologically active secondary metabolites found in Brassicaceae (mustard family) and related families.These compounds are genetically variable within plant species and used as natural pesticides, such as against insect herbivores. All glucosinolates share a common structure consisting of a beta-thioglucose moiety, a sulfonated oxime moiety, and a variable aglycone side chain derived from an alpha-amino acid. Genes encoding glucosinolate biosynthetic enzymes have been identified in Arabidopsis thaliana by genetic polymorphisms and loss-of-function mutations. This map shows examples of side chain elongation in methionine-derived glucosinolates and the core pathway for biosynthesis of glucosinolates from amino acids.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00966  Glucosinolate biosynthesis
+MODULE      M00370  Glucosinolate biosynthesis, tryptophan => glucobrassicin [PATH:map00966]
+DBLINKS     GO: 0019761
+REFERENCE   PMID:12049923
+  AUTHORS   Wittstock U, Halkier BA
+  TITLE     Glucosinolate research in the Arabidopsis era.
+  JOURNAL   Trends Plant Sci 7:263-70 (2002)
+REFERENCE   PMID:15913672
+  AUTHORS   Windsor AJ, Reichelt M, Figuth A, Svatos A, Kroymann J, Kliebenstein DJ, Gershenzon J, Mitchell-Olds T
+  TITLE     Geographic and evolutionary diversification of glucosinolates among near relatives of Arabidopsis thaliana (Brassicaceae).
+  JOURNAL   Phytochemistry 66:1321-33 (2005)
+REFERENCE   PMID:14740211
+  AUTHORS   Textor S, Bartram S, Kroymann J, Falk KL, Hick A, Pickett JA, Gershenzon J
+  TITLE     Biosynthesis of methionine-derived glucosinolates in Arabidopsis thaliana: recombinant expression and characterization of methylthioalkylmalate synthase, the condensing enzyme of the chain-elongation cycle.
+  JOURNAL   Planta 218:1026-35 (2004)
+REFERENCE   PMID:15358770
+  AUTHORS   Piotrowski M, Schemenewitz A, Lopukhina A, Muller A, Janowitz T, Weiler EW, Oecking C
+  TITLE     Desulfoglucosinolate sulfotransferases from Arabidopsis thaliana catalyze the final step in the biosynthesis of the glucosinolate core structure.
+  JOURNAL   J Biol Chem 279:50717-25 (2004)
+REFERENCE   PMID:12586901
+  AUTHORS   Mikkelsen MD, Halkier BA
+  TITLE     Metabolic engineering of valine- and isoleucine-derived glucosinolates in Arabidopsis expressing CYP79D2 from Cassava.
+  JOURNAL   Plant Physiol 131:773-9 (2003)
+REFERENCE   
+  AUTHORS   Sixue C, Erik A.
+  TITLE     Update on glucosinolate metabolism and transport.
+  JOURNAL   Plant Physiol Biochem 39:743-758 (2001)
+KO_PATHWAY  ko00966
+///

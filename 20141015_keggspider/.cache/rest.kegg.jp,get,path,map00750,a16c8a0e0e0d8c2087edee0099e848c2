@@ -1,0 +1,36 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00750
+server: Apache
+date: Wed, 15 Oct 2014 14:57:42 GMT
+content-type: text/plain
+
+ENTRY       map00750                    Pathway
+NAME        Vitamin B6 metabolism
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP map00750  Vitamin B6 metabolism
+MODULE      M00124  Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P [PATH:map00750]
+DISEASE     H01082  Phosphoserine aminotransferase (PSAT) deficiency
+            H01124  Pyridox(am)ine-5'-phosphate oxidase (PNPO) deficiency
+DBLINKS     GO: 0042816
+REFERENCE   PMID:10753941
+  AUTHORS   Tazoe M, Ichikawa K, Hoshino T.
+  TITLE     Biosynthesis of vitamin B(6) in rhizobium.
+  JOURNAL   J Biol Chem 275:11300-5 (2000)
+REFERENCE   PMID:9696782
+  AUTHORS   Yang Y, Zhao G, Man TK, Winkler ME.
+  TITLE     Involvement of the gapA- and epd (gapB)-encoded dehydrogenases in pyridoxal 5'-phosphate coenzyme biosynthesis in Escherichia coli K-12.
+  JOURNAL   J Bacteriol 180:4294-9 (1998)
+REFERENCE   PMID:12269807
+  AUTHORS   Yeh JI, Du S, Pohl E, Cane DE.
+  TITLE     Multistate binding in pyridoxine 5'-phosphate synthase: 1.96 A crystal structure in complex with 1-deoxy-D-xylulose phosphate.
+  JOURNAL   Biochemistry 41:11649-57 (2002)
+REFERENCE   PMID:10225425
+  AUTHORS   Laber B, Maurer W, Scharf S, Stepusin K, Schmidt FS.
+  TITLE     Vitamin B6 biosynthesis: formation of pyridoxine 5'-phosphate from 4-(phosphohydroxy)-L-threonine and 1-deoxy-D-xylulose-5-phosphate by PdxA and PdxJ protein.
+  JOURNAL   FEBS Lett 449:45-8 (1999)
+REFERENCE   PMID:16157873
+  AUTHORS   Tambasco-Studart M, Titiz O, Raschle T, Forster G, Amrhein N, Fitzpatrick TB.
+  TITLE     Vitamin B6 biosynthesis in higher plants.
+  JOURNAL   Proc Natl Acad Sci U S A 102:13687-92 (2005)
+KO_PATHWAY  ko00750
+///

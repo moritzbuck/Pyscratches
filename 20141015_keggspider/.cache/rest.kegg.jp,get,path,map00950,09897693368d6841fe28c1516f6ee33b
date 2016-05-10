@@ -1,0 +1,62 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00950
+server: Apache
+date: Wed, 15 Oct 2014 14:57:51 GMT
+content-type: text/plain
+
+ENTRY       map00950                    Pathway
+NAME        Isoquinoline alkaloid biosynthesis
+DESCRIPTION Isoquinoline alkaloids are tyrosine-derived plant alkaloids with an isoquinoline skeleton. Among them benzylisoquinoline alkaloids form an important group with potent pharmacological activity, including analgesic compounds of morphine and codeine, and anti-infective agents of berberine, palmatine, and magnoflorine. Biosynthesis of isoquinoline alkaloids proceeds via decarboxylation of tyrosine or DOPA to yield dopamine, which together with 4-hydroxyphenylacetaldehyde, an aldehyde derived from tyrosine, is converted to reticuline, an important precursor of various benzylisoquinoline alkaloids.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00950  Isoquinoline alkaloid biosynthesis
+DBLINKS     GO: 0033075
+REFERENCE   PMID:10811648
+  AUTHORS   Morishige T, Tsujita T, Yamada Y, Sato F
+  TITLE     Molecular characterization of the S-adenosyl-L-methionine:3'-hydroxy-N-methylcoclaurine 4'-O-methyltransferase involved in isoquinoline alkaloid biosynthesis in Coptis japonica.
+  JOURNAL   J Biol Chem 275:23398-405 (2000)
+REFERENCE   PMID:12423366
+  AUTHORS   Morishige T, Dubouzet E, Choi KB, Yazaki K, Sato F
+  TITLE     Molecular cloning of columbamine O-methyltransferase from cultured Coptis japonica cells.
+  JOURNAL   Eur J Biochem 269:5659-67 (2002)
+REFERENCE   PMID:14675446
+  AUTHORS   Ounaroon A, Decker G, Schmidt J, Lottspeich F, Kutchan TM
+  TITLE     (R,S)-Reticuline 7-O-methyltransferase and (R,S)-norcoclaurine 6-O-methyltransferase of Papaver somniferum - cDNA cloning and characterization of methyl transfer enzymes of alkaloid biosynthesis in opium poppy.
+  JOURNAL   Plant J 36:808-19 (2003)
+REFERENCE   PMID:18230623
+  AUTHORS   Ikezawa N, Iwasa K, Sato F
+  TITLE     Molecular cloning and characterization of CYP80G2, a cytochrome P450 that catalyzes an intramolecular C-C phenol coupling of (S)-reticuline in magnoflorine biosynthesis, from cultured Coptis japonica cells.
+  JOURNAL   J Biol Chem 283:8810-21 (2008)
+REFERENCE   PMID:18476877
+  AUTHORS   Facchini PJ, De Luca V
+  TITLE     Opium poppy and Madagascar periwinkle: model non-model systems to investigate alkaloid biosynthesis in plants.
+  JOURNAL   Plant J 54:763-84 (2008)
+REFERENCE   PMID:18492807
+  AUTHORS   Minami H, Kim JS, Ikezawa N, Takemura T, Katayama T, Kumagai H, Sato F
+  TITLE     Microbial production of plant benzylisoquinoline alkaloids.
+  JOURNAL   Proc Natl Acad Sci U S A 105:7393-8 (2008)
+REFERENCE   
+  AUTHORS   Rueffer M, Bauer W, Zenk MH.
+  TITLE     The formation of corydaline and related alkaloids in Corydalis cava in vivo and in vitro.
+  JOURNAL   Can J Chem 72:170-175 (1994)
+REFERENCE   
+  AUTHORS   Sekine Y, Crevelling C, Bell M, Brossi A.
+  TITLE     Mammalian alkaloids: O-methylation of (+-)-norcoclaurine-1-carboxylic acid and related isoquinolines including (S)- and (R)-norcoclaurine with 14C-labeled S-adenosyl-L-methionine in presence of mammalian catechol O-methyltransferase.
+  JOURNAL   Helvetica Chimica Acta 73(2):426-432 (1990)
+REFERENCE   
+  AUTHORS   De-Eknamkul W, Tanahashi T, Zenk MH.
+  TITLE     Enzymic 10-hydroxylation and 10-O-methylation of dihydrosanguinarine in dihydrochelirubine formation by Eschscholtzia.
+  JOURNAL   Phytochemistry 31(8):2713-2717 (1992)
+REFERENCE   
+  AUTHORS   Kammerer L, De-Eknamkul W, Zenk MH.
+  TITLE     Enzymic 12-hydroxylation and 12-O-methylation of dihydrochelirubine in dihydromacarpine formation by Thalictrum bulgaricum.
+  JOURNAL   Phytochemistry 36(6):1409-1416 (1994)
+REFERENCE   
+  AUTHORS   Schumacher HM, Zenk MH.
+  TITLE     Partial purification and characterization of dihydrobenzophenanthridine oxidase from Eschscholtzia californica cell suspension cultures.
+  JOURNAL   Plant Cell Reports 7:43-46 (1988)
+REFERENCE   
+  AUTHORS   Rueffer M, Zenk MH.
+  TITLE     Enzymatic formation of protopines by a microsomal cytochrome P-450 system of Corydalis vaginans.
+  JOURNAL   Tetrahedron Letters 28(44):5307-5310 (1987)
+KO_PATHWAY  ko00950
+///

@@ -1,0 +1,82 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05321
+server: Apache
+date: Wed, 15 Oct 2014 15:09:35 GMT
+content-type: text/plain
+
+ENTRY       map05321                    Pathway
+NAME        Inflammatory bowel disease (IBD)
+DESCRIPTION Inflammatory bowel disease (IBD), which includes Crohn disease (CD) and ulcerative colitis (UC), is characterized by chronic inflammation of the gastrointestinal tract due to environmental and genetic factors, infectious microbes, and the dysregulated immune system. Although many environmental factors (for example, geographic locations, smoking, etc.) affect the development of IBD, the most crucial might be the luminal (external) environment of the epithelial cells. There are pathogens that are found in increasing frequency in IBD. The microbial components such as flagellin, peptidoglycan, and lipopolysaccharide are recognized by receptors such as toll-like receptors (TLRs) and nucleotide-binding oligomerization domain (NOD) proteins, and also by antigen-presenting cells (APCs) in genetically susceptible host. The TLR recognition triggers the activation of NF-kappaB, leading to an inflammatory response. APC-expressed gene NOD2 has been associated with Crohn disease. In case of mutations of NOD2, negative regulation of IL-12 production is reduced with the stimulation of muramyl dipeptide (MDP), leading to CD. In addition, the APC mediates the differentiation of naive T cells into effector T cells (Th1, Th17, Th2) and natural killer T (NKT) cells. Th1 and Th17 cells produce high levels of IFN-gamma and IL-17, -22, respectively, both of which promote CD. In contrast, Th2 cells produce IL-4, -5, -10, which together with IL-13 from NKT induce UC.
+CLASS       Human Diseases; Immune diseases
+PATHWAY_MAP map05321  Inflammatory bowel disease (IBD)
+DISEASE     H01227  Inflammatory bowel disease
+REFERENCE   PMID:20134493
+  AUTHORS   Melmed GY, Targan SR
+  TITLE     Future biologic targets for IBD: potentials and pitfalls.
+  JOURNAL   Nat Rev Gastroenterol Hepatol 7:110-7 (2010)
+REFERENCE   PMID:18200661
+  AUTHORS   Shih DQ, Targan SR
+  TITLE     Immunopathogenesis of inflammatory bowel disease.
+  JOURNAL   World J Gastroenterol 14:390-400 (2008)
+REFERENCE   PMID:17499605
+  AUTHORS   Baumgart DC, Carding SR
+  TITLE     Inflammatory bowel disease: cause and immunobiology.
+  JOURNAL   Lancet 369:1627-40 (2007)
+REFERENCE   PMID:16493424
+  AUTHORS   Strober W, Murray PJ, Kitani A, Watanabe T
+  TITLE     Signalling pathways and molecular interactions of NOD1 and NOD2.
+  JOURNAL   Nat Rev Immunol 6:9-20 (2006)
+REFERENCE   PMID:21487504
+  AUTHORS   Matricon J, Barnich N, Ardid D
+  TITLE     Immunopathogenesis of inflammatory bowel disease.
+  JOURNAL   Self Nonself 1:299-309 (2010)
+REFERENCE   PMID:12797537
+  AUTHORS   Agnello D, Lankford CS, Bream J, Morinobu A, Gadina M, O'Shea JJ, Frucht DM
+  TITLE     Cytokines and transcription factors that regulate T helper cell differentiation:  new players and new insights.
+  JOURNAL   J Clin Immunol 23:147-61 (2003)
+REFERENCE   PMID:10898785
+  AUTHORS   Glimcher LH, Murphy KM
+  TITLE     Lineage commitment in the immune system: the T helper lymphocyte grows up.
+  JOURNAL   Genes Dev 14:1693-711 (2000)
+REFERENCE   PMID:12042806
+  AUTHORS   Neurath MF, Finotto S, Glimcher LH
+  TITLE     The role of Th1/Th2 polarization in mucosal immunity.
+  JOURNAL   Nat Med 8:567-73 (2002)
+REFERENCE   PMID:12006974
+  AUTHORS   Afkarian M, Sedy JR, Yang J, Jacobson NG, Cereb N, Yang SY, Murphy TL, Murphy KM
+  TITLE     T-bet is a STAT1-induced regulator of IL-12R expression in naive CD4+ T cells.
+  JOURNAL   Nat Immunol 3:549-57 (2002)
+REFERENCE   PMID:18242222
+  AUTHORS   Sartor RB
+  TITLE     Microbial influences in inflammatory bowel diseases.
+  JOURNAL   Gastroenterology 134:577-94 (2008)
+REFERENCE   PMID:9759857
+  AUTHORS   Yoshimoto T, Takeda K, Tanaka T, Ohkusu K, Kashiwamura S, Okamura H, Akira S, Nakanishi K
+  TITLE     IL-12 up-regulates IL-18 receptor expression on T cells, Th1 cells, and B cells:  synergism with IL-18 for IFN-gamma production.
+  JOURNAL   J Immunol 161:3400-7 (1998)
+REFERENCE   PMID:23176791
+  AUTHORS   Hur SJ, Kang SH, Jung HS, Kim SC, Jeon HS, Kim IH, Lee JD
+  TITLE     Review of natural products actions on cytokines in inflammatory bowel disease.
+  JOURNAL   Nutr Res 32:801-16 (2012)
+REFERENCE   PMID:18563156
+  AUTHORS   Bettelli E, Korn T, Oukka M, Kuchroo VK
+  TITLE     Induction and effector functions of T(H)17 cells.
+  JOURNAL   Nature 453:1051-7 (2008)
+REFERENCE   PMID:18053739
+  AUTHORS   Ivanov II, Zhou L, Littman DR
+  TITLE     Transcriptional regulation of Th17 cell differentiation.
+  JOURNAL   Semin Immunol 19:409-17 (2007)
+REFERENCE   PMID:19322214
+  AUTHORS   Di Cesare A, Di Meglio P, Nestle FO
+  TITLE     The IL-23/Th17 axis in the immunopathogenesis of psoriasis.
+  JOURNAL   J Invest Dermatol 129:1339-50 (2009)
+REFERENCE   PMID:19381306
+  AUTHORS   Jetten AM
+  TITLE     Retinoid-related orphan receptors (RORs): critical roles in development, immunity, circadian rhythm, and cellular metabolism.
+  JOURNAL   Nucl Recept Signal 7:e003 (2009)
+REFERENCE   PMID:21681604
+  AUTHORS   Bene L, Falus A, Baffy N, Fulop AK
+  TITLE     Cellular and molecular mechanisms in the two major forms of inflammatory bowel disease.
+  JOURNAL   Pathol Oncol Res 17:463-72 (2011)
+KO_PATHWAY  ko05321
+///

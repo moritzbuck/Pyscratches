@@ -1,0 +1,78 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04662
+server: Apache
+date: Wed, 15 Oct 2014 15:08:57 GMT
+content-type: text/plain
+
+ENTRY       map04662                    Pathway
+NAME        B cell receptor signaling pathway
+DESCRIPTION B cells are an important component of adaptive immunity. They produce and secrete millions of different antibody molecules, each of which recognizes a different (foreign) antigen. The B cell receptor (BCR) is an integral membrane protein complex that is composed of two immunoglobulin (Ig) heavy chains, two Ig light chains and two heterodimers of Ig-alpha and Ig-beta. After BCR ligation by antigen, three main protein tyrosine kinases (PTKs) -the SRC-family kinase LYN, SYK and the TEC-family kinase BTK- are activated. Phosphatidylinositol 3-kinase (PI3K) and phospholipase C-gamma 2 (PLC-gamma 2) are important downstream effectors of BCR signalling. This signalling ultimately results in the expression of immediate early genes that further activate the expression of other genes involved in B cell proliferation, differentiation and Ig production as well as other processes.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04662  B cell receptor signaling pathway
+DISEASE     H00540  Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID)
+            H00645  Incontinentia pigmenti
+            H00882  Cocoon syndrome
+            H01387  Activated PI3K-delta syndrome (APDS)
+DBLINKS     GO: 0050853
+REFERENCE   PMID:12461567
+  AUTHORS   Niiro H, Clark EA.
+  TITLE     Regulation of B-cell fate by antigen-receptor signals.
+  JOURNAL   Nat Rev Immunol 2:945-56 (2002)
+REFERENCE   PMID:10358768
+  AUTHORS   Kurosaki T.
+  TITLE     Genetic analysis of B cell antigen receptor signaling.
+  JOURNAL   Annu Rev Immunol 17:555-92 (1999)
+REFERENCE   PMID:15886119
+  AUTHORS   Nitschke L.
+  TITLE     The role of CD22 and other inhibitory co-receptors in B-cell activation.
+  JOURNAL   Curr Opin Immunol 17:290-7 (2005)
+REFERENCE   PMID:15752555
+  AUTHORS   Morgan BP, Marchbank KJ, Longhi MP, Harris CL, Gallimore AM.
+  TITLE     Complement: central to innate immunity and bridging to adaptive responses.
+  JOURNAL   Immunol Lett 97:171-9 (2005)
+REFERENCE   PMID:12033741
+  AUTHORS   Kurosaki T.
+  TITLE     Regulation of B-cell signal transduction by adaptor proteins.
+  JOURNAL   Nat Rev Immunol 2:354-63 (2002)
+REFERENCE   PMID:15364057
+  AUTHORS   Nitschke L, Tsubata T.
+  TITLE     Molecular interactions regulate BCR signal inhibition by CD22 and CD72.
+  JOURNAL   Trends Immunol 25:543-50 (2004)
+REFERENCE   PMID:15771577
+  AUTHORS   Jumaa H, Hendriks RW, Reth M.
+  TITLE     B cell signaling and tumorigenesis.
+  JOURNAL   Annu Rev Immunol 23:415-45 (2005)
+REFERENCE   PMID:15886112
+  AUTHORS   Rickert RC.
+  TITLE     Regulation of B lymphocyte activation by complement C3 and the B cell coreceptor complex.
+  JOURNAL   Curr Opin Immunol 17:237-43 (2005)
+REFERENCE   PMID:15457440
+  AUTHORS   Zouali M, Sarmay G
+  TITLE     B lymphocyte signaling pathways in systemic autoimmunity: implications for pathogenesis and treatment.
+  JOURNAL   Arthritis Rheum 50:2730-41 (2004)
+REFERENCE   PMID:15322145
+  AUTHORS   Chiles TC.
+  TITLE     Regulation and function of cyclin D2 in B lymphocyte subsets.
+  JOURNAL   J Immunol 173:2901-7 (2004)
+REFERENCE   PMID:15626471
+  AUTHORS   Allam A, Marshall AJ
+  TITLE     Role of the adaptor proteins Bam32, TAPP1 and TAPP2 in lymphocyte activation.
+  JOURNAL   Immunol Lett 97:7-17 (2005)
+REFERENCE   PMID:12119152
+  AUTHORS   Gold MR
+  TITLE     To make antibodies or not: signaling by the B-cell antigen receptor.
+  JOURNAL   Trends Pharmacol Sci 23:316-24 (2002)
+REFERENCE   PMID:9697839
+  AUTHORS   Fu C, Turck CW, Kurosaki T, Chan AC
+  TITLE     BLNK: a central linker protein in B cell activation.
+  JOURNAL   Immunity 9:93-103 (1998)
+REFERENCE   PMID:11163197
+  AUTHORS   Okada T, Maeda A, Iwamatsu A, Gotoh K, Kurosaki T
+  TITLE     BCAP: the tyrosine kinase substrate that connects B cell receptor to phosphoinositide 3-kinase activation.
+  JOURNAL   Immunity 13:817-27 (2000)
+REFERENCE   PMID:18086859
+  AUTHORS   Shinohara H, Maeda S, Watarai H, Kurosaki T
+  TITLE     IkappaB kinase beta-induced phosphorylation of CARMA1 contributes to CARMA1 Bcl10 MALT1 complex formation in B cells.
+  JOURNAL   J Exp Med 204:3285-93 (2007)
+KO_PATHWAY  ko04662
+///

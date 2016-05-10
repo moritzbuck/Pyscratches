@@ -1,0 +1,61 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map03013
+server: Apache
+date: Wed, 15 Oct 2014 15:08:28 GMT
+content-type: text/plain
+
+ENTRY       map03013                    Pathway
+NAME        RNA transport
+DESCRIPTION RNA transport from the nucleus to the cytoplasm is  fundamental for gene expression. The different RNA species that are produced in the nucleus are exported through the nuclear pore complexes (NPCs) via mobile export receptors. The majority of RNAs, such as tRNAs, rRNAs, and U snRNAs, are transported by specific export receptors, which belong to the karyopherin-beta family proteins. A feature of karyopherins is their regulation by the small GTPase Ran. However, general mRNA export is mechanistically different. Nuclear export of mRNAs is functionally coupled to different steps in gene expression processes, such as transcription, splicing, 3'-end formation and even translation.
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP map03013  RNA transport
+MODULE      M00399  Cap binding complex [PATH:map03013]
+            M00405  THC complex [PATH:map03013]
+            M00406  TREX complex [PATH:map03013]
+            M00426  Survival motor neuron (SMN) complex [PATH:map03013]
+            M00427  Nuclear pore complex [PATH:map03013]
+            M00428  eIF4F complex [PATH:map03013]
+            M00430  Exon junction complex (EJC) [PATH:map03013]
+DISEASE     H00455  Spinal muscular atrophy (SMA)
+            H00465  Fragile X Syndrome
+            H00869  Leukoencephalopathy with vanishing white matter
+            H01177  Infantile bilateral striatal necrosis (IBSN)
+DBLINKS     GO: 0050658
+REFERENCE   PMID:15519698
+  AUTHORS   Rodriguez MS, Dargemont C, Stutz F
+  TITLE     Nuclear export of RNA.
+  JOURNAL   Biol Cell 96:639-55 (2004)
+REFERENCE   PMID:20733056
+  AUTHORS   Suzuki T, Izumi H, Ohno M
+  TITLE     Cajal body surveillance of U snRNA export complex assembly.
+  JOURNAL   J Cell Biol 190:603-12 (2010)
+REFERENCE   PMID:18313922
+  AUTHORS   Palancade B, Doye V
+  TITLE     Sumoylating and desumoylating enzymes at nuclear pores: underpinning their unexpected duties?
+  JOURNAL   Trends Cell Biol 18:174-83 (2008)
+REFERENCE   PMID:17401408
+  AUTHORS   Pellizzoni L
+  TITLE     Chaperoning ribonucleoprotein biogenesis in health and disease.
+  JOURNAL   EMBO Rep 8:340-5 (2007)
+REFERENCE   PMID:10872469
+  AUTHORS   Gingras AC, Raught B, Sonenberg N
+  TITLE     eIF4 initiation factors: effectors of mRNA recruitment to ribosomes and regulators of translation.
+  JOURNAL   Annu Rev Biochem 68:913-63 (1999)
+REFERENCE   PMID:11018020
+  AUTHORS   Asano K, Clayton J, Shalev A, Hinnebusch AG
+  TITLE     A multifactor complex of eukaryotic initiation factors, eIF1, eIF2, eIF3, eIF5, and initiator tRNA(Met) is an important translation initiation intermediate in vivo.
+  JOURNAL   Genes Dev 14:2534-46 (2000)
+REFERENCE   PMID:9548260
+  AUTHORS   Craig AW, Haghighat A, Yu AT, Sonenberg N
+  TITLE     Interaction of polyadenylate-binding protein with the eIF4G homologue PAIP enhances translation.
+  JOURNAL   Nature 392:520-3 (1998)
+REFERENCE   PMID:15901496
+  AUTHORS   Reed R, Cheng H
+  TITLE     TREX, SR proteins and export of mRNA.
+  JOURNAL   Curr Opin Cell Biol 17:269-73 (2005)
+REFERENCE   PMID:16314458
+  AUTHORS   Tange TO, Shibuya T, Jurica MS, Moore MJ
+  TITLE     Biochemical analysis of the EJC reveals two new factors and a stable tetrameric protein core.
+  JOURNAL   RNA 11:1869-83 (2005)
+KO_PATHWAY  ko03013
+///

@@ -1,0 +1,94 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04978
+server: Apache
+date: Wed, 15 Oct 2014 14:58:54 GMT
+content-type: text/plain
+
+ENTRY       map04978                    Pathway
+NAME        Mineral absorption
+DESCRIPTION Minerals are one of the five fundamental groups of nutrients needed to sustain life. Of the minerals, calcium plays innumerable roles in our bodies, serving as a main component of bone as well as an intracellular messenger in muscle contraction/relaxation, neural networks, the immune system, and endocrine/exocrine cells. Iron, copper, and other metals are required for redox reactions (as cofactors) and for oxygen transport and binding (in hemoglobin and myoglobin). Many enzymes require specific metal atoms to complete their catalytic functions. Animal tissues need moderate quantities of some elements (Ca, P, K, Na, Mg, S, and Cl) and trace amounts of others (Mn, Fe, I, Co, Cr, Cu, Zn, and Se). The minerals are absorbed by either passive or active transport systems through the intestinal mucosa, often using specialized transport proteins, such as ferritin for Fe3+ and vitamin D-induced protein for calcium.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP map04978  Mineral absorption
+DISEASE     H00784  Localized autosomal recessive hypotrichosis
+            H00808  Idiopathic generalized epilepsies (IGEs)
+            H00833  Neurodegeneration with brain iron accumulation (NBIA)
+            H00843  Hartnup disorder
+            H00856  Distal hereditary motor neuropathies (dHMN)
+            H00905  Iminoglycinuria
+            H01143  Vitamin D-dependent rickets
+            H01145  Atransferrinemia
+            H01174  Congenital diarrhea
+            H01196  Hypochromic microcytic anemia
+            H01210  Hypomagnesemia
+            H01252  Hereditary folate malabsorption (HFM)
+            H01304  Hyperglycinuria
+REFERENCE   PMID:18277073
+  AUTHORS   Perez AV, Picotto G, Carpentieri AR, Rivoira MA, Peralta Lopez ME, Tolosa de Talamoni NG
+  TITLE     Minireview on regulation of intestinal calcium absorption. Emphasis on molecular  mechanisms of transcellular pathway.
+  JOURNAL   Digestion 77:22-34 (2008)
+REFERENCE   PMID:18598134
+  AUTHORS   Khanal RC, Nemere I
+  TITLE     Regulation of intestinal calcium transport.
+  JOURNAL   Annu Rev Nutr 28:179-96 (2008)
+REFERENCE   PMID:15618484
+  AUTHORS   Hoenderop JG, Nilius B, Bindels RJ
+  TITLE     Calcium absorption across epithelia.
+  JOURNAL   Physiol Rev 85:373-422 (2005)
+REFERENCE   PMID:12520535
+  AUTHORS   Bouillon R, Van Cromphaut S, Carmeliet G
+  TITLE     Intestinal calcium absorption: Molecular vitamin D mediated mechanisms.
+  JOURNAL   J Cell Biochem 88:332-9 (2003)
+REFERENCE   PMID:17943492
+  AUTHORS   Chua AC, Graham RM, Trinder D, Olynyk JK
+  TITLE     The regulation of cellular iron metabolism.
+  JOURNAL   Crit Rev Clin Lab Sci 44:413-59 (2007)
+REFERENCE   PMID:18636652
+  AUTHORS   West AR, Oates PS
+  TITLE     Mechanisms of heme iron absorption: current questions and controversies.
+  JOURNAL   World J Gastroenterol 14:4101-10 (2008)
+REFERENCE   PMID:17194590
+  AUTHORS   Dunn LL, Rahmanto YS, Richardson DR
+  TITLE     Iron uptake and metabolism in the new millennium.
+  JOURNAL   Trends Cell Biol 17:93-100 (2007)
+REFERENCE   PMID:16565477
+  AUTHORS   Donovan A, Roy CN, Andrews NC
+  TITLE     The ins and outs of iron homeostasis.
+  JOURNAL   Physiology (Bethesda) 21:115-23 (2006)
+REFERENCE   PMID:18779306
+  AUTHORS   Lonnerdal B
+  TITLE     Intestinal regulation of copper homeostasis: a developmental perspective.
+  JOURNAL   Am J Clin Nutr 88:846S-50S (2008)
+REFERENCE   PMID:18779302
+  AUTHORS   Prohaska JR
+  TITLE     Role of copper transporters in copper homeostasis.
+  JOURNAL   Am J Clin Nutr 88:826S-9S (2008)
+REFERENCE   PMID:20120011
+  AUTHORS   Wang X, Zhou B
+  TITLE     Dietary zinc absorption: A play of Zips and ZnTs in the gut.
+  JOURNAL   IUBMB Life 62:176-82 (2010)
+REFERENCE   PMID:19400752
+  AUTHORS   Lichten LA, Cousins RJ
+  TITLE     Mammalian zinc transporters: nutritional and physiologic regulation.
+  JOURNAL   Annu Rev Nutr 29:153-76 (2009)
+REFERENCE   PMID:18301276
+  AUTHORS   Quamme GA
+  TITLE     Recent developments in intestinal magnesium absorption.
+  JOURNAL   Curr Opin Gastroenterol 24:230-5 (2008)
+REFERENCE   PMID:19448074
+  AUTHORS   Donowitz M, Mohan S, Zhu CX, Chen TE, Lin R, Cha B, Zachos NC, Murtazina R, Sarker R, Li X
+  TITLE     NHE3 regulatory complexes.
+  JOURNAL   J Exp Biol 212:1638-46 (2009)
+REFERENCE   PMID:21054167
+  AUTHORS   Kato A, Romero MF
+  TITLE     Regulation of Electroneutral NaCl Absorption by the Small Intestine.
+  JOURNAL   Annu Rev Physiol 73:261-81 (2011)
+REFERENCE   PMID:19729436
+  AUTHORS   Sabbagh Y, O'Brien SP, Song W, Boulanger JH, Stockmann A, Arbeeny C, Schiavi SC
+  TITLE     Intestinal npt2b plays a major role in phosphate absorption and homeostasis.
+  JOURNAL   J Am Soc Nephrol 20:2348-58 (2009)
+REFERENCE   PMID:16431934
+  AUTHORS   Marks J, Srai SK, Biber J, Murer H, Unwin RJ, Debnam ES
+  TITLE     Intestinal phosphate absorption and the effect of vitamin D: a comparison of rats with mice.
+  JOURNAL   Exp Physiol 91:531-7 (2006)
+KO_PATHWAY  ko04978
+///

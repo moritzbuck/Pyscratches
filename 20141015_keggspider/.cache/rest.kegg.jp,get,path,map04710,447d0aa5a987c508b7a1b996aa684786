@@ -1,0 +1,68 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04710
+server: Apache
+date: Wed, 15 Oct 2014 14:58:37 GMT
+content-type: text/plain
+
+ENTRY       map04710                    Pathway
+NAME        Circadian rhythm
+DESCRIPTION Circadian rhythm is an internal biological clock, which enables to sustain an approximately 24-hour rhythm in the absence of environmental cues. In mammals, the circadian clock mechanism consists of cell-autonomous transcription-translation feedback loops that drive rhythmic, 24-hour expression patterns of core clock components. The first negative feedback loop is a rhythmic transcription of period genes (PER1, PER2, and PER3) and chryptochrome genes (CRY1 and CRY2). PER and CRY proteins form a heterodimer, which acts on the CLOCK/BMAL1 heterodimer to repress its own transcription. PER and CRY proteins are phosphorylated by casein kinase epsilon (CKIepsilon), which leads to degradation and restarting of the cycle. The second loop is a positive feedback loop driven by the CLOCK/BMAL1 heterodimer, which initiates transcription of target genes containing E-box cis-regulatory enhancer sequences.
+CLASS       Organismal Systems; Environmental adaptation
+PATHWAY_MAP map04710  Circadian rhythm
+MODULE      M00380  SCF-BTRC complex [PATH:map04710]
+DISEASE     H00688  Familial advanced sleep phase syndrome
+DBLINKS     GO: 0007623
+REFERENCE   PMID:11165242
+  AUTHORS   Camacho F, Cilio M, Guo Y, Virshup DM, Patel K, Khorkova O, Styren S, Morse B, Yao Z, Keesler GA.
+  TITLE     Human casein kinase Idelta phosphorylation of human circadian clock proteins period 1 and 2.
+  JOURNAL   FEBS Lett 489:159-65 (2001)
+REFERENCE   PMID:12015613
+  AUTHORS   Panda S, Hogenesch JB, Kay SA.
+  TITLE     Circadian rhythms from flies to human.
+  JOURNAL   Nature 417:329-35 (2002)
+REFERENCE   PMID:11687489
+  AUTHORS   Harmer SL, Panda S, Kay SA.
+  TITLE     Molecular bases of circadian rhythms.
+  JOURNAL   Annu Rev Cell Dev Biol 17:215-53 (2001)
+REFERENCE   PMID:11533719
+  AUTHORS   Young MW, Kay SA.
+  TITLE     Time zones: a comparative genetics of circadian clocks.
+  JOURNAL   Nat Rev Genet 2:702-15 (2001)
+REFERENCE   PMID:12397359
+  AUTHORS   Honma S, Kawamoto T, Takagi Y, Fujimoto K, Sato F, Noshiro M, Kato Y, Honma K.
+  TITLE     Dec1 and Dec2 are regulators of the mammalian molecular clock.
+  JOURNAL   Nature 419:841-4 (2002)
+REFERENCE   PMID:12150932
+  AUTHORS   Preitner N, Damiola F, Lopez-Molina L, Zakany J, Duboule D, Albrecht U, Schibler U.
+  TITLE     The orphan nuclear receptor REV-ERBalpha controls circadian transcription within the positive limb of the mammalian circadian oscillator.
+  JOURNAL   Cell 110:251-60 (2002)
+REFERENCE   PMID:12724733
+  AUTHORS   Fu L, Lee CC.
+  TITLE     The circadian clock: pacemaker and tumour suppressor.
+  JOURNAL   Nat Rev Cancer 3:350-61 (2003)
+REFERENCE   PMID:12507418
+  AUTHORS   Schibler U, Sassone-Corsi P.
+  TITLE     A web of circadian pacemakers.
+  JOURNAL   Cell 111:919-22 (2002)
+REFERENCE   PMID:10864977
+  AUTHORS   Hogenesch JB, Gu YZ, Moran SM, Shimomura K, Radcliffe LA, Takahashi JS, Bradfield CA.
+  TITLE     The basic helix-loop-helix-PAS protein MOP9 is a brain-specific heterodimeric partner of circadian and hypoxia factors.
+  JOURNAL   J Neurosci 20:RC83 (2000)
+REFERENCE   PMID:15917222
+  AUTHORS   Shirogane T, Jin J, Ang XL, Harper JW
+  TITLE     SCFbeta-TRCP controls clock-dependent transcription via casein kinase 1-dependent degradation of the mammalian period-1 (Per1) protein.
+  JOURNAL   J Biol Chem 280:26863-72 (2005)
+REFERENCE   PMID:17463251
+  AUTHORS   Busino L, Bassermann F, Maiolica A, Lee C, Nolan PM, Godinho SI, Draetta GF, Pagano M
+  TITLE     SCFFbxl3 controls the oscillation of the circadian clock by directing the degradation of cryptochrome proteins.
+  JOURNAL   Science 316:900-4 (2007)
+REFERENCE   PMID:18802415
+  AUTHORS   Takahashi JS, Hong HK, Ko CH, McDearmon EL
+  TITLE     The genetics of mammalian circadian order and disorder: implications for physiology and disease.
+  JOURNAL   Nat Rev Genet 9:764-75 (2008)
+REFERENCE   PMID:17586087
+  AUTHORS   Mertens I, Husson SJ, Janssen T, Lindemans M, Schoofs L
+  TITLE     PACAP and PDF signaling in the regulation of mammalian and insect circadian rhythms.
+  JOURNAL   Peptides 28:1775-83 (2007)
+KO_PATHWAY  ko04710
+///

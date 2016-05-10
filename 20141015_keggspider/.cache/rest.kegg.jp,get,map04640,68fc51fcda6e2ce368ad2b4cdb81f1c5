@@ -1,0 +1,63 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04640
+server: Apache
+date: Wed, 15 Oct 2014 15:08:56 GMT
+content-type: text/plain
+
+ENTRY       map04640                    Pathway
+NAME        Hematopoietic cell lineage
+DESCRIPTION Blood-cell development progresses from a hematopoietic stem cell (HSC), which can undergo either self-renewal or differentiation into a multilineage committed progenitor cell: a common lymphoid progenitor (CLP) or a common myeloid progenitor (CMP). A CLP gives rise to the lymphoid lineage of white blood cells or leukocytes-the natural killer (NK) cells and the T and B lymphocytes. A CMP gives rise to the myeloid lineage, which comprises the rest of the leukocytes, the erythrocytes (red blood cells), and the megakaryocytes that produce platelets important in blood clotting. Cells undergoing these differentiation process express a stage- and lineage-specific set of surface markers. Therefore cellular stages are identified by the specific expression patterns of these genes.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04640  Hematopoietic cell lineage
+DISEASE     H00219  Hemophilia
+            H00224  Bernard-Soulier syndrome
+REFERENCE   
+  AUTHORS   Janeway CA Jr, Travers P, Walport M, Shlomchik MJ
+  TITLE     Immunobiology - International editon: The immune system in health and disease
+  JOURNAL   Harcourt Publishers Ltd, a subsidiary of Harcourt International Ltd (2001)
+REFERENCE   (Japanese)
+  AUTHORS   Abe T
+  TITLE     [Atlas of malignancies in hematopoietic organ - Morphology, immunology, chromosome and gene] (Japanese)
+  JOURNAL   Nihonijishinhousya (2000)
+REFERENCE   PMID:15771582
+  AUTHORS   Rothenberg EV, Taghon T.
+  TITLE     Molecular genetics of T cell development.
+  JOURNAL   Annu Rev Immunol 23:601-49 (2005)
+REFERENCE   PMID:12415312
+  AUTHORS   Ceredig R, Rolink T.
+  TITLE     A positive look at double-negative thymocytes.
+  JOURNAL   Nat Rev Immunol 2:888-97 (2002)
+REFERENCE   PMID:15156179
+  AUTHORS   de Bruijn MF, Speck NA.
+  TITLE     Core-binding factors in hematopoiesis and immune function.
+  JOURNAL   Oncogene 23:4238-48 (2004)
+REFERENCE   PMID:14985712
+  AUTHORS   Radtke F, Wilson A, Mancini SJ, MacDonald HR.
+  TITLE     Notch regulation of lymphocyte development and function.
+  JOURNAL   Nat Immunol 5:247-53 (2004)
+REFERENCE   PMID:12360214
+  AUTHORS   Spits H.
+  TITLE     Development of alphabeta T cells in the human thymus.
+  JOURNAL   Nat Rev Immunol 2:760-72 (2002)
+REFERENCE   PMID:9927518
+  AUTHORS   Di Santo JP, Aifantis I, Rosmaraki E, Garcia C, Feinberg J, Fehling HJ, Fischer A, von Boehmer H, Rocha B.
+  TITLE     The common cytokine receptor gamma chain and the pre-T cell receptor provide independent but critically overlapping signals in early alpha/beta T cell development.
+  JOURNAL   J Exp Med 189:563-74 (1999)
+REFERENCE   PMID:11905810
+  AUTHORS   Mak TW, Penninger JM, Ohashi PS.
+  TITLE     Knockout mice: a paradigm shift in modern immunology.
+  JOURNAL   Nat Rev Immunol 1:11-9 (2001)
+REFERENCE   PMID:15738953
+  AUTHORS   Shapiro-Shelef M, Calame K.
+  TITLE     Regulation of plasma-cell development.
+  JOURNAL   Nat Rev Immunol 5:230-42 (2005)
+REFERENCE   PMID:14670296
+  AUTHORS   Maillard I, Adler SH, Pear WS.
+  TITLE     Notch and the immune system.
+  JOURNAL   Immunity 19:781-91 (2003)
+REFERENCE   PMID:15629410
+  AUTHORS   Alpdogan O, van den Brink MR.
+  TITLE     IL-7 and IL-15: therapeutic cytokines for immunodeficiency.
+  JOURNAL   Trends Immunol 26:56-64 (2005)
+KO_PATHWAY  ko04640
+///

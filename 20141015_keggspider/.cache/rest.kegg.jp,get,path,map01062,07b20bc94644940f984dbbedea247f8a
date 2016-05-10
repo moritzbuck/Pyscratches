@@ -1,0 +1,11 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01062
+server: Apache
+date: Wed, 15 Oct 2014 14:57:58 GMT
+content-type: text/plain
+
+ENTRY       map01062                    Pathway
+NAME        Biosynthesis of terpenoids and steroids
+PATHWAY_MAP map01062  Biosynthesis of terpenoids and steroids
+KO_PATHWAY  ko01062
+///

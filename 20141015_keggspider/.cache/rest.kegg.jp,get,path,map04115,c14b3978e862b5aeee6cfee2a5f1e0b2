@@ -1,0 +1,62 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04115
+server: Apache
+date: Wed, 15 Oct 2014 14:58:19 GMT
+content-type: text/plain
+
+ENTRY       map04115                    Pathway
+NAME        p53 signaling pathway
+DESCRIPTION p53 activation is induced by a number of stress signals, including DNA damage, oxidative stress and activated oncogenes. The p53 protein is employed as a transcriptional activator of p53-regulated genes. This results in three major outputs; cell cycle arrest, cellular senescence or apoptosis. Other p53-regulated gene functions communicate with adjacent cells, repair the damaged DNA or set up positive and negative feedback loops that enhance or attenuate the functions of the p53 protein and integrate these stress responses with other signal transduction pathways.
+CLASS       Cellular Processes; Cell growth and death
+PATHWAY_MAP map04115  p53 signaling pathway
+DISEASE     H00409  Type II diabetes mellitus
+            H00848  Ataxia with ocular apraxia (AOA)
+            H00881  Li-Fraumeni syndrome
+            H00896  Lymphangioleiomyomatosis (LAM)
+            H00915  Tuberous sclerosis complex (TSC)
+            H00992  Seckel syndrome
+            H01007  Choroid plexus papilloma
+            H01106  Plasminogen activator inhibitor type 1 (PAI-1) deficiency
+            H01195  VACTERL/VATER association
+REFERENCE   PMID:16557269
+  AUTHORS   Levine AJ, Hu W, Feng Z.
+  TITLE     The P53 pathway: what questions remain to be explored?
+  JOURNAL   Cell Death Differ 13:1027-36 (2006)
+REFERENCE   PMID:15838523
+  AUTHORS   Harris SL, Levine AJ.
+  TITLE     The p53 pathway: positive and negative feedback loops.
+  JOURNAL   Oncogene 24:2899-908 (2005)
+REFERENCE   PMID:11747320
+  AUTHORS   Balint E E, Vousden KH.
+  TITLE     Activation and activities of the p53 tumour suppressor protein.
+  JOURNAL   Br J Cancer 85:1813-23 (2001)
+REFERENCE   PMID:11313928
+  AUTHORS   Taylor WR, Stark GR.
+  TITLE     Regulation of the G2/M transition by p53.
+  JOURNAL   Oncogene 20:1803-15 (2001)
+REFERENCE   PMID:15116721
+  AUTHORS   Hofseth LJ, Hussain SP, Harris CC.
+  TITLE     p53: 25 years after its discovery.
+  JOURNAL   Trends Pharmacol Sci 25:177-81 (2004)
+REFERENCE   PMID:12505356
+  AUTHORS   Pietenpol JA, Stewart ZA.
+  TITLE     Cell cycle checkpoint signaling: cell cycle arrest versus apoptosis.
+  JOURNAL   Toxicology 181-182:475-81 (2002)
+REFERENCE   PMID:10714958
+  AUTHORS   Tokino T, Nakamura Y.
+  TITLE     The role of p53-target genes in human cancer.
+  JOURNAL   Crit Rev Oncol Hematol 33:1-6 (2000)
+REFERENCE   PMID:16697662
+  AUTHORS   Hermeking H, Benzinger A.
+  TITLE     14-3-3 proteins in cell cycle regulation.
+  JOURNAL   Semin Cancer Biol 16:183-92 (2006)
+REFERENCE   PMID:16915296
+  AUTHORS   Sherr CJ.
+  TITLE     Divorcing ARF and p53: an unsettled case.
+  JOURNAL   Nat Rev Cancer 6:663-73 (2006)
+REFERENCE   PMID:17409411
+  AUTHORS   Feng Z, Hu W, de Stanchina E, Teresky AK, Jin S, Lowe S, Levine AJ.
+  TITLE     The regulation of AMPK beta1, TSC2, and PTEN expression by p53: stress, cell and tissue specificity, and the role of these gene products in modulating the IGF-1-AKT-mTOR pathways.
+  JOURNAL   Cancer Res 67:3043-53 (2007)
+KO_PATHWAY  ko04115
+///

@@ -1,0 +1,32 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map01053
+server: Apache
+date: Wed, 15 Oct 2014 15:08:18 GMT
+content-type: text/plain
+
+ENTRY       map01053                    Pathway
+NAME        Biosynthesis of siderophore group nonribosomal peptides
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map01053  Biosynthesis of siderophore group nonribosomal peptides
+REFERENCE   PMID:12040125
+  AUTHORS   Crosa JH, Walsh CT.
+  TITLE     Genetics and assembly line enzymology of siderophore biosynthesis in bacteria.
+  JOURNAL   Microbiol Mol Biol Rev 66:223-49 (2002)
+REFERENCE   PMID:9818149
+  AUTHORS   Gehring AM, DeMoll E, Fetherston JD, Mori I, Mayhew GF, Blattner FR, Walsh CT, Perry RD.
+  TITLE     Iron acquisition in plague: modular logic in enzymatic biogenesis of yersiniabactin by Yersinia pestis.
+  JOURNAL   Chem Biol 5:573-86 (1998)
+REFERENCE   PMID:11029592
+  AUTHORS   Silakowski B, Kunze B, Nordsiek G, Blocker H, Hofle G, Muller R.
+  TITLE     The myxochelin iron transport regulon of the myxobacterium Stigmatella aurantiaca Sg a15.
+  JOURNAL   Eur J Biochem 267:6476-85 (2000)
+REFERENCE   PMID:11112537
+  AUTHORS   Keating TA, Marshall CG, Walsh CT.
+  TITLE     Vibriobactin biosynthesis in Vibrio cholerae: VibH is an amide synthase homologous to nonribosomal peptide synthetase condensation domains.
+  JOURNAL   Biochemistry 39:15513-21 (2000)
+REFERENCE   PMID:10692387
+  AUTHORS   Hantash FM, Earhart CF.
+  TITLE     Membrane association of the Escherichia coli enterobactin synthase proteins EntB/G, EntE, and EntF.
+  JOURNAL   J Bacteriol 182:1768-73 (2000)
+KO_PATHWAY  ko01053
+///

@@ -1,0 +1,43 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map03040
+server: Apache
+date: Wed, 15 Oct 2014 15:08:30 GMT
+content-type: text/plain
+
+ENTRY       map03040                    Pathway
+NAME        Spliceosome
+DESCRIPTION After transcription, eukaryotic mRNA precursors contain protein-coding exons and noncoding introns. In the following splicing, introns are excised and exons are joined by a macromolecular complex, the spliceosome. The standard spliceosome is made up of five small nuclear ribonucleoproteins (snRNPs), U1, U2, U4, U5, and U6 snRNPs, and several spliceosome-associated proteins (SAPs). Spliceosomes are not a simple stable complex, but a dynamic family of particles that assemble on the mRNA precursor and help fold it into a conformation that allows transesterification to proceed. Various spliceosome forms (e.g. A-, B- and C-complexes) have been identified.
+CLASS       Genetic Information Processing; Transcription
+PATHWAY_MAP map03040  Spliceosome
+MODULE      M00351  Spliceosome, U1-snRNP [PATH:map03040]
+            M00352  Spliceosome, U2-snRNP [PATH:map03040]
+            M00353  Spliceosome, Prp19/CDC5L complex [PATH:map03040]
+            M00354  Spliceosome, U4/U6.U5 tri-snRNP [PATH:map03040]
+            M00355  Spliceosome, 35S U5-snRNP [PATH:map03040]
+            M00396  Lsm 2-8 complex [PATH:map03040]
+            M00398  Sm core complex [PATH:map03040]
+            M00399  Cap binding complex [PATH:map03040]
+            M00405  THC complex [PATH:map03040]
+            M00406  TREX complex [PATH:map03040]
+            M00430  Exon junction complex (EJC) [PATH:map03040]
+DISEASE     H00527  Retinitis pigmentosa (RP)
+            H01376  Acrofacial dysostosis
+DBLINKS     GO: 0005681
+REFERENCE   PMID:19239890
+  AUTHORS   Wahl MC, Will CL, Luhrmann R
+  TITLE     The spliceosome: design principles of a dynamic RNP machine.
+  JOURNAL   Cell 136:701-18 (2009)
+REFERENCE   PMID:10978320
+  AUTHORS   Morris DP, Greenleaf AL
+  TITLE     The splicing factor, Prp40, binds the phosphorylated carboxyl-terminal domain of RNA polymerase II.
+  JOURNAL   J Biol Chem 275:39935-43 (2000)
+REFERENCE   PMID:17537823
+  AUTHORS   Chen YI, Moore RE, Ge HY, Young MK, Lee TD, Stevens SW
+  TITLE     Proteomic analysis of in vivo-assembled pre-mRNA splicing complexes expands the catalog of participating factors.
+  JOURNAL   Nucleic Acids Res 35:3928-44 (2007)
+REFERENCE   PMID:19733268
+  AUTHORS   Ritchie DB, Schellenberg MJ, MacMillan AM
+  TITLE     Spliceosome structure: piece by piece.
+  JOURNAL   Biochim Biophys Acta 1789:624-33 (2009)
+KO_PATHWAY  ko03040
+///

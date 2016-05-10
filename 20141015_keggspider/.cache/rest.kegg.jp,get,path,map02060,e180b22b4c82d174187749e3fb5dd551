@@ -1,0 +1,79 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map02060
+server: Apache
+date: Wed, 15 Oct 2014 14:58:05 GMT
+content-type: text/plain
+
+ENTRY       map02060                    Pathway
+NAME        Phosphotransferase system (PTS)
+DESCRIPTION The phosphoenolpyruvate (PEP)-dependent phosphotransferase system (PTS) is a major mechanism used by bacteria for uptake of carbohydrates, particularly hexoses, hexitols, and disaccharides, where the source of energy is from PEP. The PTS consists of two general components, enzyme I (EI) and histidine phosphocarrier protein (HPr), and of membrane-bound sugar specific permeases (enzymes II). Each enzyme II (EII) complex consists of one or two hydrophobic integral membrane domains (domains C and D) and two hydrophilic domains (domains A and B). EII complexes may exist as distinct proteins or as a single multidomain protein. The PTS catalyzes the uptake of carbohydrates and their conversion into their respective phosphoesters during transport. There are four successive phosphoryl transfers in the PTS. Initial autophosphorylation of EI, using PEP as a substrate, is followed by transfer of the phosphoryl group from EI to HPr. EIIA catalyzes the self-phosphoryl transfer from HPr after which the phosphoryl group is transferred to histidine or cysteine residues of EIIB. The sugar is transported through the membrane-bound EIIC and is phosphorylated by the appropriate sugar-specific EIIB.
+CLASS       Environmental Information Processing; Membrane transport
+PATHWAY_MAP map02060  Phosphotransferase system (PTS)
+MODULE      M00265  PTS system, glucose-specific II component [PATH:map02060]
+            M00266  PTS system, maltose and glucose-specific II component [PATH:map02060]
+            M00267  PTS system, N-acetylglucosamine-specific II component [PATH:map02060]
+            M00268  PTS system, arbutin-like II component [PATH:map02060]
+            M00269  PTS system, sucrose-specific II component [PATH:map02060]
+            M00270  PTS system, trehalose-specific II component [PATH:map02060]
+            M00271  PTS system, beta-glucosides-specific II component [PATH:map02060]
+            M00272  PTS system, arbutin-, cellobiose-, and salicin-specific II component [PATH:map02060]
+            M00273  PTS system, fructose-specific II component [PATH:map02060]
+            M00274  PTS system, mannitol-specific II component [PATH:map02060]
+            M00275  PTS system, cellobiose-specific II component [PATH:map02060]
+            M00276  PTS system, mannose-specific II component [PATH:map02060]
+            M00277  PTS system, N-acetylgalactosamine-specific II component [PATH:map02060]
+            M00278  PTS system, sorbose-specific II component [PATH:map02060]
+            M00279  PTS system, galactitol-specific II component [PATH:map02060]
+            M00280  PTS system, glucitol/sorbitol-specific II component [PATH:map02060]
+            M00281  PTS system, lactose-specific II component [PATH:map02060]
+            M00282  PTS system, D-glucosamine-specific II component [PATH:map02060]
+            M00283  PTS system, ascorbate-specific II component [PATH:map02060]
+            M00287  PTS system, galactosamine-specific II component [PATH:map02060]
+            M00303  PTS system, N-acetylmuramic acid-specific II component [PATH:map02060]
+            M00304  PTS system, fructose-specific II component [PATH:map02060]
+            M00305  PTS system, 2-O-A-mannosyl-D-glycerate-specific II component [PATH:map02060]
+            M00610  PTS system, D-glucosaminate-specific II component [PATH:map02060]
+DBLINKS     GO: 0009401
+            TC: 4.A
+REFERENCE   PMID:11361076
+  AUTHORS   Darbon E, Galinier A, Le Coq D, Deutscher J.
+  TITLE     Phosphotransfer functions mutated Bacillus subtilis HPr-like protein Crh carrying a histidine in the active site.
+  JOURNAL   J Mol Microbiol Biotechnol 3:439-44 (2001)
+REFERENCE   PMID:15060041
+  AUTHORS   Dahl U, Jaeger T, Nguyen BT, Sattler JM, Mayer C.
+  TITLE     Identification of a phosphotransferase system of Escherichia coli required for growth on N-acetylmuramic acid.
+  JOURNAL   J Bacteriol 186:2385-92 (2004)
+REFERENCE   PMID:2117666
+  AUTHORS   Martin-Verstraete I, Debarbouille M, Klier A, Rapoport G
+  TITLE     Levanase operon of Bacillus subtilis includes a fructose-specific phosphotransferase system regulating the expression of the operon.
+  JOURNAL   J Mol Biol 214:657-71 (1990)
+REFERENCE   PMID:12603740
+  AUTHORS   Kristich CJ, Glekas GD, Ordal GW.
+  TITLE     The conserved cytoplasmic module of the transmembrane chemoreceptor McpC mediates carbohydrate chemotaxis in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 47:1353-66 (2003)
+REFERENCE   PMID:14645248
+  AUTHORS   Sampaio MM, Chevance F, Dippel R, Eppler T, Schlegel A, Boos W, Lu YJ, Rock CO.
+  TITLE     Phosphotransferase-mediated transport of the osmolyte 2-O-alpha-mannosyl-D-glycerate in Escherichia coli occurs by the product of the mngA (hrsA) gene and is regulated by the mngR (farR) gene product acting as repressor.
+  JOURNAL   J Biol Chem 279:5537-48 (2004)
+REFERENCE   PMID:15608210
+  AUTHORS   Keseler IM, Collado-Vides J, Gama-Castro S, Ingraham J, Paley S, Paulsen IT, Peralta-Gil M, Karp PD.
+  TITLE     EcoCyc: a comprehensive database resource for Escherichia coli.
+  JOURNAL   Nucleic Acids Res 33:D334-7 (2005)
+REFERENCE   PMID:18156259
+  AUTHORS   Mukherjee A, Mammel MK, LeClerc JE, Cebula TA.
+  TITLE     Altered utilization of N-acetyl-D-galactosamine by Escherichia coli O157:H7 from the 2006 spinach outbreak.
+  JOURNAL   J Bacteriol 190:1710-7 (2008)
+REFERENCE   PMID:10931310
+  AUTHORS   Brinkkotter A, Kloss H, Alpert C, Lengeler JW.
+  TITLE     Pathways for the utilization of N-acetyl-galactosamine and galactosamine in Escherichia coli.
+  JOURNAL   Mol Microbiol 37:125-35 (2000)
+REFERENCE   PMID:11361063
+  AUTHORS   Tchieu JH, Norris V, Edwards JS, Saier MH Jr.
+  TITLE     The complete phosphotranferase system in Escherichia coli.
+  JOURNAL   J Mol Microbiol Biotechnol 3:329-46 (2001)
+REFERENCE   PMID:16233138
+  AUTHORS   Kotrba P, Inui M, Yukawa H.
+  TITLE     Bacterial phosphotransferase system (PTS) in carbohydrate uptake and control of carbon metabolism.
+  JOURNAL   J Biosci Bioeng 92:502-17 (2001)
+KO_PATHWAY  ko02060
+///

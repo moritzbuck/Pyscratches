@@ -1,0 +1,68 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05111
+server: Apache
+date: Wed, 15 Oct 2014 14:58:58 GMT
+content-type: text/plain
+
+ENTRY       map05111                    Pathway
+NAME        Vibrio cholerae pathogenic cycle
+DESCRIPTION The dual life style of Vibrio cholerae, in the aquatic environment or in the human host, is supported by appropriate gene expression of various factors. During exponential phase, quorum sensing systems mediate degradation of the virulence repressor HapR, which, together with the control of ToxR regulon, in turn leads to induction of virulence factors such as toxin coregulated pilus (TCP) and cholera toxin (CTX), essential for colonization of the host and enterotoxicity, respectively. Contrastively, during conditions of stationary phase, HapR is upregulated and induces hemagglutinin/protease (HapA) production, which will be involved in detachment of V. cholerae from epithelial cells of the host intestine.
+            On the other hand, flagellar and chemotaxis gene transcription is organized into a hierarchy of four classes of genes controlled by some sigma factors.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05111  Vibrio cholerae pathogenic cycle
+MODULE      M00513  LuxQN/CqsS-LuxU-LuxO (quorum sensing) two-component regulatory system [PATH:map05111]
+            M00515  FlrB-FlrC (polar flagellar synthesis) two-component regulatory system [PATH:map05111]
+REFERENCE   PMID:9224875
+  AUTHORS   Manning PA.
+  TITLE     The tcp gene cluster of Vibrio cholerae.
+  JOURNAL   Gene 192:63-70 (1997)
+REFERENCE   PMID:9632254
+  AUTHORS   Klose KE, Mekalanos JJ.
+  TITLE     Distinct roles of an alternative sigma factor during both free-swimming and colonizing phases of the Vibrio cholerae pathogenic cycle.
+  JOURNAL   Mol Microbiol 28:501-20 (1998)
+REFERENCE   PMID:9721317
+  AUTHORS   Pfau JD, Taylor RK.
+  TITLE     Mutations in toxR and toxS that separate transcriptional activation from DNA binding at the cholera toxin gene promoter.
+  JOURNAL   J Bacteriol 180:4724-33 (1998)
+REFERENCE   PMID:11528005
+  AUTHORS   McCarter LL.
+  TITLE     Polar flagellar motility of the Vibrionaceae.
+  JOURNAL   Microbiol Mol Biol Rev 65:445-62, table of contents (2001)
+REFERENCE   PMID:12117994
+  AUTHORS   Sarkar A, Nandy RK, Nair GB, Ghose AC.
+  TITLE     Vibrio pathogenicity island and cholera toxin genetic element-associated virulence genes and their expression in non-O1 non-O139 strains of Vibrio cholerae.
+  JOURNAL   Infect Immun 70:4735-42 (2002)
+REFERENCE   PMID:11260476
+  AUTHORS   Prouty MG, Correa NE, Klose KE.
+  TITLE     The novel sigma54- and sigma28-dependent flagellar gene transcription hierarchy of Vibrio cholerae.
+  JOURNAL   Mol Microbiol 39:1595-609 (2001)
+REFERENCE   PMID:17661707
+  AUTHORS   Childers BM, Klose KE.
+  TITLE     Regulation of virulence in Vibrio cholerae: the ToxR regulon.
+  JOURNAL   Future Microbiol 2:335-44 (2007)
+REFERENCE   PMID:17768239
+  AUTHORS   Liang W, Pascual-Montano A, Silva AJ, Benitez JA.
+  TITLE     The cyclic AMP receptor protein modulates quorum sensing, motility and multiple genes that affect intestinal colonization in Vibrio cholerae.
+  JOURNAL   Microbiology 153:2964-75 (2007)
+REFERENCE   PMID:15375117
+  AUTHORS   Silva AJ, Benitez JA.
+  TITLE     Transcriptional regulation of Vibrio cholerae hemagglutinin/protease by the cyclic AMP receptor protein and RpoS.
+  JOURNAL   J Bacteriol 186:6374-82 (2004)
+REFERENCE   PMID:11952906
+  AUTHORS   Li CC, Merrell DS, Camilli A, Kaper JB.
+  TITLE     ToxR interferes with CRP-dependent transcriptional activation of ompT in Vibrio cholerae.
+  JOURNAL   Mol Microbiol 43:1577-89 (2002)
+REFERENCE   PMID:17054394
+  AUTHORS   Nielsen AT, Dolganov NA, Otto G, Miller MC, Wu CY, Schoolnik GK.
+  TITLE     RpoS controls the Vibrio cholerae mucosal escape response.
+  JOURNAL   PLoS Pathog 2:e109 (2006)
+REFERENCE   PMID:16983078
+  AUTHORS   Hsiao A, Liu Z, Joelsson A, Zhu J.
+  TITLE     Vibrio cholerae virulence regulator-coordinated evasion of host immunity.
+  JOURNAL   Proc Natl Acad Sci U S A 103:14542-7 (2006)
+REFERENCE   PMID:18179420
+  AUTHORS   Hsiao A, Toscano K, Zhu J.
+  TITLE     Post-transcriptional cross-talk between pro- and anti-colonization pili biosynthesis systems in Vibrio cholerae.
+  JOURNAL   Mol Microbiol 67:849-60 (2008)
+KO_PATHWAY  ko05111
+///

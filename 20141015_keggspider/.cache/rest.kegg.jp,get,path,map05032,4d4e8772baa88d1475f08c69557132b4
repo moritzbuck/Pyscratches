@@ -1,0 +1,82 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05032
+server: Apache
+date: Wed, 15 Oct 2014 14:58:56 GMT
+content-type: text/plain
+
+ENTRY       map05032                    Pathway
+NAME        Morphine addiction
+DESCRIPTION Morphine is an alkaloid from the plant extracts of opium poppy. Although morphine is highly effective for the treatment of pain, it is also known to be intensely addictive. We now know that the most important brain-reward circuit involves dopamine (DA) -containing neurons in the ventral tegmental area (VTA) of the midbrain and their target areas in the limbic forebrain, in particular, the nucleus accumbens (NAc) and frontal regions of cerebral cortex. Morphine can cause indirect excitation of VTA dopamine neurons by reducing inhibitory synaptic transmission mediated by GABAergic neurons. The chronic use of morphine is characterized by adaptive changes in neurons and neuronal communication;  such adaptations (e.g., 'superactivation' of adenylyl cyclase) must underlie altered behaviour associated with morphine dependence and withdrawal syndrome, as well as drug-induced craving and relapse to drug use.
+CLASS       Human Diseases; Substance dependence
+PATHWAY_MAP map05032  Morphine addiction
+DBLINKS     GO: 0043278
+REFERENCE   PMID:15661627
+  AUTHORS   Bailey CP, Connor M
+  TITLE     Opioids: cellular mechanisms of tolerance and physical dependence.
+  JOURNAL   Curr Opin Pharmacol 5:60-8 (2005)
+REFERENCE   PMID:11152760
+  AUTHORS   Williams JT, Christie MJ, Manzoni O
+  TITLE     Cellular and synaptic adaptations mediating opioid dependence.
+  JOURNAL   Physiol Rev 81:299-343 (2001)
+REFERENCE   PMID:16581089
+  AUTHORS   Gintzler AR, Chakrabarti S
+  TITLE     Post-opioid receptor adaptations to chronic morphine; altered functionality and associations of signaling molecules.
+  JOURNAL   Life Sci 79:717-22 (2006)
+REFERENCE   PMID:8785060
+  AUTHORS   Bonci A, Williams JT
+  TITLE     A common mechanism mediates long-term changes in synaptic transmission after chronic cocaine and morphine.
+  JOURNAL   Neuron 16:631-9 (1996)
+REFERENCE   PMID:11750924
+  AUTHORS   Liu JG, Anand KJ
+  TITLE     Protein kinases modulate the cellular adaptations associated with opioid tolerance and dependence.
+  JOURNAL   Brain Res Brain Res Rev 38:1-19 (2001)
+REFERENCE   PMID:10066284
+  AUTHORS   Shoji Y, Delfs J, Williams JT
+  TITLE     Presynaptic inhibition of GABA(B)-mediated synaptic potentials in the ventral tegmental area during morphine withdrawal.
+  JOURNAL   J Neurosci 19:2347-55 (1999)
+REFERENCE   PMID:18349442
+  AUTHORS   Zhang Y, Chen Q, Yu LC
+  TITLE     Morphine: a protective or destructive role in neurons?
+  JOURNAL   Neuroscientist 14:561-70 (2008)
+REFERENCE   PMID:12859419
+  AUTHORS   Tso PH, Wong YH
+  TITLE     Molecular basis of opioid dependence: role of signal regulation by G-proteins.
+  JOURNAL   Clin Exp Pharmacol Physiol 30:307-16 (2003)
+REFERENCE   PMID:1346804
+  AUTHORS   Johnson SW, North RA
+  TITLE     Opioids excite dopamine neurons by hyperpolarization of local interneurons.
+  JOURNAL   J Neurosci 12:483-8 (1992)
+REFERENCE   PMID:20962224
+  AUTHORS   Madhavan A, Bonci A, Whistler JL
+  TITLE     Opioid-Induced GABA potentiation after chronic morphine attenuates the rewarding  effects of opioids in the ventral tegmental area.
+  JOURNAL   J Neurosci 30:14029-35 (2010)
+REFERENCE   PMID:8987801
+  AUTHORS   Bonci A, Williams JT
+  TITLE     Increased probability of GABA release during withdrawal from morphine.
+  JOURNAL   J Neurosci 17:796-803 (1997)
+REFERENCE   PMID:21872647
+  AUTHORS   Morikawa H, Paladini CA
+  TITLE     Dynamic regulation of midbrain dopamine neuron activity: intrinsic, synaptic, and plasticity mechanisms.
+  JOURNAL   Neuroscience 198:95-111 (2011)
+REFERENCE   PMID:12217944
+  AUTHORS   Xi ZX, Stein EA
+  TITLE     GABAergic mechanisms of opiate reinforcement .
+  JOURNAL   Alcohol Alcohol 37:485-94 (2002)
+REFERENCE   PMID:8096779
+  AUTHORS   Kalivas PW
+  TITLE     Neurotransmitter regulation of dopamine neurons in the ventral tegmental area.
+  JOURNAL   Brain Res Brain Res Rev 18:75-113 (1993)
+REFERENCE   PMID:21930931
+  AUTHORS   Jalabert M, Bourdy R, Courtin J, Veinante P, Manzoni OJ, Barrot M, Georges F
+  TITLE     Neuronal circuits underlying acute morphine action on dopamine neurons.
+  JOURNAL   Proc Natl Acad Sci U S A 108:16446-50 (2011)
+REFERENCE   PMID:14625081
+  AUTHORS   Chakrabarti S, Gintzler AR
+  TITLE     Phosphorylation of Gbeta is augmented by chronic morphine and enhances Gbetagamma stimulation of adenylyl cyclase activity.
+  JOURNAL   Brain Res Mol Brain Res 119:144-51 (2003)
+REFERENCE   PMID:14969742
+  AUTHORS   Ferrer-Alcon M, La Harpe R, Garcia-Sevilla JA
+  TITLE     Decreased immunodensities of micro-opioid receptors, receptor kinases GRK 2/6 and beta-arrestin-2 in postmortem brains of opiate addicts.
+  JOURNAL   Brain Res Mol Brain Res 121:114-22 (2004)
+KO_PATHWAY  ko05032
+///

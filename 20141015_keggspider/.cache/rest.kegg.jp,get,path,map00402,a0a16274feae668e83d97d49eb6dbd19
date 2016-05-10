@@ -1,0 +1,49 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00402
+server: Apache
+date: Wed, 15 Oct 2014 14:57:21 GMT
+content-type: text/plain
+
+ENTRY       map00402                    Pathway
+NAME        Benzoxazinoid biosynthesis
+DESCRIPTION Benzoxazinoids (hydroxamic acids) are plant secondary metabolites that serve as important factors for host resistance against microbial pathogens and insects and for allelopathic effects. They are found in grass family and some eudicot families. The predominant benzoxazinoids are DIBOA and its 7-methoxy derivative DIMBOA, which are stored as glucosides in vacuoles. In maize, benzoxazinoid biosynthesis branches off from tryptophan biosynthesis at indole-3-glycerol phosphate, which is converted to indole by indole-3-glycerol phosphate lyase, BX1. Subsequently four cytochrome P450 monooxygenases (BX2-BX5) catalyze the introduction of four oxygen atoms into the indole moiety, yielding DIBOA. After glucosylation by UDP-glucosyltransferase (BX8/BX9), the glucoside is further modified by hydroxylation and O-methylation at C-7 to form DIMBOA-glucoside.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00402  Benzoxazinoid biosynthesis
+REFERENCE   PMID:11106389
+  AUTHORS   Frey M, Stettner C, Pare PW, Schmelz EA, Tumlinson JH, Gierl A.
+  TITLE     An herbivore elicitor activates the gene for indole emission in maize.
+  JOURNAL   Proc Natl Acad Sci U S A 97:14801-6 (2000)
+REFERENCE   PMID:11556781
+  AUTHORS   Gierl A, Frey M.
+  TITLE     Evolution of benzoxazinone biosynthesis and indole production in maize.
+  JOURNAL   Planta 213:493-8 (2001)
+REFERENCE   PMID:16260753
+  AUTHORS   Nomura T, Ishihara A, Yanagita RC, Endo TR, Iwamura H.
+  TITLE     Three genomes differentially contribute to the biosynthesis of benzoxazinones in hexaploid wheat.
+  JOURNAL   Proc Natl Acad Sci U S A 102:16490-5 (2005)
+REFERENCE   PMID:9235894
+  AUTHORS   Frey M, Chomet P, Glawischnig E, Stettner C, Grun S, Winklmair A, Eisenreich W, Bacher A, Meeley RB, Briggs SP, Simcox K, Gierl A.
+  TITLE     Analysis of a chemical plant defense mechanism in grasses.
+  JOURNAL   Science 277:696-9 (1997)
+REFERENCE   PMID:12620350
+  AUTHORS   Frey M, Huber K, Park WJ, Sicker D, Lindberg P, Meeley RB, Simmons CR, Yalpani N, Gierl A.
+  TITLE     A 2-oxoglutarate-dependent dioxygenase is integrated in DIMBOA-biosynthesis.
+  JOURNAL   Phytochemistry 62:371-6 (2003)
+REFERENCE   PMID:11851909
+  AUTHORS   von Rad U, Huttl R, Lottspeich F, Gierl A, Frey M.
+  TITLE     Two glucosyltransferases are involved in detoxification of benzoxazinoids in maize.
+  JOURNAL   Plant J 28:633-42 (2001)
+REFERENCE   PMID:16666853
+  AUTHORS   Bailey BA, Larson RL
+  TITLE     Hydroxamic Acid glucosyltransferases from maize seedlings.
+  JOURNAL   Plant Physiol 90:1071-6 (1989)
+REFERENCE   PMID:18192444
+  AUTHORS   Jonczyk R, Schmidt H, Osterrieder A, Fiesselmann A, Schullehner K, Haslbeck M, Sicker D, Hofmann D, Yalpani N, Simmons C, Frey M, Gierl A
+  TITLE     Elucidation of the final reactions of DIMBOA-glucoside biosynthesis in maize: characterization of Bx6 and Bx7.
+  JOURNAL   Plant Physiol 146:1053-63 (2008)
+REFERENCE   PMID:19577780
+  AUTHORS   Frey M, Schullehner K, Dick R, Fiesselmann A, Gierl A
+  TITLE     Benzoxazinoid biosynthesis, a model for evolution of secondary metabolic pathways in plants.
+  JOURNAL   Phytochemistry 70:1645-51 (2009)
+KO_PATHWAY  ko00402
+///

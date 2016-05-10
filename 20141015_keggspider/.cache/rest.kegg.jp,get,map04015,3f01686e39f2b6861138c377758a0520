@@ -1,0 +1,82 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04015
+server: Apache
+date: Wed, 15 Oct 2014 15:08:35 GMT
+content-type: text/plain
+
+ENTRY       map04015                    Pathway
+NAME        Rap1 signaling pathway
+DESCRIPTION Rap1 is a small GTPase that controls diverse processes, such as cell adhesion, cell-cell junction formation and cell polarity. Like all G proteins, Rap1 cycles between an inactive GDP-bound and an active GTP-bound conformation. A variety of extracellular signals control this cycle through the regulation of several unique guanine nucleotide exchange factors (GEFs) and GTPase activating proteins (GAPs). Rap1 plays a dominant role in the control of cell-cell and cell-matrix interactions by regulating the function of integrins and other adhesion molecules in various cell types. Rap1 also regulates MAP kinase (MAPK) activity in a manner highly dependent on the context of cell types.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04015  Rap1 signaling pathway
+DBLINKS     GO: 0007264
+REFERENCE   PMID:17182900
+  AUTHORS   Kooistra MR, Dube N, Bos JL
+  TITLE     Rap1: a key regulator in cell-cell junction formation.
+  JOURNAL   J Cell Sci 120:17-22 (2007)
+REFERENCE   PMID:11331911
+  AUTHORS   Bos JL, de Rooij J, Reedquist KA
+  TITLE     Rap1 signalling: adhering to new models.
+  JOURNAL   Nat Rev Mol Cell Biol 2:369-77 (2001)
+REFERENCE   PMID:17383543
+  AUTHORS   Minato N, Kometani K, Hattori M
+  TITLE     Regulation of immune responses and hematopoiesis by the Rap1 signal.
+  JOURNAL   Adv Immunol 93:229-64 (2007)
+REFERENCE   PMID:15780587
+  AUTHORS   Bos JL
+  TITLE     Linking Rap to cell adhesion.
+  JOURNAL   Curr Opin Cell Biol 17:123-8 (2005)
+REFERENCE   PMID:12508104
+  AUTHORS   Caron E
+  TITLE     Cellular functions of the Rap1 GTP-binding protein: a pattern emerges.
+  JOURNAL   J Cell Sci 116:435-40 (2003)
+REFERENCE   PMID:10579920
+  AUTHORS   Zwartkruis FJ, Bos JL
+  TITLE     Ras and Rap1: two highly related small GTPases with distinct function.
+  JOURNAL   Exp Cell Res 253:157-65 (1999)
+REFERENCE   PMID:14607972
+  AUTHORS   Hattori M, Minato N
+  TITLE     Rap1 GTPase: functions, regulation, and malignancy.
+  JOURNAL   J Biochem 134:479-84 (2003)
+REFERENCE   PMID:19159611
+  AUTHORS   Pannekoek WJ, Kooistra MR, Zwartkruis FJ, Bos JL
+  TITLE     Cell-cell junction formation: the role of Rap1 and Rap1 guanine nucleotide exchange factors.
+  JOURNAL   Biochim Biophys Acta 1788:790-6 (2009)
+REFERENCE   PMID:19615876
+  AUTHORS   Boettner B, Van Aelst L
+  TITLE     Control of cell adhesion dynamics by Rap1 signaling.
+  JOURNAL   Curr Opin Cell Biol 21:684-93 (2009)
+REFERENCE   PMID:15803158
+  AUTHORS   Xia Z, Storm DR.
+  TITLE     The role of calmodulin as a signal integrator for synaptic plasticity.
+  JOURNAL   Nat Rev Neurosci 6:267-76 (2005)
+REFERENCE   PMID:17624948
+  AUTHORS   Mor A, Dustin ML, Philips MR
+  TITLE     Small GTPases and LFA-1 reciprocally modulate adhesion and signaling.
+  JOURNAL   Immunol Rev 218:114-25 (2007)
+REFERENCE   PMID:17624944
+  AUTHORS   Burbach BJ, Medeiros RB, Mueller KL, Shimizu Y
+  TITLE     T-cell receptor signaling to integrins.
+  JOURNAL   Immunol Rev 218:65-81 (2007)
+REFERENCE   PMID:12765839
+  AUTHORS   Stork PJ
+  TITLE     Does Rap1 deserve a bad Rap?
+  JOURNAL   Trends Biochem Sci 28:267-75 (2003)
+REFERENCE   PMID:12351703
+  AUTHORS   Banihashemi B, Albert PR
+  TITLE     Dopamine-D2S receptor inhibition of calcium influx, adenylyl cyclase, and mitogen-activated protein kinase in pituitary cells: distinct Galpha and Gbetagamma requirements.
+  JOURNAL   Mol Endocrinol 16:2393-404 (2002)
+REFERENCE   PMID:18363565
+  AUTHORS   Banno A, Ginsberg MH
+  TITLE     Integrin activation.
+  JOURNAL   Biochem Soc Trans 36:229-34 (2008)
+REFERENCE   PMID:19710505
+  AUTHORS   Doebele RC, Schulze-Hoepfner FT, Hong J, Chlenski A, Zeitlin BD, Goel K, Gomes S, Liu Y, Abe MK, Nor JE, Lingen MW, Rosner MR
+  TITLE     A novel interplay between Epac/Rap1 and mitogen-activated protein kinase kinase 5/extracellular signal-regulated kinase 5 (MEK5/ERK5) regulates thrombospondin to control angiogenesis.
+  JOURNAL   Blood 114:4592-600 (2009)
+REFERENCE   PMID:21402149
+  AUTHORS   Breckler M, Berthouze M, Laurent AC, Crozatier B, Morel E, Lezoualc'h F
+  TITLE     Rap-linked cAMP signaling Epac proteins: compartmentation, functioning and disease implications.
+  JOURNAL   Cell Signal 23:1257-66 (2011)
+KO_PATHWAY  ko04015
+///

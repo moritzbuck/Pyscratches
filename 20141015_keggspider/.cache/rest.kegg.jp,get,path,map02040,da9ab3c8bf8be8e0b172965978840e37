@@ -1,0 +1,24 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map02040
+server: Apache
+date: Wed, 15 Oct 2014 14:58:04 GMT
+content-type: text/plain
+
+ENTRY       map02040                    Pathway
+NAME        Flagellar assembly
+CLASS       Cellular Processes; Cell motility
+PATHWAY_MAP map02040  Flagellar assembly
+REFERENCE   PMID:11520608
+  AUTHORS   Aizawa SI.
+  TITLE     Bacterial flagella and type III secretion systems.
+  JOURNAL   FEMS Microbiol Lett 202:157-64 (2001)
+REFERENCE   PMID:11934612
+  AUTHORS   Aldridge P, Hughes KT.
+  TITLE     Regulation of flagellar assembly.
+  JOURNAL   Curr Opin Microbiol 5:160-5 (2002)
+REFERENCE   PMID:15060055
+  AUTHORS   Van Arnam JS, McMurry JL, Kihara M, Macnab RM
+  TITLE     Analysis of an engineered Salmonella flagellar fusion protein, FliR-FlhB.
+  JOURNAL   J Bacteriol 186:2495-8 (2004)
+KO_PATHWAY  ko02040
+///

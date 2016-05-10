@@ -1,0 +1,80 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07230
+server: Apache
+date: Wed, 15 Oct 2014 15:10:01 GMT
+content-type: text/plain
+
+ENTRY       map07230          Drug      Pathway
+NAME        GABA-A receptor agonists/antagonists
+PATHWAY_MAP map07230  GABA-A receptor agonists/antagonists
+COMPOUND    C07521  Thiopental
+            C09364  Bicuculline
+            C09529  Picrotoxinin
+            D00225  Alprazolam (JP16/USP/INN)
+            D00267  Chlordiazepoxide (JP16/USP/INN)
+            D00280  Clonazepam (JP16/USP/INN)
+            D00293  Diazepam (JP16/USP/INN)
+            D00311  Estazolam (JP16/USAN/INN)
+            D00329  Flurazepam (JAN/INN)
+            D00365  Lorazepam (JP16/USP/INN)
+            D00370  Temazepam (USP/INN)
+            D00387  Triazolam (JAN/USP/INN)
+            D00430  Secobarbital (USP/INN)
+            D00457  Quazepam (JAN/USP/INN)
+            D00464  Oxazepam (JAN/USP/INN)
+            D00470  Prazepam (JP16/USAN/INN)
+            D00474  Primidone (JP16/USP/INN)
+            D00499  Pentobarbital (USP/INN)
+            D00500  Pentobarbital sodium (JAN/USP)
+            D00506  Phenobarbital (JP16/USP/INN)
+            D00531  Nitrazepam (JP16/USAN/INN)
+            D00549  Propofol (JAN/USAN/INN)
+            D00550  Midazolam (JAN/USP/INN)
+            D00555  Amobarbital (JP16/INN)
+            D00693  Chlordiazepoxide hydrochloride (JAN/USP)
+            D00694  Clorazepate dipotassium (JP16/USP)
+            D00695  Flurazepam hydrochloride (USP)
+            D00696  Midazolam hydrochloride (USAN)
+            D00697  Flumazenil (JAN/USP/INN)
+            D00700  Mephobarbital (JAN/USP)
+            D00701  Phenobarbital sodium (JAN/USP/INN)
+            D00706  Zolpidem tartrate (JP16/USAN)
+            D00713  Thiamylal sodium (JP16)
+            D00714  Thiopental sodium (JP16/USP/INN)
+            D01071  Hexobarbital (JAN/INN)
+            D01230  Flunitrazepam (JP16/USAN/INN)
+            D01245  Bromazepam (JP16/USAN/INN)
+            D01254  Tofisopam (JP16/INN)
+            D01268  Cloxazolam (JP16/INN)
+            D01278  Oxazolam (JP16/INN)
+            D01279  Flutoprazepam (JP16/INN)
+            D01286  Flutazolam (JAN/INN)
+            D01292  Medazepam (JP16/INN)
+            D01293  Ethyl loflazepate (JAN/INN)
+            D01310  Secobarbital sodium (JAN/USP)
+            D01316  Mexazolam (JAN/INN)
+            D01328  Clotiazepam (JP16/INN)
+            D01354  Fludiazepam (JP16/INN)
+            D01372  Zopiclone (JAN/INN)
+            D01408  Flurazepam hydrochloride (JP16)
+            D01514  Etizolam (JP16/INN)
+            D01564  Rilmazafone hydrochloride hydrate (JAN)
+            D01593  Nimetazepam (JAN/INN)
+            D01657  Lormetazepam (JAN/USAN/INN)
+            D01740  Barbital (JP16/INN)
+            D01744  Brotizolam (JP16/USAN/INN)
+            D01758  Haloxazolam (JP16/INN)
+            D02252  Amobarbital sodium (JAN/USP)
+            D02253  Pentobarbital calcium (JP16)
+            D02618  Butobarbital (BAN)
+            D02624  Eszopiclone (JAN/USAN/INN)
+            D03562  Clorazepate monopotassium (USAN)
+            D04257  Fospropofol disodium (USAN)
+            D04882  Medazepam hydrochloride (USAN)
+            D05028  Midazolam maleate (USAN)
+            D06106  Thiamylal
+            D07409  Pentetrazol (INN)
+            D08356  Phenobarbital diethylamine
+            D08481  Rilmazafone (INN)
+            D08690  Zolpidem (INN)
+///

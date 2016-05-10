@@ -1,0 +1,52 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04112
+server: Apache
+date: Wed, 15 Oct 2014 14:58:18 GMT
+content-type: text/plain
+
+ENTRY       map04112                    Pathway
+NAME        Cell cycle - Caulobacter
+DESCRIPTION Cell cycle progression of Caulobacter crescentus is implemented by an elaborate transcriptional regulatory network. During the life cycle, Caulobacter divides asymmetrically producing two distinct cell types with specialized development programs. The sessile stalked cell immediately initiates a new round of division cycle, whereas the motile swarmer cell remains in the G1 phase for a defined interval before differentiating into the stalked cell and entering into the S phase. The division process is centered around three master regulator proteins, DnaA, GcrA, and CtrA. DnaA and GcrA together drive the synthesis of proteins needed to complete DNA replication. CtrA controls the transcription of a diverse group of genes, which are required for essential morphological, metabolic, and cell cycle events.
+CLASS       Cellular Processes; Cell growth and death
+PATHWAY_MAP map04112  Cell cycle - Caulobacter
+MODULE      M00511  PleC-PleD (cell fate control) two-component regulatory system [PATH:map04112]
+            M00512  CckA-CtrA/CpdR (cell cycle control) two-component regulatory system [PATH:map04112]
+DBLINKS     GO: 0000278
+REFERENCE   PMID:18685108
+  AUTHORS   Shen X, Collier J, Dill D, Shapiro L, Horowitz M, McAdams HH
+  TITLE     Architecture and inherent robustness of a bacterial cell-cycle control system.
+  JOURNAL   Proc Natl Acad Sci U S A 105:11340-5 (2008)
+REFERENCE   PMID:20197497
+  AUTHORS   Curtis PD, Brun YV
+  TITLE     Getting in the loop: regulation of development in Caulobacter crescentus.
+  JOURNAL   Microbiol Mol Biol Rev 74:13-41 (2010)
+REFERENCE   PMID:15031731
+  AUTHORS   Skerker JM, Laub MT
+  TITLE     Cell-cycle progression and the generation of asymmetry in Caulobacter crescentus.
+  JOURNAL   Nat Rev Microbiol 2:325-37 (2004)
+REFERENCE   PMID:19246239
+  AUTHORS   Jenal U, Galperin MY
+  TITLE     Single domain response regulators: molecular switches with emerging roles in cell organization and dynamics.
+  JOURNAL   Curr Opin Microbiol 12:152-60 (2009)
+REFERENCE   PMID:19854671
+  AUTHORS   Thanbichler M
+  TITLE     Spatial regulation in Caulobacter crescentus.
+  JOURNAL   Curr Opin Microbiol 12:715-21 (2009)
+REFERENCE   PMID:19781638
+  AUTHORS   Jenal U
+  TITLE     The role of proteolysis in the Caulobacter crescentus cell cycle and development.
+  JOURNAL   Res Microbiol 160:687-95 (2009)
+REFERENCE   PMID:19287449
+  AUTHORS   Hengge R
+  TITLE     Principles of c-di-GMP signalling in bacteria.
+  JOURNAL   Nat Rev Microbiol 7:263-73 (2009)
+REFERENCE   PMID:19687139
+  AUTHORS   Goley ED, Toro E, McAdams HH, Shapiro L
+  TITLE     Dynamic chromosome organization and protein localization coordinate the regulatory circuitry that drives the bacterial cell cycle.
+  JOURNAL   Cold Spring Harb Symp Quant Biol 74:55-64 (2009)
+REFERENCE   PMID:19680425
+  AUTHORS   Li S, Brazhnik P, Sobral B, Tyson JJ
+  TITLE     Temporal controls of the asymmetric cell division cycle in Caulobacter crescentus.
+  JOURNAL   PLoS Comput Biol 5:e1000463 (2009)
+KO_PATHWAY  ko04112
+///

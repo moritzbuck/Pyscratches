@@ -1,0 +1,77 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04113
+server: Apache
+date: Wed, 15 Oct 2014 14:58:18 GMT
+content-type: text/plain
+
+ENTRY       map04113                    Pathway
+NAME        Meiosis - yeast
+DESCRIPTION During meiosis, a single round of DNA replication is followed by two rounds of chromosome segregation, called meiosis I and meiosis II. At meiosis I, one pair of sister chromatids recombines with, then segregates from, its homologous pair, while the sister chromatids segregate from each other at meoisis II. In yeast, the switch to enter growth phase or meiosis phase is controlled by nutritional signals. At the onset of meiosis, nutritional signaling pathways converge on transcriptional regulation of Ime1. Ime1 is a transcriptional activator to promote expression of early meiosis-specific genes required for pre-meiotic DNA replication and meiotic recombination. Two of the early meiosis-specific genes, a transcriptional activator, Ndt80, and a CDK2 homolog, Ime2, are required for the transcription of middle meiosis-specific genes, which includes B-type cyclin genes and genes involved in spore wall formation. Polo-like kinase Cdc5, whose expression is activated by Ndt80, is required for the critical step in meiotic progression. Cdc5 regulates sister-kinetochore co-orientation by promoting the localization of Mam1 and Lrs4, components of the co-orientation complex, to kinetochores. Cdc5 also phosphorylates the meiotic cohesin subunit Rec8, which is essential for its cleavage and removal by separase. Moreover, Cdc5 promotes the release of protein phosphatase Cdc14 from the nuclezus, which is required for anaphase I spindle disassembly and exit from meiosis I. The centromeric protein Sgo1 is a key regulator of meiotic chromosome segregation. Sgo1 with PP2A may protect pericentromeric but not arm cohesion of sister chromatids during meiosis I. Sgo1 then disappears at meiosis II to allow sister chromatids to separate.
+CLASS       Cellular Processes; Cell growth and death
+PATHWAY_MAP map04113  Meiosis - yeast
+MODULE      M00284  Origin recognition complex [PATH:map04113]
+            M00285  MCM complex [PATH:map04113]
+            M00389  APC/C complex [PATH:map04113]
+DBLINKS     GO: 0051321
+REFERENCE   PMID:12730290
+  AUTHORS   Honigberg SM, Purnapatre K
+  TITLE     Signal pathway integration in the switch from the mitotic cell cycle to meiosis in yeast.
+  JOURNAL   J Cell Sci 116:2137-47 (2003)
+REFERENCE   PMID:12722950
+  AUTHORS   Kassir Y, Adir N, Boger-Nadjar E, Raviv NG, Rubin-Bejerano I, Sagee S, Shenhar G
+  TITLE     Transcriptional regulation of meiosis in budding yeast.
+  JOURNAL   Int Rev Cytol 224:111-71 (2003)
+REFERENCE   PMID:15258924
+  AUTHORS   Honigberg SM
+  TITLE     Ime2p and Cdc28p: co-pilots driving meiotic development.
+  JOURNAL   J Cell Biochem 92:1025-33 (2004)
+REFERENCE   PMID:16546077
+  AUTHORS   Hochwagen A, Amon A
+  TITLE     Checking your breaks: surveillance mechanisms of meiotic recombination.
+  JOURNAL   Curr Biol 16:R217-28 (2006)
+REFERENCE   PMID:18832063
+  AUTHORS   Hollingsworth NM
+  TITLE     Deconstructing meiosis one kinase at a time: polo pushes past pachytene.
+  JOURNAL   Genes Dev 22:2596-600 (2008)
+REFERENCE   PMID:18832066
+  AUTHORS   Sourirajan A, Lichten M
+  TITLE     Polo-like kinase Cdc5 drives exit from pachytene during budding yeast meiosis.
+  JOURNAL   Genes Dev 22:2627-32 (2008)
+REFERENCE   PMID:10973068
+  AUTHORS   Roeder GS, Bailis JM
+  TITLE     The pachytene checkpoint.
+  JOURNAL   Trends Genet 16:395-403 (2000)
+REFERENCE   PMID:15173822
+  AUTHORS   Barr FA, Sillje HH, Nigg EA
+  TITLE     Polo-like kinases and the orchestration of cell division.
+  JOURNAL   Nat Rev Mol Cell Biol 5:429-40 (2004)
+REFERENCE   PMID:12963824
+  AUTHORS   Lee BH, Amon A
+  TITLE     Polo kinase--meiotic cell cycle coordinator.
+  JOURNAL   Cell Cycle 2:400-2 (2003)
+REFERENCE   PMID:12737807
+  AUTHORS   Buonomo SB, Rabitsch KP, Fuchs J, Gruber S, Sullivan M, Uhlmann F, Petronczki M, Toth A, Nasmyth K
+  TITLE     Division of the nucleolus and its release of CDC14 during anaphase of meiosis I depends on separase, SPO12, and SLK19.
+  JOURNAL   Dev Cell 4:727-39 (2003)
+REFERENCE   PMID:15797379
+  AUTHORS   Oelschlaegel T, Schwickart M, Matos J, Bogdanova A, Camasses A, Havlis J, Shevchenko A, Zachariae W
+  TITLE     The yeast APC/C subunit Mnd2 prevents premature sister chromatid separation triggered by the meiosis-specific APC/C-Ama1.
+  JOURNAL   Cell 120:773-88 (2005)
+REFERENCE   PMID:16759372
+  AUTHORS   Dai W, Wang X
+  TITLE     The Yin and Yang of centromeric cohesion of sister chromatids: mitotic kinases meet protein phosphatase 2A.
+  JOURNAL   Cell Div 1:9 (2006)
+REFERENCE   PMID:19299562
+  AUTHORS   Clift D, Bizzari F, Marston AL
+  TITLE     Shugoshin prevents cohesin cleavage by PP2A(Cdc55)-dependent inhibition of separase.
+  JOURNAL   Genes Dev 23:766-80 (2009)
+REFERENCE   PMID:18598214
+  AUTHORS   Pesin JA, Orr-Weaver TL
+  TITLE     Regulation of APC/C activators in mitosis and meiosis.
+  JOURNAL   Annu Rev Cell Dev Biol 24:475-99 (2008)
+REFERENCE   PMID:18946082
+  AUTHORS   Diamond AE, Park JS, Inoue I, Tachikawa H, Neiman AM
+  TITLE     The anaphase promoting complex targeting subunit Ama1 links meiotic exit to cytokinesis during sporulation in Saccharomyces cerevisiae.
+  JOURNAL   Mol Biol Cell 20:134-45 (2009)
+KO_PATHWAY  ko04113
+///

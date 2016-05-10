@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07012
+server: Apache
+date: Wed, 15 Oct 2014 14:59:17 GMT
+content-type: text/plain
+
+ENTRY       map07012          Drug      Pathway
+NAME        Cephalosporins - parenteral agents
+PATHWAY_MAP map07012  Cephalosporins - parenteral agents
+COMPOUND    C00916  Cephalosporin C
+            C01941  Nocardicin A
+            C02954  6-Aminopenicillanate
+            C06566  Cephamycin C
+            D00240  Aztreonam (JP16/USP/INN)
+            D00260  Cefotetan (JP16/USP/INN)
+            D00262  Cefuroxime (USAN/INN)
+            D00466  Piperacillin sodium (JP16/USP)
+            D00905  Cefazolin sodium (JP16/USP)
+            D00907  Cefalotin sodium (JP16)
+            D00908  Cefapirin sodium (JAN)
+            D00910  Cefmetazole (USP/INN)
+            D00911  Cefmetazole sodium (JP16/USP)
+            D00913  Cefoxitin sodium (JAN/USP)
+            D00914  Cefuroxime axetil (JP16/USP/INN)
+            D00915  Cefuroxime sodium (JAN/USP)
+            D00918  Cefoperazone sodium (JP16/USP)
+            D00919  Cefotaxime sodium (JP16/USP)
+            D00921  Ceftazidime hydrate (JP16)
+            D00923  Ceftizoxime sodium (JP16/USP)
+            D00924  Ceftriaxone sodium hydrate (JP16)
+            D01075  Cefaloridine (JAN/INN)
+            D01415  Cefotiam hexetil hydrochloride (JP16)
+            D01489  Sulbenicillin sodium (JP16)
+            D01560  Carumonam sodium (JP16/USAN)
+            D01568  Cefpimizole sodium (JAN/USAN)
+            D01736  Cefbuperazone sodium (JP16)
+            D01739  Cefmenoxime hydrochloride (JP16/USP)
+            D01819  Cefotiam hydrochloride (JP16/USP)
+            D01863  Cefodizime sodium (JP16)
+            D01904  Cefpiramide sodium (JP16/USAN)
+            D01909  Cefminox sodium hydrate (JP16)
+            D02005  Cefsulodin sodium (JP16/USAN)
+            D02191  Cefamandole sodium (JAN)
+            D02226  Cefazolin sodium hydrate (JP16)
+            D02228  Cefotetan sodium (JAN)
+            D02251  Piperacillin hydrate (JP16)
+            D02299  Cefazolin (USP)
+            D02344  Cefamandole (USAN/INN)
+            D02345  Cefoxitin (USAN/INN)
+            D03423  Cefbuperazone (USAN/INN)
+            D03427  Cefpimizole (USAN/INN)
+            D03428  Cefpiramide (USP/INN)
+            D06558  Aztreonam lysine (USAN)
+            D07625  Carumonam (INN)
+            D07635  Cefalotin (BAN)
+            D07636  Cefapirin (BAN)
+            D07637  Cephapirin benzathine (USP)
+            D07641  Cefmenoxime (INN)
+            D07642  Cefminox (INN)
+            D07643  Cefodizime (INN)
+            D07645  Cefoperazone (INN)
+            D07647  Cefotaxime (INN)
+            D07648  Cefotiam (INN)
+            D07653  Cefsulodin (INN)
+            D07654  Ceftazidime (INN)
+            D07658  Ceftizoxime (INN)
+            D07659  Ceftriaxone (INN)
+            D08380  Piperacillin (INN)
+            D08534  Sulbenicillin (INN)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   PMID:3072926
+  AUTHORS   Curtis NA, Eisenstadt RL, East SJ, Cornford RJ, Walker LA, White AJ
+  TITLE     Iron-regulated outer membrane proteins of Escherichia coli K-12 and mechanism of  action of catechol-substituted cephalosporins.
+  JOURNAL   Antimicrob Agents Chemother 32:1879-86 (1988)
+///

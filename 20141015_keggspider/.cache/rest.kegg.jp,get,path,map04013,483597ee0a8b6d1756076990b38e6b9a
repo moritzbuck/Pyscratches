@@ -1,0 +1,12 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04013
+server: Apache
+date: Wed, 15 Oct 2014 14:58:13 GMT
+content-type: text/plain
+
+ENTRY       map04013                    Pathway
+NAME        MAPK signaling pathway - fly
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04013  MAPK signaling pathway - fly
+KO_PATHWAY  ko04013
+///

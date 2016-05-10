@@ -1,0 +1,81 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00943
+server: Apache
+date: Wed, 15 Oct 2014 14:57:50 GMT
+content-type: text/plain
+
+ENTRY       map00943                    Pathway
+NAME        Isoflavonoid biosynthesis
+DESCRIPTION Isoflavonoids are biologically active compounds, such as phytoestrogens, produced by pea family plants. While flavonoids (in the narrow sense) have the 2-phenylchromen-4-one backbone, isoflavonoids have the 3-phenylchromen-4-one backbone with no hydroxyl group substitution at position 2. Isoflavonoids are derived from the flavonoid biosynthesis pathway via liquiritigenin or naringenin.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00943  Isoflavonoid biosynthesis
+REFERENCE   PMID:11027686
+  AUTHORS   Latunde-Dada AO, Cabello-Hurtado F, Czittrich N, Didierjean L, Schopfer C, Hertkorn N, Werck-Reichhart D, Ebel J.
+  TITLE     Flavonoid 6-hydroxylase from soybean (Glycine max L.), a novel plant P-450 monooxygenase.
+  JOURNAL   J Biol Chem 276:1688-95 (2001)
+REFERENCE   PMID:12179983
+  AUTHORS   Baggett BR, Cooper JD, Hogan ET, Carper J, Paiva NL, Smith JT.
+  TITLE     Profiling isoflavonoids found in legume root extracts using capillary electrophoresis.
+  JOURNAL   Electrophoresis 23:1642-51 (2002)
+REFERENCE   PMID:16996502
+  AUTHORS   Akashi T, Koshimizu S, Aoki T, Ayabe S.
+  TITLE     Identification of cDNAs encoding pterocarpan reductase involved in isoflavan phytoalexin biosynthesis in Lotus japonicus by EST mining.
+  JOURNAL   FEBS Lett 580:5666-70 (2006)
+REFERENCE   PMID:14617078
+  AUTHORS   Liu CJ, Huhman D, Sumner LW, Dixon RA.
+  TITLE     Regiospecific hydroxylation of isoflavones by cytochrome p450 81E enzymes from Medicago truncatula.
+  JOURNAL   Plant J 36:471-84 (2003)
+REFERENCE   PMID:15082922
+  AUTHORS   Dhaubhadel S, McGarvey BD, Williams R, Gijzen M.
+  TITLE     Isoflavonoid biosynthesis and accumulation in developing soybean seeds.
+  JOURNAL   Plant Mol Biol 53:733-43 (2003)
+REFERENCE   PMID:11164575
+  AUTHORS   Shimada N, Akashi T, Aoki T, Ayabe S.
+  TITLE     Induction of isoflavonoid pathway in the model legume Lotus japonicus: molecular characterization of enzymes involved in phytoalexin biosynthesis.
+  JOURNAL   Plant Sci 160:37-47 (2000)
+REFERENCE   PMID:16667851
+  AUTHORS   Preisig CL, Bell JN, Sun Y, Hrazdina G, Matthews DE, Vanetten HD
+  TITLE     Biosynthesis of the Phytoalexin Pisatin : Isoflavone Reduction and Further Metabolism of the Product Sophorol by Extracts of Pisum sativum.
+  JOURNAL   Plant Physiol 94:1444-8 (1990)
+REFERENCE   PMID:17452423
+  AUTHORS   Shimada N, Sato S, Akashi T, Nakamura Y, Tabata S, Ayabe S, Aoki T
+  TITLE     Genome-wide analyses of the structural gene families involved in the legume-specific 5-deoxyisoflavonoid biosynthesis of Lotus japonicus.
+  JOURNAL   DNA Res 14:25-36 (2007)
+REFERENCE   PMID:16924535
+  AUTHORS   Lozovaya VV, Lygin AV, Zernova OV, Ulanov AV, Li S, Hartman GL, Widholm JM.
+  TITLE     Modification of phenolic metabolism in soybean hairy roots through down regulation of chalcone synthase or isoflavone synthase.
+  JOURNAL   Planta 225:665-79 (2007)
+REFERENCE   PMID:12207646
+  AUTHORS   Sawada Y, Kinoshita K, Akashi T, Aoki T, Ayabe S.
+  TITLE     Key amino acid residues required for aryl migration catalysed by the cytochrome P450 2-hydroxyisoflavanone synthase.
+  JOURNAL   Plant J 31:555-64 (2002)
+REFERENCE   
+  AUTHORS   Deavours BE, Dixon RA.
+  TITLE     Metabolic engineering of isoflavonoid biosynthesis in Alfalfa.
+  JOURNAL   Plant Physiology 138:2245-2259 (2005)
+REFERENCE   
+  AUTHORS   Hinderer W, Flentje U, Barz W.
+  TITLE     Microsomal isoflavone 2'- and 3'-hydroxylases from chickpea (Cicer arietinum L.) cell suspensions induced for pterocarpan phytoalexin formation.
+  JOURNAL   FEBS letters 214(1):101-106 (1987)
+REFERENCE   
+  AUTHORS   Aoki T, Akashi T, Ayabe S.
+  TITLE     Flavonoids of leguminous plants: structure, biological activity, and biosynthesis.
+  JOURNAL   Journal of Plant Research 113(4):475-488 (2000)
+REFERENCE   
+  AUTHORS   Barz W, Mackenbrock U.
+  TITLE     Constitutive and elicitation induced metabolism of isoflavones and pterocarpans in chickpea (Cicer arietinum) cell suspension cultures.
+  JOURNAL   Plant Cell, Tissue and Organ Culture 38(2-3):199-211 (1994)
+REFERENCE   
+  AUTHORS   Fischer D, Ebenau-Jehle C, Grisebach H.
+  TITLE     Purification and characterization of pterocarpan synthase from elicitor-challenged soybean cell cultures.
+  JOURNAL   Phytochemistry 29(9):2879-2882 (1990)
+REFERENCE   
+  AUTHORS   Ayabe S, Akashi T.
+  TITLE     Cytochrome P450s in flavonoid metabolism.
+  JOURNAL   Phytochemistry Reviews 5(2-3):271-282 (2006)
+REFERENCE   
+  AUTHORS   Daniel S, Tiemann K, Wittkampf U, Bless W, Hinderer W, Barz W.
+  TITLE     Elicitor-induced metabolic changes in cell cultures of chickpea (Cicer arietinum L.) cultivars resistant and susceptible to Ascochyta rabiei.
+  JOURNAL   Planta 182(2):270-278 (1990)
+KO_PATHWAY  ko00943
+///

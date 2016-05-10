@@ -1,0 +1,21 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01100
+server: Apache
+date: Wed, 15 Oct 2014 14:58:00 GMT
+content-type: text/plain
+
+ENTRY       map01100          Global    Pathway
+NAME        Metabolic pathways
+PATHWAY_MAP map01100  Metabolic pathways
+DISEASE     H00617  Desmosterolosis
+            H00689  Delayed sleep phase syndrome
+            H00734  Lamellar ichthyosis (LI) and Non-bullous congenital ichthyosiform erythroderma (NBCIE)
+            H00753  Urofacial syndrome
+            H00761  SEMD, Pakistani type
+            H00804  Multiple cutaneous and uterine leiomyomata
+            H00824  Calcification of joints and arteries
+            H00920  Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis
+            H00946  Arts syndrome
+            H01002  Generalized arterial calcification of infancy
+KO_PATHWAY  ko01100
+///

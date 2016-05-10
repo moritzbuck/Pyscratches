@@ -1,0 +1,84 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04972
+server: Apache
+date: Wed, 15 Oct 2014 15:09:13 GMT
+content-type: text/plain
+
+ENTRY       map04972                    Pathway
+NAME        Pancreatic secretion
+DESCRIPTION The pancreas performs both exocrine and endocrine functions.  The exocrine pancreas consists of two parts, the acinar and duct cells. The primary functions of pancreatic acinar cells are to synthesize and secrete digestive enzymes. Stimulation of the cell by secretagogues such as acetylcholine (ACh) and cholecystokinin (CCK) causes the generation of an intracellular Ca2+ signal. This signal, in turn, triggers the fusion of the zymogen granules with the apical plasma membrane, leading to the polarised secretion of the enzymes. The major task of pancreatic duct cells is the secretion of fluid and bicarbonate ions (HCO3-), which neutralize the acidity of gastric contents that enter the duodenum. An increase in intracellular cAMP by secretin is one of the major signals of pancreatic HCO3- secretion. Activation of the CFTR Cl- channel and the CFTR-dependent Cl-/HCO3- exchange activities is responsible for cAMP-induced HCO3- secretion.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP map04972  Pancreatic secretion
+DISEASE     H00409  Type II diabetes mellitus
+            H00933  Hereditary pancreatitis
+DBLINKS     GO: 0030157
+REFERENCE   PMID:17850212
+  AUTHORS   Petersen OH, Tepikin AV
+  TITLE     Polarized calcium signaling in exocrine gland cells.
+  JOURNAL   Annu Rev Physiol 70:273-99 (2008)
+REFERENCE   PMID:20625287
+  AUTHORS   Williams JA
+  TITLE     Regulation of acinar cell function in the pancreas.
+  JOURNAL   Curr Opin Gastroenterol 26:478-83 (2010)
+REFERENCE   PMID:16891880
+  AUTHORS   Williams JA
+  TITLE     Regulation of pancreatic acinar cell function.
+  JOURNAL   Curr Opin Gastroenterol 22:498-504 (2006)
+REFERENCE   PMID:15689674
+  AUTHORS   Bi Y, Williams JA
+  TITLE     Receptor biology and signal transduction in pancreatic acinar cells.
+  JOURNAL   Curr Opin Gastroenterol 20:427-34 (2004)
+REFERENCE   PMID:14660554
+  AUTHORS   Yamasaki M, Masgrau R, Morgan AJ, Churchill GC, Patel S, Ashcroft SJ, Galione A
+  TITLE     Organelle selection determines agonist-specific Ca2+ signals in pancreatic acinar and beta cells.
+  JOURNAL   J Biol Chem 279:7234-40 (2004)
+REFERENCE   PMID:9548666
+  AUTHORS   Kanno T
+  TITLE     Ca2+ signaling in the pancreatic acinus.
+  JOURNAL   Pancreas 16:273-6 (1998)
+REFERENCE   PMID:18626068
+  AUTHORS   Heitzmann D, Warth R
+  TITLE     Physiology and pathophysiology of potassium channels in gastrointestinal epithelia.
+  JOURNAL   Physiol Rev 88:1119-82 (2008)
+REFERENCE   PMID:14637169
+  AUTHORS   Konturek SJ, Zabielski R, Konturek JW, Czarnecki J
+  TITLE     Neuroendocrinology of the pancreas; role of brain-gut axis in pancreatic secretion.
+  JOURNAL   Eur J Pharmacol 481:1-14 (2003)
+REFERENCE   PMID:16888148
+  AUTHORS   Chu JY, Yung WH, Chow BK
+  TITLE     Secretin: a pleiotrophic hormone.
+  JOURNAL   Ann N Y Acad Sci 1070:27-50 (2006)
+REFERENCE   PMID:16930743
+  AUTHORS   Siu FK, Lam IP, Chu JY, Chow BK
+  TITLE     Signaling mechanisms of secretin receptor.
+  JOURNAL   Regul Pept 137:95-104 (2006)
+REFERENCE   PMID:15709963
+  AUTHORS   Steward MC, Ishiguro H, Case RM
+  TITLE     Mechanisms of bicarbonate secretion in the pancreatic duct.
+  JOURNAL   Annu Rev Physiol 67:377-409 (2005)
+REFERENCE   PMID:20224219
+  AUTHORS   Kim D, Steward MC
+  TITLE     The role of CFTR in bicarbonate secretion by pancreatic duct and airway epithelia.
+  JOURNAL   J Med Invest 56 Suppl:336-42 (2009)
+REFERENCE   PMID:17205399
+  AUTHORS   Whitcomb DC, Lowe ME
+  TITLE     Human pancreatic digestive enzymes.
+  JOURNAL   Dig Dis Sci 52:1-17 (2007)
+REFERENCE   PMID:10835353
+  AUTHORS   Cancela JM, Gerasimenko OV, Gerasimenko JV, Tepikin AV, Petersen OH
+  TITLE     Two different but converging messenger pathways to intracellular Ca(2+) release:  the roles of nicotinic acid adenine dinucleotide phosphate, cyclic ADP-ribose and inositol trisphosphate.
+  JOURNAL   EMBO J 19:2549-57 (2000)
+REFERENCE   PMID:10078532
+  AUTHORS   Cancela JM, Churchill GC, Galione A
+  TITLE     Coordination of agonist-induced Ca2+-signalling patterns by NAADP in pancreatic acinar cells.
+  JOURNAL   Nature 398:74-6 (1999)
+REFERENCE   PMID:11087843
+  AUTHORS   Parekh AB
+  TITLE     Calcium signaling and acute pancreatitis: specific response to a promiscuous messenger.
+  JOURNAL   Proc Natl Acad Sci U S A 97:12933-4 (2000)
+REFERENCE   PMID:19088252
+  AUTHORS   Williams JA, Chen X, Sabbatini ME
+  TITLE     Small G proteins as key regulators of pancreatic digestive enzyme secretion.
+  JOURNAL   Am J Physiol Endocrinol Metab 296:E405-14 (2009)
+KO_PATHWAY  ko04972
+///

@@ -1,0 +1,74 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07035
+server: Apache
+date: Wed, 15 Oct 2014 14:59:24 GMT
+content-type: text/plain
+
+ENTRY       map07035          Drug      Pathway
+NAME        Prostaglandins
+PATHWAY_MAP map07035  Prostaglandins
+COMPOUND    C00427  Prostaglandin H2
+            C15450  S 1033
+            D00079  Dinoprostone (JAN/USP/INN)
+            D00081  Dinoprost (JP16/USAN/INN)
+            D00180  Alprostadil (JP16/USP/INN)
+            D00356  Latanoprost (JAN/USAN/INN)
+            D00419  Misoprostol (JAN/USAN/INN)
+            D00682  Carboprost tromethamine (USP)
+            D01352  Dinoprost tromethamine (JAN/USP)
+            D01452  Isopropyl unoprostone (JAN)
+            D01869  Ornoprostil (JAN/INN)
+            D01891  Enprostil (JAN/USAN/INN)
+            D01964  Travoprost (JAN/USAN/INN)
+            D02073  Gemeprost (JAN/USAN/INN)
+            D02343  Carboprost (USAN/INN)
+            D02705  Alprostadil alfadex (JP16)
+            D02719  Rosaprostol (INN)
+            D02722  Limaprost (INN)
+            D02723  Ecraprost (USAN/INN)
+            D02724  Bimatoprost (JAN/USAN/INN)
+            D02725  Sulprostone (USAN/INN)
+            D02726  Meteneprost (USAN/INN)
+            D02860  Limaprost alfadex (JP16)
+            D03269  Dinoprostone betadex (JAN)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   (Japanese)
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   (Japanese)
+  AUTHORS   Tanaka C, Kato R (eds).
+  TITLE     [New Pharmacology (4th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Collins PW, Djuric SW.
+  TITLE     Synthesis of therapeutically useful prostaglandin and prostacyclin analogs.
+  JOURNAL   Chemical Reviews 93(4):1533-1564 (1993)
+REFERENCE   
+  AUTHORS   Igarashi R, Mizushima Y.
+  TITLE     New lipo-PGE1 using a stable prodrug of prostaglandin E1 (PGE1).
+  JOURNAL   Advanced Drug Delivery Reviews 20(2-3):189-194 (1996)
+REFERENCE   PMID:12556403
+  AUTHORS   Sharif NA, Kelly CR, Crider JY.
+  TITLE     Human trabecular meshwork cell responses induced by bimatoprost, travoprost, unoprostone, and other FP prostaglandin receptor agonist analogues.
+  JOURNAL   Invest Ophthalmol Vis Sci 44:715-21 (2003)
+REFERENCE   PMID:15087728
+  AUTHORS   Nguyen QH.
+  TITLE     The role of prostaglandin analogues in the treatment of glaucoma in the 21st century.
+  JOURNAL   Int Ophthalmol Clin 44:15-27 (2004)
+///

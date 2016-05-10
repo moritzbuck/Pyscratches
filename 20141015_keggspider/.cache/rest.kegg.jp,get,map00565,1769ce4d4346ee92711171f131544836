@@ -1,0 +1,26 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00565
+server: Apache
+date: Wed, 15 Oct 2014 15:07:55 GMT
+content-type: text/plain
+
+ENTRY       map00565                    Pathway
+NAME        Ether lipid metabolism
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00565  Ether lipid metabolism
+DISEASE     H00207  Rhizomelic chondrodysplasia punctata
+            H00833  Neurodegeneration with brain iron accumulation (NBIA)
+REFERENCE   PMID:11275267
+  AUTHORS   Nagan N, Zoeller RA.
+  TITLE     Plasmalogens: biosynthesis and functions.
+  JOURNAL   Prog Lipid Res 40:199-229 (2001)
+REFERENCE   PMID:11015622
+  AUTHORS   Montrucchio G, Alloatti G, Camussi G.
+  TITLE     Role of platelet-activating factor in cardiovascular pathophysiology.
+  JOURNAL   Physiol Rev 80:1669-99 (2000)
+REFERENCE   PMID:15788404
+  AUTHORS   Sakagami H, Aoki J, Natori Y, Nishikawa K, Kakehi Y, Natori Y, Arai H.
+  TITLE     Biochemical and molecular characterization of a novel choline-specific glycerophosphodiester phosphodiesterase belonging to the nucleotide pyrophosphatase/phosphodiesterase family.
+  JOURNAL   J Biol Chem 280:23084-93 (2005)
+KO_PATHWAY  ko00565
+///

@@ -1,0 +1,54 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05221
+server: Apache
+date: Wed, 15 Oct 2014 15:09:33 GMT
+content-type: text/plain
+
+ENTRY       map05221                    Pathway
+NAME        Acute myeloid leukemia
+DESCRIPTION Acute myeloid leukemia (AML) is a disease that is characterized by uncontrolled proliferation of clonal neoplastic cells and accumulation in the bone marrow of blasts with an impaired differentiation program. AML accounts for approximately 80% of all adult leukemias and remains the most common cause of leukemia death. Two major types of genetic events have been described that are crucial for leukemic transformation. A proposed necessary first event is disordered cell growth and upregulation of cell survival genes. The most common of these activating events were observed in the RTK Flt3, in N-Ras and K-Ras, in Kit, and sporadically in other RTKs. Alterations in myeloid transcription factors governing hematopoietic differentiation provide second necessary event for leukemogenesis. Transcription factor fusion proteins such as AML-ETO, PML-RARalpha or PLZF-RARalpha block myeloid cell differentiation by repressing target genes. In other cases,  the transcription factors themselves are mutated.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05221  Acute myeloid leukemia
+DISEASE     H00003  Acute myeloid leukemia (AML)
+REFERENCE   PMID:16236521
+  AUTHORS   Steffen B, Muller-Tidow C, Schwable J, Berdel WE, Serve H.
+  TITLE     The molecular pathogenesis of acute myeloid leukemia.
+  JOURNAL   Crit Rev Oncol Hematol 56:195-221 (2005)
+REFERENCE   PMID:12563308
+  AUTHORS   Tenen DG.
+  TITLE     Disruption of differentiation in human cancer: AML shows the way.
+  JOURNAL   Nat Rev Cancer 3:89-101 (2003)
+REFERENCE   PMID:16146838
+  AUTHORS   Choudhary C, Muller-Tidow C, Berdel WE, Serve H.
+  TITLE     Signal transduction of oncogenic Flt3.
+  JOURNAL   Int J Hematol 82:93-9 (2005)
+REFERENCE   PMID:12951584
+  AUTHORS   Stirewalt DL, Radich JP.
+  TITLE     The role of FLT3 in haematopoietic malignancies.
+  JOURNAL   Nat Rev Cancer 3:650-65 (2003)
+REFERENCE   PMID:16642045
+  AUTHORS   Martelli AM, Nyakern M, Tabellini G, Bortul R, Tazzari PL, Evangelisti C, Cocco L.
+  TITLE     Phosphoinositide 3-kinase/Akt signaling pathway and its therapeutical implications for human acute myeloid leukemia.
+  JOURNAL   Leukemia 20:911-28 (2006)
+REFERENCE   PMID:15625120
+  AUTHORS   Lennartsson J, Jelacic T, Linnekin D, Shivakrupa R.
+  TITLE     Normal and oncogenic forms of the receptor tyrosine kinase kit.
+  JOURNAL   Stem Cells 23:16-43 (2005)
+REFERENCE   PMID:11721960
+  AUTHORS   Lorsbach RB, Downing JR.
+  TITLE     The role of the AML1 transcription factor in leukemogenesis.
+  JOURNAL   Int J Hematol 74:258-65 (2001)
+REFERENCE   PMID:12468433
+  AUTHORS   Mizuki M, Schwable J, Steur C, Choudhary C, Agrawal S, Sargin B, Steffen B, Matsumura I, Kanakura Y, Bohmer FD, Muller-Tidow C, Berdel WE, Serve H.
+  TITLE     Suppression of myeloid transcription factors and induction of STAT response genes by AML-specific Flt3 mutations.
+  JOURNAL   Blood 101:3164-73 (2003)
+REFERENCE   PMID:17554387
+  AUTHORS   Mikesch JH, Steffen B, Berdel WE, Serve H, Muller-Tidow C.
+  TITLE     The emerging role of Wnt signaling in the pathogenesis of acute myeloid leukemia.
+  JOURNAL   Leukemia : (2007)
+REFERENCE   PMID:16352814
+  AUTHORS   Mueller BU, Pabst T, Fos J, Petkovic V, Fey MF, Asou N, Buergi U, Tenen DG.
+  TITLE     ATRA resolves the differentiation block in t(15;17) acute myeloid leukemia by restoring PU.1 expression.
+  JOURNAL   Blood 107:3330-8 (2006)
+KO_PATHWAY  ko05221
+///

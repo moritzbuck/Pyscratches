@@ -1,0 +1,56 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04141
+server: Apache
+date: Wed, 15 Oct 2014 15:08:43 GMT
+content-type: text/plain
+
+ENTRY       map04141                    Pathway
+NAME        Protein processing in endoplasmic reticulum
+DESCRIPTION The endoplasmic reticulum (ER) is a subcellular organelle where proteins are folded with the help of lumenal chaperones. Newly synthesized peptides enter the ER via the sec61 pore and are glycosylated. Correctly folded proteins are packaged into transport vesicles that shuttle them to the Golgi complex. Misfolded proteins are retained within the ER lumen in complex with molecular chaperones. Proteins that are terminally misfolded bind to BiP and are directed toward degradation through the proteasome in a process called ER-associated degradation (ERAD). Accumulation of misfolded proteins in the ER causes ER stress and activates a signaling pathway called the unfolded protein response (UPR). In certain severe situations, however, the protective mechanisms activated by the UPR are not sufficient to restore normal ER function and cells die by apoptosis.
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP map04141  Protein processing in endoplasmic reticulum
+MODULE      M00382  SCF-FBS complex [PATH:map04141]
+            M00400  p97-Ufd1-Npl4 complex [PATH:map04141]
+            M00401  Sec61 complex [PATH:map04141]
+            M00402  Translocon-associated protein (TRAP) complex [PATH:map04141]
+            M00403  HRD1/SEL1 ERAD complex [PATH:map04141]
+            M00404  COPII complex [PATH:map04141]
+DISEASE     H00078  Frontotemporal lobar degeneration (FTLD)
+            H00221  Combined deficiency of factors V and VIII (F5F8D)
+            H00344  Leprosy
+            H00409  Type II diabetes mellitus
+            H00545  Polycystic liver disease
+            H00594  Distal muscular dystrophies
+            H00595  Myofibrillar myopathies (MFM)
+            H00740  Ichthyosis follicularis, alopecia, and photophobia syndrome
+            H00766  Wolcott-Rallison syndrome
+            H00768  Nonsyndromic autosomal recessive mental retardation (NS-ARMR)
+            H00854  Wolfram syndrome (WFS)
+            H00917  Congenital dyserythropoietic anemias (CDAs)
+            H00927  Chylomicron retention disease (CRD)
+            H01105  Cranio-lenticulo-sutural dysplasia (CLSD)
+            H01202  Cataract
+            H01284  Marinesco-Sjogren syndrome
+DBLINKS     GO: 0030433 0034976
+REFERENCE   PMID:19491040
+  AUTHORS   Naidoo N
+  TITLE     ER and aging-Protein folding and the ER stress response.
+  JOURNAL   Ageing Res Rev 8:150-9 (2009)
+REFERENCE   PMID:18023214
+  AUTHORS   Malhotra JD, Kaufman RJ
+  TITLE     The endoplasmic reticulum and the unfolded protein response.
+  JOURNAL   Semin Cell Dev Biol 18:716-31 (2007)
+REFERENCE   PMID:20347046
+  AUTHORS   Maattanen P, Gehring K, Bergeron JJ, Thomas DY
+  TITLE     Protein quality control in the ER: the recognition of misfolded proteins.
+  JOURNAL   Semin Cell Dev Biol 21:500-11 (2010)
+REFERENCE   PMID:20219571
+  AUTHORS   Stolz A, Wolf DH
+  TITLE     Endoplasmic reticulum associated protein degradation: a chaperone assisted journey to hell.
+  JOURNAL   Biochim Biophys Acta 1803:694-705 (2010)
+REFERENCE   PMID:20112977
+  AUTHORS   Dejgaard K, Theberge JF, Heath-Engel H, Chevet E, Tremblay ML, Thomas DY
+  TITLE     Organization of the Sec61 translocon, studied by high resolution native electrophoresis.
+  JOURNAL   J Proteome Res 9:1763-71 (2010)
+KO_PATHWAY  ko04141
+///

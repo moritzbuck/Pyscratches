@@ -1,0 +1,106 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05140
+server: Apache
+date: Wed, 15 Oct 2014 14:59:00 GMT
+content-type: text/plain
+
+ENTRY       map05140                    Pathway
+NAME        Leishmaniasis
+DESCRIPTION Leishmania is an intracellular protozoan parasite of macrophages that causes visceral, mucosal, and cutaneous diseases. The parasite is transmitted to humans by sandflies, where they survive and proliferate intracellularly by deactivating the macrophage. Successful infection of Leishmania is achieved by alteration of signaling events in the host cell, leading to enhanced production of the autoinhibitory molecules like TGF-beta and decreased induction of cytokines such as IL12 for protective immunity. Nitric oxide production is also inhibited. In addition, defective expression of major histocompatibility complex (MHC) genes silences subsequent T cell activation mediated by macrophages, resulting in abnormal immune responses.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05140  Leishmaniasis
+DISEASE     H00359  Leishmaniasis
+REFERENCE   PMID:11890722
+  AUTHORS   Cunningham AC
+  TITLE     Parasitic adaptive mechanisms in infection by leishmania.
+  JOURNAL   Exp Mol Pathol 72:132-41 (2002)
+REFERENCE   PMID:10770277
+  AUTHORS   Nandan D, Knutson KL, Lo R, Reiner NE
+  TITLE     Exploitation of host cell signaling machinery: activation of macrophage phosphotyrosine phosphatases as a novel mechanism of molecular microbial pathogenesis.
+  JOURNAL   J Leukoc Biol 67:464-70 (2000)
+REFERENCE   PMID:7591091
+  AUTHORS   Nandan D, Reiner NE
+  TITLE     Attenuation of gamma interferon-induced tyrosine phosphorylation in mononuclear phagocytes infected with Leishmania donovani: selective inhibition of signaling through Janus kinases and Stat1.
+  JOURNAL   Infect Immun 63:4495-500 (1995)
+REFERENCE   PMID:10417174
+  AUTHORS   Nandan D, Lo R, Reiner NE
+  TITLE     Activation of phosphotyrosine phosphatase activity attenuates mitogen-activated protein kinase signaling and inhibits c-FOS and nitric oxide synthase expression  in macrophages infected with Leishmania donovani.
+  JOURNAL   Infect Immun 67:4055-63 (1999)
+REFERENCE   PMID:7916951
+  AUTHORS   Reiner NE
+  TITLE     Altered cell signaling and mononuclear phagocyte deactivation during intracellular infection.
+  JOURNAL   Immunol Today 15:374-81 (1994)
+REFERENCE   PMID:15721837
+  AUTHORS   Nandan D, Reiner NE
+  TITLE     Leishmania donovani engages in regulatory interference by targeting macrophage protein tyrosine phosphatase SHP-1.
+  JOURNAL   Clin Immunol 114:266-77 (2005)
+REFERENCE   PMID:17543969
+  AUTHORS   Kima PE
+  TITLE     The amastigote forms of Leishmania are experts at exploiting host cell processes  to establish infection and persist.
+  JOURNAL   Int J Parasitol 37:1087-96 (2007)
+REFERENCE   PMID:15983048
+  AUTHORS   Forget G, Gregory DJ, Olivier M
+  TITLE     Proteasome-mediated degradation of STAT1alpha following infection of macrophages  with Leishmania donovani.
+  JOURNAL   J Biol Chem 280:30542-9 (2005)
+REFERENCE   PMID:15322192
+  AUTHORS   Cameron P, McGachy A, Anderson M, Paul A, Coombs GH, Mottram JC, Alexander J, Plevin R
+  TITLE     Inhibition of lipopolysaccharide-induced macrophage IL-12 production by Leishmania mexicana amastigotes: the role of cysteine peptidases and the NF-kappaB signaling pathway.
+  JOURNAL   J Immunol 173:3297-304 (2004)
+REFERENCE   PMID:18070909
+  AUTHORS   Tuon FF, Amato VS, Bacha HA, Almusawi T, Duarte MI, Amato Neto V
+  TITLE     Toll-like receptors and leishmaniasis.
+  JOURNAL   Infect Immun 76:866-72 (2008)
+REFERENCE   PMID:15039466
+  AUTHORS   Kropf P, Freudenberg N, Kalis C, Modolell M, Herath S, Galanos C, Freudenberg M, Muller I
+  TITLE     Infection of C57BL/10ScCr and C57BL/10ScNCr mice with Leishmania major reveals a  role for Toll-like receptor 4 in the control of parasite replication.
+  JOURNAL   J Leukoc Biol 76:48-57 (2004)
+REFERENCE   PMID:10586030
+  AUTHORS   Feng GJ, Goodridge HS, Harnett MM, Wei XQ, Nikolaev AV, Higson AP, Liew FY
+  TITLE     Extracellular signal-related kinase (ERK) and p38 mitogen-activated protein (MAP) kinases differentially regulate the lipopolysaccharide-mediated induction of inducible nitric oxide synthase and IL-12 in macrophages: Leishmania phosphoglycans subvert macrophage IL-12 production by targeting ERK MAP kinase.
+  JOURNAL   J Immunol 163:6403-12 (1999)
+REFERENCE   PMID:15831826
+  AUTHORS   Olivier M, Gregory DJ, Forget G
+  TITLE     Subversion mechanisms by which Leishmania parasites can escape the host immune response: a signaling point of view.
+  JOURNAL   Clin Microbiol Rev 18:293-305 (2005)
+REFERENCE   PMID:11298294
+  AUTHORS   Matte C, Maion G, Mourad W, Olivier M
+  TITLE     Leishmania donovani-induced macrophages cyclooxygenase-2 and prostaglandin E2 synthesis.
+  JOURNAL   Parasite Immunol 23:177-84 (2001)
+REFERENCE   PMID:12438359
+  AUTHORS   Ghosh S, Bhattacharyya S, Sirkar M, Sa GS, Das T, Majumdar D, Roy S, Majumdar S
+  TITLE     Leishmania donovani suppresses activated protein 1 and NF-kappaB activation in host macrophages via ceramide generation: involvement of extracellular signal-regulated kinase.
+  JOURNAL   Infect Immun 70:6828-38 (2002)
+REFERENCE   PMID:9504340
+  AUTHORS   Bogdan C, Rollinghoff M
+  TITLE     The immune response to Leishmania: mechanisms of parasite control and evasion.
+  JOURNAL   Int J Parasitol 28:121-34 (1998)
+REFERENCE   PMID:18793215
+  AUTHORS   Blanchette J, Abu-Dayyeh I, Hassani K, Whitcombe L, Olivier M
+  TITLE     Regulation of macrophage nitric oxide production by the protein tyrosine phosphatase Src homology 2 domain phosphotyrosine phosphatase 1 (SHP-1).
+  JOURNAL   Immunology 127:123-33 (2009)
+REFERENCE   PMID:10462516
+  AUTHORS   Alexander J, Satoskar AR, Russell DG
+  TITLE     Leishmania species: models of intracellular parasitism.
+  JOURNAL   J Cell Sci 112 Pt 18:2993-3002 (1999)
+REFERENCE   PMID:15639739
+  AUTHORS   Denkers EY, Butcher BA
+  TITLE     Sabotage and exploitation in macrophages parasitized by intracellular protozoans.
+  JOURNAL   Trends Parasitol 21:35-41 (2005)
+REFERENCE   PMID:16848789
+  AUTHORS   Lodge R, Diallo TO, Descoteaux A
+  TITLE     Leishmania donovani lipophosphoglycan blocks NADPH oxidase assembly at the phagosome membrane.
+  JOURNAL   Cell Microbiol 8:1922-31 (2006)
+REFERENCE   PMID:11728310
+  AUTHORS   de Freitas Balanco JM, Moreira ME, Bonomo A, Bozza PT, Amarante-Mendes G, Pirmez C, Barcinski MA
+  TITLE     Apoptotic mimicry by an obligate intracellular parasite downregulates macrophage  microbicidal activity.
+  JOURNAL   Curr Biol 11:1870-3 (2001)
+REFERENCE   PMID:10608501
+  AUTHORS   Kane MM, Mosser DM
+  TITLE     Leishmania parasites and their ploys to disrupt macrophage activation.
+  JOURNAL   Curr Opin Hematol 7:26-31 (2000)
+REFERENCE   PMID:14762510
+  AUTHORS   de Almeida MC, Vilhena V, Barral A, Barral-Netto M
+  TITLE     Leishmanial infection: analysis of its first steps. A review.
+  JOURNAL   Mem Inst Oswaldo Cruz 98:861-70 (2003)
+KO_PATHWAY  ko05140
+///

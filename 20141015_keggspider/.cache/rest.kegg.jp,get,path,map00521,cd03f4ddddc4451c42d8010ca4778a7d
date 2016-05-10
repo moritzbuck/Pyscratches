@@ -1,0 +1,46 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00521
+server: Apache
+date: Wed, 15 Oct 2014 14:57:27 GMT
+content-type: text/plain
+
+ENTRY       map00521                    Pathway
+NAME        Streptomycin biosynthesis
+DESCRIPTION Streptomycin is an aminocyclitol-aminoglycoside antibiotic produced by Streptomyces griseus. Streptomycin consists of aminocyclitol (streptidine), 6-deoxyhexose (streptose), and N-methyl-L-glucosamine moieties, which are formed by independent biosynthetic pathways. All of the moieties are derived from D-glucose. The streptidine moiety is synthesized via myo-inositol, which is then oxidized at C-1 and transaminated to give scyllo-inosamine. After phosphorylation, the compound is transamidinated by arginine. The same procedure is repeated at the C-3 position. The streptose moiety is made from D-glucose via a dTDP-glucose pathway. The exact biosynthetic route for the N-methyl-L-glucosamine moiety is unknown, though the biosynthetic gene cluster have been proposed.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00521  Streptomycin biosynthesis
+DBLINKS     GO: 0019872
+REFERENCE   PMID:19362651
+  AUTHORS   Wehmeier UF, Piepersberg W
+  TITLE     Enzymology of aminoglycoside biosynthesis-deduction from gene clusters.
+  JOURNAL   Methods Enzymol 459:459-91 (2009)
+REFERENCE   PMID:17390001
+  AUTHORS   Flatt PM, Mahmud T
+  TITLE     Biosynthesis of aminocyclitol-aminoglycoside antibiotics and related compounds.
+  JOURNAL   Nat Prod Rep 24:358-92 (2007)
+REFERENCE   PMID:1698764
+  AUTHORS   Walker JB
+  TITLE     Possible evolutionary relationships between streptomycin and bluensomycin biosynthetic pathways: detection of novel inositol kinase and O-carbamoyltransferase activities.
+  JOURNAL   J Bacteriol 172:5844-51 (1990)
+REFERENCE   PMID:2995326
+  AUTHORS   Ohnuki T, Imanaka T, Aiba S
+  TITLE     Self-cloning in Streptomyces griseus of an str gene cluster for streptomycin biosynthesis and streptomycin resistance.
+  JOURNAL   J Bacteriol 164:85-94 (1985)
+REFERENCE   PMID:9238101
+  AUTHORS   Ahlert J, Distler J, Mansouri K, Piepersberg W
+  TITLE     Identification of stsC, the gene encoding the L-glutamine:scyllo-inosose aminotransferase from streptomycin-producing Streptomycetes.
+  JOURNAL   Arch Microbiol 168:102-13 (1997)
+REFERENCE   PMID:1377151
+  AUTHORS   Distler J, Mansouri K, Mayer G, Stockmann M, Piepersberg W
+  TITLE     Streptomycin biosynthesis and its regulation in Streptomycetes.
+  JOURNAL   Gene 115:105-11 (1992)
+REFERENCE   PMID:1654502
+  AUTHORS   Mansouri K, Piepersberg W.
+  TITLE     Genetics of streptomycin production in Streptomyces griseus: nucleotide sequence of five genes, strFGHIK, including a phosphatase gene.
+  JOURNAL   Mol Gen Genet 228:459-69 (1991)
+REFERENCE   PMID:9922132
+  AUTHORS   Fritsche E, Bergner A, Humm A, Piepersberg W, Huber R
+  TITLE     Crystal structure of L-arginine:inosamine-phosphate amidinotransferase StrB1 from Streptomyces griseus: an enzyme involved in streptomycin biosynthesis.
+  JOURNAL   Biochemistry 37:17664-72 (1998)
+KO_PATHWAY  ko00521
+///

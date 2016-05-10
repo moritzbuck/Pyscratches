@@ -1,0 +1,33 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07235
+server: Apache
+date: Wed, 15 Oct 2014 14:59:42 GMT
+content-type: text/plain
+
+ENTRY       map07235          Drug      Pathway
+NAME        N-Metyl-D-aspartic acid receptor antagonists
+PATHWAY_MAP map07235  N-Metyl-D-aspartic acid receptor antagonists
+COMPOUND    C07575  Phencyclidine
+            C13737  Dizocilpine
+            D00711  Ketamine hydrochloride (JP16/USP)
+            D00777  Amantadine hydrochloride (JP16/USP)
+            D00848  Dextromethorphan hydrobromide hydrate (JP16)
+            D01445  Ifenprodil tartrate (JP16)
+            D02102  Methadone hydrochloride (JAN/USP)
+            D03100  Besonprodil (USAN)
+            D03742  Dextromethorphan (USP)
+            D03744  Dextromethorphan polistirex (USAN)
+            D03746  Dextrorphan hydrochloride (USAN)
+            D03878  Dizocilpine maleate (USAN)
+            D04905  Memantine hydrochloride (JAN/USAN)
+            D05453  Phencyclidine hydrochloride (USAN)
+            D06204  Traxoprodil mesylate (USAN)
+            D07283  Esketamine (INN)
+            D07441  Amantadine (INN)
+            D08064  Ifenprodil (INN)
+            D08098  Ketamine (INN)
+            D08121  Levomethadone (INN)
+            D08122  Levomethadone hydrochloride
+            D08174  Memantine (INN)
+            D08195  Methadone (BAN)
+///

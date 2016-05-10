@@ -1,0 +1,77 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00300
+server: Apache
+date: Wed, 15 Oct 2014 15:07:37 GMT
+content-type: text/plain
+
+ENTRY       map00300                    Pathway
+NAME        Lysine biosynthesis
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00300  Lysine biosynthesis
+MODULE      M00016  Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine [PATH:map00300]
+            M00030  Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine [PATH:map00300]
+            M00031  Lysine biosynthesis, 2-aminoadipate => lysine [PATH:map00300]
+            M00433  Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate [PATH:map00300]
+            M00525  Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine [PATH:map00300]
+            M00526  Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine [PATH:map00300]
+            M00527  Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine [PATH:map00300]
+DISEASE     H00188  Hyperlysinemia
+DBLINKS     GO: 0009085
+REFERENCE   PMID:10074354
+  AUTHORS   Ledwidge R, Blanchard JS.
+  TITLE     The dual biosynthetic capability of N-acetylornithine aminotransferase in arginine and lysine biosynthesis.
+  JOURNAL   Biochemistry 38:3019-3024 (1999)
+REFERENCE   PMID:10850974
+  AUTHORS   Fuchs TM, Schneider B, Krumbach K, Eggeling L, Gross R.
+  TITLE     Characterization of a bordetella pertussis diaminopimelate (DAP) biosynthesis locus identifies dapC, a novel gene coding for an N-succinyl-L,L-DAP aminotransferase.
+  JOURNAL   J Bacteriol 182:3626-3631 (2000)
+REFERENCE   PMID:10714900
+  AUTHORS   Zabriskie TM, Jackson MD.
+  TITLE     Lysine biosynthesis and metabolism in fungi.
+  JOURNAL   Nat Prod Rep 17:85-97 (2000)
+REFERENCE   PMID:14627808
+  AUTHORS   Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS.
+  TITLE     Regulation of lysine biosynthesis and transport genes in bacteria: yet another RNA riboswitch?
+  JOURNAL   Nucleic Acids Res 31:6748-57 (2003)
+REFERENCE   PMID:12355264
+  AUTHORS   Velasco AM, Leguina JI, Lazcano A.
+  TITLE     Molecular evolution of the lysine biosynthetic pathways.
+  JOURNAL   J Mol Evol 55:445-59 (2002)
+REFERENCE   PMID:15256574
+  AUTHORS   Miyazaki T, Miyazaki J, Yamane H, Nishiyama M.
+  TITLE     alpha-Aminoadipate aminotransferase from an extremely thermophilic bacterium, Thermus thermophilus.
+  JOURNAL   Microbiology 150:2327-34 (2004)
+REFERENCE   PMID:12126930
+  AUTHORS   Goh DL, Patel A, Thomas GH, Salomons GS, Schor DS, Jakobs C, Geraghty MT.
+  TITLE     Characterization of the human gene encoding alpha-aminoadipate aminotransferase (AADAT).
+  JOURNAL   Mol Genet Metab 76:172-80 (2002)
+REFERENCE   PMID:15160885
+  AUTHORS   Nishiyama M.
+  TITLE     [Novel lysine biosynthesis: a key to elucidate evolution of metabolic and biosynthetic pathways]
+  JOURNAL   Tanpakushitsu Kakusan Koso 49:758-63 (2004)
+REFERENCE   PMID:10613839
+  AUTHORS   Nishida H, Nishiyama M, Kobashi N, Kosuge T, Hoshino T, Yamane H.
+  TITLE     A prokaryotic gene cluster involved in synthesis of lysine through the amino adipate pathway: a key to the evolution of amino acid biosynthesis.
+  JOURNAL   Genome Res 9:1175-83 (1999)
+REFERENCE   PMID:12963379
+  AUTHORS   Sakai H, Vassylyeva MN, Matsuura T, Sekine S, Gotoh K, Nishiyama M, Terada T, Shirouzu M, Kuramitsu S, Vassylyev DG, Yokoyama S.
+  TITLE     Crystal structure of a lysine biosynthesis enzyme, LysX, from Thermus thermophilus HB8.
+  JOURNAL   J Mol Biol 332:729-40 (2003)
+REFERENCE   PMID:16361515
+  AUTHORS   Hudson AO, Singh BK, Leustek T, Gilvarg C.
+  TITLE     An LL-diaminopimelate aminotransferase defines a novel variant of the lysine biosynthesis pathway in plants.
+  JOURNAL   Plant Physiol 140:292-301 (2006)
+REFERENCE   PMID:19620981
+  AUTHORS   Horie A, Tomita T, Saiki A, Kono H, Taka H, Mineki R, Fujimura T, Nishiyama C, Kuzuyama T, Nishiyama M
+  TITLE     Discovery of proteinaceous N-modification in lysine biosynthesis of Thermus thermophilus.
+  JOURNAL   Nat Chem Biol 5:673-9 (2009)
+REFERENCE   PMID:21547300
+  AUTHORS   Dairi T, Kuzuyama T, Nishiyama M, Fujii I
+  TITLE     Convergent strategies in biosynthesis.
+  JOURNAL   Nat Prod Rep 28:1054-86 (2011)
+REFERENCE   PMID:21550296
+  AUTHORS   Gaston MA, Jiang R, Krzycki JA
+  TITLE     Functional context, biosynthesis, and genetic encoding of pyrrolysine.
+  JOURNAL   Curr Opin Microbiol 14:342-9 (2011)
+KO_PATHWAY  ko00300
+///

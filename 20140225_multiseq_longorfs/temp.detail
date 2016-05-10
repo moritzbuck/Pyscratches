@@ -1,0 +1,34 @@
+Command:  /home/moritz/bin/glimmer3 -o 50 -g 110 -t 30 temp_genome.fasta temp.icm temp
+
+Sequence file = temp_genome.fasta
+Number of sequences = 1
+ICM model file = temp.icm
+Excluded regions file = none
+List of orfs file = none
+Input is NOT separate orfs
+Independent (non-coding) scores are used
+Circular genome = true
+Truncated orfs = false
+Minimum gene length = 110 bp
+Maximum overlap bases = 50
+Threshold score = 30
+Use first start codon = false
+Start codons = atg,gtg,ttg
+Start probs = 0.600,0.300,0.100
+Stop codons = taa,tag,tga
+GC percentage = 48.2%
+Ignore score on orfs longer than 693
+
+
+>contig-12001023 1032 nucleotides
+Sequence length = 1032
+
+           ----- Start -----           --- Length ----  ------------- Scores -------------
+ ID  Frame   of Orf  of Gene     Stop   of Orf of Gene      Raw InFrm F1 F2 F3 R1 R2 R3 NC
+        +1      802      808       72      300     294     0.39    10 10  -  - 86  -  -  3
+        -3      185      158       45      138     111    -0.25     0  -  -  4 93  -  0  1
+0001    +1      112      385      627      513     240     2.33    33 33  -  - 66  -  -  0
+        -3      704      698      579      123     117    -3.86     0  - 17  - 56  -  0 25
+        +1      628      628      759      129     129    -0.38    15 15 51  -  6  -  - 25
+0002    +2      506      656      811      303     153     2.30    94  - 94  -  2  -  -  2
+        -2      127       37      899      258     168    -2.84     0  1  -  - 89  0  -  9

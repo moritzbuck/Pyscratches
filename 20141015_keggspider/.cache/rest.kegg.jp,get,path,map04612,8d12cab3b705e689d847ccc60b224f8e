@@ -1,0 +1,80 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04612
+server: Apache
+date: Wed, 15 Oct 2014 14:58:31 GMT
+content-type: text/plain
+
+ENTRY       map04612                    Pathway
+NAME        Antigen processing and presentation
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04612  Antigen processing and presentation
+DISEASE     H00344  Leprosy
+            H00425  Lysosomal cysteine protease deficiencies
+            H00932  Tropical calcific pancreatitis
+            H00984  Bare lymphocyte syndrome (BLS) type1
+            H00985  Bare lymphocyte syndrome (BLS) type2
+            H01132  Aplastic anemia (AA)
+            H01303  Hypercatabolic hypoproteinemia
+DBLINKS     GO: 0019885 0019886 0042591
+REFERENCE   PMID:15771591
+  AUTHORS   Trombetta ES, Mellman I.
+  TITLE     Cell biology of antigen processing in vitro and in vivo.
+  JOURNAL   Annu Rev Immunol 23:975-1028 (2005)
+REFERENCE   PMID:15814328
+  AUTHORS   Inaba K, Inaba M.
+  TITLE     Antigen recognition and presentation by dendritic cells.
+  JOURNAL   Int J Hematol 81:181-7 (2005)
+REFERENCE   PMID:11905820
+  AUTHORS   Heath WR, Carbone FR.
+  TITLE     Cross-presentation in viral immunity and self-tolerance.
+  JOURNAL   Nat Rev Immunol 1:126-34 (2001)
+REFERENCE   PMID:15304636
+  AUTHORS   Abele R, Tampe R.
+  TITLE     The ABCs of immunology: structure and function of TAP, the transporter associated with antigen processing.
+  JOURNAL   Physiology (Bethesda) 19:216-24 (2004)
+REFERENCE   PMID:16200082
+  AUTHORS   Reith W, LeibundGut-Landmann S, Waldburger JM.
+  TITLE     Regulation of MHC class II gene expression by the class II transactivator.
+  JOURNAL   Nat Rev Immunol 5:793-806 (2005)
+REFERENCE   PMID:12776207
+  AUTHORS   Honey K, Rudensky AY.
+  TITLE     Lysosomal cysteine proteases regulate antigen presentation.
+  JOURNAL   Nat Rev Immunol 3:472-82 (2003)
+REFERENCE   PMID:12974477
+  AUTHORS   Sercarz EE, Maverakis E.
+  TITLE     Mhc-guided processing: binding of large antigen fragments.
+  JOURNAL   Nat Rev Immunol 3:621-9 (2003)
+REFERENCE   PMID:15224093
+  AUTHORS   Ackerman AL, Cresswell P.
+  TITLE     Cellular mechanisms governing cross-presentation of exogenous antigens.
+  JOURNAL   Nat Immunol 5:678-84 (2004)
+REFERENCE   PMID:16181333
+  AUTHORS   Cresswell P, Ackerman AL, Giodini A, Peaper DR, Wearsch PA.
+  TITLE     Mechanisms of MHC class I-restricted antigen processing and cross-presentation.
+  JOURNAL   Immunol Rev 207:145-57 (2005)
+REFERENCE   PMID:15653312
+  AUTHORS   Zika E, Ting JP.
+  TITLE     Epigenetic control of MHC-II: interplay between CIITA and histone-modifying enzymes.
+  JOURNAL   Curr Opin Immunol 17:58-64 (2005)
+REFERENCE   PMID:11244040
+  AUTHORS   Reith W, Mach B.
+  TITLE     The bare lymphocyte syndrome and the regulation of MHC expression.
+  JOURNAL   Annu Rev Immunol 19:331-73 (2001)
+REFERENCE   PMID:15745856
+  AUTHORS   Lizee G, Basha G, Jefferies WA.
+  TITLE     Tails of wonder: endocytic-sorting motifs key for exogenous antigen presentation.
+  JOURNAL   Trends Immunol 26:141-9 (2005)
+REFERENCE   PMID:15224094
+  AUTHORS   Watts C.
+  TITLE     The exogenous pathway for antigen presentation on major histocompatibility complex class II and CD1 molecules.
+  JOURNAL   Nat Immunol 5:685-92 (2004)
+REFERENCE   PMID:15653315
+  AUTHORS   Kaufmann SH, Schaible UE.
+  TITLE     Antigen presentation and recognition in bacterial infections.
+  JOURNAL   Curr Opin Immunol 17:79-87 (2005)
+REFERENCE   PMID:20010787
+  AUTHORS   Groettrup M, Kirk CJ, Basler M
+  TITLE     Proteasomes in immune cells: more than peptide producers?
+  JOURNAL   Nat Rev Immunol 10:73-8 (2010)
+KO_PATHWAY  ko04612
+///

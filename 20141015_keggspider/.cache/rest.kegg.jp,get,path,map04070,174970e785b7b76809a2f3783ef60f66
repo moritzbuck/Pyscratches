@@ -1,0 +1,20 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04070
+server: Apache
+date: Wed, 15 Oct 2014 14:58:16 GMT
+content-type: text/plain
+
+ENTRY       map04070                    Pathway
+NAME        Phosphatidylinositol signaling system
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04070  Phosphatidylinositol signaling system
+DISEASE     H00530  Joubert syndrome
+            H00692  Lowe syndrome
+            H00694  Dent disease
+            H00700  Centronuclear myopathy
+            H00865  Lethal congenital contractural syndrome (LCCS)
+            H00957  Fleck corneal dystrophy (FCD)
+            H01195  VACTERL/VATER association
+            H01307  Nonsyndromic congenital nail disorder (NDNC)
+KO_PATHWAY  ko04070
+///

@@ -1,0 +1,73 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04620
+server: Apache
+date: Wed, 15 Oct 2014 15:08:54 GMT
+content-type: text/plain
+
+ENTRY       map04620                    Pathway
+NAME        Toll-like receptor signaling pathway
+DESCRIPTION Specific families of pattern recognition receptors are responsible for detecting microbial pathogens and generating innate immune responses. Toll-like receptors (TLRs) are membrane-bound receptors identified as homologs of Toll in Drosophila. Mammalian TLRs are expressed on innate immune cells, such as macrophages and dendritic cells, and respond to the membrane components of Gram-positive or Gram-negative bacteria. Pathogen recognition by TLRs provokes rapid activation of innate immunity by inducing production of proinflammatory cytokines and upregulation of costimulatory molecules. TLR signaling pathways are separated into two groups: a MyD88-dependent pathway that leads to the production of proinflammatory cytokines with quick activation of NF-{kappa}B and MAPK, and a MyD88-independent pathway associated with the induction of IFN-beta and IFN-inducible genes, and maturation of dendritic cells with slow activation of NF-{kappa}B and MAPK.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04620  Toll-like receptor signaling pathway
+DISEASE     H00096  Defects of toll-like receptor signaling
+            H00273  Pycnodysostosis
+            H00344  Leprosy
+            H00425  Lysosomal cysteine protease deficiencies
+            H00721  Pyogenic bacterial infections, recurrent, due to MYD88 deficiency
+            H00821  Macular degeneration
+            H00882  Cocoon syndrome
+            H01109  Chronic mucocutaneous candidiasis (CMC)
+REFERENCE   PMID:17275323
+  AUTHORS   Kawai T, Akira S.
+  TITLE     TLR signaling.
+  JOURNAL   Semin Immunol 19:24-32 (2007)
+REFERENCE   PMID:17457343
+  AUTHORS   O'Neill LA, Bowie AG.
+  TITLE     The family of five: TIR-domain-containing adaptors in Toll-like receptor signalling.
+  JOURNAL   Nat Rev Immunol 7:353-64 (2007)
+REFERENCE   PMID:16932750
+  AUTHORS   Honda K, Taniguchi T.
+  TITLE     IRFs: master regulators of signalling by Toll-like receptors and cytosolic pattern-recognition receptors.
+  JOURNAL   Nat Rev Immunol 6:644-58 (2006)
+REFERENCE   PMID:17395581
+  AUTHORS   Uematsu S, Akira S.
+  TITLE     Toll-like receptors and Type I interferons.
+  JOURNAL   J Biol Chem 282:15319-23 (2007)
+REFERENCE   PMID:16497588
+  AUTHORS   Akira S, Uematsu S, Takeuchi O.
+  TITLE     Pathogen recognition and innate immunity.
+  JOURNAL   Cell 124:783-801 (2006)
+REFERENCE   PMID:14698224
+  AUTHORS   Yamamoto M, Takeda K, Akira S.
+  TITLE     TIR domain-containing adaptors define the specificity of TLR signaling.
+  JOURNAL   Mol Immunol 40:861-8 (2004)
+REFERENCE   
+  AUTHORS   Matsumoto M, Oshiumi H, Seya T.
+  TITLE     [TICAM-1, an adaptor molecule that participates in Toll-like receptor-mediated type1 interferon production.] (In Japanese)
+  JOURNAL   Molecular Medicine 40:194-200 (2003)
+REFERENCE   PMID:12734364
+  AUTHORS   Means TK, Hayashi F, Smith KD, Aderem A, Luster AD.
+  TITLE     The Toll-like receptor 5 stimulus bacterial flagellin induces maturation and chemokine production in human dendritic cells.
+  JOURNAL   J Immunol 170:5165-75 (2003)
+REFERENCE   PMID:14751764
+  AUTHORS   Aderem A, Smith KD.
+  TITLE     A systems approach to dissecting immunity and inflammation.
+  JOURNAL   Semin Immunol 16:55-67 (2004)
+REFERENCE   PMID:17637696
+  AUTHORS   Banerjee A, Gerondakis S.
+  TITLE     Coordinating TLR-activated signaling pathways in cells of the immune system.
+  JOURNAL   Immunol Cell Biol : (2007)
+REFERENCE   PMID:17507094
+  AUTHORS   Loniewski KJ, Patial S, Parameswaran N.
+  TITLE     Sensitivity of TLR4- and -7-induced NF kappa B1 p105-TPL2-ERK pathway to TNF-receptor-associated-factor-6 revealed by RNAi in mouse macrophages.
+  JOURNAL   Mol Immunol 44:3715-23 (2007)
+REFERENCE   PMID:11101877
+  AUTHORS   Arbibe L, Mira JP, Teusch N, Kline L, Guha M, Mackman N, Godowski PJ, Ulevitch RJ, Knaus UG.
+  TITLE     Toll-like receptor 2-mediated NF-kappa B activation requires a Rac1-dependent pathway.
+  JOURNAL   Nat Immunol 1:533-40 (2000)
+REFERENCE   PMID:16924467
+  AUTHORS   Uematsu S, Akira S.
+  TITLE     Toll-like receptors and innate immunity.
+  JOURNAL   J Mol Med 84:712-25 (2006)
+KO_PATHWAY  ko04620
+///

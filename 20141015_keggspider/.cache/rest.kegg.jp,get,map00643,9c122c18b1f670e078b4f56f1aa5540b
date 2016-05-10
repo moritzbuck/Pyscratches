@@ -1,0 +1,22 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00643
+server: Apache
+date: Wed, 15 Oct 2014 15:08:01 GMT
+content-type: text/plain
+
+ENTRY       map00643                    Pathway
+NAME        Styrene degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00643  Styrene degradation
+DBLINKS     UMBBD: sty acr pao
+            GO: 0042207
+REFERENCE   PMID:11544206
+  AUTHORS   Rodriguez-Saiz M, Barredo JL, Moreno MA, Fernandez-Canon JM, Penalva MA, Diez B.
+  TITLE     Reduced function of a phenylacetate-oxidizing cytochrome p450 caused strong genetic improvement in early phylogeny of penicillin-producing strains.
+  JOURNAL   J Bacteriol 183:5465-71 (2001)
+REFERENCE   PMID:17189487
+  AUTHORS   Ferrer-Sevillano F, Fernandez-Canon JM.
+  TITLE     Novel phacB-encoded cytochrome P450 monooxygenase from Aspergillus nidulans with 3-hydroxyphenylacetate 6-hydroxylase and 3,4-dihydroxyphenylacetate 6-hydroxylase activities.
+  JOURNAL   Eukaryot Cell 6:514-20 (2007)
+KO_PATHWAY  ko00643
+///

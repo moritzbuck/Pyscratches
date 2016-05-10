@@ -1,0 +1,28 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00240
+server: Apache
+date: Wed, 15 Oct 2014 15:07:34 GMT
+content-type: text/plain
+
+ENTRY       map00240                    Pathway
+NAME        Pyrimidine metabolism
+CLASS       Metabolism; Nucleotide metabolism
+PATHWAY_MAP map00240  Pyrimidine metabolism
+MODULE      M00046  Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate [PATH:map00240]
+            M00051  Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP [PATH:map00240]
+            M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP [PATH:map00240]
+            M00053  Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP [PATH:map00240]
+DISEASE     H00193  Dihydropyrimidine dehydrogenase deficiency
+            H00198  Orotic aciduria
+            H00199  Dihydropyrimidinase deficiency
+            H00200  Beta-ureidopropionase deficiency
+            H00469  Mitochondrial DNA depletion syndrome (MDS)
+            H00494  Desbuquois syndrome
+            H00674  Anemia due to disorders of nucleotide metabolism
+            H00824  Calcification of joints and arteries
+            H01118  Progressive external ophthalmoplegia (PEO)
+            H01376  Acrofacial dysostosis
+            H01390  Mitochondrial neurogastrointestinal encephalomyopathy
+DBLINKS     GO: 0006220
+KO_PATHWAY  ko00240
+///

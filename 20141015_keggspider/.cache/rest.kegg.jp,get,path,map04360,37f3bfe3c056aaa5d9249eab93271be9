@@ -1,0 +1,60 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04360
+server: Apache
+date: Wed, 15 Oct 2014 14:58:27 GMT
+content-type: text/plain
+
+ENTRY       map04360                    Pathway
+NAME        Axon guidance
+DESCRIPTION Axon guidance represents a key stage in the formation of neuronal network. Axons are guided by a variety of guidance factors, such as netrins, ephrins, Slits, and semaphorins. These guidance cues are read by growth cone receptors, and signal transduction pathways downstream of these receptors converge onto the Rho GTPases to elicit changes in cytoskeletal organization that determine which way the growth cone will turn.
+CLASS       Organismal Systems; Development
+PATHWAY_MAP map04360  Axon guidance
+DISEASE     H00577  Syndromic X-linked mental retardation with epilepsy or seizures
+            H00698  Nemaline myopathy
+            H00764  Cri du chat syndrome
+            H01034  L1 syndrome
+            H01202  Cataract
+            H01287  Congenital mirror movements (CMM)
+DBLINKS     GO: 0007411
+REFERENCE   PMID:14682358
+  AUTHORS   Guan KL, Rao Y.
+  TITLE     Signalling mechanisms mediating neuronal responses to guidance cues.
+  JOURNAL   Nat Rev Neurosci 4:941-56 (2003)
+REFERENCE   PMID:15630019
+  AUTHORS   Govek EE, Newey SE, Van Aelst L.
+  TITLE     The role of the Rho GTPases in neuronal development.
+  JOURNAL   Genes Dev 19:1-49 (2005)
+REFERENCE   PMID:12677003
+  AUTHORS   Huber AB, Kolodkin AL, Ginty DD, Cloutier JF.
+  TITLE     Signaling at the growth cone: ligand-receptor complexes and the control of axon growth and guidance.
+  JOURNAL   Annu Rev Neurosci 26:509-63 (2003)
+REFERENCE   PMID:15818466
+  AUTHORS   Negishi M, Oinuma I, Katoh H.
+  TITLE     Plexins: axon guidance and signal transduction.
+  JOURNAL   Cell Mol Life Sci 62:1363-71 (2005)
+REFERENCE   PMID:15363605
+  AUTHORS   Huot J.
+  TITLE     Ephrin signaling in axon guidance.
+  JOURNAL   Prog Neuropsychopharmacol Biol Psychiatry 28:813-8 (2004)
+REFERENCE   PMID:11891122
+  AUTHORS   Patel BN, Van Vactor DL.
+  TITLE     Axon guidance: the cytoplasmic tail.
+  JOURNAL   Curr Opin Cell Biol 14:221-9 (2002)
+REFERENCE   PMID:11687826
+  AUTHORS   Yu TW, Bargmann CI.
+  TITLE     Dynamic regulation of axon guidance.
+  JOURNAL   Nat Neurosci 4 Suppl:1169-76 (2001)
+REFERENCE   PMID:12471249
+  AUTHORS   Dickson BJ.
+  TITLE     Molecular mechanisms of axon guidance.
+  JOURNAL   Science 298:1959-64 (2002)
+REFERENCE   PMID:15960985
+  AUTHORS   Barallobre MJ, Pascual M, Del Rio JA, Soriano E.
+  TITLE     The Netrin family of guidance factors: emphasis on Netrin-1 signalling.
+  JOURNAL   Brain Res Brain Res Rev 49:22-47 (2005)
+REFERENCE   PMID:15084255
+  AUTHORS   Sabatier C, Plump AS, Le Ma, Brose K, Tamada A, Murakami F, Lee EY, Tessier-Lavigne M.
+  TITLE     The divergent Robo family protein rig-1/Robo3 is a negative regulator of slit responsiveness required for midline crossing by commissural axons.
+  JOURNAL   Cell 117:157-69 (2004)
+KO_PATHWAY  ko04360
+///

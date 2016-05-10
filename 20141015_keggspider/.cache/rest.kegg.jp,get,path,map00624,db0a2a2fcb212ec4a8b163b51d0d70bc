@@ -1,0 +1,80 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00624
+server: Apache
+date: Wed, 15 Oct 2014 14:57:36 GMT
+content-type: text/plain
+
+ENTRY       map00624                    Pathway
+NAME        Polycyclic aromatic hydrocarbon degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00624  Polycyclic aromatic hydrocarbon degradation
+MODULE      M00623  Phthalate degradation, phthalate => protocatechuate [PATH:map00624]
+            M00624  Terephthalate degradation, terephthalate => 3,4-dihydroxybenzoate [PATH:map00624]
+            M00636  Phthalate degradation, phthalate => protocatechuate [PATH:map00624]
+DBLINKS     UMBBD: flu ant pha pyr bap pth
+REFERENCE   PMID:11766961
+  AUTHORS   Wattiau P, Bastiaens L, van Herwijnen R, Daal L, Parsons JR, Renard ME, Springael D, Cornelis GR.
+  TITLE     Fluorene degradation by Sphingomonas sp. LB126 proceeds through protocatechuic acid: a genetic analysis.
+  JOURNAL   Res Microbiol 152:861-72 (2001)
+REFERENCE   PMID:15386141
+  AUTHORS   Story SP, Kline EL, Hughes TA, Riley MB, Hayasaka SS.
+  TITLE     Degradation of aromatic hydrocarbons by Sphingomonas paucimobilis strain EPA505.
+  JOURNAL   Arch Environ Contam Toxicol 47:168-76 (2004)
+REFERENCE   PMID:15317800
+  AUTHORS   Habe H, Chung JS, Kato H, Ayabe Y, Kasuga K, Yoshida T, Nojiri H, Yamane H, Omori T.
+  TITLE     Characterization of the upper pathway genes for fluorene metabolism in Terrabacter sp. strain DBF63.
+  JOURNAL   J Bacteriol 186:5938-44 (2004)
+REFERENCE   PMID:12483604
+  AUTHORS   Nojiri H, Habe H, Omori T.
+  TITLE     Bacterial degradation of aromatic compounds via angular dioxygenation.
+  JOURNAL   J Gen Appl Microbiol 47:279-305 (2001)
+REFERENCE   PMID:17258432
+  AUTHORS   Pagnout C, Frache G, Poupin P, Maunit B, Muller JF, Ferard JF.
+  TITLE     Isolation and characterization of a gene cluster involved in PAH degradation in Mycobacterium sp. strain SNP11: expression in Mycobacterium smegmatis mc(2)155.
+  JOURNAL   Res Microbiol 158:175-86 (2007)
+REFERENCE   PMID:11682202
+  AUTHORS   Dean-Ross D, Moody JD, Freeman JP, Doerge DR, Cerniglia CE.
+  TITLE     Metabolism of anthracene by a Rhodococcus species.
+  JOURNAL   FEMS Microbiol Lett 204:205-11 (2001)
+REFERENCE   PMID:11282593
+  AUTHORS   Moody JD, Freeman JP, Doerge DR, Cerniglia CE.
+  TITLE     Degradation of phenanthrene and anthracene by cell suspensions of Mycobacterium sp. strain PYR-1.
+  JOURNAL   Appl Environ Microbiol 67:1476-83 (2001)
+REFERENCE   PMID:12513994
+  AUTHORS   van Herwijnen R, Springael D, Slot P, Govers HA, Parsons JR.
+  TITLE     Degradation of anthracene by Mycobacterium sp. strain LB501T proceeds via a novel pathway, through o-phthalic acid.
+  JOURNAL   Appl Environ Microbiol 69:186-90 (2003)
+REFERENCE   PMID:19442441
+  AUTHORS   Haritash AK, Kaushik CP
+  TITLE     Biodegradation aspects of polycyclic aromatic hydrocarbons (PAHs): a review.
+  JOURNAL   J Hazard Mater 169:1-15 (2009)
+REFERENCE   PMID:17041157
+  AUTHORS   Liang Y, Gardner DR, Miller CD, Chen D, Anderson AJ, Weimer BC, Sims RC
+  TITLE     Study of biochemical pathways and enzymes involved in pyrene degradation by Mycobacterium sp. strain KMS.
+  JOURNAL   Appl Environ Microbiol 72:7821-8 (2006)
+REFERENCE   PMID:15488584
+  AUTHORS   da Silva M, Esposito E, Moody JD, Canhos VP, Cerniglia CE
+  TITLE     Metabolism of aromatic hydrocarbons by the filamentous fungus Cyclothyrium sp.
+  JOURNAL   Chemosphere 57:943-52 (2004)
+REFERENCE   PMID:17085566
+  AUTHORS   Kim SJ, Kweon O, Jones RC, Freeman JP, Edmondson RD, Cerniglia CE
+  TITLE     Complete and integrated pyrene degradation pathway in Mycobacterium vanbaalenii PYR-1 based on systems biology.
+  JOURNAL   J Bacteriol 189:464-72 (2007)
+REFERENCE   PMID:9094229
+  AUTHORS   Wunder T, Marr J, Kremer S, Sterner O, Anke H
+  TITLE     1-Methoxypyrene and 1,6-dimethoxypyrene: two novel metabolites in fungal metabolism of polycyclic aromatic hydrocarbons.
+  JOURNAL   Arch Microbiol 167:310-6 (1997)
+REFERENCE   PMID:8572690
+  AUTHORS   Schneider J, Grosser R, Jayasimhulu K, Xue W, Warshawsky D
+  TITLE     Degradation of pyrene, benz[a]anthracene, and benzo[a]pyrene by Mycobacterium sp. strain RJGII-135, isolated from a former coal gasification site.
+  JOURNAL   Appl Environ Microbiol 62:13-9 (1996)
+REFERENCE   PMID:14711661
+  AUTHORS   Moody JD, Freeman JP, Fu PP, Cerniglia CE
+  TITLE     Degradation of benzo[a]pyrene by Mycobacterium vanbaalenii PYR-1.
+  JOURNAL   Appl Environ Microbiol 70:340-5 (2004)
+REFERENCE   PMID:11371533
+  AUTHORS   Eaton RW
+  TITLE     Plasmid-encoded phthalate catabolic pathway in Arthrobacter keyseri 12B.
+  JOURNAL   J Bacteriol 183:3689-703 (2001)
+KO_PATHWAY  ko00624
+///

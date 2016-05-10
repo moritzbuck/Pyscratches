@@ -1,0 +1,20 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00051
+server: Apache
+date: Wed, 15 Oct 2014 15:07:28 GMT
+content-type: text/plain
+
+ENTRY       map00051                    Pathway
+NAME        Fructose and mannose metabolism
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP map00051  Fructose and mannose metabolism
+MODULE      M00114  Ascorbate biosynthesis, plants, glucose-6P => ascorbate [PATH:map00051]
+            M00273  PTS system, fructose-specific II component [PATH:map00051]
+            M00274  PTS system, mannitol-specific II component [PATH:map00051]
+            M00276  PTS system, mannose-specific II component [PATH:map00051]
+            M00278  PTS system, sorbose-specific II component [PATH:map00051]
+            M00280  PTS system, glucitol/sorbitol-specific II component [PATH:map00051]
+DISEASE     H00118  Congenital disorders of glycosylation (CDG) type I
+DBLINKS     GO: 0006000 0006013
+KO_PATHWAY  ko00051
+///

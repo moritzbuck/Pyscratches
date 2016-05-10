@@ -1,0 +1,22 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07112
+server: Apache
+date: Wed, 15 Oct 2014 15:09:54 GMT
+content-type: text/plain
+
+ENTRY       map07112          Drug      Pathway
+NAME        1,2-Diphenyl substitution family
+PATHWAY_MAP map07112  1,2-Diphenyl substitution family
+COMPOUND    C14316  SB 218655
+            C14319  SR 141716
+            D00463  Oxaprozin (JP16/USAN/INN)
+            D00510  Phenylbutazone (JP16/USP/INN)
+            D00567  Celecoxib (JAN/USAN/INN)
+            D00568  Rofecoxib (JAN/USAN/INN)
+            D01090  Pamicogrel (JAN/INN)
+            D01718  Mofezolac (JAN/INN)
+REFERENCE   PMID:12927511
+  AUTHORS   Muller G.
+  TITLE     Medicinal chemistry of target family-directed masterkeys.
+  JOURNAL   Drug Discov Today 8:681-91 (2003)
+///

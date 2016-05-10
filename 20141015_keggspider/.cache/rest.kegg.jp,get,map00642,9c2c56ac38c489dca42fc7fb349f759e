@@ -1,0 +1,21 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00642
+server: Apache
+date: Wed, 15 Oct 2014 15:08:01 GMT
+content-type: text/plain
+
+ENTRY       map00642                    Pathway
+NAME        Ethylbenzene degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00642  Ethylbenzene degradation
+DBLINKS     UMBBD: ethb2 ethb
+REFERENCE   PMID:12420173
+  AUTHORS   Rabus R, Kube M, Beck A, Widdel F, Reinhardt R.
+  TITLE     Genes involved in the anaerobic degradation of ethylbenzene in a denitrifying bacterium, strain EbN1.
+  JOURNAL   Arch Microbiol 178:506-16 (2002)
+REFERENCE   PMID:15551059
+  AUTHORS   Rabus R, Kube M, Heider J, Beck A, Heitmann K, Widdel F, Reinhardt R.
+  TITLE     The genome sequence of an anaerobic aromatic-degrading denitrifying bacterium, strain EbN1.
+  JOURNAL   Arch Microbiol 183:27-36 (2005)
+KO_PATHWAY  ko00642
+///

@@ -1,0 +1,77 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04012
+server: Apache
+date: Wed, 15 Oct 2014 15:08:34 GMT
+content-type: text/plain
+
+ENTRY       map04012                    Pathway
+NAME        ErbB signaling pathway
+DESCRIPTION The ErbB family of receptor tyrosine kinases (RTKs) couples binding of extracellular growth factor ligands to intracellular signaling pathways regulating diverse biologic responses, including proliferation, differentiation, cell motility, and survival. Ligand binding to the four closely related members of this RTK family -epidermal growth factor receptor (EGFR, also known as ErbB-1 or HER1), ErbB-2 (HER2), ErbB-3 (HER3), and ErbB-4 (HER4)-induces the formation of receptor homo- and heterodimers and the activation of the intrinsic kinase domain, resulting in phosphorylation on specific tyrosine residues (pY) within the cytoplasmic tail. Signaling effectors containing binding pockets for pY-containing peptides are recruited to activated receptors and induce the various signaling pathways. The Shc- and/or Grb2-activated mitogen-activated protein kinase (MAPK) pathway is a common target downstream of all ErbB receptors. Similarly, the phosphatidylinositol-3-kinase (PI-3K) pathway is directly or indirectly activated by most ErbBs. Several cytoplasmic docking proteins appear to be recruited by specific ErbB receptors and less exploited by others. These include the adaptors Crk, Nck, the phospholipase C gamma (PLCgamma), the intracellular tyrosine kinase Src, or the Cbl E3 ubiquitin protein ligase.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04012  ErbB signaling pathway
+DISEASE     H00539  PTEN hamartoma tumor syndrome (PHTS)
+            H00865  Lethal congenital contractural syndrome (LCCS)
+            H00931  Growth hormone insensitivity with immunodeficiency
+            H01102  Pituitary adenomas
+REFERENCE   PMID:14967450
+  AUTHORS   Marmor MD, Skaria KB, Yarden Y.
+  TITLE     Signal transduction and oncogenesis by ErbB/HER receptors.
+  JOURNAL   Int J Radiat Oncol Biol Phys 58:903-13 (2004)
+REFERENCE   PMID:11252954
+  AUTHORS   Yarden Y, Sliwkowski MX.
+  TITLE     Untangling the ErbB signalling network.
+  JOURNAL   Nat Rev Mol Cell Biol 2:127-37 (2001)
+REFERENCE   PMID:16829981
+  AUTHORS   Citri A, Yarden Y.
+  TITLE     EGF-ERBB signalling: towards the systems level.
+  JOURNAL   Nat Rev Mol Cell Biol 7:505-16 (2006)
+REFERENCE   PMID:17000658
+  AUTHORS   Scaltriti M, Baselga J.
+  TITLE     The epidermal growth factor receptor pathway: a model for targeted therapy.
+  JOURNAL   Clin Cancer Res 12:5268-72 (2006)
+REFERENCE   PMID:16377102
+  AUTHORS   Normanno N, De Luca A, Bianco C, Strizzi L, Mancino M, Maiello MR, Carotenuto A, De Feo G, Caponigro F, Salomon DS.
+  TITLE     Epidermal growth factor receptor (EGFR) signaling in cancer.
+  JOURNAL   Gene 366:2-16 (2006)
+REFERENCE   PMID:14744244
+  AUTHORS   Holbro T, Hynes NE.
+  TITLE     ErbB receptors: directing key signaling networks throughout life.
+  JOURNAL   Annu Rev Pharmacol Toxicol 44:195-217 (2004)
+REFERENCE   PMID:12851486
+  AUTHORS   Liang J, Slingerland JM.
+  TITLE     Multiple roles of the PI3K/PKB (Akt) pathway in cell cycle progression.
+  JOURNAL   Cell Cycle 2:339-45 (2003)
+REFERENCE   PMID:15864276
+  AUTHORS   Hynes NE, Lane HA.
+  TITLE     ERBB receptors and cancer: the complexity of targeted inhibitors.
+  JOURNAL   Nat Rev Cancer 5:341-54 (2005)
+REFERENCE   PMID:16729045
+  AUTHORS   Oda K, Matsuoka Y, Funahashi A, Kitano H.
+  TITLE     A comprehensive pathway map of epidermal growth factor receptor signaling.
+  JOURNAL   Mol Syst Biol 1:2005.0010 (2005)
+REFERENCE   PMID:16729043
+  AUTHORS   Schulze WX, Deng L, Mann M.
+  TITLE     Phosphotyrosine interactome of the ErbB-receptor kinase family.
+  JOURNAL   Mol Syst Biol 1:2005.0008 (2005)
+REFERENCE   PMID:10880430
+  AUTHORS   Olayioye MA, Neve RM, Lane HA, Hynes NE.
+  TITLE     The ErbB signaling network: receptor heterodimerization in development and cancer.
+  JOURNAL   EMBO J 19:3159-67 (2000)
+REFERENCE   PMID:9872057
+  AUTHORS   McCarty JH.
+  TITLE     The Nck SH2/SH3 adaptor protein: a regulator of multiple intracellular signal transduction events.
+  JOURNAL   Bioessays 20:913-21 (1998)
+REFERENCE   PMID:15863494
+  AUTHORS   Clark DE, Williams CC, Duplessis TT, Moring KL, Notwick AR, Long W, Lane WS, Beuvink I, Hynes NE, Jones FE.
+  TITLE     ERBB4/HER4 potentiates STAT5A transcriptional activity by regulating novel STAT5A serine phosphorylation events.
+  JOURNAL   J Biol Chem 280:24175-80 (2005)
+REFERENCE   PMID:10490623
+  AUTHORS   Muthuswamy SK, Gilman M, Brugge JS.
+  TITLE     Controlled dimerization of ErbB receptors provides evidence for differential signaling by homo- and heterodimers.
+  JOURNAL   Mol Cell Biol 19:6845-57 (1999)
+REFERENCE   PMID:9642287
+  AUTHORS   Hashimoto Y, Katayama H, Kiyokawa E, Ota S, Kurata T, Gotoh N, Otsuka N, Shibata M, Matsuda M.
+  TITLE     Phosphorylation of CrkII adaptor protein at tyrosine 221 by epidermal growth factor receptor.
+  JOURNAL   J Biol Chem 273:17186-91 (1998)
+KO_PATHWAY  ko04012
+///

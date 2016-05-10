@@ -1,0 +1,300 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01057
+server: Apache
+date: Wed, 15 Oct 2014 14:57:57 GMT
+content-type: text/plain
+
+ENTRY       map01057                    Pathway
+NAME        Biosynthesis of type II polyketide products
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map01057  Biosynthesis of type II polyketide products
+REFERENCE   PMID:17227452
+  AUTHORS   Taguchi T, Okamoto S, Lezhava A, Li A, Ochi K, Ebizuka Y, Ichinose K
+  TITLE     Possible involvement of ActVI-ORFA in transcriptional regulation of actVI tailoring-step genes for actinorhodin biosynthesis.
+  JOURNAL   FEMS Microbiol Lett 269:234-9 (2007)
+REFERENCE   PMID:12855716
+  AUTHORS   Ichinose K, Ozawa M, Itou K, Kunieda K, Ebizuka Y
+  TITLE     Cloning, sequencing and heterologous expression of the medermycin biosynthetic gene cluster of Streptomyces sp. AM-7161: towards comparative analysis of the benzoisochromanequinone gene clusters.
+  JOURNAL   Microbiology 149:1633-45 (2003)
+REFERENCE   PMID:16169737
+  AUTHORS   Li A, Itoh T, Taguchi T, Xiang T, Ebizuka Y, Ichinose K
+  TITLE     Functional studies on a ketoreductase gene from Streptomyces sp. AM-7161 to control the stereochemistry in medermycin biosynthesis.
+  JOURNAL   Bioorg Med Chem 13:6856-63 (2005)
+REFERENCE   PMID:9831526
+  AUTHORS   Ichinose K, Bedford DJ, Tornus D, Bechthold A, Bibb MJ, Revill WP, Floss HG, Hopwood DA
+  TITLE     The granaticin biosynthetic gene cluster of Streptomyces violaceoruber Tu22: sequence analysis and expression in a heterologous host.
+  JOURNAL   Chem Biol 5:647-59 (1998)
+REFERENCE   PMID:11851466
+  AUTHORS   Hopwood DA
+  TITLE     Genetic Contributions to Understanding Polyketide Synthases.
+  JOURNAL   Chem Rev 97:2465-2498 (1997)
+REFERENCE   PMID:7929165
+  AUTHORS   Fernandez-Moreno MA, Martinez E, Caballero JL, Ichinose K, Hopwood DA, Malpartida F
+  TITLE     DNA sequence and functions of the actVI region of the actinorhodin biosynthetic gene cluster of Streptomyces coelicolor A3(2).
+  JOURNAL   J Biol Chem 269:24854-63 (1994)
+REFERENCE   PMID:17579485
+  AUTHORS   Itoh T, Taguchi T, Kimberley MR, Booker-Milburn KI, Stephenson GR, Ebizuka Y, Ichinose K
+  TITLE     Actinorhodin biosynthesis: structural requirements for post-PKS tailoring intermediates revealed by functional analysis of ActVI-ORF1 reductase.
+  JOURNAL   Biochemistry 46:8181-8 (2007)
+REFERENCE   PMID:11325954
+  AUTHORS   Ichinose K, Taguchi T, Bedford DJ, Ebizuka Y, Hopwood DA
+  TITLE     Functional complementation of pyran ring formation in actinorhodin biosynthesis in Streptomyces coelicolor A3(2) by ketoreductase genes for granaticin biosynthesis.
+  JOURNAL   J Bacteriol 183:3247-50 (2001)
+REFERENCE   PMID:11707113
+  AUTHORS   Taguchi T, Ebizuka Y, Hopwood DA, Ichinose K
+  TITLE     A new mode of stereochemical control revealed by analysis of the biosynthesis of  dihydrogranaticin in Streptomyces violaceoruber Tu22.
+  JOURNAL   J Am Chem Soc 123:11376-80 (2001)
+REFERENCE   PMID:15498668
+  AUTHORS   Taguchi T, Kunieda K, Takeda-Shitaka M, Takaya D, Kawano N, Kimberley MR, Booker-Milburn KI, Stephenson GR, Umeyama H, Ebizuka Y, Ichinose K
+  TITLE     Remarkably different structures and reaction mechanisms of ketoreductases for the opposite stereochemical control in the biosynthesis of BIQ antibiotics.
+  JOURNAL   Bioorg Med Chem 12:5917-27 (2004)
+REFERENCE   PMID:19246012
+  AUTHORS   Okamoto S, Taguchi T, Ochi K, Ichinose K
+  TITLE     Biosynthesis of actinorhodin and related antibiotics: discovery of alternative routes for quinone formation encoded in the act gene cluster.
+  JOURNAL   Chem Biol 16:226-36 (2009)
+REFERENCE   PMID:18245777
+  AUTHORS   Valton J, Mathevon C, Fontecave M, Niviere V, Ballou DP
+  TITLE     Mechanism and regulation of the Two-component FMN-dependent monooxygenase ActVA-ActVB from Streptomyces coelicolor.
+  JOURNAL   J Biol Chem 283:10287-96 (2008)
+REFERENCE   PMID:16267053
+  AUTHORS   Valton J, Fontecave M, Douki T, Kendrew SG, Niviere V
+  TITLE     An aromatic hydroxylation reaction catalyzed by a two-component FMN-dependent Monooxygenase. The ActVA-ActVB system from Streptomyces coelicolor.
+  JOURNAL   J Biol Chem 281:27-35 (2006)
+REFERENCE   PMID:15297451
+  AUTHORS   Valton J, Filisetti L, Fontecave M, Niviere V
+  TITLE     A two-component flavin-dependent monooxygenase involved in actinorhodin biosynthesis in Streptomyces coelicolor.
+  JOURNAL   J Biol Chem 279:44362-9 (2004)
+REFERENCE   PMID:20193654
+  AUTHORS   Ellis HR
+  TITLE     The FMN-dependent two-component monooxygenase systems.
+  JOURNAL   Arch Biochem Biophys 497:1-12 (2010)
+REFERENCE   PMID:12417584
+  AUTHORS   Filisetti L, Fontecave M, Niviere V
+  TITLE     Mechanism and substrate specificity of the flavin reductase ActVB from Streptomyces coelicolor.
+  JOURNAL   J Biol Chem 278:296-303 (2003)
+REFERENCE   PMID:9209048
+  AUTHORS   Kendrew SG, Hopwood DA, Marsh EN
+  TITLE     Identification of a monooxygenase from Streptomyces coelicolor A3(2) involved in  biosynthesis of actinorhodin: purification and characterization of the recombinant enzyme.
+  JOURNAL   J Bacteriol 179:4305-10 (1997)
+REFERENCE   PMID:12514126
+  AUTHORS   Sciara G, Kendrew SG, Miele AE, Marsh NG, Federici L, Malatesta F, Schimperna G, Savino C, Vallone B
+  TITLE     The structure of ActVA-Orf6, a novel type of monooxygenase involved in actinorhodin biosynthesis.
+  JOURNAL   EMBO J 22:205-15 (2003)
+REFERENCE   PMID:20157809
+  AUTHORS   Fetzner S, Steiner RA
+  TITLE     Cofactor-independent oxidases and oxygenases.
+  JOURNAL   Appl Microbiol Biotechnol 86:791-804 (2010)
+REFERENCE   
+  AUTHORS   Krohn K (ed).
+  TITLE     Anthracycline Chemistry and Biology I : Biological Occurence and Biosynthesis, Synthesis and Chemistry
+  JOURNAL   Topics in Current Chemistry 282 (2008)
+REFERENCE   PMID:11683270
+  AUTHORS   Torkkell S, Kunnari T, Palmu K, Mantsala P, Hakala J, Ylihonko K
+  TITLE     The entire nogalamycin biosynthetic gene cluster of Streptomyces nogalater: characterization of a 20-kb DNA region and generation of hybrid structures.
+  JOURNAL   Mol Genet Genomics 266:276-88 (2001)
+REFERENCE   PMID:20052967
+  AUTHORS   Grocholski T, Koskiniemi H, Lindqvist Y, Mantsala P, Niemi J, Schneider G
+  TITLE     Crystal structure of the cofactor-independent monooxygenase SnoaB from Streptomyces nogalater: implications for the reaction mechanism.
+  JOURNAL   Biochemistry 49:934-44 (2010)
+REFERENCE   PMID:19255477
+  AUTHORS   Koskiniemi H, Grocholski T, Schneider G, Niemi J
+  TITLE     Expression, purification and crystallization of the cofactor-independent monooxygenase SnoaB from the nogalamycin biosynthetic pathway.
+  JOURNAL   Acta Crystallogr Sect F Struct Biol Cryst Commun 65:256-9 (2009)
+REFERENCE   PMID:12399480
+  AUTHORS   Chung JY, Fujii I, Harada S, Sankawa U, Ebizuka Y
+  TITLE     Expression, purification, and characterization of AknX anthrone oxygenase, which  is involved in aklavinone biosynthesis in Streptomyces galilaeus.
+  JOURNAL   J Bacteriol 184:6115-22 (2002)
+REFERENCE   PMID:7836284
+  AUTHORS   Dickens ML, Ye J, Strohl WR
+  TITLE     Analysis of clustered genes encoding both early and late steps in daunomycin biosynthesis by Streptomyces sp. strain C5.
+  JOURNAL   J Bacteriol 177:536-43 (1995)
+REFERENCE   PMID:10639368
+  AUTHORS   Torkkell S, Kunnari T, Palmu K, Hakala J, Mantsala P, Ylihonko K
+  TITLE     Identification of a cyclase gene dictating the C-9 stereochemistry of anthracyclines from Streptomyces nogalater.
+  JOURNAL   Antimicrob Agents Chemother 44:396-9 (2000)
+REFERENCE   PMID:15071504
+  AUTHORS   Sultana A, Kallio P, Jansson A, Wang JS, Niemi J, Mantsala P, Schneider G
+  TITLE     Structure of the polyketide cyclase SnoaL reveals a novel mechanism for enzymatic aldol condensation.
+  JOURNAL   EMBO J 23:1911-21 (2004)
+REFERENCE   PMID:16414075
+  AUTHORS   Kallio P, Sultana A, Niemi J, Mantsala P, Schneider G
+  TITLE     Crystal structure of the polyketide cyclase AknH with bound substrate and product analogue: implications for catalytic mechanism and product stereoselectivity.
+  JOURNAL   J Mol Biol 357:210-20 (2006)
+REFERENCE   PMID:8655529
+  AUTHORS   Dickens ML, Ye J, Strohl WR
+  TITLE     Cloning, sequencing, and analysis of aklaviketone reductase from Streptomyces sp. strain C5.
+  JOURNAL   J Bacteriol 178:3384-8 (1996)
+REFERENCE   PMID:17685523
+  AUTHORS   Leimkuhler C, Fridman M, Lupoli T, Walker S, Walsh CT, Kahne D
+  TITLE     Characterization of rhodosaminyl transfer by the AknS/AknT glycosylation complex  and its use in reconstituting the biosynthetic pathway of aclacinomycin A.
+  JOURNAL   J Am Chem Soc 129:10546-50 (2007)
+REFERENCE   PMID:15911373
+  AUTHORS   Lu W, Leimkuhler C, Gatto GJ Jr, Kruger RG, Oberthur M, Kahne D, Walsh CT
+  TITLE     AknT is an activating protein for the glycosyltransferase AknS in L-aminodeoxysugar transfer to the aglycone of aclacinomycin A.
+  JOURNAL   Chem Biol 12:527-34 (2005)
+REFERENCE   PMID:15078101
+  AUTHORS   Lu W, Leimkuhler C, Oberthur M, Kahne D, Walsh CT
+  TITLE     AknK is an L-2-deoxyfucosyltransferase in the biosynthesis of the anthracycline aclacinomycin A.
+  JOURNAL   Biochemistry 43:4548-58 (2004)
+REFERENCE   PMID:17395717
+  AUTHORS   Alexeev I, Sultana A, Mantsala P, Niemi J, Schneider G
+  TITLE     Aclacinomycin oxidoreductase (AknOx) from the biosynthetic pathway of the antibiotic aclacinomycin is an unusual flavoenzyme with a dual active site.
+  JOURNAL   Proc Natl Acad Sci U S A 104:6170-5 (2007)
+REFERENCE   PMID:19744497
+  AUTHORS   Lindqvist Y, Koskiniemi H, Jansson A, Sandalova T, Schnell R, Liu Z, Mantsala P, Niemi J, Schneider G
+  TITLE     Structural basis for substrate recognition and specificity in aklavinone-11-hydroxylase from rhodomycin biosynthesis.
+  JOURNAL   J Mol Biol 393:966-77 (2009)
+REFERENCE   PMID:20116225
+  AUTHORS   Malla S, Niraula NP, Singh B, Liou K, Sohng JK
+  TITLE     Limitations in doxorubicin production from Streptomyces peucetius.
+  JOURNAL   Microbiol Res 165:427-35 (2010)
+REFERENCE   PMID:7592454
+  AUTHORS   Otten SL, Liu X, Ferguson J, Hutchinson CR
+  TITLE     Cloning and characterization of the Streptomyces peucetius dnrQS genes encoding a daunosamine biosynthesis enzyme and a glycosyl transferase involved in daunorubicin biosynthesis.
+  JOURNAL   J Bacteriol 177:6688-92 (1995)
+REFERENCE   PMID:19619853
+  AUTHORS   Malla S, Niraula NP, Liou K, Sohng JK
+  TITLE     Enhancement of doxorubicin production by expression of structural sugar biosynthesis and glycosyltransferase genes in Streptomyces peucetius.
+  JOURNAL   J Biosci Bioeng 108:92-8 (2009)
+REFERENCE   PMID:9098063
+  AUTHORS   Dickens ML, Priestley ND, Strohl WR
+  TITLE     In vivo and in vitro bioconversion of epsilon-rhodomycinone glycoside to doxorubicin: functions of DauP, DauK, and DoxA.
+  JOURNAL   J Bacteriol 179:2641-50 (1997)
+REFERENCE   PMID:9864344
+  AUTHORS   Lomovskaya N, Otten SL, Doi-Katayama Y, Fonstein L, Liu XC, Takatsu T, Inventi-Solari A, Filippini S, Torti F, Colombo AL, Hutchinson CR
+  TITLE     Doxorubicin overproduction in Streptomyces peucetius: cloning and characterization of the dnrU ketoreductase and dnrV genes and the doxA cytochrome P-450 hydroxylase gene.
+  JOURNAL   J Bacteriol 181:305-18 (1999)
+REFERENCE   PMID:15548527
+  AUTHORS   Jansson A, Koskiniemi H, Erola A, Wang J, Mantsala P, Schneider G, Niemi J
+  TITLE     Aclacinomycin 10-hydroxylase is a novel substrate-assisted hydroxylase requiring  S-adenosyl-L-methionine as cofactor.
+  JOURNAL   J Biol Chem 280:3636-44 (2005)
+REFERENCE   PMID:11520231
+  AUTHORS   Wohlert SE, Wendt-Pienkowski E, Bao W, Hutchinson CR
+  TITLE     Production of aromatic minimal polyketides by the daunorubicin polyketide synthase genes reveals the incompatibility of the heterologous DpsY and JadI cyclases.
+  JOURNAL   J Nat Prod 64:1077-80 (2001)
+REFERENCE   PMID:20358042
+  AUTHORS   Zhou H, Li Y, Tang Y
+  TITLE     Cyclization of aromatic polyketides from bacteria and fungi.
+  JOURNAL   Nat Prod Rep 27:839-68 (2010)
+REFERENCE   PMID:17268612
+  AUTHORS   Hertweck C, Luzhetskyy A, Rebets Y, Bechthold A
+  TITLE     Type II polyketide synthases: gaining a deeper insight into enzymatic teamwork.
+  JOURNAL   Nat Prod Rep 24:162-90 (2007)
+REFERENCE   PMID:20422670
+  AUTHORS   Chen Y, Fan K, He Y, Xu X, Peng Y, Yu T, Jia C, Yang K
+  TITLE     Characterization of JadH as an FAD- and NAD(P)H-dependent bifunctional hydroxylase/dehydrase in jadomycin biosynthesis.
+  JOURNAL   Chembiochem 11:1055-60 (2010)
+REFERENCE   PMID:15776503
+  AUTHORS   Rix U, Wang C, Chen Y, Lipata FM, Remsing Rix LL, Greenwell LM, Vining LC, Yang K, Rohr J
+  TITLE     The oxidative ring cleavage in jadomycin biosynthesis: a multistep oxygenation cascade in a biosynthetic black box.
+  JOURNAL   Chembiochem 6:838-45 (2005)
+REFERENCE   PMID:15817470
+  AUTHORS   Chen YH, Wang CC, Greenwell L, Rix U, Hoffmeister D, Vining LC, Rohr J, Yang KQ
+  TITLE     Functional analyses of oxygenases in jadomycin biosynthesis and identification of JadH as a bifunctional oxygenase/dehydrase.
+  JOURNAL   J Biol Chem 280:22508-14 (2005)
+REFERENCE   PMID:17570722
+  AUTHORS   Borissow CN, Graham CL, Syvitski RT, Reid TR, Blay J, Jakeman DL
+  TITLE     Stereochemical integrity of oxazolone ring-containing jadomycins.
+  JOURNAL   Chembiochem 8:1198-203 (2007)
+REFERENCE   PMID:17640665
+  AUTHORS   Mittler M, Bechthold A, Schulz GE
+  TITLE     Structure and action of the C-C bond-forming glycosyltransferase UrdGT2 involved  in the biosynthesis of the antibiotic urdamycin.
+  JOURNAL   J Mol Biol 372:67-76 (2007)
+REFERENCE   PMID:10662691
+  AUTHORS   Trefzer A, Hoffmeister D, Kunzel E, Stockert S, Weitnauer G, Westrich L, Rix U, Fuchser J, Bindseil KU, Rohr J, Bechthold A
+  TITLE     Function of glycosyltransferase genes involved in urdamycin A biosynthesis.
+  JOURNAL   Chem Biol 7:133-42 (2000)
+REFERENCE   PMID:11410375
+  AUTHORS   Hoffmeister D, Ichinose K, Bechthold A
+  TITLE     Two sequence elements of glycosyltransferases involved in urdamycin biosynthesis  are responsible for substrate specificity and enzymatic activity.
+  JOURNAL   Chem Biol 8:557-67 (2001)
+REFERENCE   
+  AUTHORS   Rohr J, Schonewolf M, Udvarnoki G, Eckardt K, Schumann G, Wagner C, Beale JM, Sorey SD
+  TITLE     Investigations on the biosynthesis of the angucycline group antibiotics aquayamycin and the urdamycins A and B. Results from the structural analysis of novel blocked mutant products.
+  JOURNAL   J Org Chem 58:2547-51 (1993)
+REFERENCE   PMID:15651811
+  AUTHORS   Zhu L, Ostash B, Rix U, Nur-E-Alam M, Mayers A, Luzhetskyy A, Mendez C, Salas JA, Bechthold A, Fedorenko V, Rohr J
+  TITLE     Identification of the function of gene lndM2 encoding a bifunctional oxygenase-reductase involved in the biosynthesis of the antitumor antibiotic landomycin E by Streptomyces globisporus 1912 supports the originally assigned structure for landomycinone.
+  JOURNAL   J Org Chem 70:631-8 (2005)
+REFERENCE   PMID:17061307
+  AUTHORS   Baig I, Kharel M, Kobylyanskyy A, Zhu L, Rebets Y, Ostash B, Luzhetskyy A, Bechthold A, Fedorenko VA, Rohr J
+  TITLE     On the acceptor substrate of C-glycosyltransferase UrdGT2: three prejadomycin C-Glycosides from an engineered mutant of Streptomyces globisporus 1912 DeltalndE(urdGT2).
+  JOURNAL   Angew Chem Int Ed Engl 45:7842-6 (2006)
+REFERENCE   PMID:15123249
+  AUTHORS   Ostash B, Rix U, Rix LL, Liu T, Lombo F, Luzhetskyy A, Gromyko O, Wang C, Brana AF, Mendez C, Salas JA, Fedorenko V, Rohr J
+  TITLE     Generation of new landomycins by combinatorial biosynthetic manipulation of the LndGT4 gene of the landomycin E cluster in S. globisporus.
+  JOURNAL   Chem Biol 11:547-55 (2004)
+REFERENCE   PMID:17013601
+  AUTHORS   Lombo F, Menendez N, Salas JA, Mendez C
+  TITLE     The aureolic acid family of antitumor compounds: structure, mode of action, biosynthesis, and novel derivatives.
+  JOURNAL   Appl Microbiol Biotechnol 73:1-14 (2006)
+REFERENCE   PMID:12022840
+  AUTHORS   Trefzer A, Blanco G, Remsing L, Kunzel E, Rix U, Lipata F, Brana AF, Mendez C, Rohr J, Bechthold A, Salas JA
+  TITLE     Rationally designed glycosylated premithramycins: hybrid aromatic polyketides using genes from three different biosynthetic pathways.
+  JOURNAL   J Am Chem Soc 124:6056-62 (2002)
+REFERENCE   PMID:10652287
+  AUTHORS   Lozano MJ, Remsing LL, Quiros LM, Brana AF, Fernandez E, Sanchez C, Mendez C, Rohr J, Salas JA
+  TITLE     Characterization of two polyketide methyltransferases involved in the biosynthesis of the antitumor drug mithramycin by Streptomyces argillaceus.
+  JOURNAL   J Biol Chem 275:3065-74 (2000)
+REFERENCE   PMID:10660060
+  AUTHORS   Blanco G, Fernandez E, Fernandez MJ, Brana AF, Weissbach U, Kunzel E, Rohr J, Mendez C, Salas JA
+  TITLE     Characterization of two glycosyltransferases involved in early glycosylation steps during biosynthesis of the antitumor polyketide mithramycin by Streptomyces argillaceus.
+  JOURNAL   Mol Gen Genet 262:991-1000 (2000)
+REFERENCE   PMID:15712316
+  AUTHORS   Nur-e-Alam M, Mendez C, Salas JA, Rohr J
+  TITLE     Elucidation of the glycosylation sequence of mithramycin biosynthesis: isolation  of 3A-deolivosylpremithramycin B and its conversion to premithramycin B by glycosyltransferase MtmGII.
+  JOURNAL   Chembiochem 6:632-6 (2005)
+REFERENCE   PMID:9733697
+  AUTHORS   Fernandez E, Weissbach U, Sanchez Reillo C, Brana AF, Mendez C, Rohr J, Salas JA
+  TITLE     Identification of two genes from Streptomyces argillaceus encoding glycosyltransferases involved in transfer of a disaccharide during biosynthesis of the antitumor drug mithramycin.
+  JOURNAL   J Bacteriol 180:4929-37 (1998)
+REFERENCE   PMID:19364090
+  AUTHORS   Beam MP, Bosserman MA, Noinaj N, Wehenkel M, Rohr J
+  TITLE     Crystal structure of Baeyer-Villiger monooxygenase MtmOIV, the key enzyme of the  mithramycin biosynthetic pathway .
+  JOURNAL   Biochemistry 48:4476-87 (2009)
+REFERENCE   PMID:16511225
+  AUTHORS   Wang C, Gibson M, Rohr J, Oliveira MA
+  TITLE     Crystallization and X-ray diffraction properties of Baeyer-Villiger monooxygenase MtmOIV from the mithramycin biosynthetic pathway in Streptomyces argillaceus.
+  JOURNAL   Acta Crystallogr Sect F Struct Biol Cryst Commun 61:1023-6 (2005)
+REFERENCE   PMID:12813091
+  AUTHORS   Rodriguez D, Quiros LM, Brana AF, Salas JA
+  TITLE     Purification and characterization of a monooxygenase involved in the biosynthetic pathway of the antitumor drug mithramycin.
+  JOURNAL   J Bacteriol 185:3962-5 (2003)
+REFERENCE   PMID:11851469
+  AUTHORS   Hutchinson CR
+  TITLE     Biosynthetic Studies of Daunorubicin and Tetracenomycin C.
+  JOURNAL   Chem Rev 97:2525-2536 (1997)
+REFERENCE   PMID:8244926
+  AUTHORS   Summers RG, Wendt-Pienkowski E, Motamedi H, Hutchinson CR
+  TITLE     The tcmVI region of the tetracenomycin C biosynthetic gene cluster of Streptomyces glaucescens encodes the tetracenomycin F1 monooxygenase, tetracenomycin F2 cyclase, and, most likely, a second cyclase.
+  JOURNAL   J Bacteriol 175:7571-80 (1993)
+REFERENCE   PMID:8218177
+  AUTHORS   Shen B, Hutchinson CR
+  TITLE     Tetracenomycin F2 cyclase: intramolecular aldol condensation in the biosynthesis  of tetracenomycin C in Streptomyces glaucescens.
+  JOURNAL   Biochemistry 32:11149-54 (1993)
+REFERENCE   PMID:8329392
+  AUTHORS   Shen B, Hutchinson CR
+  TITLE     Tetracenomycin F1 monooxygenase: oxidation of a naphthacenone to a naphthacenequinone in the biosynthesis of tetracenomycin C in Streptomyces glaucescens.
+  JOURNAL   Biochemistry 32:6656-63 (1993)
+REFERENCE   PMID:1548230
+  AUTHORS   Summers RG, Wendt-Pienkowski E, Motamedi H, Hutchinson CR
+  TITLE     Nucleotide sequence of the tcmII-tcmIV region of the tetracenomycin C biosynthetic gene cluster of Streptomyces glaucescens and evidence that the tcmN  gene encodes a multifunctional cyclase-dehydratase-O-methyl transferase.
+  JOURNAL   J Bacteriol 174:1810-20 (1992)
+REFERENCE   PMID:18388203
+  AUTHORS   Ames BD, Korman TP, Zhang W, Smith P, Vu T, Tang Y, Tsai SC
+  TITLE     Crystal structure and functional analysis of tetracenomycin ARO/CYC: implications for cyclization specificity of aromatic polyketides.
+  JOURNAL   Proc Natl Acad Sci U S A 105:5349-54 (2008)
+REFERENCE   PMID:11009387
+  AUTHORS   Rafanan ER Jr, Hutchinson CR, Shen B
+  TITLE     Triple hydroxylation of tetracenomycin A2 to tetracenomycin C involving two molecules of O(2) and one molecule of H(2)O.
+  JOURNAL   Org Lett 2:3225-7 (2000)
+REFERENCE   PMID:18310024
+  AUTHORS   Ramos A, Lombo F, Brana AF, Rohr J, Mendez C, Salas JA
+  TITLE     Biosynthesis of elloramycin in Streptomyces olivaceus requires glycosylation by enzymes encoded outside the aglycon cluster.
+  JOURNAL   Microbiology 154:781-8 (2008)
+REFERENCE   PMID:11376004
+  AUTHORS   Patallo EP, Blanco G, Fischer C, Brana AF, Rohr J, Mendez C, Salas JA
+  TITLE     Deoxysugar methylation during biosynthesis of the antitumor polyketide elloramycin by Streptomyces olivaceus. Characterization of three methyltransferase genes.
+  JOURNAL   J Biol Chem 276:18765-74 (2001)
+KO_PATHWAY  ko01057
+///

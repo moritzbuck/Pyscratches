@@ -1,0 +1,28 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00531
+server: Apache
+date: Wed, 15 Oct 2014 15:07:51 GMT
+content-type: text/plain
+
+ENTRY       map00531                    Pathway
+NAME        Glycosaminoglycan degradation
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00531  Glycosaminoglycan degradation
+MODULE      M00076  Dermatan sulfate degradation [PATH:map00531]
+            M00077  Chondroitin sulfate degradation [PATH:map00531]
+            M00078  Heparan sulfate degradation [PATH:map00531]
+            M00079  Keratan sulfate degradation [PATH:map00531]
+DISEASE     H00123  Mucopolysaccharidosis type IV (MPS4)
+            H00124  GM2 gangliosidoses
+            H00128  Mucopolysaccharidosis type I (MPS1)
+            H00129  Mucopolysaccharidosis type II (MPS2)
+            H00130  Mucopolysaccharidosis type III (MPS3)
+            H00131  Mucopolysaccharidosis type VI (MPS6)
+            H00132  Mucopolysaccharidosis type VII (MPS7)
+            H00133  Mucopolysaccharidosis type IX (MPS9)
+            H00281  GM1 gangliosidosis
+            H00421  Mucopolysaccharidosis (MPS)
+            H00426  Defects in the degradation of ganglioside
+            H00753  Urofacial syndrome
+KO_PATHWAY  ko00531
+///

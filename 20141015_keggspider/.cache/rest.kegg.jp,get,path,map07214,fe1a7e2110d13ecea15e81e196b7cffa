@@ -1,0 +1,49 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07214
+server: Apache
+date: Wed, 15 Oct 2014 14:59:34 GMT
+content-type: text/plain
+
+ENTRY       map07214          Drug      Pathway
+NAME        beta-Adrenergic receptor agonists/antagonists
+PATHWAY_MAP map07214  beta-Adrenergic receptor agonists/antagonists
+COMPOUND    C11772  DCI
+            D00095  Adrenaline (JP16)
+            D00235  Atenolol (JP16/USP/INN)
+            D00483  Propranolol hydrochloride (JP16/USP)
+            D00513  Pindolol (JP16/USP/INN)
+            D00600  Labetalol hydrochloride (JP16/USP)
+            D00601  Metoprolol tartrate (JP16/USP)
+            D00632  Dobutamine hydrochloride (JP16/USP)
+            D00634  Bisoprolol fumarate (JP16/USP)
+            D00635  Metoprolol succinate (USP)
+            D00644  Esmolol hydrochloride (JAN/USAN)
+            D00685  Orciprenaline sulfate (JP16)
+            D00996  Epinephrine hydrochloride (JAN)
+            D01182  Alprenolol hydrochloride (JP16/USAN)
+            D01369  Bevantolol hydrochloride (JAN/USAN)
+            D01390  dl-Isoprenaline hydrochloride (JAN)
+            D01469  Amosulalol hydrochloride (JP16)
+            D01830  Arotinolol hydrochloride (JP16)
+            D02066  Isoprenaline sulfate (JAN)
+            D02149  Epinephrine bitartrate (JAN/USP)
+            D02150  l-Isoprenaline hydrochloride (JP16)
+            D02342  Bisoprolol (JAN/USAN/INN)
+            D02358  Metoprolol (USAN/INN)
+            D02404  Procaterol hydrochloride (USAN)
+            D02614  Denopamine (JAN/INN)
+            D03879  Dobutamine (USP/INN)
+            D03880  Dobutamine lactobionate (USAN)
+            D03881  Dobutamine tartrate (USP)
+            D05011  Metoprolol fumarate (USP)
+            D05366  Procaterol hydrochloride hydrate (JP16)
+            D07156  Alprenolol (INN)
+            D07451  Amosulalol (INN)
+            D07465  Arotinolol (INN)
+            D07916  Esmolol (INN)
+            D08090  Isoprenaline (INN)
+            D08106  Labetalol (INN)
+            D08300  Orciprenaline (INN)
+            D08424  Procaterol (INN)
+            D08443  Propranolol (INN)
+///

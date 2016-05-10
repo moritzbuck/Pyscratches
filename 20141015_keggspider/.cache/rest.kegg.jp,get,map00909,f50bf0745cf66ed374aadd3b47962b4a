@@ -1,0 +1,54 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00909
+server: Apache
+date: Wed, 15 Oct 2014 15:08:10 GMT
+content-type: text/plain
+
+ENTRY       map00909                    Pathway
+NAME        Sesquiterpenoid and triterpenoid biosynthesis
+DESCRIPTION Sesquiterpenoids (C15 terpenoids) are a group of terpenoids consisting of three isoprene units. They are derive from farnesyl diphosphate (FPP) and can be cyclized to produce various skeletal structures. Sesquiterpenoid biosynthesis begins with the loss of diphosphate from FPP under the action of sesquiterpene synthesis enzymes, generating an allylic cation that is highly susceptible to intramolecular attacks. Cyclization of the farnesyl cation may take place onto either of the remaining double bonds with the result that 6-, 10-, or 11-membered rings may be formed. Many sesquiterpenoids have been isolated from plants, fungi, marine organisms, and Streptomyces species. This map shows a few examples of acyclic and cyclic sesquiterpenoids.
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00909  Sesquiterpenoid and triterpenoid biosynthesis
+DBLINKS     GO: 0016106 0016104
+REFERENCE   PMID:9371761
+  AUTHORS   Crock J, Wildung M, Croteau R
+  TITLE     Isolation and bacterial expression of a sesquiterpene synthase cDNA clone from peppermint (Mentha x piperita, L.) that produces the aphid alarm pheromone (E)-beta-farnesene.
+  JOURNAL   Proc Natl Acad Sci U S A 94:12833-8 (1997)
+REFERENCE   PMID:18363779
+  AUTHORS   Nagegowda DA, Gutensohn M, Wilkerson CG, Dudareva N
+  TITLE     Two nearly identical terpene synthases catalyze the formation of nerolidol and linalool in snapdragon flowers.
+  JOURNAL   Plant J 55:224-39 (2008)
+REFERENCE   PMID:16579958
+  AUTHORS   Bertea CM, Voster A, Verstappen FW, Maffei M, Beekwilder J, Bouwmeester HJ
+  TITLE     Isoprenoid biosynthesis in Artemisia annua: cloning and heterologous expression of a germacrene A synthase from a glandular trichome cDNA library.
+  JOURNAL   Arch Biochem Biophys 448:3-12 (2006)
+REFERENCE   PMID:12011356
+  AUTHORS   de Kraker JW, Franssen MC, Joerink M, de Groot A, Bouwmeester HJ
+  TITLE     Biosynthesis of costunolide, dihydrocostunolide, and leucodin. Demonstration of cytochrome p450-catalyzed formation of the lactone ring present in sesquiterpene lactones of chicory.
+  JOURNAL   Plant Physiol 129:257-68 (2002)
+REFERENCE   PMID:17226502
+  AUTHORS   Jaroszewski JW, Strom-Hansen T, Hansen SH, Thastrup O, Kofod H
+  TITLE     On the botanical distribution of chiral forms of gossypol.
+  JOURNAL   Planta Med 58:454-8 (1992)
+REFERENCE   PMID:9442047
+  AUTHORS   Steele CL, Crock J, Bohlmann J, Croteau R
+  TITLE     Sesquiterpene synthases from grand fir (Abies grandis). Comparison of constitutive and wound-induced activities, and cDNA isolation, characterization, and bacterial expression of delta-selinene synthase and gamma-humulene synthase.
+  JOURNAL   J Biol Chem 273:2078-89 (1998)
+REFERENCE   PMID:19030608
+  AUTHORS   Fraga BM
+  TITLE     Natural sesquiterpenoids.
+  JOURNAL   Nat Prod Rep 25:1180-209 (2008)
+REFERENCE   PMID:21876149
+  AUTHORS   Field B, Fiston-Lavier AS, Kemen A, Geisler K, Quesneville H, Osbourn AE
+  TITLE     Formation of plant metabolic gene clusters within dynamic chromosomal regions.
+  JOURNAL   Proc Natl Acad Sci U S A 108:16116-21 (2011)
+REFERENCE   PMID:18356490
+  AUTHORS   Field B, Osbourn AE
+  TITLE     Metabolic diversification--independent assembly of operon-like gene clusters in different plants.
+  JOURNAL   Science 320:543-7 (2008)
+REFERENCE   PMID:15148404
+  AUTHORS   Qi X, Bakht S, Leggett M, Maxwell C, Melton R, Osbourn A
+  TITLE     A gene cluster for secondary metabolism in oat: implications for the evolution of metabolic diversity in plants.
+  JOURNAL   Proc Natl Acad Sci U S A 101:8233-8 (2004)
+KO_PATHWAY  ko00909
+///

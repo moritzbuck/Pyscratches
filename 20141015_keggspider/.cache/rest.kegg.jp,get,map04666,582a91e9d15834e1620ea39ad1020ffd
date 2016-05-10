@@ -1,0 +1,103 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04666
+server: Apache
+date: Wed, 15 Oct 2014 15:08:57 GMT
+content-type: text/plain
+
+ENTRY       map04666                    Pathway
+NAME        Fc gamma R-mediated phagocytosis
+DESCRIPTION Phagocytosis plays an essential role in host-defense mechanisms through the uptake and destruction of infectious pathogens. Specialized cell types including macrophages, neutrophils, and monocytes take part in this process in higher organisms. After opsonization with antibodies (IgG), foreign extracellular materials are recognized by Fc gamma receptors. Cross-linking of Fc gamma receptors initiates a variety of signals mediated by tyrosine phosphorylation of multiple proteins, which lead through the actin cytoskeleton rearrangements and membrane remodeling to the formation of phagosomes. Nascent phagosomes undergo a process of maturation that involves fusion with lysosomes. The acquisition of lysosomal proteases and release of reactive oxygen species are crucial for digestion of engulfed materials in phagosomes.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04666  Fc gamma R-mediated phagocytosis
+DISEASE     H00098  Chronic granulomatous disease
+            H00698  Nemaline myopathy
+            H00833  Neurodegeneration with brain iron accumulation (NBIA)
+            H01240  Immune thrombocytopenia (ITP)
+            H01387  Activated PI3K-delta syndrome (APDS)
+DBLINKS     GO: 0006909
+REFERENCE   PMID:12488490
+  AUTHORS   Garcia-Garcia E, Rosales C
+  TITLE     Signal transduction during Fc receptor-mediated phagocytosis.
+  JOURNAL   J Leukoc Biol 72:1092-108 (2002)
+REFERENCE   PMID:11708889
+  AUTHORS   Cox D, Greenberg S
+  TITLE     Phagocytic signaling strategies: Fc(gamma)receptor-mediated phagocytosis as a model system.
+  JOURNAL   Semin Immunol 13:339-45 (2001)
+REFERENCE   PMID:15466916
+  AUTHORS   Swanson JA, Hoppe AD
+  TITLE     The coordination of signaling during Fc receptor-mediated phagocytosis.
+  JOURNAL   J Leukoc Biol 76:1093-103 (2004)
+REFERENCE   PMID:11244038
+  AUTHORS   Ravetch JV, Bolland S
+  TITLE     IgG Fc receptors.
+  JOURNAL   Annu Rev Immunol 19:275-90 (2001)
+REFERENCE   PMID:18322649
+  AUTHORS   Groves E, Dart AE, Covarelli V, Caron E
+  TITLE     Molecular mechanisms of phagocytic uptake in mammalian cells.
+  JOURNAL   Cell Mol Life Sci 65:1957-76 (2008)
+REFERENCE   PMID:10376013
+  AUTHORS   Kwiatkowska K, Sobota A
+  TITLE     Signaling pathways in phagocytosis.
+  JOURNAL   Bioessays 21:422-31 (1999)
+REFERENCE   PMID:10577498
+  AUTHORS   Greenberg S
+  TITLE     Modular components of phagocytosis.
+  JOURNAL   J Leukoc Biol 66:712-7 (1999)
+REFERENCE   PMID:10224668
+  AUTHORS   Lennartz MR
+  TITLE     Phospholipases and phagocytosis: the role of phospholipid-derived second messengers in phagocytosis.
+  JOURNAL   Int J Biochem Cell Biol 31:415-30 (1999)
+REFERENCE   PMID:11228151
+  AUTHORS   May RC, Machesky LM
+  TITLE     Phagocytosis and the actin cytoskeleton.
+  JOURNAL   J Cell Sci 114:1061-77 (2001)
+REFERENCE   PMID:17050193
+  AUTHORS   Joshi T, Butchar JP, Tridandapani S
+  TITLE     Fcgamma receptor signaling in phagocytes.
+  JOURNAL   Int J Hematol 84:210-6 (2006)
+REFERENCE   PMID:17308335
+  AUTHORS   Lee WL, Cosio G, Ireton K, Grinstein S
+  TITLE     Role of CrkII in Fcgamma receptor-mediated phagocytosis.
+  JOURNAL   J Biol Chem 282:11135-43 (2007)
+REFERENCE   PMID:11304556
+  AUTHORS   Uchida H, Kondo A, Yoshimura Y, Mazaki Y, Sabe H
+  TITLE     PAG3/Papalpha/KIAA0400, a GTPase-activating protein for ADP-ribosylation factor (ARF), regulates ARF6 in Fcgamma receptor-mediated phagocytosis of macrophages.
+  JOURNAL   J Exp Med 193:955-66 (2001)
+REFERENCE   PMID:15485887
+  AUTHORS   Ganesan LP, Wei G, Pengal RA, Moldovan L, Moldovan N, Ostrowski MC, Tridandapani S
+  TITLE     The serine/threonine kinase Akt Promotes Fc gamma receptor-mediated phagocytosis in murine macrophages through the activation of p70S6 kinase.
+  JOURNAL   J Biol Chem 279:54416-25 (2004)
+REFERENCE   PMID:9545263
+  AUTHORS   Melendez A, Floto RA, Gillooly DJ, Harnett MM, Allen JM
+  TITLE     FcgammaRI coupling to phospholipase D initiates sphingosine kinase-mediated calcium mobilization and vesicular trafficking.
+  JOURNAL   J Biol Chem 273:9393-402 (1998)
+REFERENCE   PMID:12821647
+  AUTHORS   Gu H, Botelho RJ, Yu M, Grinstein S, Neel BG
+  TITLE     Critical role for scaffolding adapter Gab2 in Fc gamma R-mediated phagocytosis.
+  JOURNAL   J Cell Biol 161:1151-61 (2003)
+REFERENCE   PMID:9417101
+  AUTHORS   Dana R, Leto TL, Malech HL, Levy R
+  TITLE     Essential requirement of cytosolic phospholipase A2 for activation of the phagocyte NADPH oxidase.
+  JOURNAL   J Biol Chem 273:441-5 (1998)
+REFERENCE   PMID:10601359
+  AUTHORS   Gold ES, Underhill DM, Morrissette NS, Guo J, McNiven MA, Aderem A
+  TITLE     Dynamin 2 is required for phagocytosis in macrophages.
+  JOURNAL   J Exp Med 190:1849-56 (1999)
+REFERENCE   PMID:10755615
+  AUTHORS   Gold ES, Morrissette NS, Underhill DM, Guo J, Bassetti M, Aderem A
+  TITLE     Amphiphysin IIm, a novel amphiphysin II isoform, is required for macrophage phagocytosis.
+  JOURNAL   Immunity 12:285-92 (2000)
+REFERENCE   PMID:10586078
+  AUTHORS   Raeder EM, Mansfield PJ, Hinkovska-Galcheva V, Shayman JA, Boxer LA
+  TITLE     Syk activation initiates downstream signaling events during human polymorphonuclear leukocyte phagocytosis.
+  JOURNAL   J Immunol 163:6785-93 (1999)
+REFERENCE   PMID:9581795
+  AUTHORS   Sanchez-Mejorada G, Rosales C
+  TITLE     Signal transduction by immunoglobulin Fc receptors.
+  JOURNAL   J Leukoc Biol 63:521-33 (1998)
+REFERENCE   
+  AUTHORS   Rosales C (ed).
+  TITLE     Molecular Mechanisms of Phagocytosis
+  JOURNAL   Springer (2005)
+KO_PATHWAY  ko04666
+///

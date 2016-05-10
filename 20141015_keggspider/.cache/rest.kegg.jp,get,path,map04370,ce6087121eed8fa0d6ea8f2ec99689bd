@@ -1,0 +1,48 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04370
+server: Apache
+date: Wed, 15 Oct 2014 14:58:27 GMT
+content-type: text/plain
+
+ENTRY       map04370                    Pathway
+NAME        VEGF signaling pathway
+DESCRIPTION There is now much evidence that VEGFR-2 is the major mediator of VEGF-driven responses in endothelial cells and it is considered to be a crucial signal transducer in both physiologic and pathologic angiogenesis. The binding of VEGF to VEGFR-2 leads to a cascade of different signaling pathways, resulting in the up-regulation of genes involved in mediating the proliferation and migration of endothelial cells and promoting their survival and vascular permeability. For example, the binding of VEGF to VEGFR-2 leads to dimerization of the receptor, followed by intracellular activation of the PLCgamma;PKC-Raf kinase-MEK-mitogen-activated protein kinase (MAPK) pathway and subsequent initiation of DNA synthesis and cell growth, whereas activation of the phosphatidylinositol 3' -kinase (PI3K)-Akt pathway leads to increased endothelial-cell survival. Activation of PI3K, FAK, and p38 MAPK is implicated in cell migration signaling.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04370  VEGF signaling pathway
+DISEASE     H00539  PTEN hamartoma tumor syndrome (PHTS)
+            H00856  Distal hereditary motor neuropathies (dHMN)
+DBLINKS     GO: 0048010
+REFERENCE   PMID:13678960
+  AUTHORS   Cross MJ, Dixelius J, Matsumoto T, Claesson-Welsh L.
+  TITLE     VEGF-receptor signal transduction.
+  JOURNAL   Trends Biochem Sci 28:488-94 (2003)
+REFERENCE   PMID:11741095
+  AUTHORS   Matsumoto T, Claesson-Welsh L.
+  TITLE     VEGF receptor signal transduction.
+  JOURNAL   Sci STKE 2001:RE21 (2001)
+REFERENCE   PMID:15602010
+  AUTHORS   Hoeben A, Landuyt B, Highley MS, Wildiers H, Van Oosterom AT, De Bruijn EA.
+  TITLE     Vascular endothelial growth factor and angiogenesis.
+  JOURNAL   Pharmacol Rev 56:549-80 (2004)
+REFERENCE   PMID:16104843
+  AUTHORS   Takahashi H, Shibuya M.
+  TITLE     The vascular endothelial growth factor (VEGF)/VEGF receptor system and its role under physiological and pathological conditions.
+  JOURNAL   Clin Sci (Lond) 109:227-41 (2005)
+REFERENCE   PMID:14641020
+  AUTHORS   Zachary I.
+  TITLE     VEGF signalling: integration and multi-tasking in endothelial cell biology.
+  JOURNAL   Biochem Soc Trans 31:1171-7 (2003)
+REFERENCE   PMID:15338053
+  AUTHORS   Munoz-Chapuli R, Quesada AR, Angel Medina M.
+  TITLE     Angiogenesis and signal transduction in endothelial cells.
+  JOURNAL   Cell Mol Life Sci 61:2224-43 (2004)
+REFERENCE   PMID:14724572
+  AUTHORS   Lamalice L, Houle F, Jourdan G, Huot J.
+  TITLE     Phosphorylation of tyrosine 1214 on VEGFR2 is required for VEGF-induced activation of Cdc42 upstream of SAPK2/p38.
+  JOURNAL   Oncogene 23:434-45 (2004)
+REFERENCE   PMID:12391145
+  AUTHORS   Shu X, Wu W, Mosteller RD, Broek D.
+  TITLE     Sphingosine kinase mediates vascular endothelial growth factor-induced activation of ras and mitogen-activated protein kinases.
+  JOURNAL   Mol Cell Biol 22:7758-68 (2002)
+KO_PATHWAY  ko04370
+///

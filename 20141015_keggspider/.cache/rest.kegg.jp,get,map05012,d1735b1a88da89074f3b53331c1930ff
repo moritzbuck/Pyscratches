@@ -1,0 +1,90 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05012
+server: Apache
+date: Wed, 15 Oct 2014 15:09:16 GMT
+content-type: text/plain
+
+ENTRY       map05012                    Pathway
+NAME        Parkinson's disease
+DESCRIPTION Parkinson's disease (PD) is a progressive neurodegenerative movement disorder that results primarily from the death of dopaminergic (DA) neurons in the substantia nigra pars compacta (SNc). Mutations in alpha-synuclein, UCHL1 (a ubiquitin carboxy-terminal hydrolase L1), parkin, DJ1 (a parkin-associated protein involved with oxidative stress), and PINK1 (a putative serine threonine kinase) are known to cause early-onset PD. Mutations or altered expression of these proteins contributes to the damage and subsequent loss of DA neurons through common mechanisms that result in proteasome dysfunction, mitochondrial impairment, and oxidative stress. The demise of DA neurons located in the SNc leads to a drop in the dopaminergic input to the striatum. This results in a reduced activation of the direct pathway and in a disinhibition of the indirect pathway, which is associated with the elevation of adenosine A2A receptor transmission. Such unbalanced activity of the striatal output pathway is at the basis of the motor impairment observed in PD.
+CLASS       Human Diseases; Neurodegenerative diseases
+PATHWAY_MAP map05012  Parkinson's disease
+DISEASE     H00057  Parkinson's disease (PD)
+REFERENCE   PMID:17911161
+  AUTHORS   Thomas B, Beal MF
+  TITLE     Parkinson's disease.
+  JOURNAL   Hum Mol Genet 16 Spec No. 2:R183-94 (2007)
+REFERENCE   PMID:12938733
+  AUTHORS   Lim KL, Lim TM
+  TITLE     Molecular mechanisms of neurodegeneration in Parkinson's disease: clues from Mendelian syndromes.
+  JOURNAL   IUBMB Life 55:315-22 (2003)
+REFERENCE   PMID:16022590
+  AUTHORS   Moore DJ, West AB, Dawson VL, Dawson TM
+  TITLE     Molecular pathophysiology of Parkinson's disease.
+  JOURNAL   Annu Rev Neurosci 28:57-87 (2005)
+REFERENCE   PMID:16495942
+  AUTHORS   Abou-Sleiman PM, Muqit MM, Wood NW
+  TITLE     Expanding insights of mitochondrial dysfunction in Parkinson's disease.
+  JOURNAL   Nat Rev Neurosci 7:207-19 (2006)
+REFERENCE   PMID:18426756
+  AUTHORS   Mizuno Y, Hattori N, Kubo S, Sato S, Nishioka K, Hatano T, Tomiyama H, Funayama M, Machida Y, Mochizuki H
+  TITLE     Progress in the pathogenesis and genetics of Parkinson's disease.
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 363:2215-27 (2008)
+REFERENCE   PMID:16278972
+  AUTHORS   Gandhi S, Wood NW
+  TITLE     Molecular pathogenesis of Parkinson's disease.
+  JOURNAL   Hum Mol Genet 14 Spec No. 2:2749-2755 (2005)
+REFERENCE   PMID:12461550
+  AUTHORS   Lotharius J, Brundin P
+  TITLE     Pathogenesis of Parkinson's disease: dopamine, vesicles and alpha-synuclein.
+  JOURNAL   Nat Rev Neurosci 3:932-42 (2002)
+REFERENCE   PMID:15767499
+  AUTHORS   Eriksen JL, Wszolek Z, Petrucelli L
+  TITLE     Molecular pathogenesis of Parkinson disease.
+  JOURNAL   Arch Neurol 62:353-7 (2005)
+REFERENCE   PMID:15054086
+  AUTHORS   Sidhu A, Wersinger C, Vernier P
+  TITLE     Does alpha-synuclein modulate dopaminergic synaptic content and tone at the synapse?
+  JOURNAL   FASEB J 18:637-47 (2004)
+REFERENCE   PMID:15681812
+  AUTHORS   Sidhu A, Wersinger C, Moussa CE, Vernier P
+  TITLE     The role of alpha-synuclein in both neuroprotection and neurodegeneration.
+  JOURNAL   Ann N Y Acad Sci 1035:250-70 (2004)
+REFERENCE   PMID:12971891
+  AUTHORS   Dauer W, Przedborski S
+  TITLE     Parkinson's disease: mechanisms and models.
+  JOURNAL   Neuron 39:889-909 (2003)
+REFERENCE   PMID:15525720
+  AUTHORS   Feany MB
+  TITLE     New genetic insights into Parkinson's disease.
+  JOURNAL   N Engl J Med 351:1937-40 (2004)
+REFERENCE   PMID:11331916
+  AUTHORS   Beal MF
+  TITLE     Experimental models of Parkinson's disease.
+  JOURNAL   Nat Rev Neurosci 2:325-34 (2001)
+REFERENCE   PMID:15770999
+  AUTHORS   Corti O, Hampe C, Darios F, Ibanez P, Ruberg M, Brice A
+  TITLE     Parkinson's disease: from causes to mechanisms.
+  JOURNAL   C R Biol 328:131-42 (2005)
+REFERENCE   PMID:18680555
+  AUTHORS   Vila M, Ramonet D, Perier C
+  TITLE     Mitochondrial alterations in Parkinson's disease: new clues.
+  JOURNAL   J Neurochem 107:317-28 (2008)
+REFERENCE   PMID:12728264
+  AUTHORS   Vila M, Przedborski S
+  TITLE     Targeting programmed cell death in neurodegenerative diseases.
+  JOURNAL   Nat Rev Neurosci 4:365-75 (2003)
+REFERENCE   PMID:22927178
+  AUTHORS   Calabresi P, Di Filippo M, Gallina A, Wang Y, Stankowski JN, Picconi B, Dawson VL, Dawson TM
+  TITLE     New synaptic and molecular targets for neuroprotection in Parkinson's disease.
+  JOURNAL   Mov Disord 28:51-60 (2013)
+REFERENCE   PMID:21811441
+  AUTHORS   Nishi A, Kuroiwa M, Shuto T
+  TITLE     Mechanisms for the modulation of dopamine d(1) receptor signaling in striatal neurons.
+  JOURNAL   Front Neuroanat 5:43 (2011)
+REFERENCE   PMID:20236221
+  AUTHORS   Hara M, Fukui R, Hieda E, Kuroiwa M, Bateup HS, Kano T, Greengard P, Nishi A
+  TITLE     Role of adrenoceptors in the regulation of dopamine/DARPP-32 signaling in neostriatal neurons.
+  JOURNAL   J Neurochem 113:1046-59 (2010)
+KO_PATHWAY  ko05012
+///

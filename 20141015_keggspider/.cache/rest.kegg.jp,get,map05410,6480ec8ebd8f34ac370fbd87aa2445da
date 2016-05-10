@@ -1,0 +1,64 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05410
+server: Apache
+date: Wed, 15 Oct 2014 15:09:37 GMT
+content-type: text/plain
+
+ENTRY       map05410                    Pathway
+NAME        Hypertrophic cardiomyopathy (HCM)
+DESCRIPTION Hypertrophic cardiomyopathy (HCM) is a primary myocardial disorder with an autosomal dominant pattern of inheritance that is characterized by hypertrophy of the left ventricles with histological features of myocyte hypertrophy, myfibrillar disarray, and interstitial fibrosis. HCM is one of the most common inherited cardiac disorders, with a prevalence in young adults of 1 in 500. Hundreds of mutations in the genes that encode protein constituents of the sarcomere have been identified in HCM. These mutations increase the Ca2+ sensitivity of cardiac myofilaments. Increased myofilament Ca2+ sensitivity is expected to increase the ATP utilization by actomyosin at submaximal Ca2+ concentrations, which might cause an imbalance in energy supply and demand in the heart under severe stress. The inefficient use of ATP suggests that an inability to maintain normal ATP levels could be the central abnormality. This theory might be supported by the discovery of the role of a mutant PRKAG2 gene in HCM, which in active form acts as a central sensing mechanism protecting cells from depletion of ATP supplies. The increase in the myfilament Ca2+ sensitivity well account for the diastolic dysfunction of model animals as well as human patients of HCM. It has been widely proposed that left ventricular hypertrophy is not a primary manifestation but develops as compensatory response to sarcomere dysfunction.
+CLASS       Human Diseases; Cardiovascular diseases
+PATHWAY_MAP map05410  Hypertrophic cardiomyopathy (HCM)
+DISEASE     H00292  Hypertrophic cardiomyopathy (HCM)
+            H00728  Brugada syndrome (BRS)
+            H01154  Wolff-Parkinson-White (WPW) syndrome
+REFERENCE   PMID:12270949
+  AUTHORS   Fatkin D, Graham RM
+  TITLE     Molecular mechanisms of inherited cardiomyopathies.
+  JOURNAL   Physiol Rev 82:945-80 (2002)
+REFERENCE   PMID:12844200
+  AUTHORS   Moolman-Smook JC, Mayosi BM, Brink PA, Corfield VA
+  TITLE     Molecular genetics of cardiomyopathy: changing times, shifting paradigms.
+  JOURNAL   Cardiovasc J S Afr 14:145-55 (2003)
+REFERENCE   PMID:14711353
+  AUTHORS   Taylor MR, Carniel E, Mestroni L
+  TITLE     Familial hypertrophic cardiomyopathy: clinical features, molecular genetics and molecular genetic testing.
+  JOURNAL   Expert Rev Mol Diagn 4:99-113 (2004)
+REFERENCE   
+  AUTHORS   Tei C (ed).
+  TITLE     [Up to date of basic and clinical aspects of cardiomyopathies] (In Japanese)
+  JOURNAL   Ishiyakushupan (2009)
+REFERENCE   PMID:10615904
+  AUTHORS   Marian AJ
+  TITLE     Pathogenesis of diverse clinical and pathological phenotypes in hypertrophic cardiomyopathy.
+  JOURNAL   Lancet 355:58-60 (2000)
+REFERENCE   PMID:11371514
+  AUTHORS   Blair E, Redwood C, Ashrafian H, Oliveira M, Broxholme J, Kerr B, Salmon A, Ostman-Smith I, Watkins H
+  TITLE     Mutations in the gamma(2) subunit of AMP-activated protein kinase cause familial hypertrophic cardiomyopathy: evidence for the central role of energy compromise in disease pathogenesis.
+  JOURNAL   Hum Mol Genet 10:1215-20 (2001)
+REFERENCE   PMID:11716909
+  AUTHORS   Franz WM, Muller OJ, Katus HA
+  TITLE     Cardiomyopathies: from genetics to the prospect of treatment.
+  JOURNAL   Lancet 358:1627-37 (2001)
+REFERENCE   PMID:18056765
+  AUTHORS   Morimoto S
+  TITLE     Sarcomeric proteins and inherited cardiomyopathies.
+  JOURNAL   Cardiovasc Res 77:659-66 (2008)
+REFERENCE   PMID:19136482
+  AUTHORS   Cambronero F, Marin F, Roldan V, Hernandez-Romero D, Valdes M, Lip GY
+  TITLE     Biomarkers of pathophysiology in hypertrophic cardiomyopathy: implications for clinical management and prognosis.
+  JOURNAL   Eur Heart J 30:139-51 (2009)
+REFERENCE   PMID:11805847
+  AUTHORS   Towbin JA, Bowles NE
+  TITLE     The failing heart.
+  JOURNAL   Nature 415:227-33 (2002)
+REFERENCE   PMID:11225594
+  AUTHORS   Sorajja P, Elliott PM, McKenna WJ
+  TITLE     The molecular genetics of hypertrophic cardiomyopathy: prognostic implications.
+  JOURNAL   Europace 2:4-14 (2000)
+REFERENCE   PMID:18572189
+  AUTHORS   Landstrom AP, Parvatiyar MS, Pinto JR, Marquardt ML, Bos JM, Tester DJ, Ommen SR, Potter JD, Ackerman MJ
+  TITLE     Molecular and functional characterization of novel hypertrophic cardiomyopathy susceptibility mutations in TNNC1-encoded troponin C.
+  JOURNAL   J Mol Cell Cardiol 45:281-8 (2008)
+KO_PATHWAY  ko05410
+///

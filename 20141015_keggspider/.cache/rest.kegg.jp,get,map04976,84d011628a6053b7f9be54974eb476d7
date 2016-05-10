@@ -1,0 +1,106 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04976
+server: Apache
+date: Wed, 15 Oct 2014 15:09:14 GMT
+content-type: text/plain
+
+ENTRY       map04976                    Pathway
+NAME        Bile secretion
+DESCRIPTION Bile is a vital secretion, essential for digestion and absorption of fats and fat-soluble vitamins in the small intestine. Moreover, bile is an important route of elimination for excess cholesterol and many waste product, bilirubin, drugs and toxic compounds. Bile secretion depends on the function of membrane transport systems in hepatocytes and cholangiocytes and on the structural and functional integrity of the biliary tree. The hepatocytes generate the so-called primary bile in their canaliculi.  Cholangiocytes modify the canalicular bile by secretory and reabsorptive processes as bile passes through the bile ducts. The main solutes in bile are bile acids, which stimulate bile secretion osmotically, as well as facilitate the intestinal absorption of dietary lipids by their detergent properties. Bile acids are also important signalling molecules. Through the activation of nuclear receptors, they regulate their own synthesis and transport rates.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP map04976  Bile secretion
+DISEASE     H00208  Hyperbilirubinemia
+            H00624  Familial cholestasis
+            H00831  Primary dystonia
+            H00836  GLUT1 deficiency syndrome (GLUT1DS)
+            H00933  Hereditary pancreatitis
+            H01016  Primary bile acid malabsorption
+            H01213  Gallbladder disease
+            H01383  LDL Receptor Disorder
+DBLINKS     GO: 0032782
+REFERENCE   PMID:11826283
+  AUTHORS   Meier PJ, Stieger B
+  TITLE     Bile salt transporters.
+  JOURNAL   Annu Rev Physiol 64:635-61 (2002)
+REFERENCE   PMID:10728790
+  AUTHORS   Kullak-Ublick GA, Beuers U, Paumgartner G
+  TITLE     Hepatobiliary transport.
+  JOURNAL   J Hepatol 32:3-18 (2000)
+REFERENCE   PMID:18668439
+  AUTHORS   Kosters A, Karpen SJ
+  TITLE     Bile acid transporters in health and disease.
+  JOURNAL   Xenobiotica 38:1043-71 (2008)
+REFERENCE   PMID:14999673
+  AUTHORS   Anwer MS
+  TITLE     Cellular regulation of hepatic bile acid transport in health and cholestasis.
+  JOURNAL   Hepatology 39:581-90 (2004)
+REFERENCE   PMID:17404808
+  AUTHORS   Alrefai WA, Gill RK
+  TITLE     Bile acid transporters: structure, function, regulation and pathophysiological implications.
+  JOURNAL   Pharm Res 24:1803-23 (2007)
+REFERENCE   PMID:12663868
+  AUTHORS   Trauner M, Boyer JL
+  TITLE     Bile salt transporters: molecular characterization, function, and regulation.
+  JOURNAL   Physiol Rev 83:633-71 (2003)
+REFERENCE   PMID:20103563
+  AUTHORS   Klaassen CD, Aleksunes LM
+  TITLE     Xenobiotic, bile acid, and cholesterol transporters: function and regulation.
+  JOURNAL   Pharmacol Rev 62:1-96 (2010)
+REFERENCE   PMID:15758646
+  AUTHORS   Trauner M, Wagner M, Fickert P, Zollner G
+  TITLE     Molecular regulation of hepatobiliary transport systems: clinical implications for understanding and treating cholestasis.
+  JOURNAL   J Clin Gastroenterol 39:S111-24 (2005)
+REFERENCE   PMID:14659471
+  AUTHORS   
+  TITLE     
+  JOURNAL   
+REFERENCE   PMID:18837079
+  AUTHORS   Esteller A
+  TITLE     Physiology of bile secretion.
+  JOURNAL   World J Gastroenterol 14:5641-9 (2008)
+REFERENCE   PMID:12483266
+  AUTHORS   Takikawa H
+  TITLE     Hepatobiliary transport of bile acids and organic anions.
+  JOURNAL   J Hepatobiliary Pancreat Surg 9:443-7 (2002)
+REFERENCE   PMID:11316487
+  AUTHORS   St-Pierre MV, Kullak-Ublick GA, Hagenbuch B, Meier PJ
+  TITLE     Transport of bile acids in hepatic and non-hepatic tissues.
+  JOURNAL   J Exp Biol 204:1673-86 (2001)
+REFERENCE   PMID:18670431
+  AUTHORS   Thomas C, Pellicciari R, Pruzanski M, Auwerx J, Schoonjans K
+  TITLE     Targeting bile-acid signalling for metabolic diseases.
+  JOURNAL   Nat Rev Drug Discov 7:678-93 (2008)
+REFERENCE   PMID:15975683
+  AUTHORS   Pauli-Magnus C, Stieger B, Meier Y, Kullak-Ublick GA, Meier PJ
+  TITLE     Enterohepatic transport of bile salts and genetics of cholestasis.
+  JOURNAL   J Hepatol 43:342-57 (2005)
+REFERENCE   PMID:18081658
+  AUTHORS   Pellicoro A, Faber KN
+  TITLE     Review article: The function and regulation of proteins involved in bile salt biosynthesis and transport.
+  JOURNAL   Aliment Pharmacol Ther 26 Suppl 2:149-60 (2007)
+REFERENCE   PMID:19482594
+  AUTHORS   Jonker JW, Stedman CA, Liddle C, Downes M
+  TITLE     Hepatobiliary ABC transporters: physiology, regulation and implications for disease.
+  JOURNAL   Front Biosci 14:4904-20 (2009)
+REFERENCE   PMID:19273385
+  AUTHORS   Modica S, Bellafante E, Moschetta A
+  TITLE     Master regulation of bile acid and xenobiotic metabolism via the FXR, PXR and CAR trio.
+  JOURNAL   Front Biosci 14:4719-45 (2009)
+REFERENCE   PMID:16706681
+  AUTHORS   Cai SY, Boyer JL
+  TITLE     FXR: a target for cholestatic syndromes?
+  JOURNAL   Expert Opin Ther Targets 10:409-21 (2006)
+REFERENCE   PMID:19273238
+  AUTHORS   Ballatori N, Li N, Fang F, Boyer JL, Christian WV, Hammond CL
+  TITLE     OST alpha-OST beta: a key membrane transporter of bile acids and conjugated steroids.
+  JOURNAL   Front Biosci 14:2829-44 (2009)
+REFERENCE   PMID:18377365
+  AUTHORS   Roma MG, Crocenzi FA, Sanchez Pozzi EA
+  TITLE     Hepatocellular transport in acquired cholestasis: new insights into functional, regulatory and therapeutic aspects.
+  JOURNAL   Clin Sci (Lond) 114:567-88 (2008)
+REFERENCE   PMID:18371245
+  AUTHORS   Arrese M, Macias RI, Briz O, Perez MJ, Marin JJ
+  TITLE     Molecular pathogenesis of intrahepatic cholestasis of pregnancy.
+  JOURNAL   Expert Rev Mol Med 10:e9 (2008)
+KO_PATHWAY  ko04976
+///

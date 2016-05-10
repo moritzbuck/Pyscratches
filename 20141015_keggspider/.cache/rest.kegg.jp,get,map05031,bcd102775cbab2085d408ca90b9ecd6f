@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05031
+server: Apache
+date: Wed, 15 Oct 2014 15:09:17 GMT
+content-type: text/plain
+
+ENTRY       map05031                    Pathway
+NAME        Amphetamine addiction
+DESCRIPTION Amphetamine is a psychostimulant drug that exerts persistent addictive effects. Most addictive drugs increase extracellular concentrations of dopamine (DA) in nucleus accumbens (NAc) and medial prefrontal cortex (mPFC), projection areas of mesocorticolimbic DA neurons and key components of the "brain reward circuit". Amphetamine achieves this elevation in extracellular levels of DA by promoting efflux from synaptic terminals. Acute administration of amphetamine induces phosphorylation of cAMP response element-binding protein (CREB) and expression of a number of immediate early genes (IEGs), such as c-fos. The IEGs is likely to initiate downstream molecular events, which may have important roles in the induction and maintenance of addictive states. Chronic exposure to amphetamine induces a unique transcription factor delta FosB, which plays an essential role in long-term adaptive changes in the brain.
+CLASS       Human Diseases; Substance dependence
+PATHWAY_MAP map05031  Amphetamine addiction
+DBLINKS     GO: 0001975
+REFERENCE   PMID:16724157
+  AUTHORS   Rajadhyaksha AM, Kosofsky BE
+  TITLE     Psychostimulants, Protein phosphorylation and Gene expression: a growing role of  L-type calcium channels.
+  JOURNAL   Cellscience 2:127-144 (2005)
+REFERENCE   PMID:18440072
+  AUTHORS   Cunha-Oliveira T, Rego AC, Oliveira CR
+  TITLE     Cellular and molecular mechanisms involved in the neurotoxicity of opioid and psychostimulant drugs.
+  JOURNAL   Brain Res Rev 58:192-208 (2008)
+REFERENCE   PMID:16776597
+  AUTHORS   Hyman SE, Malenka RC, Nestler EJ
+  TITLE     Neural mechanisms of addiction: the role of reward-related learning and memory.
+  JOURNAL   Annu Rev Neurosci 29:565-98 (2006)
+REFERENCE   PMID:16151049
+  AUTHORS   Rajadhyaksha AM, Kosofsky BE
+  TITLE     Psychostimulants, L-type calcium channels, kinases, and phosphatases.
+  JOURNAL   Neuroscientist 11:494-502 (2005)
+REFERENCE   PMID:14622123
+  AUTHORS   Dudman JT, Eaton ME, Rajadhyaksha A, Macias W, Taher M, Barczak A, Kameyama K, Huganir R, Konradi C
+  TITLE     Dopamine D1 receptors mediate CREB phosphorylation via phosphorylation of the NMDA receptor at Ser897-NR1.
+  JOURNAL   J Neurochem 87:922-34 (2003)
+REFERENCE   PMID:10414964
+  AUTHORS   Rajadhyaksha A, Barczak A, Macias W, Leveque JC, Lewis SE, Konradi C
+  TITLE     L-Type Ca(2+) channels are essential for glutamate-mediated CREB phosphorylation  and c-fos gene expression in striatal neurons.
+  JOURNAL   J Neurosci 19:6348-59 (1999)
+REFERENCE   PMID:8753884
+  AUTHORS   Konradi C, Leveque JC, Hyman SE
+  TITLE     Amphetamine and dopamine-induced immediate early gene expression in striatal neurons depends on postsynaptic NMDA receptors and calcium.
+  JOURNAL   J Neurosci 16:4231-9 (1996)
+REFERENCE   PMID:10774721
+  AUTHORS   Berke JD, Hyman SE
+  TITLE     Addiction, dopamine, and the molecular mechanisms of memory.
+  JOURNAL   Neuron 25:515-32 (2000)
+REFERENCE   PMID:17728700
+  AUTHORS   McClung CA, Nestler EJ
+  TITLE     Neuroplasticity mediated by altered gene expression.
+  JOURNAL   Neuropsychopharmacology 33:3-17 (2008)
+REFERENCE   PMID:14746512
+  AUTHORS   Chao J, Nestler EJ
+  TITLE     Molecular neurobiology of drug addiction.
+  JOURNAL   Annu Rev Med 55:113-32 (2004)
+REFERENCE   PMID:19199083
+  AUTHORS   Robertson SD, Matthies HJ, Galli A
+  TITLE     A closer look at amphetamine-induced reverse transport and trafficking of the dopamine and norepinephrine transporters.
+  JOURNAL   Mol Neurobiol 39:73-80 (2009)
+REFERENCE   PMID:18617632
+  AUTHORS   Binda F, Dipace C, Bowton E, Robertson SD, Lute BJ, Fog JU, Zhang M, Sen N, Colbran RJ, Gnegy ME, Gether U, Javitch JA, Erreger K, Galli A
+  TITLE     Syntaxin 1A interaction with the dopamine transporter promotes amphetamine-induced dopamine efflux.
+  JOURNAL   Mol Pharmacol 74:1101-8 (2008)
+REFERENCE   PMID:21338876
+  AUTHORS   Sulzer D
+  TITLE     How addictive drugs disrupt presynaptic dopamine neurotransmission.
+  JOURNAL   Neuron 69:628-49 (2011)
+REFERENCE   PMID:8630246
+  AUTHORS   Hyman SE
+  TITLE     Addiction to cocaine and amphetamine.
+  JOURNAL   Neuron 16:901-4 (1996)
+REFERENCE   PMID:18632938
+  AUTHORS   Renthal W, Carle TL, Maze I, Covington HE 3rd, Truong HT, Alibhai I, Kumar A, Montgomery RL, Olson EN, Nestler EJ
+  TITLE     Delta FosB mediates epigenetic desensitization of the c-fos gene after chronic amphetamine exposure.
+  JOURNAL   J Neurosci 28:7344-9 (2008)
+REFERENCE   PMID:21989194
+  AUTHORS   Robison AJ, Nestler EJ
+  TITLE     Transcriptional and epigenetic mechanisms of addiction.
+  JOURNAL   Nat Rev Neurosci 12:623-37 (2011)
+REFERENCE   PMID:14529709
+  AUTHORS   Snyder GL, Galdi S, Fienberg AA, Allen P, Nairn AC, Greengard P
+  TITLE     Regulation of AMPA receptor dephosphorylation by glutamate receptor agonists.
+  JOURNAL   Neuropharmacology 45:703-13 (2003)
+REFERENCE   PMID:19222557
+  AUTHORS   Banerjee PS, Aston J, Khundakar AA, Zetterstrom TS
+  TITLE     Differential regulation of psychostimulant-induced gene expression of brain derived neurotrophic factor and the immediate-early gene Arc in the juvenile and  adult brain.
+  JOURNAL   Eur J Neurosci 29:465-76 (2009)
+KO_PATHWAY  ko05031
+///

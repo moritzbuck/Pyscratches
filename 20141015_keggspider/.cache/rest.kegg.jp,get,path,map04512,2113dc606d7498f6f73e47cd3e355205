@@ -1,0 +1,81 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04512
+server: Apache
+date: Wed, 15 Oct 2014 14:58:29 GMT
+content-type: text/plain
+
+ENTRY       map04512                    Pathway
+NAME        ECM-receptor interaction
+DESCRIPTION The extracellular matrix (ECM) consists of a complex mixture of structural and functional macromolecules and serves an important role in tissue and organ morphogenesis and in the maintenance of cell and tissue structure and function. Specific interactions between cells and the ECM are mediated by transmembrane molecules, mainly integrins and perhaps also proteoglycans, CD36, or other cell-surface-associated components. These interactions lead to a direct or indirect control of cellular activities such as adhesion, migration, differentiation, proliferation, and apoptosis. In addition, integrins function as mechanoreceptors and provide a force-transmitting physical link between the ECM and the cytoskeleton. Integrins are a family of glycosylated, heterodimeric transmembrane adhesion receptors that consist of noncovalently bound alpha- and beta-subunits.
+CLASS       Environmental Information Processing; Signaling molecules and interaction
+PATHWAY_MAP map04512  ECM-receptor interaction
+DISEASE     H00219  Hemophilia
+            H00224  Bernard-Soulier syndrome
+            H00226  Glanzmann thrombasthenia
+            H00576  Pierson syndrome
+            H00579  Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps (HANAC)
+            H00581  Alport syndrome
+            H00582  Benign familial hematuria
+            H00585  Epidermolysis bullosa, hemidesmosomal
+            H00586  Epidermolysis bullosa, junctional
+            H00770  Congenital myasthenic syndrome
+            H00802  Ehlers-Danlos syndrome (EDS)
+            H00805  Vitreoretinal degeneration
+            H00813  Laryngo onycho cutaneous syndrome
+            H00839  Porencephaly
+            H00877  Brain small vessel disease with Axenfeld-Rieger anomaly
+            H01260  Glomerulopathy with fibronectin deposits (GFND)
+            H01338  Myosclerosis
+            H01340  Bethlem myopathy
+            H01341  Collagen VI myopathy
+DBLINKS     GO: 0005201
+REFERENCE   PMID:11572082
+  AUTHORS   van der Flier A, Sonnenberg A.
+  TITLE     Function and interactions of integrins.
+  JOURNAL   Cell Tissue Res 305:285-98 (2001)
+REFERENCE   PMID:12921709
+  AUTHORS   Reddy KV, Mangale SS.
+  TITLE     Integrin receptors: the dynamic modulators of endometrial function.
+  JOURNAL   Tissue Cell 35:260-73 (2003)
+REFERENCE   PMID:12125070
+  AUTHORS   Milner R, Campbell IL.
+  TITLE     The integrin family of cell adhesion molecules has multiple functions within the CNS.
+  JOURNAL   J Neurosci Res 69:286-91 (2002)
+REFERENCE   PMID:12796473
+  AUTHORS   Cichy J, Pure E.
+  TITLE     The liberation of CD44.
+  JOURNAL   J Cell Biol 161:839-43 (2003)
+REFERENCE   PMID:7698997
+  AUTHORS   Elenius K, Jalkanen M.
+  TITLE     Function of the syndecans--a family of cell surface proteoglycans.
+  JOURNAL   J Cell Sci 107 ( Pt 11):2975-82 (1994)
+REFERENCE   PMID:10617638
+  AUTHORS   Son YJ, Scranton TW, Sunderland WJ, Baek SJ, Miner JH, Sanes JR, Carlson SS.
+  TITLE     The synaptic vesicle protein SV2 is complexed with an alpha5-containing laminin on the nerve terminal surface.
+  JOURNAL   J Biol Chem 275:451-60 (2000)
+REFERENCE   PMID:15036264
+  AUTHORS   Sid B, Sartelet H, Bellon G, El Btaouri H, Rath G, Delorme N, Haye B, Martiny L.
+  TITLE     Thrombospondin 1: a multifunctional protein implicated in the regulation of tumor growth.
+  JOURNAL   Crit Rev Oncol Hematol 49:245-58 (2004)
+REFERENCE   PMID:15381249
+  AUTHORS   Canobbio I, Balduini C, Torti M.
+  TITLE     Signalling through the platelet glycoprotein Ib-V-IX complex.
+  JOURNAL   Cell Signal 16:1329-44 (2004)
+REFERENCE   PMID:11331578
+  AUTHORS   Nieswandt B, Brakebusch C, Bergmeier W, Schulte V, Bouvard D, Mokhtari-Nejad R, Lindhout T, Heemskerk JW, Zirngibl H, Fassler R.
+  TITLE     Glycoprotein VI but not alpha2beta1 integrin is essential for platelet interaction with collagen.
+  JOURNAL   EMBO J 20:2120-30 (2001)
+REFERENCE   PMID:12736199
+  AUTHORS   Martin PT.
+  TITLE     Dystroglycan glycosylation and its role in matrix binding in skeletal muscle.
+  JOURNAL   Glycobiology 13:55R-66R (2003)
+REFERENCE   PMID:15229478
+  AUTHORS   Toole BP.
+  TITLE     Hyaluronan: from extracellular glue to pericellular cue.
+  JOURNAL   Nat Rev Cancer 4:528-39 (2004)
+REFERENCE   PMID:12845610
+  AUTHORS   Bosman FT, Stamenkovic I.
+  TITLE     Functional structure and composition of the extracellular matrix.
+  JOURNAL   J Pathol 200:423-8 (2003)
+KO_PATHWAY  ko04512
+///

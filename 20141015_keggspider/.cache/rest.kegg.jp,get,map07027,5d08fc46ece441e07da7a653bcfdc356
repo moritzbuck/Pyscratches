@@ -1,0 +1,138 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07027
+server: Apache
+date: Wed, 15 Oct 2014 15:09:43 GMT
+content-type: text/plain
+
+ENTRY       map07027          Drug      Pathway
+NAME        Antidepressants
+PATHWAY_MAP map07027  Antidepressants
+COMPOUND    D00228  Amoxapine (JP16/USP/INN)
+            D00326  Fluoxetine (USAN/INN)
+            D00394  Trimipramine (USAN/INN)
+            D00505  Phenelzine sulfate (USP)
+            D00563  Mirtazapine (JAN/USAN/INN)
+            D00785  Selegiline hydrochloride (JAN/USP)
+            D00809  Amitriptyline hydrochloride (JP16/USP)
+            D00811  Clomipramine hydrochloride (JP16/USP)
+            D00812  Desipramine hydrochloride (JAN/USP)
+            D00815  Imipramine hydrochloride (JP16/USP)
+            D00816  Nortriptyline hydrochloride (JP16/USP/INN)
+            D00818  Maprotiline hydrochloride (JP16/USP)
+            D00819  Nefazodone hydrochloride (USAN)
+            D00820  Trazodone hydrochloride (JAN/USP)
+            D00821  Venlafaxine hydrochloride (JAN/USAN)
+            D00822  Citalopram hydrobromide (USAN)
+            D00823  Fluoxetine hydrochloride (JAN/USP)
+            D00824  Fluvoxamine maleate (JP16/USAN)
+            D00825  Sertraline hydrochloride (JAN/USAN)
+            D00826  Tranylcypromine sulfate (USP XXI)
+            D01107  Milnacipran hydrochloride (JAN/USAN)
+            D01110  Melitracen hydrochloride (JAN/USAN)
+            D01179  Duloxetine hydrochloride (JAN/USAN)
+            D01285  Lofepramine hydrochloride (JAN/USAN)
+            D01358  Mianserin hydrochloride (JAN/USAN)
+            D01546  Dosulepin hydrochloride (JAN)
+            D02034  Setiptiline maleate (JAN)
+            D02260  Paroxetine hydrochloride hydrate (JP16)
+            D02360  Sertraline (INN)
+            D02362  Paroxetine (USP/INN)
+            D02408  Trimipramine maleate (JAN/USAN)
+            D02559  Toloxatone (INN)
+            D02560  Brofaromine (INN)
+            D02561  Moclobemide (USAN/INN)
+            D02562  Rasagiline mesylate (USAN)
+            D02565  Dimetacrine (INN)
+            D02566  Maprotiline (USAN)
+            D02570  Desvenlafaxine succinate hydrate (JAN)
+            D02571  Sibutramine hydrochloride hydrate (JAN)
+            D02572  Viloxazine hydrochloride (USAN)
+            D02573  Reboxetine mesylate (USAN)
+            D02579  Iproniazid (INN)
+            D02580  Isocarboxazid (INN)
+            D03731  Selegiline (USAN/INN)
+            D05374  Paroxetine hydrochloride (USP)
+            D05375  Paroxetine mesylate (USAN)
+            D07448  Amitriptyline (INN)
+            D07704  Citalopram (USP/INN)
+            D07705  Citalopram hydrochloride
+            D07727  Clomipramine (INN)
+            D07791  Desipramine (INN)
+            D07793  Desvenlafaxine (INN)
+            D07872  Dosulepin (INN)
+            D07880  Duloxetine (INN)
+            D07984  Fluvoxamine (INN)
+            D08070  Imipramine (INN)
+            D08085  Iproniazid phosphate
+            D08140  Lofepramine (INN)
+            D08171  Melitracen (INN)
+            D08216  Mianserin (INN)
+            D08222  Milnacipran (INN)
+            D08257  Nefazodone (INN)
+            D08288  Nortriptyline (INN)
+            D08349  Phenelzine (BAN)
+            D08469  Rasagiline (USAN/INN)
+            D08472  Reboxetine (INN)
+            D08511  Setiptiline (INN)
+            D08513  Sibutramine (INN)
+            D08625  Tranylcypromine (INN)
+            D08626  Trazodone (INN)
+            D08670  Venlafaxine (INN)
+            D08673  Viloxazine (INN)
+REFERENCE   (Japanese)
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   (Japanese)
+  AUTHORS   Shishikura K, Kamijima K.
+  TITLE     [History and prospects of antidepressants.] (In Japanese)
+  JOURNAL   Journal of Japanese Society of Hospital Pharmacists 37(11):25-28 (2001)
+REFERENCE   (Japanese)
+  AUTHORS   Kusumi I, Koyama T.
+  TITLE     [Pharmacology of novel antidepressants.] (In Japanese)
+  JOURNAL   Igaku no Ayumi 195(8):519-522 (2000)
+REFERENCE   (Japanese)
+  AUTHORS   Koyama T.
+  TITLE     [The history of antidepressant development.] (In Japanese)
+  JOURNAL   Iyaku journal 35(2):137-140 (2000)
+REFERENCE   
+  AUTHORS   Leonard BE.
+  TITLE     Pharmacological properties of some ''second generation'' antidepressant drugs.
+  JOURNAL   Neuropharmacology 19(12):1175-1183 (1980)
+REFERENCE   PMID:8471919
+  AUTHORS   Song F, Freemantle N, Sheldon TA, House A, Watson P, Long A, Mason J
+  TITLE     Selective serotonin reuptake inhibitors: meta-analysis of efficacy and acceptability.
+  JOURNAL   BMJ 306:683-7 (1993)
+REFERENCE   PMID:10511010
+  AUTHORS   Domino EF.
+  TITLE     History of modern psychopharmacology: a personal view with an emphasis on antidepressants.
+  JOURNAL   Psychosom Med 61:591-8 (1999)
+REFERENCE   PMID:11478422
+  AUTHORS   Ban TA.
+  TITLE     Pharmacotherapy of depression: a historical analysis.
+  JOURNAL   J Neural Transm 108:707-16 (2001)
+REFERENCE   PMID:14748749
+  AUTHORS   Slattery DA, Hudson AL, Nutt DJ.
+  TITLE     Invited review: the evolution of antidepressant mechanisms.
+  JOURNAL   Fundam Clin Pharmacol 18:1-21 (2004)
+REFERENCE   PMID:15618947
+  AUTHORS   Nutt DJ.
+  TITLE     Overview of diagnosis and drug treatments of anxiety disorders.
+  JOURNAL   CNS Spectr 10:49-56 (2005)
+///

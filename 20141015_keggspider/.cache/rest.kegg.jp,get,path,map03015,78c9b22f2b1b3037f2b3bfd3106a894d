@@ -1,0 +1,38 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map03015
+server: Apache
+date: Wed, 15 Oct 2014 14:58:06 GMT
+content-type: text/plain
+
+ENTRY       map03015                    Pathway
+NAME        mRNA surveillance pathway
+DESCRIPTION The mRNA surveillance pathway is a quality control mechanism that detects and degrades abnormal mRNAs. These  pathways include nonsense-mediated mRNA decay (NMD), nonstop mRNA decay (NSD), and no-go decay (NGD). NMD is a mechanism that eliminates mRNAs containing premature translation-termination codons (PTCs). In vertebrates, PTCs trigger efficient NMD when located upstream of an exon junction complex (EJC). Upf3, together with Upf1 and Upf2, may signal the presence of the PTC to the 5'end of the transcript, resulting in decapping and rapid exonucleolytic digestion of the mRNA. In the NSD pathway, which targets mRNAs lacking termination codons, the ribosome is believed to translate through the 3' untranslated region and stall at the end of the poly(A) tail. NSD involves an eRF3-like protein, Ski7p, which is hypothesized to bind the empty A site of the ribosome and recruit the exosome to degrade the mRNA from the 3' end. NGD targets mRNAs with stalls in translation elongation for endonucleolytic cleavage in a process involving the Dom34 and Hbs1 proteins.
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP map03015  mRNA surveillance pathway
+MODULE      M00399  Cap binding complex [PATH:map03015]
+            M00430  Exon junction complex (EJC) [PATH:map03015]
+DISEASE     H00658  Syndromic X-linked mental retardation
+            H00704  Oculopharyngeal muscular dystrophy (OPMD)
+DBLINKS     GO: 0071028
+REFERENCE   PMID:15040442
+  AUTHORS   Maquat LE
+  TITLE     Nonsense-mediated mRNA decay: splicing, translation and mRNP dynamics.
+  JOURNAL   Nat Rev Mol Cell Biol 5:89-99 (2004)
+REFERENCE   PMID:16723977
+  AUTHORS   Amrani N, Sachs MS, Jacobson A
+  TITLE     Early nonsense: mRNA decay solves a translational problem.
+  JOURNAL   Nat Rev Mol Cell Biol 7:415-25 (2006)
+REFERENCE   PMID:17183357
+  AUTHORS   Eulalio A, Behm-Ansmant I, Izaurralde E
+  TITLE     P bodies: at the crossroads of post-transcriptional pathways.
+  JOURNAL   Nat Rev Mol Cell Biol 8:9-22 (2007)
+REFERENCE   PMID:18158581
+  AUTHORS   Mandel CR, Bai Y, Tong L
+  TITLE     Protein factors in pre-mRNA 3'-end processing.
+  JOURNAL   Cell Mol Life Sci 65:1099-122 (2008)
+REFERENCE   PMID:16715045
+  AUTHORS   Clement SL, Lykke-Andersen J
+  TITLE     No mercy for messages that mess with the ribosome.
+  JOURNAL   Nat Struct Mol Biol 13:299-301 (2006)
+KO_PATHWAY  ko03015
+///

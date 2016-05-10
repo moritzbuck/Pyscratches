@@ -1,0 +1,459 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map02020
+server: Apache
+date: Wed, 15 Oct 2014 14:58:04 GMT
+content-type: text/plain
+
+ENTRY       map02020                    Pathway
+NAME        Two-component system
+DESCRIPTION Two-component signal transduction systems enable bacteria to sense, respond, and adapt to changes in their environment or in their intracellular state. Each two-component system consists of a sensor protein-histidine kinase (HK) and a response regulator (RR). In the prototypical two-component pathway, the sensor HK phosphorylates its own conserved His residue in response to a signal(s) in the environment. Subsequently, the phosphoryl group of HK is transferred onto a specific Asp residue on the RR. The activated RR can then effect changes in cellular physiology, often by regulating gene expression. Two-component pathways thus often enable cells to sense and respond to stimuli by inducing changes in transcription.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map02020  Two-component system
+MODULE      M00314  Bacitracin transport system [PATH:map02020]
+            M00315  Uncharacterized ABC transport system [PATH:map02020]
+            M00316  Manganese transport system [PATH:map02020]
+            M00434  PhoR-PhoB (phosphate starvation response) two-component regulatory system [PATH:map02020]
+            M00443  SenX3-RegX3 (phosphate starvation response) two-component regulatory system [PATH:map02020]
+            M00444  PhoQ-PhoP (magnesium transport) two-component regulatory system [PATH:map02020]
+            M00445  EnvZ-OmpR (osmotic stress response) two-component regulatory system [PATH:map02020]
+            M00446  RstB-RstA two-component regulatory system [PATH:map02020]
+            M00447  CpxA-CpxR (envelope stress response) two-component regulatory system [PATH:map02020]
+            M00448  CssS-CssR (secretion stress response) two-component regulatory system [PATH:map02020]
+            M00449  CreC-CreB (phosphate regulation) two-component regulatory system [PATH:map02020]
+            M00450  BaeS-BaeR (envelope stress response) two-component regulatory system [PATH:map02020]
+            M00451  BasS-BasR (antimicrobial peptide resistance) two-component regulatory system [PATH:map02020]
+            M00452  CusS-CusR (copper tolerance) two-component regulatory system [PATH:map02020]
+            M00453  QseC-QseB (quorum sensing) two-component regulatory system [PATH:map02020]
+            M00454  KdpD-KdpE (potassium transport) two-component regulatory system [PATH:map02020]
+            M00455  TorS-TorR (TMAO respiration) two-component regulatory system [PATH:map02020]
+            M00456  ArcB-ArcA (anoxic redox control) two-component regulatory system [PATH:map02020]
+            M00457  TctE-TctD (tricarboxylic acid transport) two-component regulatory system [PATH:map02020]
+            M00458  ResE-ResD (aerobic and anaerobic respiration) two-component regulatory system [PATH:map02020]
+            M00459  VicK-VicR (cell wall metabolism) two-component regulatory system [PATH:map02020]
+            M00460  MprB-MprA (maintenance of persistent infection) two-component regulatory system [PATH:map02020]
+            M00461  MtrB-MtrA (osmotic stress response) two-component regulatory system [PATH:map02020]
+            M00462  PrrB-PrrA (intracellular multiplication) two-component regulatory system [PATH:map02020]
+            M00463  TrcS-TrcR two-component regulatory system [PATH:map02020]
+            M00464  NrsS-NrsR (nickel tolerance) two-component regulatory system [PATH:map02020]
+            M00465  ManS-ManR (manganese homeostasis) two-component regulatory system [PATH:map02020]
+            M00466  NblS-NblR (photosynthesis) two-component regulatory system [PATH:map02020]
+            M00467  SasA-RpaAB (circadian timing mediating) two-component regulatory system [PATH:map02020]
+            M00468  SaeS-SaeR (staphylococcal virulence regulation) two-component regulatory system [PATH:map02020]
+            M00469  BceS-BceR (bacitracin transport) two-component regulatory system [PATH:map02020]
+            M00470  YxdK-YxdJ (antimicrobial peptide response) two-component regulatory system [PATH:map02020]
+            M00471  NarX-NarL (nitrate respiration) two-component regulatory system [PATH:map02020]
+            M00472  NarQ-NarP (nitrate respiration) two-component regulatory system [PATH:map02020]
+            M00473  UhpB-UhpA (hexose phosphates uptake) two-component regulatory system [PATH:map02020]
+            M00474  RcsC-RcsD-RcsB (capsule synthesis) two-component regulatory system [PATH:map02020]
+            M00475  BarA-UvrY (central carbon metabolism) two-component regulatory system [PATH:map02020]
+            M00476  ComP-ComA (competence) two-component regulatory system [PATH:map02020]
+            M00477  EvgS-EvgA (acid and drug tolerance) two-component regulatory system [PATH:map02020]
+            M00478  DegS-DegU (multicellular behavior control) two-component regulatory system [PATH:map02020]
+            M00479  DesK-DesR (membrane lipid fluidity regulation) two-component regulatory system [PATH:map02020]
+            M00480  VraS-VraR (cell-wall peptidoglycan synthesis) two-component regulatory system [PATH:map02020]
+            M00481  LiaS-LiaR (cell wall stress response) two-component regulatory system [PATH:map02020]
+            M00482  DevS-DevR (redox response) two-component regulatory system [PATH:map02020]
+            M00483  NreB-NreC (dissimilatory nitrate/nitrite reduction) two-component regulatory system [PATH:map02020]
+            M00484  YdfH-YdfI two-component regulatory system [PATH:map02020]
+            M00485  KinABCDE-Spo0FA (sporulation control) two-component regulatory system [PATH:map02020]
+            M00486  CitA-CitB (citrate fermentation) two-component regulatory system [PATH:map02020]
+            M00487  CitS-CitT (magnesium-citrate transport) two-component regulatory system [PATH:map02020]
+            M00488  DcuS-DcuR (C4-dicarboxylate metabolism) two-component regulatory system [PATH:map02020]
+            M00489  DctS-DctR (C4-dicarboxylate transport) two-component regulatory system [PATH:map02020]
+            M00490  MalK-MalR (malate transport) two-component regulatory system [PATH:map02020]
+            M00492  LytS-LytR two-component regulatory system [PATH:map02020]
+            M00493  AlgZ-AlgR (alginate production) two-component regulatory system [PATH:map02020]
+            M00494  NatK-NatR (sodium extrusion) two-component regulatory system [PATH:map02020]
+            M00495  AgrC-AgrA (exoprotein synthesis) two-component regulatory system [PATH:map02020]
+            M00496  ComD-ComE (competence) two-component regulatory system [PATH:map02020]
+            M00497  GlnL-GlnG (nitrogen regulation) two-component regulatory system [PATH:map02020]
+            M00498  NtrY-NtrX (nitrogen regulation) two-component regulatory system [PATH:map02020]
+            M00499  HydH-HydG (metal tolerance) two-component regulatory system [PATH:map02020]
+            M00500  AtoS-AtoC (cPHB biosynthesis) two-component regulatory system [PATH:map02020]
+            M00501  PilS-PilR (type 4 fimbriae synthesis) two-component regulatory system [PATH:map02020]
+            M00502  GlrK-GlrR (amino sugar metabolism) two-component regulatory system [PATH:map02020]
+            M00503  PgtB-PgtA (phosphoglycerate transport) two-component regulatory system [PATH:map02020]
+            M00504  DctB-DctD (C4-dicarboxylate transport) two-component regulatory system [PATH:map02020]
+            M00505  KinB-AlgB (alginate production) two-component regulatory system [PATH:map02020]
+            M00506  CheA-CheYBV (chemotaxis) two-component regulatory system [PATH:map02020]
+            M00507  ChpA-ChpB/PilGH (chemosensory) two-component regulatory system [PATH:map02020]
+            M00508  PixL-PixGH (positive phototaxis) two-component regulatory system [PATH:map02020]
+            M00509  WspE-WspRF (chemosensory) two-component regulatory system [PATH:map02020]
+            M00510  Cph1-Rcp1 (light response) two-component regulatory system [PATH:map02020]
+            M00511  PleC-PleD (cell fate control) two-component regulatory system [PATH:map02020]
+            M00512  CckA-CtrA/CpdR (cell cycle control) two-component regulatory system [PATH:map02020]
+            M00513  LuxQN/CqsS-LuxU-LuxO (quorum sensing) two-component regulatory system [PATH:map02020]
+            M00514  TtrS-TtrR (tetrathionate respiration) two-component regulatory system [PATH:map02020]
+            M00515  FlrB-FlrC (polar flagellar synthesis) two-component regulatory system [PATH:map02020]
+            M00516  SLN1-YPD1-SSK1/SKN7 (osmosensing) two-component regulatory system [PATH:map02020]
+            M00517  RpfC-RpfG (cell-to-cell signaling) two-component regulatory system [PATH:map02020]
+            M00518  GlnK-GlnL (glutamine utilization) two-component regulatory system [PATH:map02020]
+            M00519  YesM-YesN two-component regulatory system [PATH:map02020]
+            M00520  ChvG-ChvI (acidity sensing) two-component regulatory system [PATH:map02020]
+            M00521  CiaH-CiaR two-component regulatory system [PATH:map02020]
+            M00522  SalK-SalR two-component regulatory system [PATH:map02020]
+            M00523  RegB-RegA (redox response) two-component regulatory system [PATH:map02020]
+            M00524  FixL-FixJ (nitrogen fixation) two-component regulatory system [PATH:map02020]
+            M00645  Multidrug resistance, efflux pump SmeABC [PATH:map02020]
+            M00646  Multidrug resistance, efflux pump AcrAD-TolC [PATH:map02020]
+            M00648  Multidrug resistance, efflux pump MdtABC [PATH:map02020]
+            M00651  Vancomycin resistance, VanB type [PATH:map02020]
+            M00652  Vancomycin resistance, VanE type [PATH:map02020]
+            M00653  AauS-AauR (acidic amino acids utilization) two-component regulatory system [PATH:map02020]
+            M00654  ParS-ParR (polymyxin-adaptive resistance) two-component regulatory system [PATH:map02020]
+            M00656  VanS-VanR (VanB type vancomycin resistance) two-component regulatory system [PATH:map02020]
+            M00657  VanS-VanR (VanE type vancomycin resistance) two-component regulatory system [PATH:map02020]
+            M00658  VanS-VanR (actinomycete type vancomycin resistance) two-component regulatory system [PATH:map02020]
+            M00662  Hk1-Rrp1 (glycerol uptake and utilization) two-component regulatory system [PATH:map02020]
+            M00663  SsrA-SsrB two-component regulatory system [PATH:map02020]
+DBLINKS     GO: 0000160
+REFERENCE   PMID:15522865
+  AUTHORS   Yamamoto K, Hirao K, Oshima T, Aiba H, Utsumi R, Ishihama A.
+  TITLE     Functional characterization in vitro of all two-component signal transduction systems from Escherichia coli.
+  JOURNAL   J Biol Chem 280:1448-56 (2005)
+REFERENCE   PMID:16030210
+  AUTHORS   Abdel-Fattah WR, Chen Y, Eldakak A, Hulett FM.
+  TITLE     Bacillus subtilis phosphorylated PhoP: direct activation of the E(sigma)A- and repression of the E(sigma)E-responsive phoB-PS+V promoters during pho response.
+  JOURNAL   J Bacteriol 187:5166-78 (2005)
+REFERENCE   PMID:15813739
+  AUTHORS   Navarre WW, Halsey TA, Walthers D, Frye J, McClelland M, Potter JL, Kenney LJ, Gunn JS, Fang FC, Libby SJ.
+  TITLE     Co-regulation of Salmonella enterica genes required for virulence and resistance to antimicrobial peptides by SlyA and PhoP/PhoQ.
+  JOURNAL   Mol Microbiol 56:492-508 (2005)
+REFERENCE   PMID:11973328
+  AUTHORS   Cai SJ, Inouye M.
+  TITLE     EnvZ-OmpR interaction and osmoregulation in Escherichia coli.
+  JOURNAL   J Biol Chem 277:24155-61 (2002)
+REFERENCE   PMID:16077119
+  AUTHORS   Batchelor E, Walthers D, Kenney LJ, Goulian M.
+  TITLE     The Escherichia coli CpxA-CpxR envelope stress response system regulates expression of the porins ompF and ompC.
+  JOURNAL   J Bacteriol 187:5723-31 (2005)
+REFERENCE   PMID:12107133
+  AUTHORS   Nagakubo S, Nishino K, Hirata T, Yamaguchi A.
+  TITLE     The putative response regulator BaeR stimulates multidrug resistance of Escherichia coli via a novel multidrug exporter system, MdtABC.
+  JOURNAL   J Bacteriol 184:4161-7 (2002)
+REFERENCE   PMID:15322361
+  AUTHORS   Hagiwara D, Yamashino T, Mizuno T.
+  TITLE     A Genome-wide view of the Escherichia coli BasS-BasR two-component system implicated in iron-responses.
+  JOURNAL   Biosci Biotechnol Biochem 68:1758-67 (2004)
+REFERENCE   PMID:11004187
+  AUTHORS   Munson GP, Lam DL, Outten FW, O'Halloran TV.
+  TITLE     Identification of a copper-responsive two-component system on the chromosome of Escherichia coli K-12.
+  JOURNAL   J Bacteriol 182:5864-71 (2000)
+REFERENCE   PMID:11929534
+  AUTHORS   Sperandio V, Torres AG, Kaper JB.
+  TITLE     Quorum sensing Escherichia coli regulators B and C (QseBC): a novel two-component regulatory system involved in the regulation of flagella and motility by quorum sensing in E. coli.
+  JOURNAL   Mol Microbiol 43:809-21 (2002)
+REFERENCE   PMID:14604015
+  AUTHORS   Epstein W.
+  TITLE     The roles and regulation of potassium in bacteria.
+  JOURNAL   Prog Nucleic Acid Res Mol Biol 75:293-320 (2003)
+REFERENCE   PMID:10648521
+  AUTHORS   Ansaldi M, Simon G, Lepelletier M, Mejean V.
+  TITLE     The TorR high-affinity binding site plays a key role in both torR autoregulation and torCAD operon expression in Escherichia coli.
+  JOURNAL   J Bacteriol 182:961-6 (2000)
+REFERENCE   PMID:15326287
+  AUTHORS   Malpica R, Franco B, Rodriguez C, Kwon O, Georgellis D.
+  TITLE     Identification of a quinone-sensitive redox switch in the ArcB sensor kinase.
+  JOURNAL   Proc Natl Acad Sci U S A 101:13318-23 (2004)
+REFERENCE   PMID:2666399
+  AUTHORS   Widenhorn KA, Somers JM, Kay WW.
+  TITLE     Genetic regulation of the tricarboxylate transport operon (tctI) of Salmonella typhimurium.
+  JOURNAL   J Bacteriol 171:4436-41 (1989)
+REFERENCE   PMID:11555295
+  AUTHORS   Hyyrylainen HL, Bolhuis A, Darmon E, Muukkonen L, Koski P, Vitikainen M, Sarvas M, Pragai Z, Bron S, van Dijl JM, Kontinen VP.
+  TITLE     A novel two-component regulatory system in Bacillus subtilis for the survival of severe secretion stress.
+  JOURNAL   Mol Microbiol 41:1159-72 (2001)
+REFERENCE   PMID:10972837
+  AUTHORS   Zhang X, Hulett FM.
+  TITLE     ResD signal transduction regulator of aerobic respiration in Bacillus subtilis: ctaA promoter regulation.
+  JOURNAL   Mol Microbiol 37:1208-19 (2000)
+REFERENCE   PMID:15937169
+  AUTHORS   Senadheera MD, Guggenheim B, Spatafora GA, Huang YC, Choi J, Hung DC, Treglown JS, Goodman SD, Ellen RP, Cvitkovitch DG.
+  TITLE     A VicRK signal transduction system in Streptococcus mutans affects gtfBCD, gbpB, and ftf expression, biofilm formation, and genetic competence development.
+  JOURNAL   J Bacteriol 187:4064-76 (2005)
+REFERENCE   PMID:15601704
+  AUTHORS   He H, Zahrt TC.
+  TITLE     Identification and characterization of a regulatory sequence recognized by Mycobacterium tuberculosis persistence regulator MprA.
+  JOURNAL   J Bacteriol 187:202-12 (2005)
+REFERENCE   PMID:17448786
+  AUTHORS   Hutchings MI
+  TITLE     Unusual two-component signal transduction pathways in the actinobacteria.
+  JOURNAL   Adv Appl Microbiol 61:1-26 (2007)
+REFERENCE   PMID:19308662
+  AUTHORS   Kramer R
+  TITLE     Osmosensing and osmosignaling in Corynebacterium glutamicum.
+  JOURNAL   Amino Acids 37:487-97 (2009)
+REFERENCE   PMID:7751278
+  AUTHORS   Eraso JM, Kaplan S.
+  TITLE     Oxygen-insensitive synthesis of the photosynthetic membranes of Rhodobacter sphaeroides: a mutant histidine kinase.
+  JOURNAL   J Bacteriol 177:2695-706 (1995)
+REFERENCE   PMID:10089160
+  AUTHORS   Haydel SE, Dunlap NE, Benjamin WH Jr.
+  TITLE     In vitro evidence of two-component system phosphorylation between the Mycobacterium tuberculosis TrcR/TrcS proteins.
+  JOURNAL   Microb Pathog 26:195-206 (1999)
+REFERENCE   PMID:11673427
+  AUTHORS   Quisel JD, Burkholder WF, Grossman AD.
+  TITLE     In vivo effects of sporulation kinases on mutant Spo0A proteins in Bacillus subtilis.
+  JOURNAL   J Bacteriol 183:6573-8 (2001)
+REFERENCE   PMID:11889485
+  AUTHORS   Kaspar S, Bott M.
+  TITLE     The sensor kinase CitA (DpiB) of Escherichia coli functions as a high-affinity citrate receptor.
+  JOURNAL   Arch Microbiol 177:313-21 (2002)
+REFERENCE   PMID:12167640
+  AUTHORS   Janausch IG, Garcia-Moreno I, Unden G.
+  TITLE     Function of DcuS from Escherichia coli as a fumarate-stimulated histidine protein kinase in vitro.
+  JOURNAL   J Biol Chem 277:39809-14 (2002)
+REFERENCE   PMID:8550490
+  AUTHORS   Brunskill EW, Bayles KW.
+  TITLE     Identification and molecular characterization of a putative regulatory locus that affects autolysis in Staphylococcus aureus.
+  JOURNAL   J Bacteriol 178:611-8 (1996)
+REFERENCE   PMID:10940023
+  AUTHORS   Fujimoto DF, Brunskill EW, Bayles KW.
+  TITLE     Analysis of genetic elements controlling Staphylococcus aureus lrgAB expression: potential role of DNA topology in SarA regulation.
+  JOURNAL   J Bacteriol 182:4822-8 (2000)
+REFERENCE   PMID:11807079
+  AUTHORS   Dufour P, Jarraud S, Vandenesch F, Greenland T, Novick RP, Bes M, Etienne J, Lina G.
+  TITLE     High genetic variability of the agr locus in Staphylococcus species.
+  JOURNAL   J Bacteriol 184:1180-6 (2002)
+REFERENCE   PMID:8501030
+  AUTHORS   Rabin RS, Stewart V.
+  TITLE     Dual response regulators (NarL and NarP) interact with dual sensors (NarX and NarQ) to control nitrate- and nitrite-regulated gene expression in Escherichia coli K-12.
+  JOURNAL   J Bacteriol 175:3259-68 (1993)
+REFERENCE   PMID:9220011
+  AUTHORS   Chiang RC, Cavicchioli R, Gunsalus RP.
+  TITLE     'Locked-on' and 'locked-off' signal transduction mutations in the periplasmic domain of the Escherichia coli NarQ and NarX sensors affect nitrate- and nitrite-dependent regulation by NarL and NarP.
+  JOURNAL   Mol Microbiol 24:1049-60 (1997)
+REFERENCE   PMID:12107138
+  AUTHORS   Verhamme DT, Postma PW, Crielaard W, Hellingwerf KJ.
+  TITLE     Cooperativity in signal transfer through the Uhp system of Escherichia coli.
+  JOURNAL   J Bacteriol 184:4205-10 (2002)
+REFERENCE   PMID:13129944
+  AUTHORS   Hagiwara D, Sugiura M, Oshima T, Mori H, Aiba H, Yamashino T, Mizuno T.
+  TITLE     Genome-wide analyses revealing a signaling network of the RcsC-YojN-RcsB phosphorelay system in Escherichia coli.
+  JOURNAL   J Bacteriol 185:5735-46 (2003)
+REFERENCE   PMID:12951338
+  AUTHORS   Hirakawa H, Nishino K, Yamada J, Hirata T, Yamaguchi A.
+  TITLE     Beta-lactam resistance modulated by the overexpression of response regulators of two-component signal transduction systems in Escherichia coli.
+  JOURNAL   J Antimicrob Chemother 52:576-82 (2003)
+REFERENCE   PMID:12193630
+  AUTHORS   Suzuki K, Wang X, Weilbacher T, Pernestig AK, Melefors O, Georgellis D, Babitzke P, Romeo T.
+  TITLE     Regulatory circuitry of the CsrA/CsrB and BarA/UvrY systems of Escherichia coli.
+  JOURNAL   J Bacteriol 184:5130-40 (2002)
+REFERENCE   PMID:10923791
+  AUTHORS   Kato A, Ohnishi H, Yamamoto K, Furuta E, Tanabe H, Utsumi R.
+  TITLE     Transcription of emrKY is regulated by the EvgA-EvgS two-component system in Escherichia coli K-12.
+  JOURNAL   Biosci Biotechnol Biochem 64:1203-9 (2000)
+REFERENCE   PMID:14679219
+  AUTHORS   Ansaldi M, Dubnau D.
+  TITLE     Diversifying selection at the Bacillus quorum-sensing locus and determinants of modification specificity during synthesis of the ComX pheromone.
+  JOURNAL   J Bacteriol 186:15-21 (2004)
+REFERENCE   PMID:16035234
+  AUTHORS   Gabdrakhmanova L, Vishniakov I, Sharipova M, Balaban N, Kostrov S, Leshchinskaya I.
+  TITLE     Salt stress induction of glutamyl endopeptidase biosynthesis in Bacillus intermedius.
+  JOURNAL   Microbiol Res 160:233-42 (2005)
+REFERENCE   PMID:11285232
+  AUTHORS   Aguilar PS, Hernandez-Arriaga AM, Cybulski LE, Erazo AC, de Mendoza D.
+  TITLE     Molecular basis of thermosensing: a two-component signal transduction thermometer in Bacillus subtilis.
+  JOURNAL   EMBO J 20:1681-91 (2001)
+REFERENCE   PMID:12864861
+  AUTHORS   Kuroda M, Kuroda H, Oshima T, Takeuchi F, Mori H, Hiramatsu K.
+  TITLE     Two-component system VraSR positively modulates the regulation of cell-wall biosynthesis pathway in Staphylococcus aureus.
+  JOURNAL   Mol Microbiol 49:807-21 (2003)
+REFERENCE   PMID:15073296
+  AUTHORS   Saini DK, Malhotra V, Dey D, Pant N, Das TK, Tyagi JS.
+  TITLE     DevR-DevS is a bona fide two-component system of Mycobacterium tuberculosis that is hypoxia-responsive in the absence of the DNA-binding domain of DevR.
+  JOURNAL   Microbiology 150:865-75 (2004)
+REFERENCE   PMID:12426351
+  AUTHORS   Fedtke I, Kamps A, Krismer B, Gotz F.
+  TITLE     The nitrate reductase and nitrite reductase operons and the narT gene of Staphylococcus carnosus are positively controlled by the novel two-component system NreBC.
+  JOURNAL   J Bacteriol 184:6624-34 (2002)
+REFERENCE   PMID:8416895
+  AUTHORS   Shiau SP, Chen P, Reitzer LJ.
+  TITLE     Effects of insertions and deletions in glnG (ntrC) of Escherichia coli on nitrogen regulator I-dependent DNA binding and transcriptional activation.
+  JOURNAL   J Bacteriol 175:190-9 (1993)
+REFERENCE   PMID:11243806
+  AUTHORS   Leonhartsberger S, Huber A, Lottspeich F, Bock A.
+  TITLE     The hydH/G Genes from Escherichia coli code for a zinc and lead responsive two-component regulatory system.
+  JOURNAL   J Mol Biol 307:93-105 (2001)
+REFERENCE   PMID:15200682
+  AUTHORS   Lioliou EE, Kyriakidis DA.
+  TITLE     The role of bacterial antizyme: From an inhibitory protein to AtoC transcriptional regulator.
+  JOURNAL   Microb Cell Fact 3:8 (2004)
+REFERENCE   PMID:15773991
+  AUTHORS   Yamamoto K, Ishihama A
+  TITLE     Transcriptional response of Escherichia coli to external copper.
+  JOURNAL   Mol Microbiol 56:215-27 (2005)
+REFERENCE   PMID:10585546
+  AUTHORS   Ashby MK, Mullineaux CW
+  TITLE     Cyanobacterial ycf27 gene products regulate energy transfer from phycobilisomes to photosystems I and II.
+  JOURNAL   FEMS Microbiol Lett 181:253-60 (1999)
+REFERENCE   PMID:11849552
+  AUTHORS   Lopez-Maury L, Garcia-Dominguez M, Florencio FJ, Reyes JC
+  TITLE     A two-component signal transduction system involved in nickel sensing in the cyanobacterium Synechocystis sp. PCC 6803.
+  JOURNAL   Mol Microbiol 43:247-56 (2002)
+REFERENCE   PMID:17526710
+  AUTHORS   Glover RT, Kriakov J, Garforth SJ, Baughn AD, Jacobs WR Jr
+  TITLE     The two-component regulatory system senX3-regX3 regulates phosphate-dependent gene expression in Mycobacterium smegmatis.
+  JOURNAL   J Bacteriol 189:5495-503 (2007)
+REFERENCE   PMID:15175302
+  AUTHORS   Hsiao HY, He Q, Van Waasbergen LG, Grossman AR
+  TITLE     Control of photosynthetic and high-light-responsive genes by the histidine kinase DspA: negative and positive regulation and interactions between signal transduction pathways.
+  JOURNAL   J Bacteriol 186:3882-8 (2004)
+REFERENCE   PMID:12626498
+  AUTHORS   Mutsuda M, Michel KP, Zhang X, Montgomery BL, Golden SS
+  TITLE     Biochemical properties of CikA, an unusual phytochrome-like histidine protein kinase that resets the circadian clock in Synechococcus elongatus PCC 7942.
+  JOURNAL   J Biol Chem 278:19102-10 (2003)
+REFERENCE   PMID:9278513
+  AUTHORS   Yeh KC, Wu SH, Murphy JT, Lagarias JC
+  TITLE     A cyanobacterial phytochrome two-component light sensory system.
+  JOURNAL   Science 277:1505-8 (1997)
+REFERENCE   PMID:7635815
+  AUTHORS   Niu S, Jiang SQ, Hong J
+  TITLE     Salmonella typhimurium pgtB mutants conferring constitutive expression of phosphoglycerate transporter pgtP independent of pgtC.
+  JOURNAL   J Bacteriol 177:4297-302 (1995)
+REFERENCE   PMID:16882723
+  AUTHORS   Takai N, Nakajima M, Oyama T, Kito R, Sugita C, Sugita M, Kondo T, Iwasaki H
+  TITLE     A KaiC-associating SasA-RpaA two-component regulatory system as a major circadian timing mediator in cyanobacteria.
+  JOURNAL   Proc Natl Acad Sci U S A 103:12109-14 (2006)
+REFERENCE   PMID:11803016
+  AUTHORS   Janausch IG, Zientz E, Tran QH, Kroger A, Unden G
+  TITLE     C4-dicarboxylate carriers and sensors in bacteria.
+  JOURNAL   Biochim Biophys Acta 1553:39-56 (2002)
+REFERENCE   PMID:18725229
+  AUTHORS   Zhou YF, Nan B, Nan J, Ma Q, Panjikar S, Liang YH, Wang Y, Su XD
+  TITLE     C4-dicarboxylates sensing mechanism revealed by the crystal structures of DctB sensor domain.
+  JOURNAL   J Mol Biol 383:49-61 (2008)
+REFERENCE   PMID:14523104 (Staphylococcus)
+  AUTHORS   Novick RP, Jiang D
+  TITLE     The staphylococcal saeRS system coordinates environmental signals with agr quorum sensing.
+  JOURNAL   Microbiology 149:2709-17 (2003)
+REFERENCE   PMID:17981963 (Pseudomonas)
+  AUTHORS   Leech AJ, Sprinkle A, Wood L, Wozniak DJ, Ohman DE
+  TITLE     The NtrC family regulator AlgB, which controls alginate biosynthesis in mucoid Pseudomonas aeruginosa, binds directly to the algD promoter.
+  JOURNAL   J Bacteriol 190:581-9 (2008)
+REFERENCE   PMID:18455986 (Caulobacter)
+  AUTHORS   Paul R, Jaeger T, Abel S, Wiederkehr I, Folcher M, Biondi EG, Laub MT, Jenal U
+  TITLE     Allosteric regulation of histidine kinases by their cognate response regulator determines cell fate.
+  JOURNAL   Cell 133:452-61 (2008)
+REFERENCE   PMID:15101991 (Pseudomonas)
+  AUTHORS   Whitchurch CB, Leech AJ, Young MD, Kennedy D, Sargent JL, Bertrand JJ, Semmler AB, Mellick AS, Martin PR, Alm RA, Hobbs M, Beatson SA, Huang B, Nguyen L, Commolli JC, Engel JN, Darzins A, Mattick JS.
+  TITLE     Characterization of a complex chemosensory signal transduction system which controls twitching motility in Pseudomonas aeruginosa.
+  JOURNAL   Mol Microbiol 52:873-93 (2004)
+REFERENCE   PMID:15170479 (Synechocystis)
+  AUTHORS   Yoshihara S, Ikeuchi M.
+  TITLE     Phototactic motility in the unicellular cyanobacterium Synechocystis sp. PCC 6803.
+  JOURNAL   Photochem Photobiol Sci 3:512-8 (2004)
+REFERENCE   PMID:12039966 (Synechocystis)
+  AUTHORS   Ogawa T, Bao DH, Katoh H, Shibata M, Pakrasi HB, Bhattacharyya-Pakrasi M
+  TITLE     A two-component signal transduction pathway regulates manganese homeostasis in Synechocystis 6803, a photosynthetic organism.
+  JOURNAL   J Biol Chem 277:28981-6 (2002)
+REFERENCE   PMID:12417709 (Synechocystis)
+  AUTHORS   Yamaguchi K, Suzuki I, Yamamoto H, Lyukevich A, Bodrova I, Los DA, Piven I, Zinchenko V, Kanehisa M, Murata N
+  TITLE     A two-component Mn2+-sensing system negatively regulates expression of the mntCAB operon in Synechocystis.
+  JOURNAL   Plant Cell 14:2901-13 (2002)
+REFERENCE   PMID:15273097 (Bacillus)
+  AUTHORS   Mascher T, Zimmer SL, Smith TA, Helmann JD
+  TITLE     Antibiotic-inducible promoter regulated by the cell envelope stress-sensing two-component system LiaRS of Bacillus subtilis.
+  JOURNAL   Antimicrob Agents Chemother 48:2888-96 (2004)
+REFERENCE   PMID:15856219 (Bacillus)
+  AUTHORS   Hyyrylainen HL, Sarvas M, Kontinen VP
+  TITLE     Transcriptome analysis of the secretion stress response of Bacillus subtilis.
+  JOURNAL   Appl Microbiol Biotechnol 67:389-96 (2005)
+REFERENCE   PMID:15941986 (Bacillus)
+  AUTHORS   Serizawa M, Sekiguchi J
+  TITLE     The Bacillus subtilis YdfHI two-component system regulates the transcription of ydfJ, a member of the RND superfamily.
+  JOURNAL   Microbiology 151:1769-78 (2005)
+REFERENCE   PMID:12890034 (Bacillus)
+  AUTHORS   Ohki R, Giyanto, Tateno K, Masuyama W, Moriya S, Kobayashi K, Ogasawara N
+  TITLE     The BceRS two-component regulatory system induces expression of the bacitracin transporter, BceAB, in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 49:1135-44 (2003)
+REFERENCE   PMID:17322186 (Bacillus)
+  AUTHORS   Ogura M, Tsukahara K, Hayashi K, Tanaka T
+  TITLE     The Bacillus subtilis NatK-NatR two-component system regulates expression of the natAB operon encoding an ABC transporter for sodium ion extrusion.
+  JOURNAL   Microbiology 153:667-75 (2007)
+REFERENCE   PMID:10972810 (Bacillus)
+  AUTHORS   Yamamoto H, Murata M, Sekiguchi J
+  TITLE     The CitST two-component system regulates the expression of the Mg-citrate transporter in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 37:898-912 (2000)
+REFERENCE   PMID:15995196 (Bacillus)
+  AUTHORS   Satomura T, Shimura D, Asai K, Sadaie Y, Hirooka K, Fujita Y
+  TITLE     Enhancement of glutamine utilization in Bacillus subtilis through the GlnK-GlnL two-component regulatory system.
+  JOURNAL   J Bacteriol 187:4813-21 (2005)
+REFERENCE   PMID:12949160 (Bacillus)
+  AUTHORS   Doan T, Servant P, Tojo S, Yamaguchi H, Lerondel G, Yoshida K, Fujita Y, Aymerich S
+  TITLE     The Bacillus subtilis ywkA gene encodes a malic enzyme and its transcription is activated by the YufL/YufM two-component system in response to malate.
+  JOURNAL   Microbiology 149:2331-43 (2003)
+REFERENCE   PMID:12949159 (Bacillus)
+  AUTHORS   Tanaka K, Kobayashi K, Ogasawara N
+  TITLE     The Bacillus subtilis YufLM two-component system regulates the expression of the malate transporters MaeN (YufR) and YflS, and is essential for utilization of malate in minimal medium.
+  JOURNAL   Microbiology 149:2317-29 (2003)
+REFERENCE   PMID:10708364 (Bacillus)
+  AUTHORS   Asai K, Baik SH, Kasahara Y, Moriya S, Ogasawara N
+  TITLE     Regulation of the transport system for C4-dicarboxylic acids in Bacillus subtilis.
+  JOURNAL   Microbiology 146 ( Pt 2):263-71 (2000)
+REFERENCE   PMID:8455557 (Rhodobacter)
+  AUTHORS   Hamblin MJ, Shaw JG, Kelly DJ
+  TITLE     Sequence analysis and interposon mutagenesis of a sensor-kinase (DctS) and response-regulator (DctR) controlling synthesis of the high-affinity C4-dicarboxylate transport system in Rhodobacter capsulatus.
+  JOURNAL   Mol Gen Genet 237:215-24 (1993)
+REFERENCE   PMID:9287004 (Rhodobacter)
+  AUTHORS   Forward JA, Behrendt MC, Wyborn NR, Cross R, Kelly DJ
+  TITLE     TRAP transporters: a new family of periplasmic solute transport systems encoded by the dctPQM genes of Rhodobacter capsulatus and by homologs in diverse gram-negative bacteria.
+  JOURNAL   J Bacteriol 179:5482-93 (1997)
+REFERENCE   PMID:16820295
+  AUTHORS   Martin B, Quentin Y, Fichant G, Claverys JP
+  TITLE     Independent evolution of competence regulatory cascades in streptococci?
+  JOURNAL   Trends Microbiol 14:339-45 (2006)
+REFERENCE   PMID:10231485
+  AUTHORS   Hensel M, Hinsley AP, Nikolaus T, Sawers G, Berks BC
+  TITLE     The genetic basis of tetrathionate respiration in Salmonella typhimurium.
+  JOURNAL   Mol Microbiol 32:275-87 (1999)
+REFERENCE   PMID:18028314
+  AUTHORS   Guvener ZT, Harwood CS
+  TITLE     Subcellular location characteristics of the Pseudomonas aeruginosa GGDEF protein, WspR, indicate that it produces cyclic-di-GMP in response to growth on surfaces.
+  JOURNAL   Mol Microbiol 66:1459-73 (2007)
+REFERENCE   PMID:17339222
+  AUTHORS   Bantinaki E, Kassen R, Knight CG, Robinson Z, Spiers AJ, Rainey PB
+  TITLE     Adaptive divergence in experimental populations of Pseudomonas fluorescens. III.  Mutational origins of wrinkly spreader diversity.
+  JOURNAL   Genetics 176:441-53 (2007)
+REFERENCE   PMID:11069677
+  AUTHORS   Jiang M, Shao W, Perego M, Hoch JA
+  TITLE     Multiple histidine kinases regulate entry into stationary phase and sporulation in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 38:535-42 (2000)
+REFERENCE   PMID:19781638
+  AUTHORS   Jenal U
+  TITLE     The role of proteolysis in the Caulobacter crescentus cell cycle and development.
+  JOURNAL   Res Microbiol 160:687-95 (2009)
+REFERENCE   PMID:19246239
+  AUTHORS   Jenal U, Galperin MY
+  TITLE     Single domain response regulators: molecular switches with emerging roles in cell organization and dynamics.
+  JOURNAL   Curr Opin Microbiol 12:152-60 (2009)
+REFERENCE   PMID:16640581
+  AUTHORS   Drepper T, Wiethaus J, Giaourakis D, Gross S, Schubert B, Vogt M, Wiencek Y, McEwan AG, Masepohl B
+  TITLE     Cross-talk towards the response regulator NtrC controlling nitrogen metabolism in Rhodobacter capsulatus.
+  JOURNAL   FEMS Microbiol Lett 258:250-6 (2006)
+REFERENCE   PMID:1661370
+  AUTHORS   Pawlowski K, Klosse U, de Bruijn FJ
+  TITLE     Characterization of a novel Azorhizobium caulinodans ORS571 two-component regulatory system, NtrY/NtrX, involved in nitrogen fixation and metabolism.
+  JOURNAL   Mol Gen Genet 231:124-38 (1991)
+REFERENCE   PMID:18422428
+  AUTHORS   Chatterjee S, Almeida RP, Lindow S
+  TITLE     Living in two worlds: the plant and insect lifestyles of Xylella fastidiosa.
+  JOURNAL   Annu Rev Phytopathol 46:243-71 (2008)
+REFERENCE   PMID:18506032
+  AUTHORS   Dow M
+  TITLE     Diversification of the function of cell-to-cell signaling in regulation of virulence within plant pathogenic xanthomonads.
+  JOURNAL   Sci Signal 1:pe23 (2008)
+REFERENCE   PMID:17902112
+  AUTHORS   Colnaghi Simionato AV, da Silva DS, Lambais MR, Carrilho E
+  TITLE     Characterization of a putative Xylella fastidiosa diffusible signal factor by HRGC-EI-MS.
+  JOURNAL   J Mass Spectrom 42:1375-81 (2007)
+REFERENCE   PMID:19203648
+  AUTHORS   Miller LD, Russell MH, Alexandre G
+  TITLE     Diversity in bacterial chemotactic responses and niche adaptation.
+  JOURNAL   Adv Appl Microbiol 66:53-75 (2009)
+REFERENCE   PMID:8760916
+  AUTHORS   Eder S, Shi L, Jensen K, Yamane K, Hulett FM
+  TITLE     A Bacillus subtilis secreted phosphodiesterase/alkaline phosphatase is the product of a Pho regulon gene, phoD.
+  JOURNAL   Microbiology 142 ( Pt 8):2041-7 (1996)
+KO_PATHWAY  ko02020
+///

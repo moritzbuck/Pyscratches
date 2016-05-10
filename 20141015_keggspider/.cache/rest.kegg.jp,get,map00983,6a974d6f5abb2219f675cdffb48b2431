@@ -1,0 +1,52 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00983
+server: Apache
+date: Wed, 15 Oct 2014 15:08:16 GMT
+content-type: text/plain
+
+ENTRY       map00983                    Pathway
+NAME        Drug metabolism - other enzymes
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00983  Drug metabolism - other enzymes
+DISEASE     H00193  Dihydropyrimidine dehydrogenase deficiency
+            H00199  Dihydropyrimidinase deficiency
+            H00200  Beta-ureidopropionase deficiency
+            H00964  Thiopurine S-methyltransferase deficiency (TPMT deficiency)
+REFERENCE   
+  AUTHORS   Kato R, Kamatari T (eds).
+  TITLE     [Drug Metabolism] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (2000)
+REFERENCE   PMID:15788214
+  AUTHORS   Al Hadithy AF, de Boer NK, Derijks LJ, Escher JC, Mulder CJ, Brouwers JR.
+  TITLE     Thiopurines in inflammatory bowel disease: pharmacogenetics, therapeutic drug monitoring and clinical recommendations.
+  JOURNAL   Dig Liver Dis 37:282-97 (2005)
+REFERENCE   PMID:16048561
+  AUTHORS   Gearry RB, Barclay ML.
+  TITLE     Azathioprine and 6-mercaptopurine pharmacogenetics and metabolite monitoring in inflammatory bowel disease.
+  JOURNAL   J Gastroenterol Hepatol 20:1149-57 (2005)
+REFERENCE   PMID:16880012
+  AUTHORS   Gilissen LP, Derijks LJ, Verhoeven HM, Bierau J, Hooymans PM, Hommes DW, Engels LG.
+  TITLE     Pancytopenia due to high 6-methylmercaptopurine levels in a 6-mercaptopurine treated patient with Crohn's disease.
+  JOURNAL   Dig Liver Dis 39:182-6 (2007)
+REFERENCE   PMID:15514566
+  AUTHORS   Fischel JL, Formento P, Ciccolini J, Etienne-Grimaldi MC, Milano G.
+  TITLE     Lack of contribution of dihydrofluorouracil and alpha-fluoro-beta-alanine to the cytotoxicity of 5'-deoxy-5-fluorouridine on human keratinocytes.
+  JOURNAL   Anticancer Drugs 15:969-74 (2004)
+REFERENCE   PMID:10976516
+  AUTHORS   Shimma N, Umeda I, Arasaki M, Murasaki C, Masubuchi K, Kohchi Y, Miwa M, Ura M, Sawada N, Tahara H, Kuruma I, Horii I, Ishitsuka H.
+  TITLE     The design and synthesis of a new tumor-selective fluoropyrimidine carbamate, capecitabine.
+  JOURNAL   Bioorg Med Chem 8:1697-706 (2000)
+REFERENCE   PMID:15173095
+  AUTHORS   Chung YL, Troy H, Judson IR, Leek R, Leach MO, Stubbs M, Harris AL, Griffiths JR
+  TITLE     Noninvasive measurements of capecitabine metabolism in bladder tumors overexpressing thymidine phosphorylase by fluorine-19 magnetic resonance spectroscopy.
+  JOURNAL   Clin Cancer Res 10:3863-70 (2004)
+REFERENCE   PMID:11489791
+  AUTHORS   Mathijssen RH, van Alphen RJ, Verweij J, Loos WJ, Nooter K, Stoter G, Sparreboom A
+  TITLE     Clinical pharmacokinetics and metabolism of irinotecan (CPT-11).
+  JOURNAL   Clin Cancer Res 7:2182-94 (2001)
+REFERENCE   PMID:11379777
+  AUTHORS   Kita T, Tanigawara Y, Chikazawa S, Hatanaka H, Sakaeda T, Komada F, Iwakawa S, Okumura K.
+  TITLE     N-Acetyltransferase2 genotype correlated with isoniazid acetylation in Japanese tuberculous patients.
+  JOURNAL   Biol Pharm Bull 24:544-9 (2001)
+KO_PATHWAY  ko00983
+///

@@ -1,0 +1,120 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00522
+server: Apache
+date: Wed, 15 Oct 2014 14:57:27 GMT
+content-type: text/plain
+
+ENTRY       map00522                    Pathway
+NAME        Biosynthesis of 12-, 14- and 16-membered macrolides
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00522  Biosynthesis of 12-, 14- and 16-membered macrolides
+REFERENCE   PMID:19514004
+  AUTHORS   Hertweck C
+  TITLE     The biosynthetic logic of polyketide diversity.
+  JOURNAL   Angew Chem Int Ed Engl 48:4688-716 (2009)
+REFERENCE   PMID:11918808
+  AUTHORS   Long PF, Wilkinson CJ, Bisang CP, Cortes J, Dunster N, Oliynyk M, McCormick E, McArthur H, Mendez C, Salas JA, Staunton J, Leadlay PF
+  TITLE     Engineering specificity of starter unit selection by the erythromycin-producing polyketide synthase.
+  JOURNAL   Mol Microbiol 43:1215-25 (2002)
+REFERENCE   PMID:10519556
+  AUTHORS   Bisang C, Long PF, Cortes J, Westcott J, Crosby J, Matharu AL, Cox RJ, Simpson TJ, Staunton J, Leadlay PF
+  TITLE     A chain initiation factor common to both modular and aromatic polyketide synthases.
+  JOURNAL   Nature 401:502-5 (1999)
+REFERENCE   PMID:19362638
+  AUTHORS   Katz L
+  TITLE     The DEBS paradigm for type I modular polyketide synthases and beyond.
+  JOURNAL   Methods Enzymol 459:113-42 (2009)
+REFERENCE   PMID:17719493
+  AUTHORS   Kittendorf JD, Beck BJ, Buchholz TJ, Seufert W, Sherman DH
+  TITLE     Interrogating the molecular basis for multiple macrolactone ring formation by the pikromycin polyketide synthase.
+  JOURNAL   Chem Biol 14:944-54 (2007)
+REFERENCE   PMID:12031664
+  AUTHORS   Beck BJ, Yoon YJ, Reynolds KA, Sherman DH
+  TITLE     The hidden steps of domain skipping: macrolactone ring size determination in the  pikromycin modular polyketide synthase.
+  JOURNAL   Chem Biol 9:575-83 (2002)
+REFERENCE   PMID:11223265
+  AUTHORS   Chen S, Roberts JB, Xue Y, Sherman DH, Reynolds KA
+  TITLE     The Streptomyces venezuelae pikAV gene contains a transcription unit essential for expression of enzymes involved in glycosylation of narbonolide and 10-deoxymethynolide.
+  JOURNAL   Gene 263:255-64 (2001)
+REFERENCE   PMID:12368286
+  AUTHORS   Kim BS, Cropp TA, Beck BJ, Sherman DH, Reynolds KA
+  TITLE     Biochemical evidence for an editing role of thioesterase II in the biosynthesis of the polyketide pikromycin.
+  JOURNAL   J Biol Chem 277:48028-34 (2002)
+REFERENCE   PMID:11851473
+  AUTHORS   Ikeda H, Omura S
+  TITLE     Avermectin Biosynthesis.
+  JOURNAL   Chem Rev 97:2591-2610 (1997)
+REFERENCE   PMID:11780788
+  AUTHORS   Ikeda H, Nonomiya T, Omura S
+  TITLE     Organization of biosynthetic gene cluster for avermectin in Streptomyces avermitilis: analysis of enzymatic domains in four polyketide synthases.
+  JOURNAL   J Ind Microbiol Biotechnol 27:170-6 (2001)
+REFERENCE   PMID:10972798
+  AUTHORS   Volchegursky Y, Hu Z, Katz L, McDaniel R
+  TITLE     Biosynthesis of the anti-parasitic agent megalomicin: transformation of erythromycin to megalomicin in Saccharopolyspora erythraea.
+  JOURNAL   Mol Microbiol 37:752-62 (2000)
+REFERENCE   PMID:15870344
+  AUTHORS   Peiru S, Menzella HG, Rodriguez E, Carney J, Gramajo H
+  TITLE     Production of the potent antibacterial polyketide erythromycin C in Escherichia coli.
+  JOURNAL   Appl Environ Microbiol 71:2539-47 (2005)
+REFERENCE   PMID:20418422
+  AUTHORS   Useglio M, Peiru S, Rodriguez E, Labadie GR, Carney JR, Gramajo H
+  TITLE     TDP-L-megosamine biosynthesis pathway elucidation and megalomicin a production in Escherichia coli.
+  JOURNAL   Appl Environ Microbiol 76:3869-77 (2010)
+REFERENCE   PMID:11752428
+  AUTHORS   Tsai SC, Miercke LJ, Krucinski J, Gokhale R, Chen JC, Foster PG, Cane DE, Khosla C, Stroud RM
+  TITLE     Crystal structure of the macrocycle-forming thioesterase domain of the erythromycin polyketide synthase: versatility from a unique substrate channel.
+  JOURNAL   Proc Natl Acad Sci U S A 98:14808-13 (2001)
+REFERENCE   PMID:19625248
+  AUTHORS   Savino C, Montemiglio LC, Sciara G, Miele AE, Kendrew SG, Jemth P, Gianni S, Vallone B
+  TITLE     Investigating the structural plasticity of a cytochrome P450: three-dimensional structures of P450 EryK and binding to its physiological substrate.
+  JOURNAL   J Biol Chem 284:29170-9 (2009)
+REFERENCE   PMID:8300527
+  AUTHORS   Hsieh YJ, Kolattukudy PE.
+  TITLE     Inhibition of erythromycin synthesis by disruption of malonyl-coenzyme A decarboxylase gene eryM in Saccharopolyspora erythraea.
+  JOURNAL   J Bacteriol 176:714-24 (1994)
+REFERENCE   PMID:8830278
+  AUTHORS   Donadio S, Staver MJ, Katz L.
+  TITLE     Erythromycin production in Saccharopolyspora erythraea does not require a functional propionyl-CoA carboxylase.
+  JOURNAL   Mol Microbiol 19:977-84 (1996)
+REFERENCE   PMID:9353926
+  AUTHORS   Summers RG, Donadio S, Staver MJ, Wendt-Pienkowski E, Hutchinson CR, Katz L.
+  TITLE     Sequencing and mutagenesis of genes from the erythromycin biosynthetic gene cluster of Saccharopolyspora erythraea that are involved in L-mycarose and D-desosamine production.
+  JOURNAL   Microbiology 143:3251-62 (1997)
+REFERENCE   PMID:11476481
+  AUTHORS   Rawlings BJ.
+  TITLE     Type I polyketide biosynthesis in bacteria (part B).
+  JOURNAL   Nat Prod Rep 18:231-81 (2001)
+REFERENCE   PMID:11336289
+  AUTHORS   Rawlings BJ.
+  TITLE     Type I polyketide biosynthesis in bacteria (Part A--erythromycin biosynthesis).
+  JOURNAL   Nat Prod Rep 18:190-227 (2001)
+REFERENCE   PMID:20695498
+  AUTHORS   Borisova SA, Liu HW
+  TITLE     Characterization of glycosyltransferase DesVII and its auxiliary partner protein  DesVIII in the methymycin/picromycin biosynthetic pathway.
+  JOURNAL   Biochemistry 49:8071-84 (2010)
+REFERENCE   PMID:17049185
+  AUTHORS   Hong JS, Park SJ, Parajuli N, Park SR, Koh HS, Jung WS, Choi CY, Yoon YJ
+  TITLE     Functional analysis of desVIII homologues involved in glycosylation of macrolide  antibiotics by interspecies complementation.
+  JOURNAL   Gene 386:123-30 (2007)
+REFERENCE   PMID:16514147
+  AUTHORS   Rodriguez E, Peiru S, Carney JR, Gramajo H
+  TITLE     In vivo characterization of the dTDP-D-desosamine pathway of the megalomicin gene cluster from Micromonospora megalomicea.
+  JOURNAL   Microbiology 152:667-73 (2006)
+REFERENCE   PMID:22056329
+  AUTHORS   Moncrieffe MC, Fernandez MJ, Spiteller D, Matsumura H, Gay NJ, Luisi BF, Leadlay PF
+  TITLE     Structure of the glycosyltransferase EryCIII in complex with its activating P450  homologue EryCII.
+  JOURNAL   J Mol Biol 415:92-101 (2012)
+REFERENCE   PMID:16218575
+  AUTHORS   Yuan Y, Chung HS, Leimkuhler C, Walsh CT, Kahne D, Walker S
+  TITLE     In vitro reconstitution of EryCIII activity for the preparation of unnatural macrolides.
+  JOURNAL   J Am Chem Soc 127:14128-9 (2005)
+REFERENCE   PMID:16825192
+  AUTHORS   Sherman DH, Li S, Yermalitskaya LV, Kim Y, Smith JA, Waterman MR, Podust LM
+  TITLE     The structural basis for substrate anchoring, active site selectivity, and product formation by P450 PikC from Streptomyces venezuelae.
+  JOURNAL   J Biol Chem 281:26289-97 (2006)
+REFERENCE   PMID:19124459
+  AUTHORS   Li S, Ouellet H, Sherman DH, Podust LM
+  TITLE     Analysis of transient and catalytic desosamine-binding pockets in cytochrome P-450 PikC from Streptomyces venezuelae.
+  JOURNAL   J Biol Chem 284:5723-30 (2009)
+KO_PATHWAY  ko00522
+///

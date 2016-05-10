@@ -1,0 +1,35 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00627
+server: Apache
+date: Wed, 15 Oct 2014 14:57:37 GMT
+content-type: text/plain
+
+ENTRY       map00627                    Pathway
+NAME        Aminobenzoate degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00627  Aminobenzoate degradation
+MODULE      M00637  Anthranilate degradation, anthranilate => catechol [PATH:map00627]
+DBLINKS     GO: 0043421
+            UMBBD: dcz 2,4-d pcp 2,4,5-t box dca
+REFERENCE   PMID:3078743
+  AUTHORS   Fewson CA
+  TITLE     Microbial metabolism of mandelate: a microcosm of diversity.
+  JOURNAL   FEMS Microbiol Rev 4:85-110 (1988)
+REFERENCE   PMID:12670968
+  AUTHORS   McLeish MJ, Kneen MM, Gopalakrishna KN, Koo CW, Babbitt PC, Gerlt JA, Kenyon GL
+  TITLE     Identification and characterization of a mandelamide hydrolase and an NAD(P)+-dependent benzaldehyde dehydrogenase from Pseudomonas putida ATCC 12633.
+  JOURNAL   J Bacteriol 185:2451-6 (2003)
+REFERENCE   PMID:8782397
+  AUTHORS   Shimao M, Nakamura T, Okuda A, Harayama S.
+  TITLE     Characteristics of transposon insertion mutants of mandelic acid-utilizing Pseudomonas putida strain A10L.
+  JOURNAL   Biosci Biotechnol Biochem 60:1051-5 (1996)
+REFERENCE   PMID:11344134
+  AUTHORS   Naidu D, Ragsdale SW.
+  TITLE     Characterization of a three-component vanillate O-demethylase from Moorella thermoacetica.
+  JOURNAL   J Bacteriol 183:3276-81 (2001)
+REFERENCE   PMID:14711645
+  AUTHORS   Toraya T, Oka T, Ando M, Yamanishi M, Nishihara H.
+  TITLE     Novel pathway for utilization of cyclopropanecarboxylate by Rhodococcus rhodochrous.
+  JOURNAL   Appl Environ Microbiol 70:224-8 (2004)
+KO_PATHWAY  ko00627
+///

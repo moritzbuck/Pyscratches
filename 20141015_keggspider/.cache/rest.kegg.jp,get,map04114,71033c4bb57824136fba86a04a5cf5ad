@@ -1,0 +1,80 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04114
+server: Apache
+date: Wed, 15 Oct 2014 15:08:41 GMT
+content-type: text/plain
+
+ENTRY       map04114                    Pathway
+NAME        Oocyte meiosis
+DESCRIPTION During meiosis, a single round of DNA replication is followed by two rounds of chromosome segregation, called meiosis I and meiosis II. At meiosis I, homologous chromosomes recombine and then segregate to opposite poles, while the sister chromatids segregate from each other at meoisis II. In vertebrates, immature oocytes are arrested at the PI (prophase of meiosis I). The resumption of meiosis is stimulated by progesterone, which carries the oocyte through two consecutive M-phases (MI and MII) to a second arrest at MII. The key activity driving meiotic progression is the MPF (maturation-promoting factor), a heterodimer of CDC2 (cell division cycle 2 kinase) and cyclin B. In PI-arrested oocytes, MPF is initially inactive and is activated by the dual-specificity CDC25C phosphatase as the result of new synthesis of Mos induced by progesterone. MPF activation mediates the transition from the PI arrest to MI. The subsequent decrease in MPF levels, required to exit from MI into interkinesis, is induced by a negative feedback loop, where CDC2 brings about the activation of the APC (anaphase-promoting complex), which mediates destruction of cyclin B. Re-activation of MPF for MII requires re-accumulation of high levels of cyclin B as well as the inactivation of the APC by newly synthesized Emi2 and other components of the CSF (cytostatic factor), such as cyclin E or high levels of Mos. CSF antagonizes the ubiquitin ligase activity of the APC, preventing cyclin B destruction and meiotic exit until fertilization occurs. Fertilization triggers a transient increase in cytosolic free Ca2+, which leads to CSF inactivation and cyclin B destruction through the APC. Then eggs are released from MII into the first embryonic cell cycle.
+CLASS       Cellular Processes; Cell growth and death
+PATHWAY_MAP map04114  Oocyte meiosis
+MODULE      M00380  SCF-BTRC complex [PATH:map04114]
+            M00389  APC/C complex [PATH:map04114]
+DISEASE     H00574  Coffin-Lowry syndrome (CLS)
+            H00608  46,XY disorders of sex development (Disorders in androgen synthesis or action)
+            H00631  Cornelia de Lange syndrome (CdLS)
+            H01274  Growth delay due to insulin-like growth factor I resistance
+DBLINKS     GO: 0051321
+REFERENCE   PMID:16760654
+  AUTHORS   Haccard O, Jessus C
+  TITLE     Oocyte maturation, Mos and cyclins--a matter of synthesis: two functionally redundant ways to induce meiotic maturation.
+  JOURNAL   Cell Cycle 5:1152-9 (2006)
+REFERENCE   PMID:15182704
+  AUTHORS   Crane R, Gadea B, Littlepage L, Wu H, Ruderman JV
+  TITLE     Aurora A, meiosis and mitosis.
+  JOURNAL   Biol Cell 96:215-29 (2004)
+REFERENCE   PMID:15136768
+  AUTHORS   Perdiguero E, Nebreda AR
+  TITLE     Regulation of Cdc25C activity during the meiotic G2/M transition.
+  JOURNAL   Cell Cycle 3:733-7 (2004)
+REFERENCE   PMID:17480229
+  AUTHORS   Perry JA, Kornbluth S
+  TITLE     Cdc25 and Wee1: analogous opposites?
+  JOURNAL   Cell Div 2:12 (2007)
+REFERENCE   PMID:15182701
+  AUTHORS   Jessus C, Ozon R
+  TITLE     How does Xenopus oocyte acquire its competence to undergo meiotic maturation?
+  JOURNAL   Biol Cell 96:187-92 (2004)
+REFERENCE   PMID:16518630
+  AUTHORS   Revenkova E, Jessberger R
+  TITLE     Shaping meiotic prophase chromosomes: cohesins and synaptonemal complex proteins.
+  JOURNAL   Chromosoma 115:235-40 (2006)
+REFERENCE   PMID:18631137
+  AUTHORS   Belloc E, Pique M, Mendez R
+  TITLE     Sequential waves of polyadenylation and deadenylation define a translation circuit that drives meiotic progression.
+  JOURNAL   Biochem Soc Trans 36:665-70 (2008)
+REFERENCE   PMID:18598214
+  AUTHORS   Pesin JA, Orr-Weaver TL
+  TITLE     Regulation of APC/C activators in mitosis and meiosis.
+  JOURNAL   Annu Rev Cell Dev Biol 24:475-99 (2008)
+REFERENCE   PMID:18550795
+  AUTHORS   Tang W, Wu JQ, Guo Y, Hansen DV, Perry JA, Freel CD, Nutt L, Jackson PK, Kornbluth S
+  TITLE     Cdc2 and Mos regulate Emi2 stability to promote the meiosis I-meiosis II transition.
+  JOURNAL   Mol Biol Cell 19:3536-43 (2008)
+REFERENCE   PMID:18946022
+  AUTHORS   Wu JQ, Kornbluth S
+  TITLE     Across the meiotic divide - CSF activity in the post-Emi2/XErp1 era.
+  JOURNAL   J Cell Sci 121:3509-14 (2008)
+REFERENCE   PMID:16554437
+  AUTHORS   Schmidt A, Rauh NR, Nigg EA, Mayer TU
+  TITLE     Cytostatic factor: an activity that puts the cell cycle on hold.
+  JOURNAL   J Cell Sci 119:1213-8 (2006)
+REFERENCE   PMID:18096427
+  AUTHORS   Vogt E, Kirsch-Volders M, Parry J, Eichenlaub-Ritter U
+  TITLE     Spindle formation, chromosome segregation and the spindle checkpoint in mammalian oocytes and susceptibility to meiotic error.
+  JOURNAL   Mutat Res 651:14-29 (2008)
+REFERENCE   PMID:18311174
+  AUTHORS   Perry AC, Verlhac MH
+  TITLE     Second meiotic arrest and exit in frogs and mice.
+  JOURNAL   EMBO Rep 9:246-51 (2008)
+REFERENCE   PMID:14691134
+  AUTHORS   Tunquist BJ, Eyers PA, Chen LG, Lewellyn AL, Maller JL
+  TITLE     Spindle checkpoint proteins Mad1 and Mad2 are required for cytostatic factor-mediated metaphase arrest.
+  JOURNAL   J Cell Biol 163:1231-42 (2003)
+REFERENCE   PMID:14517314
+  AUTHORS   Hutchins JR, Dikovskaya D, Clarke PR.
+  TITLE     Regulation of Cdc2/cyclin B activation in Xenopus egg extracts via inhibitory phosphorylation of Cdc25C phosphatase by Ca(2+)/calmodulin-dependent protein [corrected] kinase II.
+  JOURNAL   Mol Biol Cell 14:4003-14 (2003)
+KO_PATHWAY  ko04114
+///

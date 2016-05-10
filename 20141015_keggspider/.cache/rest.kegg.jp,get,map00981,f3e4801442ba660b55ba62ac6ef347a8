@@ -1,0 +1,28 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00981
+server: Apache
+date: Wed, 15 Oct 2014 15:08:15 GMT
+content-type: text/plain
+
+ENTRY       map00981                    Pathway
+NAME        Insect hormone biosynthesis
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00981  Insect hormone biosynthesis
+REFERENCE   PMID:15355237
+  AUTHORS   Belles X, Martin D, Piulachs MD.
+  TITLE     The mevalonate pathway and the synthesis of juvenile hormone in insects.
+  JOURNAL   Annu Rev Entomol 50:181-99 (2005)
+REFERENCE   PMID:15026169
+  AUTHORS   Gilbert LI.
+  TITLE     Halloween genes encode P450 enzymes that mediate steroid hormone biosynthesis in Drosophila melanogaster.
+  JOURNAL   Mol Cell Endocrinol 215:1-10 (2004)
+REFERENCE   PMID:15350618
+  AUTHORS   Warren JT, Petryk A, Marques G, Parvy JP, Shinoda T, Itoyama K, Kobayashi J, Jarcho M, Li Y, O'Connor MB, Dauphin-Villemant C, Gilbert LI.
+  TITLE     Phantom encodes the 25-hydroxylase of Drosophila melanogaster and Bombyx mori: a P450 enzyme critical in ecdysone biosynthesis.
+  JOURNAL   Insect Biochem Mol Biol 34:991-1010 (2004)
+REFERENCE   
+  AUTHORS   Omura T, Ishimura Y, Fujii Y (eds).
+  TITLE     [Molecular Biology of P450] (In Japanese)
+  JOURNAL   Kodansya (2003)
+KO_PATHWAY  ko00981
+///

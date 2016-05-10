@@ -1,0 +1,50 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05332
+server: Apache
+date: Wed, 15 Oct 2014 14:59:15 GMT
+content-type: text/plain
+
+ENTRY       map05332                    Pathway
+NAME        Graft-versus-host disease
+DESCRIPTION Graft-versus-host disease (GVHD) is a lethal complication of allogeneic hematopoietic stem cell transplantation (HSCT) where immunocompetent donor T cells attack the genetically disparate host cells. GVHD pathophysiology can be summerized in a three-step process. Step 1 involves the development of an inflammatory milieu resulting from damage in the host tissues induced by the preparative chemotherapy or radiotherapy regimen. Damaged tissues secrete inflammatory cytokines, including interleukin 1 (IL-1), and tumor necrosis factor (TNF-alpha ). During step 2, antigen-presenting cells (APCs) trigger the activation of donor-derived T cells, which induce further T-cell expansion, induce cytotoxic T lymphocytes (CTL) and natural killer (NK) cells responses and prime additional mononuclear phagocytes to produce TNF-alpha and IL-1. Also, nitric oxide (NO) is produced by activated macrophages, and it may contribute to the tissue damage seen during step 3. During step 3, the effector phase, activated CTL and NK cells mediate cytotoxicity against target host cells through Fas-Fas ligand interactions and perforin-granzyme B.
+CLASS       Human Diseases; Immune diseases
+PATHWAY_MAP map05332  Graft-versus-host disease
+DISEASE     H00084  Graft-versus-host disease
+REFERENCE   PMID:16412784
+  AUTHORS   Ferrara JL, Reddy P.
+  TITLE     Pathophysiology of graft-versus-host disease.
+  JOURNAL   Semin Hematol 43:3-10 (2006)
+REFERENCE   PMID:14735553
+  AUTHORS   Reddy P.
+  TITLE     Pathophysiology of acute graft-versus-host disease.
+  JOURNAL   Hematol Oncol 21:149-61 (2003)
+REFERENCE   PMID:17900507
+  AUTHORS   Sun Y, Tawara I, Toubai T, Reddy P.
+  TITLE     Pathophysiology of acute graft-versus-host disease: recent advances.
+  JOURNAL   Transl Res 150:197-214 (2007)
+REFERENCE   PMID:15882431
+  AUTHORS   Jaksch M, Mattsson J.
+  TITLE     The pathophysiology of acute graft-versus-host disease.
+  JOURNAL   Scand J Immunol 61:398-409 (2005)
+REFERENCE   PMID:12359826
+  AUTHORS   Vogelsang GB, Lee L, Bensen-Kennedy DM.
+  TITLE     Pathogenesis and treatment of graft-versus-host disease after bone marrow transplant.
+  JOURNAL   Annu Rev Med 54:29-52 (2003)
+REFERENCE   PMID:14556773
+  AUTHORS   Reddy P, Ferrara JL.
+  TITLE     Immunobiology of acute graft-versus-host disease.
+  JOURNAL   Blood Rev 17:187-94 (2003)
+REFERENCE   PMID:16147539
+  AUTHORS   Blazar BR, Murphy WJ.
+  TITLE     Bone marrow transplantation and approaches to avoid graft-versus-host disease (GVHD).
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 360:1747-67 (2005)
+REFERENCE   PMID:15372473
+  AUTHORS   Couriel D, Caldera H, Champlin R, Komanduri K.
+  TITLE     Acute graft-versus-host disease: pathophysiology, clinical manifestations, and management.
+  JOURNAL   Cancer 101:1936-46 (2004)
+REFERENCE   PMID:17784964
+  AUTHORS   Jacobsohn DA, Vogelsang GB.
+  TITLE     Acute graft versus host disease.
+  JOURNAL   Orphanet J Rare Dis 2:35 (2007)
+KO_PATHWAY  ko05332
+///

@@ -1,0 +1,52 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04630
+server: Apache
+date: Wed, 15 Oct 2014 15:08:55 GMT
+content-type: text/plain
+
+ENTRY       map04630                    Pathway
+NAME        Jak-STAT signaling pathway
+DESCRIPTION The Janus kinase/signal transducers and activators of transcription (JAK/STAT) pathway is one of a handful of pleiotropic cascades used to transduce a multitude of signals for development and homeostasis in animals, from humans to flies. In mammals, the JAK/STAT pathway is the principal signaling mechanism for a wide array of cytokines and growth factors. Following the binding of cytokines to their cognate receptor, STATs are activated by members of the JAK family of tyrosine kinases. Once activated, they dimerize and translocate to the nucleus and modulate the expression of target genes. In addition to the activation of STATs, JAKs mediate the recruitment of other molecules such as the MAP kinases, PI3 kinase etc. These molecules process downstream signals via the Ras-Raf-MAP kinase and PI3 kinase pathways which results in the activation of additional transcription factors.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04630  Jak-STAT signaling pathway
+DISEASE     H00408  Type I diabetes mellitus
+            H00539  PTEN hamartoma tumor syndrome (PHTS)
+            H00931  Growth hormone insensitivity with immunodeficiency
+            H00935  Cold-induced sweating syndrome (CISS) and Crisponi syndrome (CRISPS)
+            H01018  Metachondromatosis
+            H01109  Chronic mucocutaneous candidiasis (CMC)
+            H01122  Pulmonary alveolar proteinosis (PAP)
+            H01217  Primary localized cutaneous amyloidosis (PLCA)
+            H01227  Inflammatory bowel disease
+            H01388  Hyperprolactinemia
+DBLINKS     GO: 0007259
+REFERENCE   PMID:12039028
+  AUTHORS   Kisseleva T, Bhattacharya S, Braunstein J, Schindler CW.
+  TITLE     Signaling through the JAK/STAT pathway, recent advances and future challenges.
+  JOURNAL   Gene 285:1-24 (2002)
+REFERENCE   PMID:11994400
+  AUTHORS   Schindler CW.
+  TITLE     Series introduction. JAK-STAT signaling in human disease.
+  JOURNAL   J Clin Invest 109:1133-7 (2002)
+REFERENCE   PMID:9716487
+  AUTHORS   Heinrich PC, Behrmann I, Muller-Newen G, Schaper F, Graeve L.
+  TITLE     Interleukin-6-type cytokine signalling through the gp130/Jak/STAT pathway.
+  JOURNAL   Biochem J 334 ( Pt 2):297-314 (1998)
+REFERENCE   PMID:15003245
+  AUTHORS   Luo C, Laaja P.
+  TITLE     Inhibitors of JAKs/STATs and the kinases: a possible new cluster of drugs.
+  JOURNAL   Drug Discov Today 9:268-75 (2004)
+REFERENCE   PMID:12479803
+  AUTHORS   Hou SX, Zheng Z, Chen X, Perrimon N.
+  TITLE     The Jak/STAT pathway in model organisms: emerging roles in cell movement.
+  JOURNAL   Dev Cell 3:765-78 (2002)
+REFERENCE   PMID:15032587
+  AUTHORS   Alexander WS, Hilton DJ.
+  TITLE     The role of suppressors of cytokine signaling (SOCS) proteins in regulation of the immune response.
+  JOURNAL   Annu Rev Immunol 22:503-29 (2004)
+REFERENCE   PMID:10409724
+  AUTHORS   Kim H, Baumann H.
+  TITLE     Dual signaling role of the protein tyrosine phosphatase SHP-2 in regulating expression of acute-phase plasma proteins by interleukin-6 cytokine receptors in hepatic cells.
+  JOURNAL   Mol Cell Biol 19:5326-38 (1999)
+KO_PATHWAY  ko04630
+///

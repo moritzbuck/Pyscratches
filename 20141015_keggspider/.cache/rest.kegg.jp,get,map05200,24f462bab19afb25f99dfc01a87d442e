@@ -1,0 +1,657 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05200
+server: Apache
+date: Wed, 15 Oct 2014 15:09:27 GMT
+content-type: text/plain
+
+ENTRY       map05200                    Pathway
+NAME        Pathways in cancer
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05200  Pathways in cancer
+DISEASE     H00559  von Hippel-Lindau syndrome
+            H00646  Odontoonychodermal dysplasia
+            H00857  Oligodontia-colorectal cancer syndrome
+            H00881  Li-Fraumeni syndrome
+            H00895  Basal cell nevus syndrome
+            H00947  Pilomatricoma
+            H01007  Choroid plexus papilloma
+            H01023  Juvenile polyposis syndrome
+            H01025  Familial adenomatous polyposis
+REFERENCE   
+  AUTHORS   Weinberg RA.
+  TITLE     The biology of cancer
+  JOURNAL   Garland Science, Taylor & Francis Group, LLC (2007)
+REFERENCE   PMID:10647931
+  AUTHORS   Hanahan D, Weinberg RA
+  TITLE     The hallmarks of cancer.
+  JOURNAL   Cell 100:57-70 (2000)
+REFERENCE   PMID:15000146
+  AUTHORS   Grady WM.
+  TITLE     Genomic instability and colon cancer.
+  JOURNAL   Cancer Metastasis Rev 23:11-27 (2004)
+REFERENCE   PMID:16555243
+  AUTHORS   Soreide K, Janssen EA, Soiland H, Korner H, Baak JP.
+  TITLE     Microsatellite instability in colorectal cancer.
+  JOURNAL   Br J Surg 93:395-406 (2006)
+REFERENCE   PMID:11078609
+  AUTHORS   Anwar S, Hall C, White J, Deakin M, Farrell W, Elder JB.
+  TITLE     Hereditary non-polyposis colorectal cancer: an updated review.
+  JOURNAL   Eur J Surg Oncol 26:635-45 (2000)
+REFERENCE   PMID:16699851
+  AUTHORS   Takayama T, Miyanishi K, Hayashi T, Sato Y, Niitsu Y.
+  TITLE     Colorectal cancer: genetics of development and metastasis.
+  JOURNAL   J Gastroenterol 41:185-92 (2006)
+REFERENCE   PMID:12621137
+  AUTHORS   Lynch HT, de la Chapelle A.
+  TITLE     Hereditary colorectal cancer.
+  JOURNAL   N Engl J Med 348:919-32 (2003)
+REFERENCE   PMID:12951588
+  AUTHORS   Rajagopalan H, Nowak MA, Vogelstein B, Lengauer C.
+  TITLE     The significance of unstable chromosomes in colorectal cancer.
+  JOURNAL   Nat Rev Cancer 3:695-701 (2003)
+REFERENCE   PMID:10505543
+  AUTHORS   Behrens J.
+  TITLE     Cadherins and catenins: role in signal transduction and tumor progression.
+  JOURNAL   Cancer Metastasis Rev 18:15-30 (1999)
+REFERENCE   PMID:16042571
+  AUTHORS   Behrens J.
+  TITLE     The role of the Wnt signalling pathway in colorectal tumorigenesis.
+  JOURNAL   Biochem Soc Trans 33:672-5 (2005)
+REFERENCE   PMID:15349822
+  AUTHORS   Behrens J, Lustig B.
+  TITLE     The Wnt connection to tumorigenesis.
+  JOURNAL   Int J Dev Biol 48:477-87 (2004)
+REFERENCE   PMID:9196022
+  AUTHORS   Polakis P.
+  TITLE     The adenomatous polyposis coli (APC) tumor suppressor.
+  JOURNAL   Biochim Biophys Acta 1332:F127-47 (1997)
+REFERENCE   PMID:12737309
+  AUTHORS   Janssen KP.
+  TITLE     Murine models of colorectal cancer: studying the role of oncogenic K-ras.
+  JOURNAL   Cell Mol Life Sci 60:495-506 (2003)
+REFERENCE   PMID:11459867
+  AUTHORS   Adjei AA.
+  TITLE     Blocking oncogenic Ras signaling for cancer therapy.
+  JOURNAL   J Natl Cancer Inst 93:1062-74 (2001)
+REFERENCE   PMID:15573119
+  AUTHORS   Arakawa H.
+  TITLE     Netrin-1 and its receptors in tumorigenesis.
+  JOURNAL   Nat Rev Cancer 4:978-87 (2004)
+REFERENCE   PMID:15310786
+  AUTHORS   Mehlen P, Fearon ER.
+  TITLE     Role of the dependence receptor DCC in colorectal cancer pathogenesis.
+  JOURNAL   J Clin Oncol 22:3420-8 (2004)
+REFERENCE   PMID:11223406
+  AUTHORS   Peltomaki P.
+  TITLE     DNA mismatch repair and cancer.
+  JOURNAL   Mutat Res 488:77-85 (2001)
+REFERENCE   PMID:15711891
+  AUTHORS   Li F, Cao Y, Townsend CM Jr, Ko TC.
+  TITLE     TGF-beta signaling in colon cancer cells.
+  JOURNAL   World J Surg 29:306-11 (2005)
+REFERENCE   PMID:11170304
+  AUTHORS   Roman C, Saha D, Beauchamp R.
+  TITLE     TGF-beta and colorectal carcinogenesis.
+  JOURNAL   Microsc Res Tech 52:450-7 (2001)
+REFERENCE   PMID:16326109
+  AUTHORS   Watson AJ.
+  TITLE     An overview of apoptosis and the prevention of colorectal cancer.
+  JOURNAL   Crit Rev Oncol Hematol 57:107-21 (2006)
+REFERENCE   PMID:15479695
+  AUTHORS   Watson AJ.
+  TITLE     Apoptosis and colorectal cancer.
+  JOURNAL   Gut 53:1701-9 (2004)
+REFERENCE   PMID:11477132
+  AUTHORS   Houlston RS.
+  TITLE     What we could do now: molecular pathology of colorectal cancer.
+  JOURNAL   Mol Pathol 54:206-14 (2001)
+REFERENCE   
+  AUTHORS   Niitsu Y, Yokota J (ed).
+  TITLE     [Oncogenes and Tumor Suppressor Genes for Medical Oncologist] (In Japanese)
+  JOURNAL   Nankodo (1999)
+REFERENCE   PMID:12459728
+  AUTHORS   Bardeesy N, DePinho RA.
+  TITLE     Pancreatic cancer biology and genetics.
+  JOURNAL   Nat Rev Cancer 2:897-909 (2002)
+REFERENCE   PMID:11407945
+  AUTHORS   Bardeesy N, Sharpless NE, DePinho RA, Merlino G.
+  TITLE     The genetics of pancreatic adenocarcinoma: a roadmap for a mouse model.
+  JOURNAL   Semin Cancer Biol 11:201-18 (2001)
+REFERENCE   PMID:12946833
+  AUTHORS   Cowgill SM, Muscarella P.
+  TITLE     The genetics of pancreatic cancer.
+  JOURNAL   Am J Surg 186:279-86 (2003)
+REFERENCE   PMID:16702400
+  AUTHORS   Hezel AF, Kimmelman AC, Stanger BZ, Bardeesy N, Depinho RA.
+  TITLE     Genetics and biology of pancreatic ductal adenocarcinoma.
+  JOURNAL   Genes Dev 20:1218-49 (2006)
+REFERENCE   PMID:10740269
+  AUTHORS   Shields JM, Pruitt K, McFall A, Shaub A, Der CJ.
+  TITLE     Understanding Ras: 'it ain't over 'til it's over'.
+  JOURNAL   Trends Cell Biol 10:147-54 (2000)
+REFERENCE   PMID:12648469
+  AUTHORS   Holbro T, Civenni G, Hynes NE.
+  TITLE     The ErbB receptors and their role in cancer progression.
+  JOURNAL   Exp Cell Res 284:99-110 (2003)
+REFERENCE   PMID:14967450
+  AUTHORS   Marmor MD, Skaria KB, Yarden Y.
+  TITLE     Signal transduction and oncogenesis by ErbB/HER receptors.
+  JOURNAL   Int J Radiat Oncol Biol Phys 58:903-13 (2004)
+REFERENCE   PMID:14586404
+  AUTHORS   DeArmond D, Brattain MG, Jessup JM, Kreisberg J, Malik S, Zhao S, Freeman JW.
+  TITLE     Autocrine-mediated ErbB-2 kinase activation of STAT3 is required for growth factor independence of pancreatic cancer cell lines.
+  JOURNAL   Oncogene 22:7781-95 (2003)
+REFERENCE   PMID:12545153
+  AUTHORS   Wei D, Le X, Zheng L, Wang L, Frey JA, Gao AC, Peng Z, Huang S, Xiong HQ, Abbruzzese JL, Xie K.
+  TITLE     Stat3 activation regulates the expression of vascular endothelial growth factor and human pancreatic cancer angiogenesis and metastasis.
+  JOURNAL   Oncogene 22:319-29 (2003)
+REFERENCE   PMID:14580692
+  AUTHORS   Toyonaga T, Nakano K, Nagano M, Zhao G, Yamaguchi K, Kuroki S, Eguchi T, Chijiiwa K, Tsuneyoshi M, Tanaka M.
+  TITLE     Blockade of constitutively activated Janus kinase/signal transducer and activator of transcription-3 pathway inhibits growth of human pancreatic cancer.
+  JOURNAL   Cancer Lett 201:107-16 (2003)
+REFERENCE   PMID:12079267
+  AUTHORS   Schmid RM.
+  TITLE     Genetic basis of pancreatic cancer.
+  JOURNAL   Best Pract Res Clin Gastroenterol 16:421-33 (2002)
+REFERENCE   PMID:15774796
+  AUTHORS   Elliott RL, Blobe GC.
+  TITLE     Role of transforming growth factor Beta in human cancer.
+  JOURNAL   J Clin Oncol 23:2078-93 (2005)
+REFERENCE   PMID:15823750
+  AUTHORS   Rudkin TM, Foulkes WD.
+  TITLE     BRCA2: breaks, mistakes and failed separations.
+  JOURNAL   Trends Mol Med 11:145-8 (2005)
+REFERENCE   PMID:11707511
+  AUTHORS   Venkitaraman AR.
+  TITLE     Functions of BRCA1 and BRCA2 in the biological response to DNA damage.
+  JOURNAL   J Cell Sci 114:3591-8 (2001)
+REFERENCE   PMID:15639402
+  AUTHORS   Soni D, King JA, Kaye AH, Hovens CM.
+  TITLE     Genetics of glioblastoma multiforme: mitogenic signaling and cell cycle pathways converge.
+  JOURNAL   J Clin Neurosci 12:1-5 (2005)
+REFERENCE   PMID:12154354
+  AUTHORS   Zhu Y, Parada LF.
+  TITLE     The molecular and genetic basis of neurological tumours.
+  JOURNAL   Nat Rev Cancer 2:616-26 (2002)
+REFERENCE   PMID:11253051
+  AUTHORS   Holland EC.
+  TITLE     Gliomagenesis: genetic alterations and mouse models.
+  JOURNAL   Nat Rev Genet 2:120-9 (2001)
+REFERENCE   PMID:16700615
+  AUTHORS   Bansal K, Liang ML, Rutka JT.
+  TITLE     Molecular biology of human gliomas.
+  JOURNAL   Technol Cancer Res Treat 5:185-94 (2006)
+REFERENCE   
+  AUTHORS   Tabuchi K (ed).
+  TITLE     [Gliomas: Research and therapy] (In Japanese)
+  JOURNAL   Springer-Verlag Tokyo (2006)
+REFERENCE   PMID:12762887
+  AUTHORS   Kapoor GS, O'Rourke DM.
+  TITLE     Mitogenic signaling cascades in glial tumors.
+  JOURNAL   Neurosurgery 52:1425-34; discussion 1434-5 (2003)
+REFERENCE   PMID:16095998
+  AUTHORS   Hulleman E, Helin K.
+  TITLE     Molecular mechanisms in gliomagenesis.
+  JOURNAL   Adv Cancer Res 94:1-27 (2005)
+REFERENCE   PMID:11057895
+  AUTHORS   Schlessinger J.
+  TITLE     Cell signaling by receptor tyrosine kinases.
+  JOURNAL   Cell 103:211-25 (2000)
+REFERENCE   PMID:9643506
+  AUTHORS   Ng HK, Lam PY.
+  TITLE     The molecular genetics of central nervous system tumors.
+  JOURNAL   Pathology 30:196-202 (1998)
+REFERENCE   PMID:12084351
+  AUTHORS   Knobbe CB, Merlo A, Reifenberger G.
+  TITLE     Pten signaling in gliomas.
+  JOURNAL   Neuro-oncol 4:196-211 (2002)
+REFERENCE   PMID:16557281
+  AUTHORS   Kondo T, Ezzat S, Asa SL.
+  TITLE     Pathogenetic mechanisms in thyroid follicular-cell neoplasia.
+  JOURNAL   Nat Rev Cancer 6:292-306 (2006)
+REFERENCE   PMID:16551846
+  AUTHORS   Chiloeches A, Marais R.
+  TITLE     Is BRAF the Achilles' Heel of thyroid cancer?
+  JOURNAL   Clin Cancer Res 12:1661-4 (2006)
+REFERENCE   PMID:16946003
+  AUTHORS   Reddi HV, McIver B, Grebe SK, Eberhardt NL.
+  TITLE     THE PAX8/PPAR{gamma} ONCOGENE IN THYROID TUMORIGENESIS.
+  JOURNAL   Endocrinology : (2006)
+REFERENCE   PMID:17062879
+  AUTHORS   Santoro M, Melillo RM, Fusco A.
+  TITLE     RET/PTC activation in papillary thyroid carcinoma: European Journal of Endocrinology Prize Lecture.
+  JOURNAL   Eur J Endocrinol 155:645-653 (2006)
+REFERENCE   PMID:16242838
+  AUTHORS   Pierotti MA, Greco A.
+  TITLE     Oncogenic rearrangements of the NTRK1/NGF receptor.
+  JOURNAL   Cancer Lett 232:90-8 (2006)
+REFERENCE   PMID:16189702
+  AUTHORS   Sobrinho-Simoes M, Preto A, Rocha AS, Castro P, Maximo V, Fonseca E, Soares P.
+  TITLE     Molecular pathology of well-differentiated thyroid carcinomas.
+  JOURNAL   Virchows Arch 447:787-93 (2005)
+REFERENCE   PMID:11165748
+  AUTHORS   Gimm O.
+  TITLE     Thyroid cancer.
+  JOURNAL   Cancer Lett 163:143-56 (2001)
+REFERENCE   PMID:12094241
+  AUTHORS   Williams D.
+  TITLE     Cancer after nuclear fallout: lessons from the Chernobyl accident.
+  JOURNAL   Nat Rev Cancer 2:543-9 (2002)
+REFERENCE   PMID:16236521
+  AUTHORS   Steffen B, Muller-Tidow C, Schwable J, Berdel WE, Serve H.
+  TITLE     The molecular pathogenesis of acute myeloid leukemia.
+  JOURNAL   Crit Rev Oncol Hematol 56:195-221 (2005)
+REFERENCE   PMID:12563308
+  AUTHORS   Tenen DG.
+  TITLE     Disruption of differentiation in human cancer: AML shows the way.
+  JOURNAL   Nat Rev Cancer 3:89-101 (2003)
+REFERENCE   PMID:16146838
+  AUTHORS   Choudhary C, Muller-Tidow C, Berdel WE, Serve H.
+  TITLE     Signal transduction of oncogenic Flt3.
+  JOURNAL   Int J Hematol 82:93-9 (2005)
+REFERENCE   PMID:12951584
+  AUTHORS   Stirewalt DL, Radich JP.
+  TITLE     The role of FLT3 in haematopoietic malignancies.
+  JOURNAL   Nat Rev Cancer 3:650-65 (2003)
+REFERENCE   PMID:16642045
+  AUTHORS   Martelli AM, Nyakern M, Tabellini G, Bortul R, Tazzari PL, Evangelisti C, Cocco L.
+  TITLE     Phosphoinositide 3-kinase/Akt signaling pathway and its therapeutical implications for human acute myeloid leukemia.
+  JOURNAL   Leukemia 20:911-28 (2006)
+REFERENCE   PMID:15625120
+  AUTHORS   Lennartsson J, Jelacic T, Linnekin D, Shivakrupa R.
+  TITLE     Normal and oncogenic forms of the receptor tyrosine kinase kit.
+  JOURNAL   Stem Cells 23:16-43 (2005)
+REFERENCE   PMID:11721960
+  AUTHORS   Lorsbach RB, Downing JR.
+  TITLE     The role of the AML1 transcription factor in leukemogenesis.
+  JOURNAL   Int J Hematol 74:258-65 (2001)
+REFERENCE   PMID:12468433
+  AUTHORS   Mizuki M, Schwable J, Steur C, Choudhary C, Agrawal S, Sargin B, Steffen B, Matsumura I, Kanakura Y, Bohmer FD, Muller-Tidow C, Berdel WE, Serve H.
+  TITLE     Suppression of myeloid transcription factors and induction of STAT response genes by AML-specific Flt3 mutations.
+  JOURNAL   Blood 101:3164-73 (2003)
+REFERENCE   PMID:17554387
+  AUTHORS   Mikesch JH, Steffen B, Berdel WE, Serve H, Muller-Tidow C.
+  TITLE     The emerging role of Wnt signaling in the pathogenesis of acute myeloid leukemia.
+  JOURNAL   Leukemia : (2007)
+REFERENCE   PMID:16352814
+  AUTHORS   Mueller BU, Pabst T, Fos J, Petkovic V, Fey MF, Asou N, Buergi U, Tenen DG.
+  TITLE     ATRA resolves the differentiation block in t(15;17) acute myeloid leukemia by restoring PU.1 expression.
+  JOURNAL   Blood 107:3330-8 (2006)
+REFERENCE   PMID:15719031
+  AUTHORS   Ren R.
+  TITLE     Mechanisms of BCR-ABL in the pathogenesis of chronic myelogenous leukaemia.
+  JOURNAL   Nat Rev Cancer 5:172-83 (2005)
+REFERENCE   PMID:11071626
+  AUTHORS   Deininger MW, Goldman JM, Melo JV.
+  TITLE     The molecular biology of chronic myeloid leukemia.
+  JOURNAL   Blood 96:3343-56 (2000)
+REFERENCE   PMID:14982876
+  AUTHORS   Calabretta B, Perrotti D.
+  TITLE     The biology of CML blast crisis.
+  JOURNAL   Blood 103:4010-22 (2004)
+REFERENCE   PMID:10403855
+  AUTHORS   Faderl S, Talpaz M, Estrov Z, O'Brien S, Kurzrock R, Kantarjian HM.
+  TITLE     The biology of chronic myeloid leukemia.
+  JOURNAL   N Engl J Med 341:164-72 (1999)
+REFERENCE   PMID:15156182
+  AUTHORS   Mitani K.
+  TITLE     Molecular mechanisms of leukemogenesis by AML1/EVI-1.
+  JOURNAL   Oncogene 23:4263-9 (2004)
+REFERENCE   PMID:16484590
+  AUTHORS   Dong M, Blobe GC.
+  TITLE     Role of transforming growth factor-beta in hematologic malignancies.
+  JOURNAL   Blood 107:4589-96 (2006)
+REFERENCE   PMID:9834202
+  AUTHORS   Kurokawa M, Mitani K, Imai Y, Ogawa S, Yazaki Y, Hirai H.
+  TITLE     The t(3;21) fusion product, AML1/Evi-1, interacts with Smad3 and blocks transforming growth factor-beta-mediated growth inhibition of myeloid cells.
+  JOURNAL   Blood 92:4003-12 (1998)
+REFERENCE   PMID:12801837
+  AUTHORS   Brusa G, Benvenuti M, Mazzacurati L, Mancini M, Pattacini L, Martinelli G, Barbieri E, Greenberger JS, Baccarani M, Santucci MA.
+  TITLE     p53 loss of function enhances genomic instability and accelerates clonal evolution of murine myeloid progenitors expressing the p(210)BCR-ABL tyrosine kinase.
+  JOURNAL   Haematologica 88:622-30 (2003)
+REFERENCE   PMID:11160144
+  AUTHORS   Baldwin AS.
+  TITLE     Control of oncogenesis and cancer therapy resistance by the transcription factor NF-kappaB.
+  JOURNAL   J Clin Invest 107:241-6 (2001)
+REFERENCE   PMID:12244301
+  AUTHORS   Shin I, Yakes FM, Rojo F, Shin NY, Bakin AV, Baselga J, Arteaga CL.
+  TITLE     PKB/Akt mediates cell-cycle progression by phosphorylation of p27(Kip1) at threonine 157 and modulation of its cellular localization.
+  JOURNAL   Nat Med 8:1145-52 (2002)
+REFERENCE   PMID:15948971
+  AUTHORS   Tilli CM, Van Steensel MA, Krekels GA, Neumann HA, Ramaekers FC.
+  TITLE     Molecular aetiology and pathogenesis of basal cell carcinoma.
+  JOURNAL   Br J Dermatol 152:1108-24 (2005)
+REFERENCE   PMID:12588368
+  AUTHORS   Saldanha G, Fletcher A, Slater DN.
+  TITLE     Basal cell carcinoma: a dermatopathological and molecular biological update.
+  JOURNAL   Br J Dermatol 148:195-202 (2003)
+REFERENCE   PMID:15978322
+  AUTHORS   Daya-Grosjean L, Couve-Privat S.
+  TITLE     Sonic hedgehog signaling in basal cell carcinomas.
+  JOURNAL   Cancer Lett 225:181-92 (2005)
+REFERENCE   PMID:15468170
+  AUTHORS   Tsai KY, Tsao H.
+  TITLE     The genetics of skin cancer.
+  JOURNAL   Am J Med Genet C Semin Med Genet 131C:82-92 (2004)
+REFERENCE   PMID:16881963
+  AUTHORS   Athar M, Tang X, Lee JL, Kopelovich L, Kim AL.
+  TITLE     Hedgehog signalling in skin development and cancer.
+  JOURNAL   Exp Dermatol 15:667-77 (2006)
+REFERENCE   PMID:16306523
+  AUTHORS   Rubin AI, Chen EH, Ratner D.
+  TITLE     Basal-cell carcinoma.
+  JOURNAL   N Engl J Med 353:2262-9 (2005)
+REFERENCE   PMID:11276000
+  AUTHORS   Saldanha G.
+  TITLE     The Hedgehog signalling pathway and cancer.
+  JOURNAL   J Pathol 193:427-32 (2001)
+REFERENCE   PMID:15270885
+  AUTHORS   Saldanha G, Ghura V, Potter L, Fletcher A.
+  TITLE     Nuclear beta-catenin in basal cell carcinoma correlates with increased proliferation.
+  JOURNAL   Br J Dermatol 151:157-64 (2004)
+REFERENCE   PMID:14737121
+  AUTHORS   Pasca di Magliano M, Hebrok M.
+  TITLE     Hedgehog signalling in cancer formation and maintenance.
+  JOURNAL   Nat Rev Cancer 3:903-11 (2003)
+REFERENCE   PMID:15656799
+  AUTHORS   Reifenberger J, Wolter M, Knobbe CB, Kohler B, Schonicke A, Scharwachter C, Kumar K, Blaschke B, Ruzicka T, Reifenberger G.
+  TITLE     Somatic mutations in the PTCH, SMOH, SUFUH and TP53 genes in sporadic basal cell carcinomas.
+  JOURNAL   Br J Dermatol 152:43-51 (2005)
+REFERENCE   PMID:14556242
+  AUTHORS   Cohen MM Jr.
+  TITLE     The hedgehog signaling network.
+  JOURNAL   Am J Med Genet A 123:5-28 (2003)
+REFERENCE   PMID:11736900
+  AUTHORS   Yamazaki F, Aragane Y, Kawada A, Tezuka T.
+  TITLE     Immunohistochemical detection for nuclear beta-catenin in sporadic basal cell carcinoma.
+  JOURNAL   Br J Dermatol 145:771-7 (2001)
+REFERENCE   PMID:16054233
+  AUTHORS   Erb P, Ji J, Wernli M, Kump E, Glaser A, Buchner SA.
+  TITLE     Role of apoptosis in basal cell and squamous cell carcinoma formation.
+  JOURNAL   Immunol Lett 100:68-72 (2005)
+REFERENCE   PMID:11130178
+  AUTHORS   Toftgard R.
+  TITLE     Hedgehog signalling in cancer.
+  JOURNAL   Cell Mol Life Sci 57:1720-31 (2000)
+REFERENCE   PMID:16822996
+  AUTHORS   Miller AJ, Mihm MC Jr.
+  TITLE     Melanoma.
+  JOURNAL   N Engl J Med 355:51-65 (2006)
+REFERENCE   PMID:12894244
+  AUTHORS   Chin L.
+  TITLE     The genetics of malignant melanoma: lessons from mouse and man.
+  JOURNAL   Nat Rev Cancer 3:559-70 (2003)
+REFERENCE   PMID:16750612
+  AUTHORS   Takata M, Saida T.
+  TITLE     Genetic alterations in melanocytic tumors.
+  JOURNAL   J Dermatol Sci 43:1-10 (2006)
+REFERENCE   PMID:15841168
+  AUTHORS   Chudnovsky Y, Khavari PA, Adams AE.
+  TITLE     Melanoma genetics and the development of rational therapeutics.
+  JOURNAL   J Clin Invest 115:813-24 (2005)
+REFERENCE   PMID:16001050
+  AUTHORS   Merlino G.
+  TITLE     Cancer biology: the weakest link?
+  JOURNAL   Nature 436:33-5 (2005)
+REFERENCE   PMID:16001072
+  AUTHORS   Garraway LA, Widlund HR, Rubin MA, Getz G, Berger AJ, Ramaswamy S, Beroukhim R, Milner DA, Granter SR, Du J, Lee C, Wagner SN, Li C, Golub TR, Rimm DL, Meyerson ML, Fisher DE, Sellers WR.
+  TITLE     Integrative genomic analyses identify MITF as a lineage survival oncogene amplified in malignant melanoma.
+  JOURNAL   Nature 436:117-22 (2005)
+REFERENCE   PMID:16899407
+  AUTHORS   Levy C, Khaled M, Fisher DE.
+  TITLE     MITF: master regulator of melanocyte development and melanoma oncogene.
+  JOURNAL   Trends Mol Med 12:406-14 (2006)
+REFERENCE   PMID:15009714
+  AUTHORS   Tsao H, Goel V, Wu H, Yang G, Haluska FG.
+  TITLE     Genetic interaction between NRAS and BRAF mutations and PTEN/MMAC1 inactivation in melanoma.
+  JOURNAL   J Invest Dermatol 122:337-41 (2004)
+REFERENCE   PMID:11224709
+  AUTHORS   Gruss C, Herlyn M.
+  TITLE     Role of cadherins and matrixins in melanoma.
+  JOURNAL   Curr Opin Oncol 13:117-23 (2001)
+REFERENCE   PMID:15721476
+  AUTHORS   Thompson JF, Scolyer RA, Kefford RF.
+  TITLE     Cutaneous melanoma.
+  JOURNAL   Lancet 365:687-701 (2005)
+REFERENCE   PMID:14695152
+  AUTHORS   Omholt K, Platz A, Kanter L, Ringborg U, Hansson J.
+  TITLE     NRAS and BRAF mutations arise early during melanoma pathogenesis and are preserved throughout tumor progression.
+  JOURNAL   Clin Cancer Res 9:6483-8 (2003)
+REFERENCE   PMID:15557758
+  AUTHORS   Hussein MR.
+  TITLE     The TP53 tumor suppressor gene and melanoma tumorigenesis: is there a relationship?
+  JOURNAL   Tumour Biol 25:200-7 (2004)
+REFERENCE   PMID:10843728
+  AUTHORS   Lazar-Molnar E, Hegyesi H, Toth S, Falus A.
+  TITLE     Autocrine and paracrine regulation by cytokines and growth factors in melanoma.
+  JOURNAL   Cytokine 12:547-54 (2000)
+REFERENCE   PMID:16339096
+  AUTHORS   Cohen HT, McGovern FJ.
+  TITLE     Renal-cell carcinoma.
+  JOURNAL   N Engl J Med 353:2477-90 (2005)
+REFERENCE   PMID:15122209
+  AUTHORS   Pavlovich CP, Schmidt LS.
+  TITLE     Searching for the hereditary causes of renal-cell carcinoma.
+  JOURNAL   Nat Rev Cancer 4:381-93 (2004)
+REFERENCE   PMID:14634372
+  AUTHORS   Linehan WM, Walther MM, Zbar B.
+  TITLE     The genetic basis of cancer of the kidney.
+  JOURNAL   J Urol 170:2163-72 (2003)
+REFERENCE   PMID:14685170
+  AUTHORS   Birchmeier C, Birchmeier W, Gherardi E, Vande Woude GF.
+  TITLE     Met, metastasis, motility and more.
+  JOURNAL   Nat Rev Mol Cell Biol 4:915-25 (2003)
+REFERENCE   PMID:15611513
+  AUTHORS   Kim WY, Kaelin WG.
+  TITLE     Role of VHL gene mutation in human cancer.
+  JOURNAL   J Clin Oncol 22:4991-5004 (2004)
+REFERENCE   PMID:17211469
+  AUTHORS   Sudarshan S, Linehan WM, Neckers L.
+  TITLE     HIF and fumarate hydratase in renal cancer.
+  JOURNAL   Br J Cancer 96:403-7 (2007)
+REFERENCE   PMID:17287871
+  AUTHORS   Sudarshan S, Pinto PA, Neckers L, Linehan WM.
+  TITLE     Mechanisms of disease: hereditary leiomyomatosis and renal cell cancer--a distinct form of hereditary kidney cancer.
+  JOURNAL   Nat Clin Pract Urol 4:104-10 (2007)
+REFERENCE   PMID:12351585
+  AUTHORS   Bodmer D, van den Hurk W, van Groningen JJ, Eleveld MJ, Martens GJ, Weterman MA, van Kessel AG.
+  TITLE     Understanding familial and non-familial renal cell cancer.
+  JOURNAL   Hum Mol Genet 11:2489-98 (2002)
+REFERENCE   PMID:17158541
+  AUTHORS   Mitra AP, Datar RH, Cote RJ.
+  TITLE     Molecular pathways in invasive bladder cancer: new insights into mechanisms, progression, and target identification.
+  JOURNAL   J Clin Oncol 24:5552-64 (2006)
+REFERENCE   PMID:16474624
+  AUTHORS   Wolff EM, Liang G, Jones PA.
+  TITLE     Mechanisms of Disease: genetic and epigenetic alterations that drive bladder cancer.
+  JOURNAL   Nat Clin Pract Urol 2:502-10 (2005)
+REFERENCE   PMID:16110317
+  AUTHORS   Wu XR.
+  TITLE     Urothelial tumorigenesis: a tale of divergent pathways.
+  JOURNAL   Nat Rev Cancer 5:713-25 (2005)
+REFERENCE   PMID:11103787
+  AUTHORS   Brown NS, Jones A, Fujiyama C, Harris AL, Bicknell R.
+  TITLE     Thymidine phosphorylase induces carcinoma cell oxidative stress and promotes secretion of angiogenic factors.
+  JOURNAL   Cancer Res 60:6298-302 (2000)
+REFERENCE   PMID:12850530
+  AUTHORS   Bellmunt J, Hussain M, Dinney CP.
+  TITLE     Novel approaches with targeted therapies in bladder cancer. Therapy of bladder cancer by blockade of the epidermal growth factor receptor family.
+  JOURNAL   Crit Rev Oncol Hematol 46 Suppl:S85-104 (2003)
+REFERENCE   PMID:17149381
+  AUTHORS   Sugano K, Kakizoe T.
+  TITLE     Genetic alterations in bladder cancer and their clinical applications in molecular tumor staging.
+  JOURNAL   Nat Clin Pract Urol 3:642-52 (2006)
+REFERENCE   PMID:15746962
+  AUTHORS   Dunn KL, Espino PS, Drobic B, He S, Davie JR.
+  TITLE     The Ras-MAPK signal transduction pathway, cancer and chromatin remodeling.
+  JOURNAL   Biochem Cell Biol 83:1-14 (2005)
+REFERENCE   PMID:15551095
+  AUTHORS   Williams SG, Stein JP.
+  TITLE     Molecular pathways in bladder cancer.
+  JOURNAL   Urol Res 32:373-85 (2004)
+REFERENCE   PMID:12878745
+  AUTHORS   Nelson WG, De Marzo AM, Isaacs WB.
+  TITLE     Prostate cancer.
+  JOURNAL   N Engl J Med 349:366-81 (2003)
+REFERENCE   PMID:15724144
+  AUTHORS   Li L, Ittmann MM, Ayala G, Tsai MJ, Amato RJ, Wheeler TM, Miles BJ, Kadmon D, Thompson TC.
+  TITLE     The emerging role of the PI3-K-Akt pathway in prostate cancer progression.
+  JOURNAL   Prostate Cancer Prostatic Dis 8:108-18 (2005)
+REFERENCE   PMID:16551847
+  AUTHORS   Pienta KJ, Bradley D.
+  TITLE     Mechanisms underlying the development of androgen-independent prostate cancer.
+  JOURNAL   Clin Cancer Res 12:1665-71 (2006)
+REFERENCE   PMID:11900250
+  AUTHORS   Feldman BJ, Feldman D.
+  TITLE     The development of androgen-independent prostate cancer.
+  JOURNAL   Nat Rev Cancer 1:34-45 (2001)
+REFERENCE   PMID:15082523
+  AUTHORS   Heinlein CA, Chang C.
+  TITLE     Androgen receptor in prostate cancer.
+  JOURNAL   Endocr Rev 25:276-308 (2004)
+REFERENCE   PMID:9422516
+  AUTHORS   Koivisto P, Kolmer M, Visakorpi T, Kallioniemi OP.
+  TITLE     Androgen receptor gene and hormonal therapy failure of prostate cancer.
+  JOURNAL   Am J Pathol 152:1-9 (1998)
+REFERENCE   PMID:10835690
+  AUTHORS   Zhao XY, Malloy PJ, Krishnan AV, Swami S, Navone NM, Peehl DM, Feldman D.
+  TITLE     Glucocorticoids can promote androgen-independent growth of prostate cancer cells through a mutated androgen receptor.
+  JOURNAL   Nat Med 6:703-6 (2000)
+REFERENCE   PMID:10453277
+  AUTHORS   Macri E, Loda M.
+  TITLE     Role of p27 in prostate carcinogenesis.
+  JOURNAL   Cancer Metastasis Rev 17:337-44 (1998)
+REFERENCE   PMID:11750244
+  AUTHORS   Steers WD.
+  TITLE     5alpha-reductase activity in the prostate.
+  JOURNAL   Urology 58:17-24; discussion 24 (2001)
+REFERENCE   PMID:8069858
+  AUTHORS   Lin D, Meyer DJ, Ketterer B, Lang NP, Kadlubar FF.
+  TITLE     Effects of human and rat glutathione S-transferases on the covalent DNA binding of the N-acetoxy derivatives of heterocyclic amine carcinogens in vitro: a possible mechanism of organ specificity in their carcinogenesis.
+  JOURNAL   Cancer Res 54:4920-6 (1994)
+REFERENCE   PMID:11527574
+  AUTHORS   Grimes CA, Jope RS.
+  TITLE     The multifaceted roles of glycogen synthase kinase 3beta in cellular signaling.
+  JOURNAL   Prog Neurobiol 65:391-426 (2001)
+REFERENCE   PMID:15947972
+  AUTHORS   Ryan AJ, Susil B, Jobling TW, Oehler MK.
+  TITLE     Endometrial cancer.
+  JOURNAL   Cell Tissue Res 322:53-61 (2005)
+REFERENCE   PMID:14747944
+  AUTHORS   Lax SF.
+  TITLE     Molecular genetic pathways in various types of endometrial carcinoma: from a phenotypical to a molecular-based classification.
+  JOURNAL   Virchows Arch 444:213-23 (2004)
+REFERENCE   PMID:16508724
+  AUTHORS   Shiozawa T, Konishi I.
+  TITLE     Early endometrial carcinoma: clinicopathology, hormonal aspects, molecular genetics, diagnosis, and treatment.
+  JOURNAL   Int J Clin Oncol 11:13-21 (2006)
+REFERENCE   PMID:17028294
+  AUTHORS   Hecht JL, Mutter GL.
+  TITLE     Molecular and pathologic aspects of endometrial carcinogenesis.
+  JOURNAL   J Clin Oncol 24:4783-91 (2006)
+REFERENCE   PMID:11431710
+  AUTHORS   Matias-Guiu X, Catasus L, Bussaglia E, Lagarda H, Garcia A, Pons C, Munoz J, Arguelles R, Machin P, Prat J.
+  TITLE     Molecular pathology of endometrial hyperplasia and carcinoma.
+  JOURNAL   Hum Pathol 32:569-77 (2001)
+REFERENCE   PMID:15284264
+  AUTHORS   Slomovitz BM, Broaddus RR, Burke TW, Sneige N, Soliman PT, Wu W, Sun CC, Munsell MF, Gershenson DM, Lu KH.
+  TITLE     Her-2/neu overexpression and amplification in uterine papillary serous carcinoma.
+  JOURNAL   J Clin Oncol 22:3126-32 (2004)
+REFERENCE   PMID:7585656
+  AUTHORS   Saffari B, Jones LA, el-Naggar A, Felix JC, George J, Press MF.
+  TITLE     Amplification and overexpression of HER-2/neu (c-erbB2) in endometrial cancers: correlation with overall survival.
+  JOURNAL   Cancer Res 55:5693-8 (1995)
+REFERENCE   PMID:16248975
+  AUTHORS   Kim D, Chung J.
+  TITLE     Akt: versatile mediator of cell survival and beyond.
+  JOURNAL   J Biochem Mol Biol 35:106-15 (2002)
+REFERENCE   PMID:12711111
+  AUTHORS   Sanchez-Cespedes M.
+  TITLE     Dissecting the genetic alterations involved in lung carcinogenesis.
+  JOURNAL   Lung Cancer 40:111-21 (2003)
+REFERENCE   PMID:11720739
+  AUTHORS   Kaye FJ.
+  TITLE     Molecular biology of lung cancer.
+  JOURNAL   Lung Cancer 34 Suppl 2:S35-41 (2001)
+REFERENCE   PMID:12616528
+  AUTHORS   Shivapurkar N, Reddy J, Chaudhary PM, Gazdar AF.
+  TITLE     Apoptosis and lung cancer: a review.
+  JOURNAL   J Cell Biochem 88:885-98 (2003)
+REFERENCE   PMID:11807782
+  AUTHORS   Sartorius UA, Krammer PH.
+  TITLE     Upregulation of Bcl-2 is involved in the mediation of chemotherapy resistance in human small cell lung cancer cell lines.
+  JOURNAL   Int J Cancer 97:584-92 (2002)
+REFERENCE   PMID:16064138
+  AUTHORS   Adhikary S, Eilers M.
+  TITLE     Transcriptional regulation and transformation by Myc proteins.
+  JOURNAL   Nat Rev Mol Cell Biol 6:635-45 (2005)
+REFERENCE   PMID:11463388
+  AUTHORS   Spruck C, Strohmaier H, Watson M, Smith AP, Ryan A, Krek TW, Reed SI.
+  TITLE     A CDK-independent function of mammalian Cks1: targeting of SCF(Skp2) to the CDK inhibitor p27Kip1.
+  JOURNAL   Mol Cell 7:639-50 (2001)
+REFERENCE   PMID:15109562
+  AUTHORS   Buttery RC, Rintoul RC, Sethi T.
+  TITLE     Small cell lung cancer: the importance of the extracellular matrix.
+  JOURNAL   Int J Biochem Cell Biol 36:1154-60 (2004)
+REFERENCE   PMID:11559746
+  AUTHORS   Yamada KM, Araki M.
+  TITLE     Tumor suppressor PTEN: modulator of cell signaling, growth, migration and apoptosis.
+  JOURNAL   J Cell Sci 114:2375-82 (2001)
+REFERENCE   PMID:11905738
+  AUTHORS   Rintoul RC, Sethi T.
+  TITLE     The role of extracellular matrix in small-cell lung cancer.
+  JOURNAL   Lancet Oncol 2:437-42 (2001)
+REFERENCE   PMID:12243753
+  AUTHORS   Ekedahl J, Joseph B, Grigoriev MY, Muller M, Magnusson C, Lewensohn R, Zhivotovsky B.
+  TITLE     Expression of inhibitor of apoptosis proteins in small- and non-small-cell lung carcinoma cells.
+  JOURNAL   Exp Cell Res 279:277-90 (2002)
+REFERENCE   PMID:12379883
+  AUTHORS   Osada H, Takahashi T.
+  TITLE     Genetic alterations of multiple tumor suppressors and oncogenes in the carcinogenesis and progression of lung cancer.
+  JOURNAL   Oncogene 21:7421-34 (2002)
+REFERENCE   PMID:12741677
+  AUTHORS   Yokota J, Nishioka M, Tani M, Kohno T.
+  TITLE     Genetic alterations responsible for metastatic phenotypes of lung cancer cells.
+  JOURNAL   Clin Exp Metastasis 20:189-93 (2003)
+REFERENCE   PMID:16870043
+  AUTHORS   Aviel-Ronen S, Blackhall FH, Shepherd FA, Tsao MS.
+  TITLE     K-ras mutations in non-small-cell lung carcinoma: a review.
+  JOURNAL   Clin Lung Cancer 8:30-8 (2006)
+REFERENCE   PMID:15948711
+  AUTHORS   Pfeifer GP, Dammann R.
+  TITLE     Methylation of the tumor suppressor gene RASSF1A in human tumors.
+  JOURNAL   Biochemistry (Mosc) 70:576-83 (2005)
+REFERENCE   PMID:11902573
+  AUTHORS   Altucci L, Gronemeyer H.
+  TITLE     The promise of retinoids to fight against cancer.
+  JOURNAL   Nat Rev Cancer 1:181-93 (2001)
+REFERENCE   PMID:10944551
+  AUTHORS   Virmani AK, Rathi A, Zochbauer-Muller S, Sacchi N, Fukuyama Y, Bryant D, Maitra A, Heda S, Fong KM, Thunnissen F, Minna JD, Gazdar AF.
+  TITLE     Promoter methylation and silencing of the retinoic acid receptor-beta gene in lung carcinomas.
+  JOURNAL   J Natl Cancer Inst 92:1303-7 (2000)
+REFERENCE   PMID:12867060
+  AUTHORS   Hirsch FR, Scagliotti GV, Langer CJ, Varella-Garcia M, Franklin WA.
+  TITLE     Epidermal growth factor family of receptors in preneoplasia and lung cancer: perspectives for targeted therapies.
+  JOURNAL   Lung Cancer 41 Suppl 1:S29-42 (2003)
+REFERENCE   PMID:16112428
+  AUTHORS   Panani AD, Roussos C.
+  TITLE     Cytogenetic and molecular aspects of lung cancer.
+  JOURNAL   Cancer Lett 239:1-9 (2006)
+REFERENCE   PMID:12407699
+  AUTHORS   Mitsuuchi Y, Testa JR.
+  TITLE     Cytogenetics and molecular genetics of lung cancer.
+  JOURNAL   Am J Med Genet 115:183-8 (2002)
+REFERENCE   PMID:15942304
+  AUTHORS   Breuer RH, Postmus PE, Smit EF.
+  TITLE     Molecular pathology of non-small-cell lung cancer.
+  JOURNAL   Respiration 72:313-30 (2005)
+REFERENCE   PMID:11895903
+  AUTHORS   Piyathilake CJ, Frost AR, Manne U, Weiss H, Bell WC, Heimburger DC, Grizzle WE.
+  TITLE     Differential expression of growth factors in squamous cell carcinoma and precancerous lesions of the lung.
+  JOURNAL   Clin Cancer Res 8:734-44 (2002)
+REFERENCE   PMID:16189154
+  AUTHORS   Awaya H, Takeshima Y, Furonaka O, Kohno N, Inai K.
+  TITLE     Gene amplification and protein expression of EGFR and HER2 by chromogenic in situ hybridisation and immunohistochemistry in atypical adenomatous hyperplasia and adenocarcinoma of the lung.
+  JOURNAL   J Clin Pathol 58:1076-80 (2005)
+KO_PATHWAY  ko05200
+///

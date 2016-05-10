@@ -1,0 +1,27 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00380
+server: Apache
+date: Wed, 15 Oct 2014 14:57:20 GMT
+content-type: text/plain
+
+ENTRY       map00380                    Pathway
+NAME        Tryptophan metabolism
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00380  Tryptophan metabolism
+MODULE      M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin [PATH:map00380]
+            M00038  Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate [PATH:map00380]
+DISEASE     H00178  Glutaric acidemia
+            H00203  Acatalasia
+            H00548  Brunner syndrome
+            H00689  Delayed sleep phase syndrome
+            H01075  Peters anomaly
+            H01161  Aromatic L-amino acid decarboxylase (AADC) deficiency
+            H01203  Primary congenital glaucoma (PCG)
+            H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency
+DBLINKS     GO: 0006568 0009851
+REFERENCE   PMID:15749753
+  AUTHORS   Woodward AW, Bartel B
+  TITLE     Auxin: regulation, action, and interaction.
+  JOURNAL   Ann Bot 95:707-35 (2005)
+KO_PATHWAY  ko00380
+///

@@ -1,0 +1,97 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04921
+server: Apache
+date: Wed, 15 Oct 2014 15:09:09 GMT
+content-type: text/plain
+
+ENTRY       map04921                    Pathway
+NAME        Oxytocin signaling pathway
+DESCRIPTION Oxytocin (OT) is a nonapeptide synthesized by the magno-cellular neurons located in the supraoptic (SON) and paraventricular (PVN) nuclei of the hypothalamus. It exerts a wide variety of central and peripheral effects.  However, its best-known and most well-established roles are stimulation of uterine contractions during parturition and milk release during lactation. Oxytocin also influences cardiovascular regulation and various social behaviors. The actions of OT are all mediated by one type of OT receptor (OTR). This is a transmembrane receptor belonging to the G-protein-coupled receptor superfamily. The main signaling pathway is the Gq/PLC/Ins3 pathway, but the MAPK and the RhoA/Rho kinase pathways are also activated, contributing to increased prostaglandin production and direct contractile effect on myometrial cells. In the cardiovascular system, OTR is associated with the ANP-cGMP and NO-cGMP pathways, which reduce the force and rate of contraction and increase vasodilatation.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04921  Oxytocin signaling pathway
+REFERENCE   PMID:18655881
+  AUTHORS   Devost D, Wrzal P, Zingg HH
+  TITLE     Oxytocin receptor signalling.
+  JOURNAL   Prog Brain Res 170:167-76 (2008)
+REFERENCE   PMID:20626426
+  AUTHORS   Viero C, Shibuya I, Kitamura N, Verkhratsky A, Fujihara H, Katoh A, Ueta Y, Zingg HH, Chvatal A, Sykova E, Dayanithi G
+  TITLE     REVIEW: Oxytocin: Crossing the bridge between basic science and pharmacotherapy.
+  JOURNAL   CNS Neurosci Ther 16:e138-56 (2010)
+REFERENCE   PMID:21981277
+  AUTHORS   Gutkowska J, Jankowski M
+  TITLE     Oxytocin revisited: its role in cardiovascular regulation.
+  JOURNAL   J Neuroendocrinol 24:599-608 (2012)
+REFERENCE   PMID:22190926
+  AUTHORS   Vrachnis N, Malamas FM, Sifakis S, Deligeoroglou E, Iliodromiti Z
+  TITLE     The oxytocin-oxytocin receptor system and its antagonists as tocolytic agents.
+  JOURNAL   Int J Endocrinol 2011:350546 (2011)
+REFERENCE   PMID:19840865
+  AUTHORS   Tom N, Assinder SJ
+  TITLE     Oxytocin in health and disease.
+  JOURNAL   Int J Biochem Cell Biol 42:202-5 (2010)
+REFERENCE   PMID:9575824
+  AUTHORS   Strakova Z, Copland JA, Lolait SJ, Soloff MS
+  TITLE     ERK2 mediates oxytocin-stimulated PGE2 synthesis.
+  JOURNAL   Am J Physiol 274:E634-41 (1998)
+REFERENCE   PMID:12009385
+  AUTHORS   Slater DM, Zervou S, Thornton S
+  TITLE     Prostaglandins and prostanoid receptors in human pregnancy and parturition.
+  JOURNAL   J Soc Gynecol Investig 9:118-24 (2002)
+REFERENCE   PMID:16787565
+  AUTHORS   Shmygol A, Gullam J, Blanks A, Thornton S
+  TITLE     Multiple mechanisms involved in oxytocin-induced modulation of myometrial contractility.
+  JOURNAL   Acta Pharmacol Sin 27:827-32 (2006)
+REFERENCE   PMID:11861513
+  AUTHORS   Tahara M, Morishige K, Sawada K, Ikebuchi Y, Kawagishi R, Tasaka K, Murata Y
+  TITLE     RhoA/Rho-kinase cascade is involved in oxytocin-induced rat uterine contraction.
+  JOURNAL   Endocrinology 143:920-9 (2002)
+REFERENCE   PMID:12433531
+  AUTHORS   Slattery MM, Morrison JJ
+  TITLE     Preterm delivery.
+  JOURNAL   Lancet 360:1489-97 (2002)
+REFERENCE   PMID:22902539
+  AUTHORS   Pont JN, McArdle CA, Lopez Bernal A
+  TITLE     Oxytocin-stimulated NFAT transcriptional activation in human myometrial cells.
+  JOURNAL   Mol Endocrinol 26:1743-56 (2012)
+REFERENCE   PMID:9326674
+  AUTHORS   Gutkowska J, Jankowski M, Lambert C, Mukaddam-Daher S, Zingg HH, McCann SM
+  TITLE     Oxytocin releases atrial natriuretic peptide by combining with oxytocin receptors in the heart.
+  JOURNAL   Proc Natl Acad Sci U S A 94:11704-9 (1997)
+REFERENCE   PMID:14715914
+  AUTHORS   Antunes-Rodrigues J, de Castro M, Elias LL, Valenca MM, McCann SM
+  TITLE     Neuroendocrine control of body fluid metabolism.
+  JOURNAL   Physiol Rev 84:169-208 (2004)
+REFERENCE   PMID:18555543
+  AUTHORS   Lee ES, Uhm KO, Lee YM, Kwon J, Park SH, Soo KH
+  TITLE     Oxytocin stimulates glucose uptake in skeletal muscle cells through the calcium-CaMKK-AMPK pathway.
+  JOURNAL   Regul Pept 151:71-4 (2008)
+REFERENCE   PMID:9219843
+  AUTHORS   Cassoni P, Sapino A, Fortunati N, Munaron L, Chini B, Bussolati G
+  TITLE     Oxytocin inhibits the proliferation of MDA-MB231 human breast-cancer cells via cyclic adenosine monophosphate and protein kinase A.
+  JOURNAL   Int J Cancer 72:340-4 (1997)
+REFERENCE   PMID:23356278
+  AUTHORS   Busnelli M, Peverelli E, Mantovani G, Spada A, Chini B
+  TITLE     Deciphering the specific role of G(alphai/o) isoforms: functional selective oxytocin ligands and somatostatin SST5 receptor mutants.
+  JOURNAL   Biochem Soc Trans 41:166-71 (2013)
+REFERENCE   PMID:16966388
+  AUTHORS   Reversi A, Rimoldi V, Brambillasca S, Chini B
+  TITLE     Effects of cholesterol manipulation on the signaling of the human oxytocin receptor.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 291:R861-9 (2006)
+REFERENCE   PMID:20141572
+  AUTHORS   Salmina AB, Lopatina O, Ekimova MV, Mikhutkina SV, Higashida H
+  TITLE     CD38/cyclic ADP-ribose system: a new player for oxytocin secretion and regulation of social behaviour.
+  JOURNAL   J Neuroendocrinol 22:380-92 (2010)
+REFERENCE   PMID:22227279
+  AUTHORS   Higashida H, Yokoyama S, Kikuchi M, Munesue T
+  TITLE     CD38 and its role in oxytocin secretion and social behavior.
+  JOURNAL   Horm Behav 61:351-8 (2012)
+REFERENCE   PMID:23335873
+  AUTHORS   Lopatina O, Inzhutova A, Salmina AB, Higashida H
+  TITLE     The roles of oxytocin and CD38 in social or parental behaviors.
+  JOURNAL   Front Neurosci 6:182 (2012)
+REFERENCE   PMID:16156781
+  AUTHORS   Guse AH
+  TITLE     Second messenger function and the structure-activity relationship of cyclic adenosine diphosphoribose (cADPR).
+  JOURNAL   FEBS J 272:4590-7 (2005)
+KO_PATHWAY  ko04921
+///

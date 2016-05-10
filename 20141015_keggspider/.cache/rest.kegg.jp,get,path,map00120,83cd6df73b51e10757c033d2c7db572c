@@ -1,0 +1,52 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00120
+server: Apache
+date: Wed, 15 Oct 2014 14:57:08 GMT
+content-type: text/plain
+
+ENTRY       map00120                    Pathway
+NAME        Primary bile acid biosynthesis
+DESCRIPTION Bile acids are steroid carboxylic acids derived from cholesterol in vertebrates. The primary bile acids, cholic acid and chenodeoxycholic acid, are synthesized in the liver and conjugated with taurine or glycine before secretion via bile into the intestine. The conversion from cholesterol to cholic and chenodeoxycholic acids involves four steps: 1) the initiation of synthesis by 7alpha-hydroxylation of sterol precursors, 2) further modifications to the ring structures, 3) side-chain oxidation and shortening (cleavage) by three carbons, and 4) conjugation of the bile acid with taurine or glycine.
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00120  Primary bile acid biosynthesis
+MODULE      M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate [PATH:map00120]
+            M00106  Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate [PATH:map00120]
+DISEASE     H00151  Cerebrotendinous xanthomatosis
+            H00407  Peroxisomal beta-oxidation enzyme deficiency
+            H00624  Familial cholestasis
+            H00628  Congenital bile acid synthesis defect (CBAS)
+            H00874  Leukoencephalopathy with dystonia and motor neuropathy
+REFERENCE   PMID:12543708
+  AUTHORS   Russell DW
+  TITLE     The enzymes, regulation, and genetics of bile acid synthesis.
+  JOURNAL   Annu Rev Biochem 72:137-74 (2003)
+REFERENCE   PMID:17346171
+  AUTHORS   Norlin M, Wikvall K
+  TITLE     Enzymes in the conversion of cholesterol into bile acids.
+  JOURNAL   Curr Mol Med 7:199-218 (2007)
+REFERENCE   PMID:10198776
+  AUTHORS   Vlahcevic ZR, Pandak WM, Stravitz RT
+  TITLE     Regulation of bile acid biosynthesis.
+  JOURNAL   Gastroenterol Clin North Am 28:1-25, v (1999)
+REFERENCE   PMID:18081658
+  AUTHORS   Pellicoro A, Faber KN
+  TITLE     Review article: The function and regulation of proteins involved in bile salt biosynthesis and transport.
+  JOURNAL   Aliment Pharmacol Ther 26 Suppl 2:149-60 (2007)
+REFERENCE   PMID:18488143
+  AUTHORS   Hofmann AF, Hagey LR
+  TITLE     Bile acids: chemistry, pathochemistry, biology, pathobiology, and therapeutics.
+  JOURNAL   Cell Mol Life Sci 65:2461-83 (2008)
+REFERENCE   PMID:11067870
+  AUTHORS   Schwarz M, Wright AC, Davis DL, Nazer H, Bjorkhem I, Russell DW
+  TITLE     The bile acid synthetic gene 3beta-hydroxy-Delta(5)-C(27)-steroid oxidoreductase is mutated in progressive intrahepatic cholestasis.
+  JOURNAL   J Clin Invest 106:1175-84 (2000)
+REFERENCE   PMID:16299351
+  AUTHORS   Ridlon JM, Kang DJ, Hylemon PB
+  TITLE     Bile salt biotransformations by human intestinal bacteria.
+  JOURNAL   J Lipid Res 47:241-59 (2006)
+REFERENCE   PMID:9292932
+  AUTHORS   Bortolini O, Medici A, Poli S
+  TITLE     Biotransformations on steroid nucleus of bile acids.
+  JOURNAL   Steroids 62:564-77 (1997)
+KO_PATHWAY  ko00120
+///

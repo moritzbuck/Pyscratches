@@ -1,0 +1,63 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07233
+server: Apache
+date: Wed, 15 Oct 2014 15:10:02 GMT
+content-type: text/plain
+
+ENTRY       map07233          Drug      Pathway
+NAME        Ion transporter inhibitors
+PATHWAY_MAP map07233  Ion transporter inhibitors
+COMPOUND    D00112  G-Strophanthin (JAN)
+            D00247  Bumetanide (JP16/USP/INN)
+            D00272  Chlortalidone (JAN/INN)
+            D00297  Digitoxin (JP16/USP/INN)
+            D00298  Digoxin (JP16/USP)
+            D00313  Etacrynic acid (JP16/INN)
+            D00331  Furosemide (JP16/USP/INN)
+            D00340  Hydrochlorothiazide (JP16/USP/INN)
+            D00345  Indapamide (JP16/USP)
+            D00355  Lansoprazole (JAN/USP/INN)
+            D00382  Torasemide (JAN/INN)
+            D00431  Metolazone (JAN/USP/INN)
+            D00455  Omeprazole (JP16/USP/INN)
+            D00461  Quinethazone (JAN/INN)
+            D00519  Chlorothiazide (JAN/USP/INN)
+            D00658  Trichlormethiazide (JP16/USP/INN)
+            D00724  Sodium rabeprazole (JP16)
+            D01207  Omeprazole sodium (USAN)
+            D01240  Deslanoside (JP16/USP/INN)
+            D01246  Benzylhydrochlorothiazide (JAN)
+            D01323  Azosemide (JAN/USAN/INN)
+            D01379  Proscillaridin (JAN/USAN/INN)
+            D01605  Meticrane (JP16/INN)
+            D01634  Piretanide (JAN/USAN/INN)
+            D01877  Mefruside (JP16/USAN/INN)
+            D01895  Tripamide (JAN/USAN/INN)
+            D01920  Tenatoprazole (JAN/INN)
+            D01972  Lanatoside C (JP16/INN)
+            D01984  Esomeprazole magnesium hydrate (JAN)
+            D02587  Metildigoxin (JP16)
+            D02593  Pantoprazole Sodium Hydrate (JAN)
+            D04056  Esomeprazole sodium (USAN)
+            D04079  Ethacrynate sodium (USP)
+            D05093  Muzolimine (USAN/INN)
+            D05259  Omeprazole magnesium (USAN)
+            D05261  Omeprazole sodium injection (JAN)
+            D05353  Pantoprazole (USAN/INN)
+            D06401  Indapamide hydrate
+            D06881  Acetyldigitoxin (INN)
+            D07147  Gitoformate (INN)
+            D07555  Acetyldigoxin
+            D07556  beta-Acetyldigoxin
+            D07917  Esomeprazole (INN)
+            D07999  Sodium furosemide
+            D08001  Furosemide diolamine
+            D08463  Rabeprazole (INN)
+            D08619  Torasemide sodium
+            D09339  Esomeprazole potassium (USAN)
+            D09847  Metildigoxin (INN)
+REFERENCE   
+  AUTHORS   Tanaka C., Kato R. (eds)
+  TITLE     [New pharmacology (revision 5th ed)] (In Japanese)
+  JOURNAL   Nankodo
+///

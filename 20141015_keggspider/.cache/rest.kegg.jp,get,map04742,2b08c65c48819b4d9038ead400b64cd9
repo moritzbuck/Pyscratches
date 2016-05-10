@@ -1,0 +1,78 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04742
+server: Apache
+date: Wed, 15 Oct 2014 15:09:04 GMT
+content-type: text/plain
+
+ENTRY       map04742                    Pathway
+NAME        Taste transduction
+DESCRIPTION All taste pathways are proposed to converge on common elements that mediate a rise in intracellular Ca2+ followed by neurotransmitter release. Na+ salt depolarizes taste cells by passive influx of Na+ through the amiloride-sensitive Na+ channel (ENaC). Acids depolarize taste cells by a variety of mechanisms, including influx of protons (H+) through ENaC and a proton-gated cation channel (MDEG). Two putative umami receptors have been identified: a truncated variant of the metabotropic glutamate receptor mGluR4 and the heterodimer, T1R1 + T1R3. Umami receptors are coupled to a signaling pathway involving activation of PLCbeta2, production of IP3 and diacylglycerol, release of Ca2+ from intracellular stores and activation of a transient receptor potential channel, TRPM5. Bitter compounds, such as denatonium and PROP, activate particular T2R/TRB isoforms, which activate gustducin heterotrimers. Activated alpha-gustducin stimulates PDE to hydrolyze cAMP, whereas betagamma subunits activate PLCbeta2 to generate IP3, which leads to release of Ca2+ from internal stores. Artificial sweeteners activate GPCRs (T1R heterodimers) apparently linked via PLC to IP3 production and release of Ca2+ from intracellular stores. Sugars apparently activate GPCRs linked via AC to cAMP production which, in turn, may inhibit basolateral K+ channels through phosphorylation by cAMP-activated protein kinase A (PKA).
+CLASS       Organismal Systems; Sensory system
+PATHWAY_MAP map04742  Taste transduction
+DBLINKS     GO: 0050909
+REFERENCE   PMID:12581520
+  AUTHORS   Zhang Y, Hoon MA, Chandrashekar J, Mueller KL, Cook B, Wu D, Zuker CS, Ryba NJ.
+  TITLE     Coding of sweet, bitter, and umami tastes: different receptor cells sharing similar signaling pathways.
+  JOURNAL   Cell 112:293-301 (2003)
+REFERENCE   PMID:12887980
+  AUTHORS   Bigiani A, Ghiaroni V, Fieni F.
+  TITLE     Channels as taste receptors in vertebrates.
+  JOURNAL   Prog Biophys Mol Biol 83:193-225 (2003)
+REFERENCE   PMID:15738174
+  AUTHORS   Kinnamon SC, Lin W, Ogura T, Ruiz C, Delay E.
+  TITLE     Downstream signaling effectors for umami taste.
+  JOURNAL   Chem Senses 30 Suppl 1:i31-i32 (2005)
+REFERENCE   PMID:16032395
+  AUTHORS   Meyerhof W.
+  TITLE     Elucidation of mammalian bitter taste.
+  JOURNAL   Rev Physiol Biochem Pharmacol 154:37-72 (2005)
+REFERENCE   PMID:11696554
+  AUTHORS   Margolskee RF.
+  TITLE     Molecular mechanisms of bitter and sweet taste transduction.
+  JOURNAL   J Biol Chem 277:1-4 (2002)
+REFERENCE   PMID:10981623
+  AUTHORS   Gilbertson TA, Damak S, Margolskee RF.
+  TITLE     The molecular physiology of taste transduction.
+  JOURNAL   Curr Opin Neurobiol 10:519-27 (2000)
+REFERENCE   PMID:11738657
+  AUTHORS   DeSimone JA, Lyall V, Heck GL, Feldman GM.
+  TITLE     Acid detection by taste receptor cells.
+  JOURNAL   Respir Physiol 129:231-45 (2001)
+REFERENCE   PMID:12091539
+  AUTHORS   Lin W, Ogura T, Kinnamon SC.
+  TITLE     Acid-activated cation currents in rat vallate taste receptor cells.
+  JOURNAL   J Neurophysiol 88:133-41 (2002)
+REFERENCE   PMID:12736236
+  AUTHORS   Feldman GM, Mogyorosi A, Heck GL, DeSimone JA, Santos CR, Clary RA, Lyall V.
+  TITLE     Salt-evoked lingual surface potential in humans.
+  JOURNAL   J Neurophysiol 90:2060-4 (2003)
+REFERENCE   PMID:8794107
+  AUTHORS   Kinnamon SC, Margolskee RF.
+  TITLE     Mechanisms of taste transduction.
+  JOURNAL   Curr Opin Neurobiol 6:506-13 (1996)
+REFERENCE   PMID:12368808
+  AUTHORS   Perez CA, Huang L, Rong M, Kozak JA, Preuss AK, Zhang H, Max M, Margolskee RF.
+  TITLE     A transient receptor potential channel expressed in taste receptor cells.
+  JOURNAL   Nat Neurosci 5:1169-76 (2002)
+REFERENCE   PMID:14637165
+  AUTHORS   Kim MR, Kusakabe Y, Miura H, Shindo Y, Ninomiya Y, Hino A.
+  TITLE     Regional expression patterns of taste receptors and gustducin in the mouse tongue.
+  JOURNAL   Biochem Biophys Res Commun 312:500-6 (2003)
+REFERENCE   PMID:9146906
+  AUTHORS   Uchida Y, Sato T.
+  TITLE     Changes in outward K+ currents in response to two types of sweeteners in sweet taste transduction of gerbil taste cells.
+  JOURNAL   Chem Senses 22:163-9 (1997)
+REFERENCE   PMID:16183910
+  AUTHORS   Wettschureck N, Offermanns S.
+  TITLE     Mammalian G proteins and their cell type specific functions.
+  JOURNAL   Physiol Rev 85:1159-204 (2005)
+REFERENCE   PMID:16269362
+  AUTHORS   Scott K.
+  TITLE     Taste recognition: food for thought.
+  JOURNAL   Neuron 48:455-64 (2005)
+REFERENCE   PMID:16436689
+  AUTHORS   Damak S, Rong M, Yasumatsu K, Kokrashvili Z, Perez CA, Shigemura N, Yoshida R, Mosinger B Jr, Glendinning JI, Ninomiya Y, Margolskee RF.
+  TITLE     Trpm5 null mice respond to bitter, sweet, and umami compounds.
+  JOURNAL   Chem Senses 31:253-64 (2006)
+KO_PATHWAY  ko04742
+///

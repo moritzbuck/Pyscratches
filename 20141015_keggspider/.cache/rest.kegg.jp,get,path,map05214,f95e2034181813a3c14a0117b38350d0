@@ -1,0 +1,54 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05214
+server: Apache
+date: Wed, 15 Oct 2014 14:59:09 GMT
+content-type: text/plain
+
+ENTRY       map05214                    Pathway
+NAME        Glioma
+DESCRIPTION Gliomas are the most common of the primary brain tumors and account for more than 40% of all central nervous system neoplasms. Gliomas include tumours that are composed predominantly of astrocytes (astrocytomas), oligodendrocytes (oligodendrogliomas), mixtures of various glial cells (for example,oligoastrocytomas) and ependymal cells (ependymomas). The most malignant form of infiltrating astrocytoma - glioblastoma multiforme (GBM) - is one of the most aggressive human cancers. GBM may develop de novo (primary glioblastoma) or by progression from low-grade or anaplastic astrocytoma (secondary glioblastoma).  Primary glioblastomas develop in older patients and typically show genetic alterations (EGFR amplification, p16/INK4a deletion, and PTEN mutations) at frequencies of 24-34%. Secondary glioblastomas develop in younger patients and frequently show overexpression of PDGF and CDK4 as well as p53 mutations (65%) and loss of Rb playing major roles in such transformations. Loss of PTEN has been implicated in both pathways, although it is much more common in the pathogenesis of primary GBM.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05214  Glioma
+DISEASE     H00042  Glioma
+REFERENCE   PMID:15639402
+  AUTHORS   Soni D, King JA, Kaye AH, Hovens CM.
+  TITLE     Genetics of glioblastoma multiforme: mitogenic signaling and cell cycle pathways converge.
+  JOURNAL   J Clin Neurosci 12:1-5 (2005)
+REFERENCE   PMID:12154354
+  AUTHORS   Zhu Y, Parada LF.
+  TITLE     The molecular and genetic basis of neurological tumours.
+  JOURNAL   Nat Rev Cancer 2:616-26 (2002)
+REFERENCE   PMID:11253051
+  AUTHORS   Holland EC.
+  TITLE     Gliomagenesis: genetic alterations and mouse models.
+  JOURNAL   Nat Rev Genet 2:120-9 (2001)
+REFERENCE   PMID:16700615
+  AUTHORS   Bansal K, Liang ML, Rutka JT.
+  TITLE     Molecular biology of human gliomas.
+  JOURNAL   Technol Cancer Res Treat 5:185-94 (2006)
+REFERENCE   (Japanese)
+  AUTHORS   Tabuchi K (ed).
+  TITLE     [Gliomas: Research and therapy] (In Japanese)
+  JOURNAL   Springer-Verlag Tokyo (2006)
+REFERENCE   PMID:12762887
+  AUTHORS   Kapoor GS, O'Rourke DM.
+  TITLE     Mitogenic signaling cascades in glial tumors.
+  JOURNAL   Neurosurgery 52:1425-34; discussion 1434-5 (2003)
+REFERENCE   PMID:16095998
+  AUTHORS   Hulleman E, Helin K.
+  TITLE     Molecular mechanisms in gliomagenesis.
+  JOURNAL   Adv Cancer Res 94:1-27 (2005)
+REFERENCE   PMID:11057895
+  AUTHORS   Schlessinger J.
+  TITLE     Cell signaling by receptor tyrosine kinases.
+  JOURNAL   Cell 103:211-25 (2000)
+REFERENCE   PMID:9643506
+  AUTHORS   Ng HK, Lam PY.
+  TITLE     The molecular genetics of central nervous system tumors.
+  JOURNAL   Pathology 30:196-202 (1998)
+REFERENCE   PMID:12084351
+  AUTHORS   Knobbe CB, Merlo A, Reifenberger G.
+  TITLE     Pten signaling in gliomas.
+  JOURNAL   Neuro-oncol 4:196-211 (2002)
+KO_PATHWAY  ko05214
+///

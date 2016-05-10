@@ -1,0 +1,15 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01070
+server: Apache
+date: Wed, 15 Oct 2014 14:58:00 GMT
+content-type: text/plain
+
+ENTRY       map01070                    Pathway
+NAME        Biosynthesis of plant hormones
+PATHWAY_MAP map01070  Biosynthesis of plant hormones
+REFERENCE   
+  AUTHORS   Fukuda H, Matida Y, Kamiya Y, Kakimoto T.
+  TITLE     [Shinpan Syokubutuhorumon no Sigunarudentatu] (In Japanese)
+  JOURNAL   Syujyunsya:165-186 (2004)
+KO_PATHWAY  ko01070
+///

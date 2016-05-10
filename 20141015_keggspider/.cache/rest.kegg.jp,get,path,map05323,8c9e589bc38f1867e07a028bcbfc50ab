@@ -1,0 +1,87 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05323
+server: Apache
+date: Wed, 15 Oct 2014 14:59:14 GMT
+content-type: text/plain
+
+ENTRY       map05323                    Pathway
+NAME        Rheumatoid arthritis
+DESCRIPTION Rheumatoid arthritis (RA) is a chronic autoimmune joint disease where persistent inflammation affects bone remodeling leading to progressive bone destruction. In RA, abnormal activation of the immune system elevates pro-inflammatory cytokines and chemokines levels, which can promote synovial angiogenesis and leukocyte infiltration. The synovium forms a hyperplastic pannus with infiltrated macrophage-like and fibroblast-like synoviocytes and invades joints by secreting proteinases and inducing osteoclast differentiation.
+CLASS       Human Diseases; Immune diseases
+PATHWAY_MAP map05323  Rheumatoid arthritis
+DISEASE     H00436  Osteopetrosis
+            H00630  Rheumatoid arthritis
+REFERENCE   PMID:16127012
+  AUTHORS   Zwerina J, Redlich K, Schett G, Smolen JS
+  TITLE     Pathogenesis of rheumatoid arthritis: targeting cytokines.
+  JOURNAL   Ann N Y Acad Sci 1051:716-29 (2005)
+REFERENCE   PMID:20036936
+  AUTHORS   Szekanecz Z, Vegvari A, Szabo Z, Koch AE
+  TITLE     Chemokines and chemokine receptors in arthritis.
+  JOURNAL   Front Biosci (Schol Ed) 2:153-67 (2010)
+REFERENCE   PMID:20651747
+  AUTHORS   Isaacs JD
+  TITLE     The changing face of rheumatoid arthritis: sustained remission for all?
+  JOURNAL   Nat Rev Immunol 10:605-11 (2010)
+REFERENCE   PMID:17195034
+  AUTHORS   Strand V, Kimberly R, Isaacs JD
+  TITLE     Biologic therapies in rheumatology: lessons learned, future directions.
+  JOURNAL   Nat Rev Drug Discov 6:75-92 (2007)
+REFERENCE   PMID:20193003
+  AUTHORS   Bartok B, Firestein GS
+  TITLE     Fibroblast-like synoviocytes: key effector cells in rheumatoid arthritis.
+  JOURNAL   Immunol Rev 233:233-55 (2010)
+REFERENCE   PMID:17502360
+  AUTHORS   Dai SM, Shan ZZ, Xu H, Nishioka K
+  TITLE     Cellular targets of interleukin-18 in rheumatoid arthritis.
+  JOURNAL   Ann Rheum Dis 66:1411-8 (2007)
+REFERENCE   PMID:9627005
+  AUTHORS   Koch AE
+  TITLE     Review: angiogenesis: implications for rheumatoid arthritis.
+  JOURNAL   Arthritis Rheum 41:951-62 (1998)
+REFERENCE   PMID:20305562
+  AUTHORS   Szekanecz Z, Besenyei T, Szentpetery A, Koch AE
+  TITLE     Angiogenesis and vasculogenesis in rheumatoid arthritis.
+  JOURNAL   Curr Opin Rheumatol 22:299-306 (2010)
+REFERENCE   PMID:15059264
+  AUTHORS   Brunner-Weinzierl MC, Hoff H, Burmester GR
+  TITLE     Multiple functions for CD28 and cytotoxic T lymphocyte antigen-4 during different phases of T cell responses: implications for arthritis and autoimmune diseases.
+  JOURNAL   Arthritis Res Ther 6:45-54 (2004)
+REFERENCE   PMID:11861618
+  AUTHORS   Theill LE, Boyle WJ, Penninger JM
+  TITLE     RANK-L and RANK: T cells, bone loss, and mammalian evolution.
+  JOURNAL   Annu Rev Immunol 20:795-823 (2002)
+REFERENCE   PMID:19184540
+  AUTHORS   Mensah KA, Li J, Schwarz EM
+  TITLE     The emerging field of osteoimmunology.
+  JOURNAL   Immunol Res (2009)
+REFERENCE   PMID:16313349
+  AUTHORS   Takayanagi H, Sato K, Takaoka A, Taniguchi T
+  TITLE     Interplay between interferon and other cytokine systems in bone metabolism.
+  JOURNAL   Immunol Rev 208:181-93 (2005)
+REFERENCE   PMID:20392226
+  AUTHORS   Takayanagi H
+  TITLE     New immune connections in osteoclast formation.
+  JOURNAL   Ann N Y Acad Sci 1192:117-23 (2010)
+REFERENCE   PMID:19585227
+  AUTHORS   Nakashima T, Takayanagi H
+  TITLE     Osteoimmunology: crosstalk between the immune and bone systems.
+  JOURNAL   J Clin Immunol 29:555-67 (2009)
+REFERENCE   PMID:19455385
+  AUTHORS   Nakashima T, Takayanagi H
+  TITLE     Osteoclasts and the immune system.
+  JOURNAL   J Bone Miner Metab 27:519-29 (2009)
+REFERENCE   PMID:17380158
+  AUTHORS   Takayanagi H
+  TITLE     Osteoimmunology: shared mechanisms and crosstalk between the immune and bone systems.
+  JOURNAL   Nat Rev Immunol 7:292-304 (2007)
+REFERENCE   PMID:20510236
+  AUTHORS   Fox DA, Gizinski A, Morgan R, Lundy SK
+  TITLE     Cell-cell interactions in rheumatoid arthritis synovium.
+  JOURNAL   Rheum Dis Clin North Am 36:311-23 (2010)
+REFERENCE   PMID:15055519
+  AUTHORS   Rho J, Takami M, Choi Y
+  TITLE     Osteoimmunology: interactions of the immune and skeletal systems.
+  JOURNAL   Mol Cells 17:1-9 (2004)
+KO_PATHWAY  ko05323
+///

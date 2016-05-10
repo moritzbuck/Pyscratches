@@ -1,0 +1,48 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00401
+server: Apache
+date: Wed, 15 Oct 2014 14:57:21 GMT
+content-type: text/plain
+
+ENTRY       map00401                    Pathway
+NAME        Novobiocin biosynthesis
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00401  Novobiocin biosynthesis
+REFERENCE   PMID:12480894
+  AUTHORS   Pojer F, Li SM, Heide L.
+  TITLE     Molecular cloning and sequence analysis of the clorobiocin biosynthetic gene cluster: new insights into the biosynthesis of aminocoumarin antibiotics.
+  JOURNAL   Microbiology 148:3901-11 (2002)
+REFERENCE   PMID:11325587
+  AUTHORS   Chen H, Walsh CT.
+  TITLE     Coumarin formation in novobiocin biosynthesis: beta-hydroxylation of the aminoacyl enzyme tyrosyl-S-NovH by a cytochrome P450 NovI.
+  JOURNAL   Chem Biol 8:301-12 (2001)
+REFERENCE   PMID:14622269
+  AUTHORS   Schmutz E, Steffensky M, Schmidt J, Porzel A, Li SM, Heide L.
+  TITLE     An unusual amide synthetase (CouL) from the coumermycin A1 biosynthetic gene cluster from Streptomyces rishiriensis DSM 40489.
+  JOURNAL   Eur J Biochem 270:4413-9 (2003)
+REFERENCE   PMID:12904558
+  AUTHORS   Xu H, Kahlich R, Kammerer B, Heide L, Li SM.
+  TITLE     CloN2, a novel acyltransferase involved in the attachment of the pyrrole-2-carboxyl moiety to the deoxysugar of clorobiocin.
+  JOURNAL   Microbiology 149:2183-91 (2003)
+REFERENCE   PMID:12436260
+  AUTHORS   Xu H, Wang ZX, Schmidt J, Heide L, Li SM.
+  TITLE     Genetic analysis of the biosynthesis of the pyrrole and carbamoyl moieties of coumermycin A1 and novobiocin.
+  JOURNAL   Mol Genet Genomics 268:387-96 (2002)
+REFERENCE   PMID:14694473
+  AUTHORS   Freel Meyers CL, Oberthur M, Xu H, Heide L, Kahne D, Walsh CT
+  TITLE     Characterization of NovP and NovN: completion of novobiocin biosynthesis by sequential tailoring of the noviosyl ring.
+  JOURNAL   Angew Chem Int Ed Engl 43:67-70 (2004)
+REFERENCE   PMID:12777382
+  AUTHORS   Pojer F, Kahlich R, Kammerer B, Li SM, Heide L.
+  TITLE     CloR, a bifunctional non-heme iron oxygenase involved in clorobiocin biosynthesis.
+  JOURNAL   J Biol Chem 278:30661-8 (2003)
+REFERENCE   PMID:12368465
+  AUTHORS   Li SM, Westrich L, Schmidt J, Kuhnt C, Heide L.
+  TITLE     Methyltransferase genes in Streptomyces rishiriensis: new coumermycin derivatives from gene-inactivation experiments.
+  JOURNAL   Microbiology 148:3317-26 (2002)
+REFERENCE   PMID:12618544
+  AUTHORS   Pojer F, Wemakor E, Kammerer B, Chen H, Walsh CT, Li SM, Heide L.
+  TITLE     CloQ, a prenyltransferase involved in clorobiocin biosynthesis.
+  JOURNAL   Proc Natl Acad Sci U S A 100:2316-21 (2003)
+KO_PATHWAY  ko00401
+///

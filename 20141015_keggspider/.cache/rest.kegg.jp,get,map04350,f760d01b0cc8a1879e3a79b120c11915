@@ -1,0 +1,97 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04350
+server: Apache
+date: Wed, 15 Oct 2014 15:08:48 GMT
+content-type: text/plain
+
+ENTRY       map04350                    Pathway
+NAME        TGF-beta signaling pathway
+DESCRIPTION The transforming growth factor-beta (TGF-beta) family members, which include TGF-betas, activins and bone morphogenetic proteins (BMPs), are structurally related secreted cytokines found in species ranging from worms and insects to mammals. A wide spectrum of cellular functions such as proliferation, apoptosis, differentiation and migration are regulated by TGF-beta family members. TGF-beta family member binds to the Type II receptor and recruits Type I, whereby Type II receptor phosphorylates and activates Type I. The Type I receptor, in turn, phosphorylates receptor-activated Smads ( R-Smads: Smad1, Smad2, Smad3, Smad5, and Smad8). Once phosphorylated, R-Smads associate with the co-mediator Smad, Smad4, and the heteromeric complex then translocates into the nucleus. In the nucleus, Smad complexes activate specific genes through cooperative interactions with other DNA-binding and coactivator (or co-repressor) proteins.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04350  TGF-beta signaling pathway
+DISEASE     H00409  Type II diabetes mellitus
+            H00430  Fibrodysplasia ossificans progressiva (FOP)
+            H00431  Ossification of the posterior longitudinal ligament of spine (OPLL)
+            H00434  Camurati-Engelmann disease
+            H00466  Grebe dysplasia
+            H00467  Fibular hypoplasia and complex brachydactyly
+            H00468  Acromesomelic dysplasia with genital anomalies
+            H00482  Brachydactyly
+            H00483  Brachydactyly
+            H00484  Other brachydactylies
+            H00533  Hereditary hemorrhagic telangiectasia (HHT)
+            H00609  46,XY disorders of sex development (Other)
+            H00620  Axenfeld-Rieger syndrome (ARS)
+            H00632  Heterotaxy
+            H00778  Tarsal-carpal coalition syndrome
+            H00800  Loeys-Dietz syndrome (LDS)
+            H00801  Familial thoracic aortic aneurysm and dissection (TAAD)
+            H00852  Klippel-Feil syndrome(KFS)
+            H00868  Stapes ankylosis with broad thumb and toes
+            H00958  Congenital stromal corneal dystrophy (CSCD)
+            H01023  Juvenile polyposis syndrome
+            H01024  Hereditary mixed polyposis syndrome
+            H01027  Anophthalmia and microphthalmia (A/M)
+            H01075  Peters anomaly
+            H01149  Ring dermoid of cornea
+            H01300  Primary pulmonary hypertension (PPH)
+            H01385  Rienhoff syndrome
+DBLINKS     GO: 0007179
+REFERENCE   PMID:12809600
+  AUTHORS   Shi Y, Massague J.
+  TITLE     Mechanisms of TGF-beta signaling from cell membrane to the nucleus.
+  JOURNAL   Cell 113:685-700 (2003)
+REFERENCE   PMID:14534577
+  AUTHORS   Derynck R, Zhang YE.
+  TITLE     Smad-dependent and Smad-independent pathways in TGF-beta family signalling.
+  JOURNAL   Nature 425:577-84 (2003)
+REFERENCE   PMID:11252892
+  AUTHORS   Massague J.
+  TITLE     How cells read TGF-beta signals.
+  JOURNAL   Nat Rev Mol Cell Biol 1:169-78 (2000)
+REFERENCE   PMID:14557817
+  AUTHORS   Siegel PM, Massague J.
+  TITLE     Cytostatic and apoptotic actions of TGF-beta in homeostasis and cancer.
+  JOURNAL   Nat Rev Cancer 3:807-21 (2003)
+REFERENCE   PMID:14769828
+  AUTHORS   Shimasaki S, Moore RK, Otsuka F, Erickson GF.
+  TITLE     The bone morphogenetic protein system in mammalian reproduction.
+  JOURNAL   Endocr Rev 25:72-101 (2004)
+REFERENCE   PMID:11252746
+  AUTHORS   De Robertis EM, Larrain J, Oelgeschlager M, Wessely O.
+  TITLE     The establishment of Spemann's organizer and patterning of the vertebrate embryo.
+  JOURNAL   Nat Rev Genet 1:171-81 (2000)
+REFERENCE   PMID:12163231
+  AUTHORS   Gumienny TL, Padgett RW.
+  TITLE     The other side of TGF-beta superfamily signal regulation: thinking outside the cell.
+  JOURNAL   Trends Endocrinol Metab 13:295-9 (2002)
+REFERENCE   PMID:11836504
+  AUTHORS   Hamada H, Meno C, Watanabe D, Saijoh Y.
+  TITLE     Establishment of vertebrate left-right asymmetry.
+  JOURNAL   Nat Rev Genet 3:103-13 (2002)
+REFERENCE   PMID:12466190
+  AUTHORS   Chang H, Brown CW, Matzuk MM.
+  TITLE     Genetic analysis of the mammalian transforming growth factor-beta superfamily.
+  JOURNAL   Endocr Rev 23:787-823 (2002)
+REFERENCE   PMID:10021351
+  AUTHORS   Morita K, Chow KL, Ueno N.
+  TITLE     Regulation of body length and male tail ray pattern formation of Caenorhabditis elegans by a member of TGF-beta family.
+  JOURNAL   Development 126:1337-47 (1999)
+REFERENCE   PMID:9847239
+  AUTHORS   Krishna S, Maduzia LL, Padgett RW.
+  TITLE     Specificity of TGFbeta signaling is conferred by distinct type I receptors and their associated SMAD proteins in Caenorhabditis elegans.
+  JOURNAL   Development 126:251-60 (1999)
+REFERENCE   PMID:15063168
+  AUTHORS   Chen Y, Mironova E, Whitaker LL, Edwards L, Yost HJ, Ramsdell AF.
+  TITLE     ALK4 functions as a receptor for multiple TGF beta-related ligands to regulate left-right axis determination and mesoderm induction in Xenopus.
+  JOURNAL   Dev Biol 268:280-94 (2004)
+REFERENCE   PMID:10519551
+  AUTHORS   Onichtchouk D, Chen YG, Dosch R, Gawantka V, Delius H, Massague J, Niehrs C
+  TITLE     Silencing of TGF-beta signalling by the pseudoreceptor BAMBI.
+  JOURNAL   Nature 401:480-5 (1999)
+REFERENCE   PMID:19758997
+  AUTHORS   Yan X, Lin Z, Chen F, Zhao X, Chen H, Ning Y, Chen YG
+  TITLE     Human BAMBI cooperates with Smad7 to inhibit transforming growth factor-beta signaling.
+  JOURNAL   J Biol Chem 284:30097-104 (2009)
+KO_PATHWAY  ko04350
+///

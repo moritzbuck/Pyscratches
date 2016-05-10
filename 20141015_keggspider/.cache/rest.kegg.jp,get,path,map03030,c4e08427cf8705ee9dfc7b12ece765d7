@@ -1,0 +1,36 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map03030
+server: Apache
+date: Wed, 15 Oct 2014 14:58:08 GMT
+content-type: text/plain
+
+ENTRY       map03030                    Pathway
+NAME        DNA replication
+DESCRIPTION A complex network of interacting proteins and enzymes is required for DNA replication. Generally, DNA replication follows a multistep enzymatic pathway. At the DNA replication fork, a DNA helicase (DnaB or MCM complex) precedes the DNA synthetic machinery and unwinds the duplex parental DNA in cooperation with the SSB or RPA. On the leading strand, replication occurs continuously in a 5 to 3 direction, whereas on the lagging strand, DNA replication occurs discontinuously by synthesis and joining of short Okazaki fragments. In prokaryotes, the leading strand replication apparatus consists of a DNA polymerase (pol III core), a sliding clamp (beta), and a clamp loader (gamma delta complex). The DNA primase (DnaG) is needed to form RNA primers. Normally, during replication of the lagging-strand DNA template, an RNA primer is removed either by an RNase H or by the 5 to 3 exonuclease activity of DNA pol I, and the DNA ligase joins the Okazaki fragments. In eukaryotes, three DNA polymerases (alpha, delta, and epsilon) have been identified. DNA primase forms a permanent complex with DNA polymerase alpha. PCNA and RFC function as a clamp and a clamp loader. FEN 1 and RNase H1 remove the RNA from the Okazaki fragments and DNA ligase I joins the DNA.
+CLASS       Genetic Information Processing; Replication and repair
+PATHWAY_MAP map03030  DNA replication
+MODULE      M00260  DNA polymerase III complex, bacteria [PATH:map03030]
+            M00261  DNA polymerase alpha / primase complex [PATH:map03030]
+            M00262  DNA polymerase delta complex [PATH:map03030]
+            M00263  DNA polymerase epsilon complex [PATH:map03030]
+            M00285  MCM complex [PATH:map03030]
+            M00288  RPA complex [PATH:map03030]
+            M00289  RF-C complex [PATH:map03030]
+REFERENCE   (Japanese)
+  AUTHORS   Matsukage A, Masai H.
+  TITLE     [The Replication and Partitioning of Genomes] (In Japanese)
+  JOURNAL   Springer-Verlag Tokyo (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Tamura T, Yamamoto M.
+  TITLE     [Molecular Biology  Illustrated] (In Japanese)
+  JOURNAL   Yodosha (2002)
+REFERENCE   PMID:8087839
+  AUTHORS   Stillman B.
+  TITLE     Smart machines at the DNA replication fork.
+  JOURNAL   Cell 78:725-8 (1994)
+REFERENCE   PMID:9759502
+  AUTHORS   Waga S, Stillman B.
+  TITLE     The DNA replication fork in eukaryotic cells.
+  JOURNAL   Annu Rev Biochem 67:721-51 (1998)
+KO_PATHWAY  ko03030
+///

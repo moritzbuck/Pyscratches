@@ -1,0 +1,11 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01120
+server: Apache
+date: Wed, 15 Oct 2014 14:58:01 GMT
+content-type: text/plain
+
+ENTRY       map01120          Global    Pathway
+NAME        Microbial metabolism in diverse environments
+PATHWAY_MAP map01120  Microbial metabolism in diverse environments
+KO_PATHWAY  ko01120
+///

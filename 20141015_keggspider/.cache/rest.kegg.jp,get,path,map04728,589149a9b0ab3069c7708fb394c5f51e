@@ -1,0 +1,81 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04728
+server: Apache
+date: Wed, 15 Oct 2014 14:58:41 GMT
+content-type: text/plain
+
+ENTRY       map04728                    Pathway
+NAME        Dopaminergic synapse
+DESCRIPTION Dopamine (DA) is  an important and prototypical slow neurotransmitter in the mammalian brain, where it controls a variety of functions including locomotor activity, motivation and reward, learning and memory, and endocrine regulation. Once released from presynaptic axonal terminals, DA interacts with at least five receptor subtypes in the central nervous system (CNS), which have been divided into two groups: the D1-like receptors (D1Rs), comprising D1 and D5 receptors, both positively coupled to adenylyl cyclase and cAMP production, and the D2-like receptors (D2Rs), comprising D2, D3, and D4 receptors, whose activation results in inhibition of adenylyl cyclase and suppression of cAMP production. In addition, D1Rs and D2Rs modulate intracellular Ca2+ levels and a number of Ca2+ -dependent intracellular signaling processes. Through diverse cAMP- and Ca2+-dependent and - independent mechanisms, DA influences neuronal activity, synaptic plasticity, and behavior. Presynaptically localized D2Rs regulate synthesis and release of DA as the main autoreceptor of the dopaminergic system.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP map04728  Dopaminergic synapse
+DISEASE     H00548  Brunner syndrome
+            H00577  Syndromic X-linked mental retardation with epilepsy or seizures
+            H00749  Episodic ataxias
+            H00775  Familial or sporadic hemiplegic migraine
+            H00783  Febrile seizures
+            H00831  Primary dystonia
+            H01161  Aromatic L-amino acid decarboxylase (AADC) deficiency
+DBLINKS     GO: 0001963
+REFERENCE   PMID:21303898
+  AUTHORS   Beaulieu JM, Gainetdinov RR
+  TITLE     The physiology, signaling, and pharmacology of dopamine receptors.
+  JOURNAL   Pharmacol Rev 63:182-217 (2011)
+REFERENCE   PMID:15521361
+  AUTHORS   Neve KA, Seamans JK, Trantham-Davidson H
+  TITLE     Dopamine receptor signaling.
+  JOURNAL   J Recept Signal Transduct Res 24:165-205 (2004)
+REFERENCE   PMID:17408758
+  AUTHORS   Surmeier DJ, Ding J, Day M, Wang Z, Shen W
+  TITLE     D1 and D2 dopamine-receptor modulation of striatal glutamatergic signaling in striatal medium spiny neurons.
+  JOURNAL   Trends Neurosci 30:228-35 (2007)
+REFERENCE   PMID:20224735
+  AUTHORS   Knab AM, Lightfoot JT
+  TITLE     Does the difference between physically active and couch potato lie in the dopamine system?
+  JOURNAL   Int J Biol Sci 6:133-50 (2010)
+REFERENCE   PMID:10433257
+  AUTHORS   Greengard P, Allen PB, Nairn AC
+  TITLE     Beyond the dopamine receptor: the DARPP-32/protein phosphatase-1 cascade.
+  JOURNAL   Neuron 23:435-47 (1999)
+REFERENCE   PMID:15590733
+  AUTHORS   Hu XT, Dong Y, Zhang XF, White FJ
+  TITLE     Dopamine D2 receptor-activated Ca2+ signaling modulates voltage-sensitive sodium  currents in rat nucleus accumbens neurons.
+  JOURNAL   J Neurophysiol 93:1406-17 (2005)
+REFERENCE   PMID:17349698
+  AUTHORS   Beaulieu JM, Gainetdinov RR, Caron MG
+  TITLE     The Akt-GSK-3 signaling cascade in the actions of dopamine.
+  JOURNAL   Trends Pharmacol Sci 28:166-72 (2007)
+REFERENCE   PMID:19138563
+  AUTHORS   De Mei C, Ramos M, Iitaka C, Borrelli E
+  TITLE     Getting specialized: presynaptic and postsynaptic dopamine D2 receptors.
+  JOURNAL   Curr Opin Pharmacol 9:53-8 (2009)
+REFERENCE   PMID:15381316
+  AUTHORS   Seamans JK, Yang CR
+  TITLE     The principal features and mechanisms of dopamine modulation in the prefrontal cortex.
+  JOURNAL   Prog Neurobiol 74:1-58 (2004)
+REFERENCE   PMID:18353279
+  AUTHORS   Yao WD, Spealman RD, Zhang J
+  TITLE     Dopaminergic signaling in dendritic spines.
+  JOURNAL   Biochem Pharmacol 75:2055-69 (2008)
+REFERENCE   PMID:20727368
+  AUTHORS   Li YC, Gao WJ
+  TITLE     GSK-3beta activity and hyperdopamine-dependent behaviors.
+  JOURNAL   Neurosci Biobehav Rev 35:645-54 (2011)
+REFERENCE   PMID:15292232
+  AUTHORS   Tang TS, Bezprozvanny I
+  TITLE     Dopamine receptor-mediated Ca(2+) signaling in striatal medium spiny neurons.
+  JOURNAL   J Biol Chem 279:42082-94 (2004)
+REFERENCE   PMID:12967774
+  AUTHORS   Bergson C, Levenson R, Goldman-Rakic PS, Lidow MS
+  TITLE     Dopamine receptor-interacting proteins: the Ca(2+) connection in dopamine signaling.
+  JOURNAL   Trends Pharmacol Sci 24:486-92 (2003)
+REFERENCE   PMID:9457173
+  AUTHORS   Missale C, Nash SR, Robinson SW, Jaber M, Caron MG
+  TITLE     Dopamine receptors: from structure to function.
+  JOURNAL   Physiol Rev 78:189-225 (1998)
+REFERENCE   PMID:19251795
+  AUTHORS   Quaak M, van Schayck CP, Knaapen AM, van Schooten FJ
+  TITLE     Genetic variation as a predictor of smoking cessation success. A promising preventive and intervention tool for chronic respiratory diseases?
+  JOURNAL   Eur Respir J 33:468-80 (2009)
+KO_PATHWAY  ko04728
+///

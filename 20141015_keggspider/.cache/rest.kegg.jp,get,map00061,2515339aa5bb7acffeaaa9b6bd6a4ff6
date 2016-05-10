@@ -1,0 +1,30 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00061
+server: Apache
+date: Wed, 15 Oct 2014 15:07:29 GMT
+content-type: text/plain
+
+ENTRY       map00061                    Pathway
+NAME        Fatty acid biosynthesis
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP map00061  Fatty acid biosynthesis
+MODULE      M00082  Fatty acid biosynthesis, initiation [PATH:map00061]
+            M00083  Fatty acid biosynthesis, elongation [PATH:map00061]
+REFERENCE   PMID:12061798
+  AUTHORS   Salas JJ, Ohlrogge JB.
+  TITLE     Characterization of substrate specificity of plant FatA and FatB acyl-ACP thioesterases.
+  JOURNAL   Arch Biochem Biophys 403:25-34 (2002)
+REFERENCE   PMID:12518017
+  AUTHORS   Zhang YM, Marrakchi H, White SW, Rock CO.
+  TITLE     The application of computational methods to explore the diversity and structure of bacterial fatty acid synthase.
+  JOURNAL   J Lipid Res 44:1-10 (2003)
+REFERENCE   PMID:11337402
+  AUTHORS   Voelker T, Kinney AJ.
+  TITLE     VARIATIONS IN THE BIOSYNTHESIS OF SEED-STORAGE LIPIDS.
+  JOURNAL   Annu Rev Plant Physiol Plant Mol Biol 52:335-361 (2001)
+REFERENCE   PMID:17573542
+  AUTHORS   Barker GC, Larson TR, Graham IA, Lynn JR, King GJ.
+  TITLE     Novel insights into seed fatty acid synthesis and modification pathways from genetic diversity and quantitative trait Loci analysis of the Brassica C genome.
+  JOURNAL   Plant Physiol 144:1827-42 (2007)
+KO_PATHWAY  ko00061
+///

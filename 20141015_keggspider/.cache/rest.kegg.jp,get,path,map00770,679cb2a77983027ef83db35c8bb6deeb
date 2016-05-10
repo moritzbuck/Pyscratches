@@ -1,0 +1,19 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00770
+server: Apache
+date: Wed, 15 Oct 2014 14:57:42 GMT
+content-type: text/plain
+
+ENTRY       map00770                    Pathway
+NAME        Pantothenate and CoA biosynthesis
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP map00770  Pantothenate and CoA biosynthesis
+MODULE      M00119  Pantothenate biosynthesis, valine/L-aspartate => pantothenate [PATH:map00770]
+            M00120  Coenzyme A biosynthesis, pantothenate => CoA [PATH:map00770]
+DISEASE     H00832  Core neuroacanthocytosis syndromes
+            H00833  Neurodegeneration with brain iron accumulation (NBIA)
+            H01002  Generalized arterial calcification of infancy
+            H01394  Cole disease
+DBLINKS     GO: 0015940 0015937
+KO_PATHWAY  ko00770
+///

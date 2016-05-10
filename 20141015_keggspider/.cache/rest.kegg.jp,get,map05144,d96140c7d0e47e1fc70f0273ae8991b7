@@ -1,0 +1,87 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05144
+server: Apache
+date: Wed, 15 Oct 2014 15:09:23 GMT
+content-type: text/plain
+
+ENTRY       map05144                    Pathway
+NAME        Malaria
+DESCRIPTION Plasmodium protozoa are parasites that account for malaria infection. Sporozoite forms of the parasite are injected by mosquito bites under the skin and are carried to the liver where they develop into the merozoite form.
+            Sporozoite invasion of hepatocytes is mediated by parasite surface protein like CSP. Subsequent infection into red blood cells (RBCs) by merozoites causes malaria disease via aberrant cytokine production and sequestration of parasite-infected red blood cells (pRBCs) to host endothelium. Microvasculature sequestration in the brain brings about cerebral malaria that can results in death or persisting neurological impairment. PfEMP1 has been suggested as the key adhesive molecule of pRBCs.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05144  Malaria
+DISEASE     H00361  Malaria
+REFERENCE   PMID:19101208
+  AUTHORS   Morahan BJ, Wang L, Coppel RL
+  TITLE     No TRAP, no invasion.
+  JOURNAL   Trends Parasitol 25:77-84 (2009)
+REFERENCE   PMID:8920859
+  AUTHORS   Shakibaei M, Frevert U
+  TITLE     Dual interaction of the malaria circumsporozoite protein with the low density lipoprotein receptor-related protein (LRP) and heparan sulfate proteoglycans.
+  JOURNAL   J Exp Med 184:1699-711 (1996)
+REFERENCE   PMID:15106591
+  AUTHORS   Silvie O, Franetich JF, Renia L, Mazier D
+  TITLE     Malaria sporozoite: migrating for a living.
+  JOURNAL   Trends Mol Med 10:97-100; discussion 100-1 (2004)
+REFERENCE   PMID:15464448
+  AUTHORS   Mota MM, Giordano S, Rodriguez A
+  TITLE     Targeting Plasmodium host cells: survival within hepatocytes.
+  JOURNAL   Trends Mol Med 10:487-92 (2004)
+REFERENCE   PMID:12364790
+  AUTHORS   Cowman AF, Crabb BS
+  TITLE     The Plasmodium falciparum genome--a blueprint for erythrocyte invasion.
+  JOURNAL   Science 298:126-8 (2002)
+REFERENCE   PMID:16019257
+  AUTHORS   O'Donnell RA, Blackman MJ
+  TITLE     The role of malaria merozoite proteases in red blood cell invasion.
+  JOURNAL   Curr Opin Microbiol 8:422-7 (2005)
+REFERENCE   PMID:17630968
+  AUTHORS   Iyer J, Gruner AC, Renia L, Snounou G, Preiser PR
+  TITLE     Invasion of host cells by malaria parasites: a tale of two protein families.
+  JOURNAL   Mol Microbiol 65:231-49 (2007)
+REFERENCE   PMID:11224682
+  AUTHORS   Chitnis CE
+  TITLE     Molecular insights into receptors used by malaria parasites for erythrocyte invasion.
+  JOURNAL   Curr Opin Hematol 8:85-91 (2001)
+REFERENCE   PMID:15094163
+  AUTHORS   Rasti N, Wahlgren M, Chen Q
+  TITLE     Molecular aspects of malaria pathogenesis.
+  JOURNAL   FEMS Immunol Med Microbiol 41:9-26 (2004)
+REFERENCE   PMID:15463497
+  AUTHORS   Clark IA, Rockett KA, Cowden WB
+  TITLE     Proposed link between cytokines, nitric oxide and human cerebral malaria.
+  JOURNAL   Parasitol Today 7:205-7 (1991)
+REFERENCE   PMID:18250459
+  AUTHORS   Hisaeda H, Tetsutani K, Imai T, Moriya C, Tu L, Hamano S, Duan X, Chou B, Ishida H, Aramaki A, Shen J, Ishii KJ, Coban C, Akira S, Takeda K, Yasutomo K, Torii M, Himeno K
+  TITLE     Malaria parasites require TLR9 signaling for immune evasion by activating regulatory T cells.
+  JOURNAL   J Immunol 180:2496-503 (2008)
+REFERENCE   PMID:10885986
+  AUTHORS   Chen Q, Schlichtherle M, Wahlgren M
+  TITLE     Molecular aspects of severe malaria.
+  JOURNAL   Clin Microbiol Rev 13:439-50 (2000)
+REFERENCE   PMID:11832955
+  AUTHORS   Miller LH, Baruch DI, Marsh K, Doumbo OK
+  TITLE     The pathogenic basis of malaria.
+  JOURNAL   Nature 415:673-9 (2002)
+REFERENCE   PMID:19967139
+  AUTHORS   Faille D, El-Assaad F, Alessi MC, Fusai T, Combes V, Grau GE
+  TITLE     Platelet-endothelial cell interactions in cerebral malaria: the end of a cordial  understanding.
+  JOURNAL   Thromb Haemost 102:1093-102 (2009)
+REFERENCE   PMID:16138104
+  AUTHORS   Schofield L, Grau GE
+  TITLE     Immunological processes in malaria pathogenesis.
+  JOURNAL   Nat Rev Immunol 5:722-35 (2005)
+REFERENCE   PMID:14737184
+  AUTHORS   Ishino T, Yano K, Chinzei Y, Yuda M
+  TITLE     Cell-passage activity is required for the malarial parasite to cross the liver sinusoidal cell layer.
+  JOURNAL   PLoS Biol 2:E4 (2004)
+REFERENCE   PMID:16468982
+  AUTHORS   Kariu T, Ishino T, Yano K, Chinzei Y, Yuda M
+  TITLE     CelTOS, a novel malarial protein that mediates transmission to mosquito and vertebrate hosts.
+  JOURNAL   Mol Microbiol 59:1369-79 (2006)
+REFERENCE   PMID:20091081
+  AUTHORS   Cox D, McConkey S
+  TITLE     The role of platelets in the pathogenesis of cerebral malaria.
+  JOURNAL   Cell Mol Life Sci 67:557-68 (2010)
+KO_PATHWAY  ko05144
+///

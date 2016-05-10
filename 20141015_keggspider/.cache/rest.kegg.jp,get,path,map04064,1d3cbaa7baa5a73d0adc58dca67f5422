@@ -1,0 +1,141 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04064
+server: Apache
+date: Wed, 15 Oct 2014 14:58:15 GMT
+content-type: text/plain
+
+ENTRY       map04064                    Pathway
+NAME        NF-kappa B signaling pathway
+DESCRIPTION Nuclear factor-kappa B (NF-kappa B) is the generic name of a family of transcription factors that function as dimers and regulate genes involved in immunity, inflammation and cell survival. There are several pathways leading to NF-kappa B-activation. The canonical pathway is induced by tumour necrosis factor-alpha (TNF-alpha), interleukin-1 (IL-1) or byproducts of bacterial and viral infections. This pathway relies on IKK- mediated IkappaB-alpha phosphorylation on Ser32 and 36, leading to its  degradation, which allows the p50/p65 NF-kappa B dimer to enter the nucleus and activate gene transcription. Atypical pathways are IKK-independent and rely on phosphorylation of IkappaB-alpha on Tyr42 or on Ser residues in IkappaB-alpha PEST domain. The non-canonical pathway is triggered by particular members of the TNFR superfamily, such as lymphotoxin-beta (LT-beta) or BAFF. It involves NIK and IKK-alpha-mediated p100 phosphorylation and processing to p52, resulting in nuclear translocation of p52/RelB heterodimers.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04064  NF-kappa B signaling pathway
+REFERENCE   PMID:21772278
+  AUTHORS   Oeckinghaus A, Hayden MS, Ghosh S
+  TITLE     Crosstalk in NF-kappaB signaling pathways.
+  JOURNAL   Nat Immunol 12:695-708 (2011)
+REFERENCE   PMID:19203223
+  AUTHORS   Gloire G, Piette J
+  TITLE     Redox regulation of nuclear post-translational modifications during NF-kappaB activation.
+  JOURNAL   Antioxid Redox Signal 11:2209-22 (2009)
+REFERENCE   PMID:17183360
+  AUTHORS   Perkins ND
+  TITLE     Integrating cell-signalling pathways with NF-kappaB and IKK function.
+  JOURNAL   Nat Rev Mol Cell Biol 8:49-62 (2007)
+REFERENCE   PMID:16264088
+  AUTHORS   Lindstrom TM, Bennett PR
+  TITLE     The role of nuclear factor kappa B in human labour.
+  JOURNAL   Reproduction 130:569-81 (2005)
+REFERENCE   PMID:22017430
+  AUTHORS   Razani B, Reichardt AD, Cheng G
+  TITLE     Non-canonical NF-kappaB signaling activation and regulation: principles and perspectives.
+  JOURNAL   Immunol Rev 244:44-54 (2011)
+REFERENCE   PMID:21173796
+  AUTHORS   Sun SC
+  TITLE     Non-canonical NF-kappaB signaling pathway.
+  JOURNAL   Cell Res 21:71-85 (2011)
+REFERENCE   PMID:17431096
+  AUTHORS   Neumann M, Naumann M
+  TITLE     Beyond IkappaBs: alternative regulation of NF-kappaB activity.
+  JOURNAL   FASEB J 21:2642-54 (2007)
+REFERENCE   PMID:22119011
+  AUTHORS   Verhelst K, Carpentier I, Beyaert R
+  TITLE     Regulation of TNF-induced NF-kappaB activation by different cytoplasmic ubiquitination events.
+  JOURNAL   Cytokine Growth Factor Rev 22:277-86 (2011)
+REFERENCE   PMID:22017435
+  AUTHORS   Rickert RC, Jellusova J, Miletic AV
+  TITLE     Signaling by the tumor necrosis factor receptor superfamily in B-cell biology and disease.
+  JOURNAL   Immunol Rev 244:115-33 (2011)
+REFERENCE   PMID:21232019
+  AUTHORS   Naude PJ, den Boer JA, Luiten PG, Eisel UL
+  TITLE     Tumor necrosis factor receptor cross-talk.
+  JOURNAL   FEBS J 278:888-98 (2011)
+REFERENCE   PMID:16984817
+  AUTHORS   Grivennikov SI, Kuprash DV, Liu ZG, Nedospasov SA
+  TITLE     Intracellular signals and events activated by cytokines of the tumor necrosis factor superfamily: From simple paradigms to complex mechanisms.
+  JOURNAL   Int Rev Cytol 252:129-61 (2006)
+REFERENCE   PMID:16356770
+  AUTHORS   Wada T, Nakashima T, Hiroshi N, Penninger JM
+  TITLE     RANKL-RANK signaling in osteoclastogenesis and bone disease.
+  JOURNAL   Trends Mol Med 12:17-25 (2006)
+REFERENCE   PMID:17098202
+  AUTHORS   Schulze-Luehrmann J, Ghosh S
+  TITLE     Antigen-receptor signaling to nuclear factor kappa B.
+  JOURNAL   Immunity 25:701-15 (2006)
+REFERENCE   PMID:15134788
+  AUTHORS   Weil R, Israel A
+  TITLE     T-cell-receptor- and B-cell-receptor-mediated activation of NF-kappaB in lymphocytes.
+  JOURNAL   Curr Opin Immunol 16:374-81 (2004)
+REFERENCE   PMID:15905862
+  AUTHORS   Siebenlist U, Brown K, Claudio E
+  TITLE     Control of lymphocyte development by nuclear factor-kappaB.
+  JOURNAL   Nat Rev Immunol 5:435-45 (2005)
+REFERENCE   PMID:14657271
+  AUTHORS   Lucas PC, McAllister-Lucas LM, Nunez G
+  TITLE     NF-kappaB signaling in lymphocytes: a new cast of characters.
+  JOURNAL   J Cell Sci 117:31-9 (2004)
+REFERENCE   PMID:19726767
+  AUTHORS   Khan WN
+  TITLE     B cell receptor and BAFF receptor signaling regulation of B cell homeostasis.
+  JOURNAL   J Immunol 183:3561-7 (2009)
+REFERENCE   PMID:19302050
+  AUTHORS   Vallabhapurapu S, Karin M
+  TITLE     Regulation and function of NF-kappaB transcription factors in the immune system.
+  JOURNAL   Annu Rev Immunol 27:693-733 (2009)
+REFERENCE   PMID:17047224
+  AUTHORS   Hacker H, Karin M
+  TITLE     Regulation and function of IKK and IKK-related kinases.
+  JOURNAL   Sci STKE 2006:re13 (2006)
+REFERENCE   PMID:21872579
+  AUTHORS   Sabatel H, Pirlot C, Piette J, Habraken Y
+  TITLE     Importance of PIKKs in NF-kappaB activation by genotoxic stress.
+  JOURNAL   Biochem Pharmacol 82:1371-83 (2011)
+REFERENCE   PMID:21187855
+  AUTHORS   Miyamoto S
+  TITLE     Nuclear initiated NF-kappaB signaling: NEMO and ATM take center stage.
+  JOURNAL   Cell Res 21:116-30 (2011)
+REFERENCE   PMID:18832076
+  AUTHORS   Brzoska K, Szumiel I
+  TITLE     Signalling loops and linear pathways: NF-kappaB activation in response to genotoxic stress.
+  JOURNAL   Mutagenesis 24:1-8 (2009)
+REFERENCE   PMID:17607554
+  AUTHORS   Wu ZH, Miyamoto S
+  TITLE     Many faces of NF-kappaB signaling induced by genotoxic stress.
+  JOURNAL   J Mol Med (Berl) 85:1187-202 (2007)
+REFERENCE   PMID:22390971
+  AUTHORS   Maelfait J, Beyaert R
+  TITLE     Emerging role of ubiquitination in antiviral RIG-I signaling.
+  JOURNAL   Microbiol Mol Biol Rev 76:33-45 (2012)
+REFERENCE   PMID:18613837
+  AUTHORS   Ware CF
+  TITLE     Targeting lymphocyte activation through the lymphotoxin and LIGHT pathways.
+  JOURNAL   Immunol Rev 223:186-201 (2008)
+REFERENCE   PMID:15546385
+  AUTHORS   Schneider K, Potter KG, Ware CF
+  TITLE     Lymphotoxin and LIGHT signaling pathways and target genes.
+  JOURNAL   Immunol Rev 202:49-66 (2004)
+REFERENCE   PMID:22152226
+  AUTHORS   Remouchamps C, Boutaffala L, Ganeff C, Dejardin E
+  TITLE     Biology and signal transduction pathways of the Lymphotoxin-alphabeta/LTbetaR system.
+  JOURNAL   Cytokine Growth Factor Rev 22:301-10 (2011)
+REFERENCE   PMID:21135871
+  AUTHORS   Liu S, Chen ZJ
+  TITLE     Expanding role of ubiquitination in NF-kappaB signaling.
+  JOURNAL   Cell Res 21:6-21 (2011)
+REFERENCE   PMID:19489733
+  AUTHORS   Skaug B, Jiang X, Chen ZJ
+  TITLE     The role of ubiquitin in NF-kappaB regulatory pathways.
+  JOURNAL   Annu Rev Biochem 78:769-96 (2009)
+REFERENCE   PMID:20300215
+  AUTHORS   Wertz IE, Dixit VM
+  TITLE     Signaling to NF-kappaB: regulation by ubiquitination.
+  JOURNAL   Cold Spring Harb Perspect Biol 2:a003350 (2010)
+REFERENCE   PMID:11875461
+  AUTHORS   Karin M, Lin A
+  TITLE     NF-kappaB at the crossroads of life and death.
+  JOURNAL   Nat Immunol 3:221-7 (2002)
+REFERENCE   PMID:12654254
+  AUTHORS   Lin A, Karin M
+  TITLE     NF-kappaB in cancer: a marked target.
+  JOURNAL   Semin Cancer Biol 13:107-14 (2003)
+KO_PATHWAY  ko04064
+///

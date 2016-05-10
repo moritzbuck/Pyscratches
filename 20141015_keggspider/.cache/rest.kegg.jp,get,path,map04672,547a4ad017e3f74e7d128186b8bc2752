@@ -1,0 +1,54 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04672
+server: Apache
+date: Wed, 15 Oct 2014 14:58:37 GMT
+content-type: text/plain
+
+ENTRY       map04672                    Pathway
+NAME        Intestinal immune network for IgA production
+DESCRIPTION The intestine is the largest lymphoid tissue in the body. One striking feature of intestinal immunity is its ability to generate great amounts of noninflammatory immunoglobulin A (IgA) antibodies that serve as the first line of defense against microorganisms. The basic map of IgA production includes induction of mucosal B cells in the Peyer's patches, circulation through the bloodstream and homing to intestinal mucosa of IgA-commited plasma cells, and local antibody production for export across the intestinal membranes. Multiple cytokines, including TGF-{beta}, IL-10, IL-4, IL-5, and IL-6, are required to promote IgA class switching and terminal differentiation process of the B cells. Secreted IgA promotes immune exclusion by entrapping dietary antigens and microorganisms in the mucus and functions for neutralization of toxins and pathogenic microbes.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04672  Intestinal immune network for IgA production
+DBLINKS     GO: 0002387
+REFERENCE   PMID:12511876
+  AUTHORS   Fagarasan S, Honjo T
+  TITLE     Intestinal IgA synthesis: regulation of front-line body defences.
+  JOURNAL   Nat Rev Immunol 3:63-72 (2003)
+REFERENCE   PMID:19079156
+  AUTHORS   Macpherson AJ, McCoy KD, Johansen FE, Brandtzaeg P
+  TITLE     The immune geography of IgA induction and function.
+  JOURNAL   Mucosal Immunol 1:11-22 (2008)
+REFERENCE   PMID:15971106
+  AUTHORS   Kunisawa J, Kiyono H
+  TITLE     A marvel of mucosal T cells and secretory antibodies for the creation of first lines of defense.
+  JOURNAL   Cell Mol Life Sci 62:1308-21 (2005)
+REFERENCE   PMID:18549797
+  AUTHORS   Cerutti A, Rescigno M
+  TITLE     The biology of intestinal immunoglobulin A responses.
+  JOURNAL   Immunity 28:740-50 (2008)
+REFERENCE   PMID:18243016
+  AUTHORS   Tsuji M, Suzuki K, Kinoshita K, Fagarasan S
+  TITLE     Dynamic interactions between bacteria and immune cells leading to intestinal IgA  synthesis.
+  JOURNAL   Semin Immunol 20:59-66 (2008)
+REFERENCE   PMID:17182536
+  AUTHORS   Corthesy B
+  TITLE     Roundtrip ticket for secretory IgA: role in mucosal homeostasis?
+  JOURNAL   J Immunol 178:27-32 (2007)
+REFERENCE   PMID:18838301
+  AUTHORS   Suzuki K, Fagarasan S
+  TITLE     How host-bacterial interactions lead to IgA synthesis in the gut.
+  JOURNAL   Trends Immunol 29:523-31 (2008)
+REFERENCE   PMID:19079167
+  AUTHORS   Mora JR, von Andrian UH
+  TITLE     Differentiation and homing of IgA-secreting cells.
+  JOURNAL   Mucosal Immunol 1:96-109 (2008)
+REFERENCE   PMID:17161619
+  AUTHORS   Suzuki K, Ha SA, Tsuji M, Fagarasan S
+  TITLE     Intestinal IgA synthesis: a primitive form of adaptive immunity that regulates microbial communities in the gut.
+  JOURNAL   Semin Immunol 19:127-35 (2007)
+REFERENCE   PMID:18483500
+  AUTHORS   Cerutti A
+  TITLE     The regulation of IgA class switching.
+  JOURNAL   Nat Rev Immunol 8:421-34 (2008)
+KO_PATHWAY  ko04672
+///

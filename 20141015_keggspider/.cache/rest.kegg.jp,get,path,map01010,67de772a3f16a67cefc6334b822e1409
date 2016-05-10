@@ -1,0 +1,11 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01010
+server: Apache
+date: Wed, 15 Oct 2014 14:57:54 GMT
+content-type: text/plain
+
+ENTRY       map01010                    Pathway
+NAME        Overview of biosynthetic pathways
+PATHWAY_MAP map01010  Overview of biosynthetic pathways
+KO_PATHWAY  ko01010
+///

@@ -1,0 +1,83 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07036
+server: Apache
+date: Wed, 15 Oct 2014 14:59:25 GMT
+content-type: text/plain
+
+ENTRY       map07036          Drug      Pathway
+NAME        Calcium channel blocking drugs
+PATHWAY_MAP map07036  Calcium channel blocking drugs
+COMPOUND    D00304  Divalproex sodium (USP)
+            D00319  Felodipine (JAN/USP/INN)
+            D00349  Isradipine (USP/INN)
+            D00399  Valproic acid (USP)
+            D00437  Nifedipine (JP16/USP/INN)
+            D00438  Nimodipine (USAN/INN)
+            D00539  Ethosuximide (JP16/USP/INN)
+            D00615  Amlodipine besilate (JP16)
+            D00616  Diltiazem hydrochloride (JP16/USP)
+            D00617  Nicardipine hydrochloride (JP16/USAN)
+            D00618  Nisoldipine (JAN/USAN/INN)
+            D00619  Verapamil hydrochloride (JP16/USP)
+            D00629  Nitrendipine (JP16/USAN/INN)
+            D00631  Bepridil hydrochloride hydrate (JAN)
+            D00710  Sodium valproate (JP16)
+            D01104  Barnidipine hydrochloride (JAN)
+            D01145  Azelnidipine (JP16/INN)
+            D01173  Cilnidipine (JAN/INN)
+            D01295  Cinnarizine (JAN/USAN/INN)
+            D01303  Flunarizine hydrochloride (JAN/USAN)
+            D01553  Manidipine hydrochloride (JP16)
+            D01562  Aranidipine (JAN/INN)
+            D01604  Efonidipine hydrochloride ethanolate (JAN)
+            D01908  Nilvadipine (JP16/USAN/INN)
+            D01969  Gallopamil hydrochloride (JAN)
+            D02045  Benidipine hydrochloride (JP16)
+            D02356  Verapamil (USAN/INN)
+            D02633  Lomerizine hydrochloride (JAN)
+            D02914  Amlodipine maleate (USAN)
+            D03830  Diltiazem malate (USAN)
+            D04657  Lacidipine (USAN/INN)
+            D05024  Mibefradil dihydrochloride (USAN)
+            D07450  Amlodipine (INN)
+            D07494  Barnidipine (INN)
+            D07509  Benidipine (INN)
+            D07520  Bepridil (INN)
+            D07734  Cinnarizine dihydrochloride
+            D07845  Diltiazem (INN)
+            D07886  Efonidipine (INN)
+            D07971  Flunarizine (INN)
+            D08009  Gallopamil (INN)
+            D08155  Manidipine (INN)
+            D08217  Mibefradil (INN)
+            D08270  Nicardipine (INN)
+            D08667  Calcium valproate
+REFERENCE   PMID:16150216
+  AUTHORS   Palamaras I, Kyriakis K.
+  TITLE     Calcium antagonists in dermatology: a review of the evidence and research-based studies.
+  JOURNAL   Dermatol Online J 11:8 (2005)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   Noguchi S, Hibino S (eds).
+  TITLE     [Medicinal Chemistry: Bridge Between Biology (3rd ed)] (In Japanese)
+  JOURNAL   Hirokawa (2002)
+REFERENCE   PMID:11005649
+  AUTHORS   Arh M, Budihna MV.
+  TITLE     Comparison of effects of nitrendipine, lacidipine and mibefradil on postischaemic myocardial damage in isolated rat hearts.
+  JOURNAL   Pflugers Arch 440:R149-50 (2000)
+REFERENCE   PMID:16399866
+  AUTHORS   Li M, Hu J, Chen Z, Meng J, Wang H, Ma X, Luo X
+  TITLE     Evidence for histamine as a neurotransmitter in the cardiac sympathetic nervous system.
+  JOURNAL   Am J Physiol Heart Circ Physiol 291:H45-51 (2006)
+REFERENCE   PMID:10373231
+  AUTHORS   Sakata K, Shirotani M, Yoshida H, Nawada R, Obayashi K, Togi K, Miho N.
+  TITLE     Effects of amlodipine and cilnidipine on cardiac sympathetic nervous system and neurohormonal status in essential hypertension.
+  JOURNAL   Hypertension 33:1447-52 (1999)
+REFERENCE   
+  AUTHORS   Bertram GK (ed).
+  TITLE     Basic & Clinical Pharmacology (9th ed)
+  JOURNAL   Lange (2004)
+///

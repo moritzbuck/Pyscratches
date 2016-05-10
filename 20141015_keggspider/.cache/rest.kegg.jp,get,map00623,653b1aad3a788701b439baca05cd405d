@@ -1,0 +1,49 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00623
+server: Apache
+date: Wed, 15 Oct 2014 15:07:58 GMT
+content-type: text/plain
+
+ENTRY       map00623                    Pathway
+NAME        Toluene degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00623  Toluene degradation
+MODULE      M00418  Toluene degradation, anaerobic, toluene => benzoyl-CoA [PATH:map00623]
+            M00538  Toluene degradation, toluene => benzoate [PATH:map00623]
+            M00547  Benzene/toluene degradation, benzene => catechol / toluene => 3-methylcatechol [PATH:map00623]
+DBLINKS     GO: 0042203
+            UMBBD: tol tol2 tsa dct
+REFERENCE   PMID:15184119
+  AUTHORS   Vardar G, Wood TK
+  TITLE     Protein engineering of toluene-o-xylene monooxygenase from Pseudomonas stutzeri OX1 for synthesizing 4-methylresorcinol, methylhydroquinone, and pyrogallol.
+  JOURNAL   Appl Environ Microbiol 70:3253-62 (2004)
+REFERENCE   PMID:10629170
+  AUTHORS   Leuthner B, Heider J
+  TITLE     Anaerobic toluene catabolism of Thauera aromatica: the bbs operon codes for enzymes of beta oxidation of the intermediate benzylsuccinate.
+  JOURNAL   J Bacteriol 182:272-7 (2000)
+REFERENCE   PMID:11418570
+  AUTHORS   Leutwein C, Heider J
+  TITLE     Succinyl-CoA:(R)-benzylsuccinate CoA-transferase: an enzyme of the anaerobic toluene catabolic pathway in denitrifying bacteria.
+  JOURNAL   J Bacteriol 183:4288-95 (2001)
+REFERENCE   PMID:15687214
+  AUTHORS   Kuhner S, Wohlbrand L, Fritz I, Wruck W, Hultschig C, Hufnagel P, Kube M, Reinhardt R, Rabus R
+  TITLE     Substrate-dependent regulation of anaerobic degradation pathways for toluene and  ethylbenzene in a denitrifying bacterium, strain EbN1.
+  JOURNAL   J Bacteriol 187:1493-503 (2005)
+REFERENCE   PMID:2050632
+  AUTHORS   Locher HH, Leisinger T, Cook AM
+  TITLE     4-Toluene sulfonate methyl-monooxygenase from Comamonas testosteroni T-2: purification and some properties of the oxygenase component.
+  JOURNAL   J Bacteriol 173:3741-8 (1991)
+REFERENCE   PMID:8828208
+  AUTHORS   Junker F, Saller E, Schlafli Oppenberg HR, Kroneck PM, Leisinger T, Cook AM
+  TITLE     Degradative pathways for p-toluenecarboxylate and p-toluenesulfonate and their multicomponent oxygenases in Comamonas testosteroni strains PSB-4 and T-2.
+  JOURNAL   Microbiology 142 ( Pt 9):2419-27 (1996)
+REFERENCE   PMID:10589735
+  AUTHORS   Mampel J, Ruff J, Junker F, Cook AM.
+  TITLE     The oxygenase component of the 2-aminobenzenesulfonate dioxygenase system from Alcaligenes sp. strain O-1.
+  JOURNAL   Microbiology 145 ( Pt 11):3255-64 (1999)
+REFERENCE   PMID:9006050
+  AUTHORS   Junker F, Kiewitz R, Cook AM
+  TITLE     Characterization of the p-toluenesulfonate operon tsaMBCD and tsaR in Comamonas testosteroni T-2.
+  JOURNAL   J Bacteriol 179:919-27 (1997)
+KO_PATHWAY  ko00623
+///

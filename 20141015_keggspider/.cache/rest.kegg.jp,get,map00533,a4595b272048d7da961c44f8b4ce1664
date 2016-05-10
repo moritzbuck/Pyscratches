@@ -1,0 +1,27 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00533
+server: Apache
+date: Wed, 15 Oct 2014 15:07:52 GMT
+content-type: text/plain
+
+ENTRY       map00533                    Pathway
+NAME        Glycosaminoglycan biosynthesis - keratan sulfate
+DESCRIPTION Keratan sulfate (KS) is a glycosaminoglycan with the basic disaccharide unit of N-acetyllactosamine, Gal(b1-4)GlcNAc(b1-3), with sulfate esters at C-6 of GlcNAc and Gal residues. There are two types of KS distinguished by the protein linkage: type I for N-linked via the N-glycan core structure and type II for O-linked via the O-glycan core 2 structure.
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00533  Glycosaminoglycan biosynthesis - keratan sulfate
+DISEASE     H00768  Nonsyndromic autosomal recessive mental retardation (NS-ARMR)
+            H00954  Macular corneal dystrophy (MCD)
+REFERENCE   PMID:11030741
+  AUTHORS   Funderburgh JL.
+  TITLE     Keratan sulfate: structure, biosynthesis, and function.
+  JOURNAL   Glycobiology 10:951-958 (2000)
+REFERENCE   PMID:14706853
+  AUTHORS   Seko A, Yamashita K.
+  TITLE     beta1,3-N-Acetylglucosaminyltransferase-7 (beta3Gn-T7) acts efficiently on keratan sulfate-related glycans.
+  JOURNAL   FEBS Lett 556:216-20 (2004)
+REFERENCE   PMID:12511560
+  AUTHORS   Seko A, Dohmae N, Takio K, Yamashita K.
+  TITLE     Beta 1,4-galactosyltransferase (beta 4GalT)-IV is specific for GlcNAc 6-O-sulfate. Beta 4GalT-IV acts on keratan sulfate-related glycans and a precursor glycan of 6-sulfosialyl-Lewis X.
+  JOURNAL   J Biol Chem 278:9150-8 (2003)
+KO_PATHWAY  ko00533
+///

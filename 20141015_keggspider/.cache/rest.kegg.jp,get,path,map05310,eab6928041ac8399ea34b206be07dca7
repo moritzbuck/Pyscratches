@@ -1,0 +1,59 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05310
+server: Apache
+date: Wed, 15 Oct 2014 14:59:13 GMT
+content-type: text/plain
+
+ENTRY       map05310                    Pathway
+NAME        Asthma
+DESCRIPTION Asthma is a complex syndrome with many clinical phenotypes in both adults and children. Its major characteristics include a variable degree of airflow obstruction, bronchial hyperresponsiveness, and airway inflammation. Inhaled allergens encounter antigen presenting cells (APC) that line the airway. Upon recognition of the antigen and activation by APC, naive T cells differentiate into TH2 cells. Activated TH2 stimulate the formation of IgE by B cells. IgE molecules bind to IgE receptors located on mast cells. The crosslinking of mast-cell-bound IgE by allergens leads to the release of biologically active mediators (histamine, leukotrienes) by means of degranulation and, so, to the immediate symptoms of allergy. Mast cells also release chemotactic factors that contribute to the recruitment of inflammatory cells, particularly eosinophils, whose proliferation and differentiation from bone marrow progenitors is promoted by IL-5. The activation of eosinophils leads to release of toxic granules and oxygen free radicals that lead to tissue damage and promote the development of chronic inflammation.
+CLASS       Human Diseases; Immune diseases
+PATHWAY_MAP map05310  Asthma
+DISEASE     H00079  Asthma
+            H01094  Eosinophil peroxidase deficiency
+REFERENCE   PMID:11172168
+  AUTHORS   Busse WW, Lemanske RF Jr.
+  TITLE     Asthma.
+  JOURNAL   N Engl J Med 344:350-62 (2001)
+REFERENCE   PMID:11477111
+  AUTHORS   Renauld JC.
+  TITLE     New insights into the role of cytokines in asthma.
+  JOURNAL   J Clin Pathol 54:577-89 (2001)
+REFERENCE   PMID:10719286
+  AUTHORS   Romagnani S.
+  TITLE     The role of lymphocytes in allergic disease.
+  JOURNAL   J Allergy Clin Immunol 105:399-408 (2000)
+REFERENCE   PMID:17976144
+  AUTHORS   Averbeck M, Gebhardt C, Emmrich F, Treudler R, Simon JC.
+  TITLE     Immunologic principles of allergic disease.
+  JOURNAL   J Dtsch Dermatol Ges 5:1015-28 (2007)
+REFERENCE   PMID:11686879
+  AUTHORS   Conroy DM, Williams TJ.
+  TITLE     Eotaxin and the attraction of eosinophils to the asthmatic lung.
+  JOURNAL   Respir Res 2:150-6 (2001)
+REFERENCE   PMID:17133123
+  AUTHORS   Effros RM, Nagaraj H.
+  TITLE     Asthma: new developments concerning immune mechanisms, diagnosis and treatment.
+  JOURNAL   Curr Opin Pulm Med 13:37-43 (2007)
+REFERENCE   PMID:18274560
+  AUTHORS   Barnes PJ.
+  TITLE     Immunology of asthma and chronic obstructive pulmonary disease.
+  JOURNAL   Nat Rev Immunol 8:183-92 (2008)
+REFERENCE   PMID:18274559
+  AUTHORS   Holgate ST, Polosa R.
+  TITLE     Treatment strategies for allergy and asthma.
+  JOURNAL   Nat Rev Immunol 8:218-30 (2008)
+REFERENCE   PMID:12093011
+  AUTHORS   Valenta R.
+  TITLE     The future of antigen-specific immunotherapy of allergy.
+  JOURNAL   Nat Rev Immunol 2:446-53 (2002)
+REFERENCE   PMID:17364144
+  AUTHORS   Trivedi SG, Lloyd CM.
+  TITLE     Eosinophils in the pathogenesis of allergic airways disease.
+  JOURNAL   Cell Mol Life Sci 64:1269-89 (2007)
+REFERENCE   PMID:10811837
+  AUTHORS   Heinecke JW.
+  TITLE     Eosinophil-dependent bromination in the pathogenesis of asthma.
+  JOURNAL   J Clin Invest 105:1331-2 (2000)
+KO_PATHWAY  ko05310
+///

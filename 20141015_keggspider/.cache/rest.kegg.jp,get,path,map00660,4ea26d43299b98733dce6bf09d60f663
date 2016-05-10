@@ -1,0 +1,12 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00660
+server: Apache
+date: Wed, 15 Oct 2014 14:57:39 GMT
+content-type: text/plain
+
+ENTRY       map00660                    Pathway
+NAME        C5-Branched dibasic acid metabolism
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP map00660  C5-Branched dibasic acid metabolism
+KO_PATHWAY  ko00660
+///

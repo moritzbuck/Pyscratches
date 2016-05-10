@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04621
+server: Apache
+date: Wed, 15 Oct 2014 15:08:54 GMT
+content-type: text/plain
+
+ENTRY       map04621                    Pathway
+NAME        NOD-like receptor signaling pathway
+DESCRIPTION Specific families of pattern recognition receptors are responsible for detecting various pathogens and generating innate immune responses. The intracellular NOD-like receptor (NLR) family contains more than 20 members in mammals and plays a pivotal role in the recognition of intracellular ligands. NOD1 and NOD2, two prototypic NLRs, sense the cytosolic presence of the bacterial peptidoglycan fragments that escaped from endosomal compartments, driving the activation of NF-{kappa}B and MAPK, cytokine production and apoptosis. On the other hand, a different set of NLRs induces caspase-1 activation through the assembly of multiprotein complexes called inflammasomes. These NLRs include NALP1, NALP3 and Ipaf. The inflammasomes are critical for generating mature proinflammatory cytokines in concert with Toll-like receptor signaling pathway.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04621  NOD-like receptor signaling pathway
+DISEASE     H00282  Cryopyrin associated periodic syndrome (CAPS)
+            H00285  Blau syndrome
+            H00286  Crohn's disease
+            H00287  Pyogenic sterile arthritis, pyoderma gangrenosum, and acne (PAPA) syndrome
+            H00288  Familial Mediterranean fever (FMF)
+            H00882  Cocoon syndrome
+            H01109  Chronic mucocutaneous candidiasis (CMC)
+            H01309  Sarcoidosis, early-onset
+            H01372  Vitiligo
+REFERENCE   PMID:18585455
+  AUTHORS   Shaw MH, Reimer T, Kim YG, Nunez G
+  TITLE     NOD-like receptors (NLRs): bona fide intracellular microbial sensors.
+  JOURNAL   Curr Opin Immunol 20:377-82 (2008)
+REFERENCE   PMID:17967410
+  AUTHORS   Kanneganti TD, Lamkanfi M, Nunez G
+  TITLE     Intracellular NOD-like receptors in host defense and disease.
+  JOURNAL   Immunity 27:549-59 (2007)
+REFERENCE   PMID:19120480
+  AUTHORS   Franchi L, Warner N, Viani K, Nunez G
+  TITLE     Function of Nod-like receptors in microbial recognition and host defense.
+  JOURNAL   Immunol Rev 227:106-28 (2009)
+REFERENCE   PMID:17690884
+  AUTHORS   Tattoli I, Travassos LH, Carneiro LA, Magalhaes JG, Girardin SE
+  TITLE     The Nodosome: Nod1 and Nod2 control bacterial infections and inflammation.
+  JOURNAL   Semin Immunopathol 29:289-301 (2007)
+REFERENCE   PMID:17186025
+  AUTHORS   da Silva Correia J, Miranda Y, Leonard N, Hsu J, Ulevitch RJ
+  TITLE     Regulation of Nod1-mediated signaling pathways.
+  JOURNAL   Cell Death Differ 14:830-9 (2007)
+REFERENCE   PMID:19538923
+  AUTHORS   Reardon C, Mak TW
+  TITLE     cIAP proteins: keystones in NOD receptor signal transduction.
+  JOURNAL   Immunity 30:755-6 (2009)
+REFERENCE   PMID:17110941
+  AUTHORS   Fritz JH, Ferrero RL, Philpott DJ, Girardin SE
+  TITLE     Nod-like proteins in immunity, inflammation and disease.
+  JOURNAL   Nat Immunol 7:1250-7 (2006)
+REFERENCE   PMID:18487086
+  AUTHORS   Rietdijk ST, Burwell T, Bertin J, Coyle AJ
+  TITLE     Sensing intracellular pathogens-NOD-like receptors.
+  JOURNAL   Curr Opin Pharmacol 8:261-6 (2008)
+REFERENCE   PMID:17187069
+  AUTHORS   Hsu YM, Zhang Y, You Y, Wang D, Li H, Duramad O, Qin XF, Dong C, Lin X
+  TITLE     The adaptor protein CARD9 is required for innate immune responses to intracellular pathogens.
+  JOURNAL   Nat Immunol 8:198-205 (2007)
+REFERENCE   PMID:16714539
+  AUTHORS   Kufer TA, Kremmer E, Banks DJ, Philpott DJ
+  TITLE     Role for erbin in bacterial activation of Nod2.
+  JOURNAL   Infect Immun 74:3115-24 (2006)
+REFERENCE   PMID:19221555
+  AUTHORS   Franchi L, Eigenbrod T, Munoz-Planillo R, Nunez G
+  TITLE     The inflammasome: a caspase-1-activation platform that regulates immune responses and disease pathogenesis.
+  JOURNAL   Nat Immunol 10:241-7 (2009)
+REFERENCE   PMID:17703304
+  AUTHORS   Martinon F, Gaide O, Petrilli V, Mayor A, Tschopp J
+  TITLE     NALP inflammasomes: a central role in innate immunity.
+  JOURNAL   Semin Immunopathol 29:213-29 (2007)
+REFERENCE   PMID:15163405
+  AUTHORS   Martinon F, Tschopp J
+  TITLE     Inflammatory caspases: linking an intracellular innate immune system to autoinflammatory diseases.
+  JOURNAL   Cell 117:561-74 (2004)
+REFERENCE   PMID:19302040
+  AUTHORS   Martinon F, Mayor A, Tschopp J
+  TITLE     The inflammasomes: guardians of the body.
+  JOURNAL   Annu Rev Immunol 27:229-65 (2009)
+REFERENCE   PMID:19120479
+  AUTHORS   Lamkanfi M, Dixit VM
+  TITLE     Inflammasomes: guardians of cytosolic sanctity.
+  JOURNAL   Immunol Rev 227:95-105 (2009)
+REFERENCE   PMID:18715799
+  AUTHORS   Benko S, Philpott DJ, Girardin SE
+  TITLE     The microbial and danger signals that activate Nod-like receptors.
+  JOURNAL   Cytokine 43:368-73 (2008)
+KO_PATHWAY  ko04621
+///

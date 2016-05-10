@@ -1,0 +1,96 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map04380
+server: Apache
+date: Wed, 15 Oct 2014 14:58:27 GMT
+content-type: text/plain
+
+ENTRY       map04380                    Pathway
+NAME        Osteoclast differentiation
+DESCRIPTION The osteoclasts, multinucleared cells originating from the hematopoietic monocyte-macrophage lineage, are responsible for bone resorption. Osteoclastogenesis is mainly regulated by signaling pathways activated by RANK and immune receptors, whose ligands are expressed on the surface of osteoblasts. Signaling from RANK changes gene expression patterns through transcription factors like NFATc1 and characterizes the active osteoclast.
+CLASS       Organismal Systems; Development
+PATHWAY_MAP map04380  Osteoclast differentiation
+DISEASE     H00436  Osteopetrosis
+            H00437  Paget's disease of bone and related disorders
+            H00438  Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy (PLOSL)
+            H00540  Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID)
+            H00645  Incontinentia pigmenti
+            H00800  Loeys-Dietz syndrome (LDS)
+            H00882  Cocoon syndrome
+            H01132  Aplastic anemia (AA)
+            H01187  Tietz syndrome
+            H01240  Immune thrombocytopenia (ITP)
+DBLINKS     GO: 0030316
+REFERENCE   PMID:16313349
+  AUTHORS   Takayanagi H, Sato K, Takaoka A, Taniguchi T
+  TITLE     Interplay between interferon and other cytokine systems in bone metabolism.
+  JOURNAL   Immunol Rev 208:181-93 (2005)
+REFERENCE   PMID:20392226
+  AUTHORS   Takayanagi H
+  TITLE     New immune connections in osteoclast formation.
+  JOURNAL   Ann N Y Acad Sci 1192:117-23 (2010)
+REFERENCE   PMID:19585227
+  AUTHORS   Nakashima T, Takayanagi H
+  TITLE     Osteoimmunology: crosstalk between the immune and bone systems.
+  JOURNAL   J Clin Immunol 29:555-67 (2009)
+REFERENCE   PMID:18722561
+  AUTHORS   Caetano-Lopes J, Canhao H, Fonseca JE
+  TITLE     Osteoimmunology--the hidden immune regulation of bone.
+  JOURNAL   Autoimmun Rev 8:250-5 (2009)
+REFERENCE   PMID:18451259
+  AUTHORS   Lorenzo J, Horowitz M, Choi Y
+  TITLE     Osteoimmunology: interactions of the bone and immune system.
+  JOURNAL   Endocr Rev 29:403-40 (2008)
+REFERENCE   PMID:17869613
+  AUTHORS   David JP
+  TITLE     Osteoimmunology: a view from the bone.
+  JOURNAL   Adv Immunol 95:149-65 (2007)
+REFERENCE   PMID:16313342
+  AUTHORS   Jimi E, Ghosh S
+  TITLE     Role of nuclear factor-kappaB in the immune system and bone.
+  JOURNAL   Immunol Rev 208:80-7 (2005)
+REFERENCE   PMID:12748652
+  AUTHORS   Boyle WJ, Simonet WS, Lacey DL
+  TITLE     Osteoclast differentiation and activation.
+  JOURNAL   Nature 423:337-42 (2003)
+REFERENCE   PMID:17633024
+  AUTHORS   Darnay BG, Besse A, Poblenz AT, Lamothe B, Jacoby JJ
+  TITLE     TRAFs in RANK signaling.
+  JOURNAL   Adv Exp Med Biol 597:152-9 (2007)
+REFERENCE   PMID:15122243
+  AUTHORS   Baron R
+  TITLE     Arming the osteoclast.
+  JOURNAL   Nat Med 10:458-60 (2004)
+REFERENCE   PMID:17380158
+  AUTHORS   Takayanagi H
+  TITLE     Osteoimmunology: shared mechanisms and crosstalk between the immune and bone systems.
+  JOURNAL   Nat Rev Immunol 7:292-304 (2007)
+REFERENCE   PMID:20703218
+  AUTHORS   Krum SA, Chang J, Miranda-Carboni G, Wang CY
+  TITLE     Novel functions for NFkappaB: inhibition of bone formation.
+  JOURNAL   Nat Rev Rheumatol 6:607-11 (2010)
+REFERENCE   PMID:15817678
+  AUTHORS   Lee NK, Choi YG, Baik JY, Han SY, Jeong DW, Bae YS, Kim N, Lee SY
+  TITLE     A crucial role for reactive oxygen species in RANKL-induced osteoclast differentiation.
+  JOURNAL   Blood 106:852-9 (2005)
+REFERENCE   PMID:18329366
+  AUTHORS   Shinohara M, Koga T, Okamoto K, Sakaguchi S, Arai K, Yasuda H, Takai T, Kodama T, Morio T, Geha RS, Kitamura D, Kurosaki T, Ellmeier W, Takayanagi H
+  TITLE     Tyrosine kinases Btk and Tec regulate osteoclast differentiation by linking RANK  and ITAM signals.
+  JOURNAL   Cell 132:794-806 (2008)
+REFERENCE   PMID:15546140
+  AUTHORS   Takayanagi H, Kim S, Koga T, Taniguchi T
+  TITLE     Stat1-mediated cytoplasmic attenuation in osteoimmunology.
+  JOURNAL   J Cell Biochem 94:232-40 (2005)
+REFERENCE   PMID:18382763
+  AUTHORS   Jin W, Chang M, Paul EM, Babu G, Lee AJ, Reiley W, Wright A, Zhang M, You J, Sun SC
+  TITLE     Deubiquitinating enzyme CYLD negatively regulates RANK signaling and osteoclastogenesis in mice.
+  JOURNAL   J Clin Invest 118:1858-66 (2008)
+REFERENCE   PMID:16184196
+  AUTHORS   Bai S, Kitaura H, Zhao H, Chen J, Muller JM, Schule R, Darnay B, Novack DV, Ross FP, Teitelbaum SL
+  TITLE     FHL2 inhibits the activated osteoclast in a TRAF6-dependent manner.
+  JOURNAL   J Clin Invest 115:2742-51 (2005)
+REFERENCE   PMID:12110142
+  AUTHORS   Takayanagi H, Kim S, Taniguchi T
+  TITLE     Signaling crosstalk between RANKL and interferons in osteoclast differentiation.
+  JOURNAL   Arthritis Res 4 Suppl 3:S227-32 (2002)
+KO_PATHWAY  ko04380
+///

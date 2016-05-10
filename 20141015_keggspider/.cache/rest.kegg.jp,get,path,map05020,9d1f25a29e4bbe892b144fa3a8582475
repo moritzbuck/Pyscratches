@@ -1,0 +1,74 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05020
+server: Apache
+date: Wed, 15 Oct 2014 14:58:55 GMT
+content-type: text/plain
+
+ENTRY       map05020                    Pathway
+NAME        Prion diseases
+DESCRIPTION Prion diseases, also termed transmissible spongiform encephalopathies (TSEs), are a group of fatal neurodegenerative diseases that affect humans and a number of other animal species. The etiology of these diseases is thought to be associated with the conversion of a normal protein, PrPC, into an infectious, pathogenic form, PrPSc. The conversion is induced by prion infections (for example, variant Creutzfeldt-Jakob disease (vCJD), iatrogenic CJD, Kuru), mutations (familial CJD, Gerstmann-Straussler-Scheinker syndrome, fatal familial insomnia (FFI)) or unknown factors (sporadic CJD (sCJD)), and is thought to occur after PrPC has reached the plasma membrane or is re-internalized for degradation. The PrPSc form shows greater protease resistance than PrPC and accumulates in affected individuals, often in the form of extracellular plaques. Pathways that may lead to neuronal death comprise oxidative stress, regulated activation of complement, ubiquitin-proteasome and endosomal-lysosomal systems, synaptic alterations and dendritic atrophy, corticosteroid response, and endoplasmic reticulum stress. In addition, the conformational transition could lead to the lost of a beneficial activity of the natively folded protein, PrPC.
+CLASS       Human Diseases; Neurodegenerative diseases
+PATHWAY_MAP map05020  Prion diseases
+DISEASE     H00061  Prion diseases
+REFERENCE   PMID:18245809
+  AUTHORS   Kovacs GG, Budka H
+  TITLE     Prion diseases: from protein to cell pathology.
+  JOURNAL   Am J Pathol 172:555-65 (2008)
+REFERENCE   PMID:15695097
+  AUTHORS   Campana V, Sarnataro D, Zurzolo C
+  TITLE     The highways and byways of prion protein trafficking.
+  JOURNAL   Trends Cell Biol 15:102-11 (2005)
+REFERENCE   PMID:14661267
+  AUTHORS   Nunziante M, Gilch S, Schatzl HM
+  TITLE     Prion diseases: from molecular biology to intervention strategies.
+  JOURNAL   Chembiochem 4:1268-84 (2003)
+REFERENCE   PMID:17051207
+  AUTHORS   Caughey B, Baron GS
+  TITLE     Prions and their partners in crime.
+  JOURNAL   Nature 443:803-10 (2006)
+REFERENCE   PMID:18391177
+  AUTHORS   Linden R, Martins VR, Prado MA, Cammarota M, Izquierdo I, Brentani RR
+  TITLE     Physiology of the prion protein.
+  JOURNAL   Physiol Rev 88:673-728 (2008)
+REFERENCE   PMID:11592845
+  AUTHORS   Chiesa R, Harris DA
+  TITLE     Prion diseases: what is the neurotoxic molecule?
+  JOURNAL   Neurobiol Dis 8:743-63 (2001)
+REFERENCE   PMID:10398674
+  AUTHORS   Harris DA
+  TITLE     Cellular biology of prion diseases.
+  JOURNAL   Clin Microbiol Rev 12:429-44 (1999)
+REFERENCE   PMID:15528202
+  AUTHORS   Marella M, Gaggioli C, Batoz M, Deckert M, Tartare-Deckert S, Chabry J
+  TITLE     Pathological prion protein exposure switches on neuronal mitogen-activated protein kinase pathway resulting in microglia recruitment.
+  JOURNAL   J Biol Chem 280:1529-34 (2005)
+REFERENCE   PMID:15611724
+  AUTHORS   Mallucci G, Collinge J
+  TITLE     Rational targeting for prion therapeutics.
+  JOURNAL   Nat Rev Neurosci 6:23-34 (2005)
+REFERENCE   PMID:12850426
+  AUTHORS   Hegde RS, Rane NS
+  TITLE     Prion protein trafficking and the development of neurodegeneration.
+  JOURNAL   Trends Neurosci 26:337-9 (2003)
+REFERENCE   PMID:17085779
+  AUTHORS   Fasano C, Campana V, Zurzolo C
+  TITLE     Prions: protein only or something more? Overview of potential prion cofactors.
+  JOURNAL   J Mol Neurosci 29:195-214 (2006)
+REFERENCE   PMID:14705136
+  AUTHORS   Roucou X, Gains M, LeBlanc AC
+  TITLE     Neuroprotective functions of prion protein.
+  JOURNAL   J Neurosci Res 75:153-61 (2004)
+REFERENCE   PMID:15890824
+  AUTHORS   Novakofski J, Brewer MS, Mateus-Pinilla N, Killefer J, McCusker RH
+  TITLE     Prion biology relevant to bovine spongiform encephalopathy.
+  JOURNAL   J Anim Sci 83:1455-76 (2005)
+REFERENCE   PMID:18558863
+  AUTHORS   Aguzzi A, Baumann F, Bremer J
+  TITLE     The prion's elusive reason for being.
+  JOURNAL   Annu Rev Neurosci 31:439-77 (2008)
+REFERENCE   PMID:15342004
+  AUTHORS   Mabbott NA
+  TITLE     The complement system in prion diseases.
+  JOURNAL   Curr Opin Immunol 16:587-93 (2004)
+KO_PATHWAY  ko05020
+///

@@ -1,0 +1,32 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00970
+server: Apache
+date: Wed, 15 Oct 2014 15:08:15 GMT
+content-type: text/plain
+
+ENTRY       map00970                    Pathway
+NAME        Aminoacyl-tRNA biosynthesis
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP map00970  Aminoacyl-tRNA biosynthesis
+MODULE      M00359  Aminoacyl-tRNA biosynthesis, eukaryotes [PATH:map00970]
+            M00360  Aminoacyl-tRNA biosynthesis, prokaryotes [PATH:map00970]
+DISEASE     H00264  Charcot-Marie-Tooth disease (CMT)
+            H00810  Progressive myoclonic epilepsy (PME/ EPM)
+            H00856  Distal hereditary motor neuropathies (dHMN)
+            H00871  Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation (LBSL)
+            H00897  Pontocerebellar hypoplasia
+            H00898  Myopathy with lactic acidosis and sideroblastic anaemia (MLASA)
+            H01347  MELAS Syndrome
+            H01351  Spastic ataxia (SPAX)
+            H01356  Myoclonic Epilepsy and Ragged-Red Fiber Disease
+            H01367  Infantile liver failure
+REFERENCE   PMID:18252769
+  AUTHORS   Sheppard K, Yuan J, Hohn MJ, Jester B, Devine KM, Soll D
+  TITLE     From one amino acid to another: tRNA-dependent amino acid biosynthesis.
+  JOURNAL   Nucleic Acids Res 36:1813-25 (2008)
+REFERENCE   PMID:15314242
+  AUTHORS   Polycarpo C, Ambrogelly A, Berube A, Winbush SM, McCloskey JA, Crain PF, Wood JL, Soll D
+  TITLE     An aminoacyl-tRNA synthetase that specifically activates pyrrolysine.
+  JOURNAL   Proc Natl Acad Sci U S A 101:12450-4 (2004)
+KO_PATHWAY  ko00970
+///

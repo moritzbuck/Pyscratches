@@ -1,0 +1,51 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00920
+server: Apache
+date: Wed, 15 Oct 2014 14:57:48 GMT
+content-type: text/plain
+
+ENTRY       map00920                    Pathway
+NAME        Sulfur metabolism
+DESCRIPTION Sulfur is an essential element for life and the metabolism of organic sulfur compounds plays an important role in the global sulfur cycle. Sulfur occurs in various oxidation states ranging from +6 in sulfate to -2 in sulfide (H2S). Sulfate reduction can occur in both an energy consuming assimilatory pathway and an energy producing dissimilatory pathway. The assimilatory pathway, which is found in a wide range of organisms, produces reduced sulfur compounds for the biosynthesis of S-containing amino acids and does not lead to direct excretion of sulfide. In the dissimilatory pathway, which is restricted to obligatory anaerobic bacterial and archaeal lineages, sulfate (or sulfur) is the terminal electron acceptor of the respiratory chain producing large quantities of inorganic sulfide. Both pathways start from the activation of sulfate by reaction with ATP to form adenylyl sulfate (APS). In the assimilatory pathway [MD:M00176] APS is converted to 3'-phosphoadenylyl sulfate (PAPS) and then reduced to sulfite, and sulfite is further reduced to sulfide by the assimilatory sulfite reductase. In the dissimilatory pathway [MD:M00596] APS is directly reduced to sulfite, and sulfite is further reduced to sulfide by the dissimilatory sulfite reductase. The capacity for oxidation of sulfur is quite widespread among bacteria and archaea, comprising phototrophs and chemolithoautotrophs. The SOX (sulfur-oxidation) system [MD:M00595] is a well-known sulfur oxidation pathway and is found in both photosynthetic and non-photosynthetic sulfur-oxidizing bacteria. Green sulfur bacteria and purple sulfur bacteria carry out anoxygenic photosynthesis with reduced sulfur compounds such as sulfide and elemental sulfur, as well as thiosulfate (in some species with the SOX system), as the electron donor for photoautotrophic growth. In some chemolithoautotrophic sulfur oxidizers (such as Thiobacillus denitrificans), it has been suggested that dissimilatory sulfur reduction enzymes operate in the reverse direction, forming a sulfur oxidation pathway from sulfite to APS and then to sulfate.
+CLASS       Metabolism; Energy metabolism
+PATHWAY_MAP map00920  Sulfur metabolism
+MODULE      M00176  Assimilatory sulfate reduction, sulfate => H2S [PATH:map00920]
+            M00595  Thiosulfate oxidation by SOX complex, thiosulfate => sulfate [PATH:map00920]
+            M00596  Dissimilatory sulfate reduction, sulfate => H2S [PATH:map00920]
+DISEASE     H00761  SEMD, Pakistani type
+            H01237  Sulfite oxidase deficiency
+DBLINKS     GO: 0006790
+REFERENCE   PMID:22982583
+  AUTHORS   Grein F, Ramos AR, Venceslau SS, Pereira IA
+  TITLE     Unifying concepts in anaerobic respiration: Insights from dissimilatory sulfur metabolism.
+  JOURNAL   Biochim Biophys Acta 1827:145-60 (2013)
+REFERENCE   PMID:22633058
+  AUTHORS   Fauque GD, Barton LL
+  TITLE     Hemoproteins in dissimilatory sulfate- and sulfur-reducing prokaryotes.
+  JOURNAL   Adv Microb Physiol 60:1-90 (2012)
+REFERENCE   PMID:20143161
+  AUTHORS   Sakurai H, Ogawa T, Shiga M, Inoue K
+  TITLE     Inorganic sulfur oxidizing system in green sulfur bacteria.
+  JOURNAL   Photosynth Res 104:163-76 (2010)
+REFERENCE   PMID:22092713
+  AUTHORS   Falkenby LG, Szymanska M, Holkenbrink C, Habicht KS, Andersen JS, Miller M, Frigaard NU
+  TITLE     Quantitative proteomics of Chlorobaculum tepidum: insights into the sulfur metabolism of a phototrophic green sulfur bacterium.
+  JOURNAL   FEMS Microbiol Lett 323:142-50 (2011)
+REFERENCE   PMID:21833341
+  AUTHORS   Gregersen LH, Bryant DA, Frigaard NU
+  TITLE     Mechanisms and evolution of oxidative sulfur metabolism in green sulfur bacteria.
+  JOURNAL   Front Microbiol 2:116 (2011)
+REFERENCE   PMID:16452431
+  AUTHORS   Beller HR, Chain PS, Letain TE, Chakicherla A, Larimer FW, Richardson PM, Coleman MA, Wood AP, Kelly DP.
+  TITLE     The genome sequence of the obligately chemolithoautotrophic, facultatively anaerobic bacterium Thiobacillus denitrificans.
+  JOURNAL   J Bacteriol 188:1473-88 (2006)
+REFERENCE   PMID:9695921
+  AUTHORS   Pott AS, Dahl C
+  TITLE     Sirohaem sulfite reductase and other proteins encoded by genes at the dsr locus of Chromatium vinosum are involved in the oxidation of intracellular sulfur.
+  JOURNAL   Microbiology 144 ( Pt 7):1881-94 (1998)
+REFERENCE   PMID:18929068
+  AUTHORS   Frigaard NU, Dahl C
+  TITLE     Sulfur metabolism in phototrophic sulfur bacteria.
+  JOURNAL   Adv Microb Physiol 54:103-200 (2009)
+KO_PATHWAY  ko00920
+///

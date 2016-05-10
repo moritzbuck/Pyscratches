@@ -1,0 +1,53 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04912
+server: Apache
+date: Wed, 15 Oct 2014 15:09:06 GMT
+content-type: text/plain
+
+ENTRY       map04912                    Pathway
+NAME        GnRH signaling pathway
+DESCRIPTION Gonadotropin-releasing hormone (GnRH) secretion from the hypothalamus acts upon its receptor in the anterior pituitary to regulate the production and release of the gonadotropins, LH and FSH. The GnRHR is coupled to Gq/11 proteins to activate phospholipase C which transmits its signal to diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). DAG activates the intracellular protein kinase C (PKC) pathway and IP3 stimulates release of intracellular calcium. In addition to the classical Gq/11, coupling of Gs is occasionally observed in a cell-specific fashion. Signaling downstream of protein kinase C (PKC) leads to transactivation of the epidermal growth factor (EGF) receptor and activation of mitogen-activated protein kinases (MAPKs), including extracellular-signal-regulated kinase (ERK), Jun N-terminal kinase (JNK) and p38 MAPK. Active MAPKs translocate to the nucleus, resulting in activation of transcription factors and rapid induction of early genes.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04912  GnRH signaling pathway
+DISEASE     H00255  Hypogonadotropic hypogonadism
+            H00746  Hypokalemic periodic paralysis (HypoPP)
+            H00937  Precocious puberty
+            H01253  Isolated follicle-stimulating hormone deficiency (IFSHD)
+REFERENCE   PMID:15350605
+  AUTHORS   Ruf F, Sealfon SC.
+  TITLE     Genomics view of gonadotrope signaling circuits.
+  JOURNAL   Trends Endocrinol Metab 15:331-8 (2004)
+REFERENCE   PMID:15613448
+  AUTHORS   Harrison GS, Wierman ME, Nett TM, Glode LM.
+  TITLE     Gonadotropin-releasing hormone and its receptor in normal and malignant cells.
+  JOURNAL   Endocr Relat Cancer 11:725-48 (2004)
+REFERENCE   PMID:15982836
+  AUTHORS   Pawson AJ, McNeilly AS.
+  TITLE     The pituitary effects of GnRH.
+  JOURNAL   Anim Reprod Sci 88:75-94 (2005)
+REFERENCE   
+  AUTHORS   DeGroot LJ, Jameson JL (ed).
+  TITLE     Endocrinology (Fifth edition)
+  JOURNAL   Elsevier Saunders (2006)
+REFERENCE   PMID:10707049
+  AUTHORS   Naor Z, Benard O, Seger R.
+  TITLE     Activation of MAPK cascades by G-protein-coupled receptors: the case of gonadotropin-releasing hormone receptor.
+  JOURNAL   Trends Endocrinol Metab 11:91-9 (2000)
+REFERENCE   PMID:14596811
+  AUTHORS   Ruf F, Fink MY, Sealfon SC.
+  TITLE     Structure of the GnRH receptor-stimulated signaling network: insights from genomics.
+  JOURNAL   Front Neuroendocrinol 24:181-99 (2003)
+REFERENCE   PMID:12943720
+  AUTHORS   Farshori PQ, Shah BH, Arora KK, Martinez-Fuentes A, Catt KJ.
+  TITLE     Activation and nuclear translocation of PKCdelta, Pyk2 and ERK1/2 by gonadotropin releasing hormone in HEK293 cells.
+  JOURNAL   J Steroid Biochem Mol Biol 85:337-47 (2003)
+REFERENCE   PMID:15080147
+  AUTHORS   Shah BH, Catt KJ.
+  TITLE     Matrix metalloproteinases in reproductive endocrinology.
+  JOURNAL   Trends Endocrinol Metab 15:47-9 (2004)
+REFERENCE   PMID:12963732
+  AUTHORS   Roelle S, Grosse R, Aigner A, Krell HW, Czubayko F, Gudermann T.
+  TITLE     Matrix metalloproteinases 2 and 9 mediate epidermal growth factor receptor transactivation by gonadotropin-releasing hormone.
+  JOURNAL   J Biol Chem 278:47307-18 (2003)
+KO_PATHWAY  ko04912
+///

@@ -1,0 +1,67 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04340
+server: Apache
+date: Wed, 15 Oct 2014 15:08:48 GMT
+content-type: text/plain
+
+ENTRY       map04340                    Pathway
+NAME        Hedgehog signaling pathway
+DESCRIPTION The Hedgehog (Hh) family of secreted signaling proteins plays a crucial role in development of diverse animal phyla, from Drosophila to humans, regulating morphogenesis of a variety of tissues and organs. Hh signaling is also involved in control of stem cell proliferation in adult tissues and aberrant activation of the Hh pathway has been linked to multiple types of human cancer. Members of the Hh family bind to patched (ptc), thus releasing smoothened (smo) to transduce a signal. Transcriptional activation occurs through the GLI family of proteins resulting in activation of target genes.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04340  Hedgehog signaling pathway
+DISEASE     H00263  Acrocallosal syndrome
+            H00267  Holoprosencephaly (HPE)
+            H00482  Brachydactyly
+            H00502  Pallister-Hall syndrome
+            H00607  46,XY disorders of sex development (Disorders of gonadal development)
+            H00646  Odontoonychodermal dysplasia
+            H00652  Solitary median maxillary central incisor syndrome
+            H00675  Acrocapitofemoral dysplasia
+            H00855  Triphalangeal thumb
+            H00886  Donnai-Barrow syndrome
+            H00895  Basal cell nevus syndrome
+            H01027  Anophthalmia and microphthalmia (A/M)
+            H01160  Schizencephaly
+            H01226  GLI3 morphopathies
+REFERENCE   PMID:14556242
+  AUTHORS   Cohen MM Jr.
+  TITLE     The hedgehog signaling network.
+  JOURNAL   Am J Med Genet A 123:5-28 (2003)
+REFERENCE   PMID:15205520
+  AUTHORS   Lum L, Beachy PA.
+  TITLE     The Hedgehog response network: sensors, switches, and routers.
+  JOURNAL   Science 304:1755-9 (2004)
+REFERENCE   PMID:12495844
+  AUTHORS   Mullor JL, Sanchez P, Altaba AR.
+  TITLE     Pathways and consequences: Hedgehog signaling in human disease.
+  JOURNAL   Trends Cell Biol 12:562-9 (2002)
+REFERENCE   PMID:15013214
+  AUTHORS   Ruiz i Altaba A, Stecca B, Sanchez P.
+  TITLE     Hedgehog--Gli signaling in brain tumors: stem cells and paradevelopmental programs in cancer.
+  JOURNAL   Cancer Lett 204:145-57 (2004)
+REFERENCE   PMID:14530294
+  AUTHORS   Nusse R.
+  TITLE     Wnts and Hedgehogs: lipid-modified proteins and similarities in signaling mechanisms at the cell surface.
+  JOURNAL   Development 130:5297-305 (2003)
+REFERENCE   PMID:14738752
+  AUTHORS   Kalderon D.
+  TITLE     Hedgehog signaling: Costal-2 bridges the transduction gap.
+  JOURNAL   Curr Biol 14:R67-9 (2004)
+REFERENCE   PMID:15549094
+  AUTHORS   Beachy PA, Karhadkar SS, Berman DM.
+  TITLE     Tissue repair and stem cell renewal in carcinogenesis.
+  JOURNAL   Nature 432:324-31 (2004)
+REFERENCE   PMID:15189162
+  AUTHORS   Mann RK, Beachy PA.
+  TITLE     Novel lipid modifications of secreted protein signals.
+  JOURNAL   Annu Rev Biochem 73:891-923 (2004)
+REFERENCE   PMID:12437772
+  AUTHORS   Frank-Kamenetsky M, Zhang XM, Bottega S, Guicherit O, Wichterle H, Dudek H, Bumcrot D, Wang FY, Jones S, Shulok J, Rubin LL, Porter JA.
+  TITLE     Small-molecule modulators of Hedgehog signaling: identification and characterization of Smoothened agonists and antagonists.
+  JOURNAL   J Biol 1:10 (2002)
+REFERENCE   PMID:11238441
+  AUTHORS   Koyabu Y, Nakata K, Mizugishi K, Aruga J, Mikoshiba K.
+  TITLE     Physical and functional interactions between Zic and Gli proteins.
+  JOURNAL   J Biol Chem 276:6889-92 (2001)
+KO_PATHWAY  ko04340
+///

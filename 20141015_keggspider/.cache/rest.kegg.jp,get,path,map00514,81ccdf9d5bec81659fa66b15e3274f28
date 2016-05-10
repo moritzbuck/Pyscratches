@@ -1,0 +1,27 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00514
+server: Apache
+date: Wed, 15 Oct 2014 14:57:26 GMT
+content-type: text/plain
+
+ENTRY       map00514                    Pathway
+NAME        Other types of O-glycan biosynthesis
+DESCRIPTION O-mannosyl glycans are a type of O-glycans that are found both in eukaryotes and prokaryotes. Biosynthesis of O-mannosyl glycans is initiated by the transfer of mannose from Man-P-Dol to serine or threonine residue, which is catalyzed by protein O-mannosyltransferases POMT1 and POMT2. Defects of these genes are linked to human diseases, such as muscular dystrophies caused by reduced O-mannosylation of alpha-dystroglycan in skeletal muscles [DS:H00120].
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00514  Other types of O-glycan biosynthesis
+DISEASE     H00120  Dystroglycanopathy
+            H00590  Congenital muscular dystrophies (CMD/MDC)
+            H00593  Limb-girdle muscular dystrophy (LGMD)
+            H00768  Nonsyndromic autosomal recessive mental retardation (NS-ARMR)
+            H01075  Peters anomaly
+            H01192  Lysyl hydroxylase 3 (LH3) deficiency
+REFERENCE   PMID:22669261
+  AUTHORS   Kizuka Y, Oka S
+  TITLE     Regulated expression and neural functions of human natural killer-1 (HNK-1) carbohydrate.
+  JOURNAL   Cell Mol Life Sci 69:4135-47 (2012)
+REFERENCE   PMID:19429925
+  AUTHORS   Lommel M, Strahl S
+  TITLE     Protein O-mannosylation: conserved from bacteria to humans.
+  JOURNAL   Glycobiology 19:816-28 (2009)
+KO_PATHWAY  ko00514
+///

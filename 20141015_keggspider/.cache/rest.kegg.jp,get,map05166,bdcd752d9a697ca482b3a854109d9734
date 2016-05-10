@@ -1,0 +1,94 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05166
+server: Apache
+date: Wed, 15 Oct 2014 15:09:26 GMT
+content-type: text/plain
+
+ENTRY       map05166                    Pathway
+NAME        HTLV-I infection
+DESCRIPTION Human T-lymphotropic virus type 1 (HTLV-1) is a pathogenic retrovirus that is associated with adult T-cell leukemia/lymphoma (ATL). It is also strongly implicated in non-neoplastic chronic inflammatory diseases such as HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). Expression of Tax, a viral regulatory protein is critical to the pathogenesis. Tax is a transcriptional co-factor that interfere several signaling pathways related to anti-apoptosis or cell proliferation. The modulation of the signaling by Tax involve its binding to transcription factors like CREB/ATF, NF-kappa B, SRF, and NFAT.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05166  HTLV-I infection
+DISEASE     H00009  Adult T-cell leukemia
+REFERENCE   PMID:11244044
+  AUTHORS   Yoshida M
+  TITLE     Multiple viral strategies of HTLV-1 for dysregulation of cell growth control.
+  JOURNAL   Annu Rev Immunol 19:475-96 (2001)
+REFERENCE   PMID:12910251
+  AUTHORS   Gatza ML, Watt JC, Marriott SJ
+  TITLE     Cellular transformation by the HTLV-I Tax protein, a jack-of-all-trades.
+  JOURNAL   Oncogene 22:5141-9 (2003)
+REFERENCE   PMID:21114861
+  AUTHORS   Ghez D, Lepelletier Y, Jones KS, Pique C, Hermine O
+  TITLE     Current concepts regarding the HTLV-1 receptor complex.
+  JOURNAL   Retrovirology 7:99 (2010)
+REFERENCE   PMID:19861996
+  AUTHORS   Boxus M, Willems L
+  TITLE     Mechanisms of HTLV-1 persistence and transformation.
+  JOURNAL   Br J Cancer 101:1497-501 (2009)
+REFERENCE   PMID:17384582
+  AUTHORS   Matsuoka M, Jeang KT
+  TITLE     Human T-cell leukaemia virus type 1 (HTLV-1) infectivity and cellular transformation.
+  JOURNAL   Nat Rev Cancer 7:270-80 (2007)
+REFERENCE   PMID:17446673
+  AUTHORS   Yasunaga J, Matsuoka M
+  TITLE     [HTLV-I and leukemogenesis].
+  JOURNAL   Uirusu 56:241-9 (2006)
+REFERENCE   PMID:18702816
+  AUTHORS   Boxus M, Twizere JC, Legros S, Dewulf JF, Kettmann R, Willems L
+  TITLE     The HTLV-1 Tax interactome.
+  JOURNAL   Retrovirology 5:76 (2008)
+REFERENCE   PMID:16036567
+  AUTHORS   Harhaj EW, Harhaj NS
+  TITLE     Mechanisms of persistent NF-kappaB activation by HTLV-I tax.
+  JOURNAL   IUBMB Life 57:83-91 (2005)
+REFERENCE   PMID:16436385
+  AUTHORS   Peloponese JM Jr, Jeang KT
+  TITLE     Role for Akt/protein kinase B and activator protein-1 in cellular proliferation induced by the human T-cell leukemia virus type 1 tax oncoprotein.
+  JOURNAL   J Biol Chem 281:8927-38 (2006)
+REFERENCE   PMID:16155605
+  AUTHORS   Marriott SJ, Semmes OJ
+  TITLE     Impact of HTLV-I Tax on cell cycle progression and the cellular DNA damage repair response.
+  JOURNAL   Oncogene 24:5986-95 (2005)
+REFERENCE   PMID:11325603
+  AUTHORS   Jeang KT
+  TITLE     Functional activities of the human T-cell leukemia virus type I Tax oncoprotein:  cellular signaling through NF-kappa B.
+  JOURNAL   Cytokine Growth Factor Rev 12:207-17 (2001)
+REFERENCE   PMID:19014483
+  AUTHORS   Bouzar AB, Willems L
+  TITLE     How HTLV-1 may subvert miRNAs for persistence and transformation.
+  JOURNAL   Retrovirology 5:101 (2008)
+REFERENCE   PMID:16155602
+  AUTHORS   Sun SC, Yamaoka S
+  TITLE     Activation of NF-kappaB by HTLV-I and implications for cell transformation.
+  JOURNAL   Oncogene 24:5952-64 (2005)
+REFERENCE   PMID:16155608
+  AUTHORS   Manel N, Battini JL, Taylor N, Sitbon M
+  TITLE     HTLV-1 tropism and envelope receptor.
+  JOURNAL   Oncogene 24:6016-25 (2005)
+REFERENCE   PMID:10602469
+  AUTHORS   Sun SC, Ballard DW
+  TITLE     Persistent activation of NF-kappaB by the tax transforming protein of HTLV-1: hijacking cellular IkappaB kinases.
+  JOURNAL   Oncogene 18:6948-58 (1999)
+REFERENCE   PMID:16155611
+  AUTHORS   Taylor GP, Matsuoka M
+  TITLE     Natural history of adult T-cell leukemia/lymphoma and approaches to therapy.
+  JOURNAL   Oncogene 24:6047-57 (2005)
+REFERENCE   PMID:14686485
+  AUTHORS   Franchini G, Fukumoto R, Fullen JR
+  TITLE     T-cell control by human T-cell leukemia/lymphoma virus type 1.
+  JOURNAL   Int J Hematol 78:280-96 (2003)
+REFERENCE   PMID:19092975
+  AUTHORS   Baydoun HH, Bellon M, Nicot C
+  TITLE     HTLV-1 Yin and Yang: Rex and p30 master regulators of viral mRNA trafficking.
+  JOURNAL   AIDS Rev 10:195-204 (2008)
+REFERENCE   PMID:9325311
+  AUTHORS   Jin DY, Teramoto H, Giam CZ, Chun RF, Gutkind JS, Jeang KT
+  TITLE     A human suppressor of c-Jun N-terminal kinase 1 activation by tumor necrosis factor alpha.
+  JOURNAL   J Biol Chem 272:25816-23 (1997)
+REFERENCE   PMID:15569630
+  AUTHORS   Pise-Masison CA, Brady JN
+  TITLE     Setting the stage for transformation: HTLV-1 Tax inhibition of p53 function.
+  JOURNAL   Front Biosci 10:919-30 (2005)
+KO_PATHWAY  ko05166
+///

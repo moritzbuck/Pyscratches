@@ -1,0 +1,13 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00471
+server: Apache
+date: Wed, 15 Oct 2014 14:57:23 GMT
+content-type: text/plain
+
+ENTRY       map00471                    Pathway
+NAME        D-Glutamine and D-glutamate metabolism
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP map00471  D-Glutamine and D-glutamate metabolism
+DISEASE     H01267  Familial hyperinsulinemic hypoglycemia (HHF)
+KO_PATHWAY  ko00471
+///

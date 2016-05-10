@@ -1,0 +1,42 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00902
+server: Apache
+date: Wed, 15 Oct 2014 15:08:08 GMT
+content-type: text/plain
+
+ENTRY       map00902                    Pathway
+NAME        Monoterpenoid biosynthesis
+DESCRIPTION Monoterpenoids (C10 terpenoids) are a group of terpenoids consisting of two isoprene units. They are derived from geranyl diphosphate (GPP). Most monoterpenoids are volatile oils with highly distinctive aromas and flavors, such as essential oils, turpentine, and oleoresins of coniferous plants. This map shows some examples. The monoterpene ketone l-menthone is specifically converted to l-menthol and d-neomenthol in mature peppermint leaves. The iridoids constitute a family of highly oxygenated monoterpenes, mixtures of which are present in many medicinal plants, such as valerian. They are derived from geraniol or nerol via oxidation of a terminal methyl group. The cyclopentane ring of loganin can itself be cleaved in a further P450-dependent step, leading to secologanin, which provides the carbon skeleton for many powerfully bioactive secondary metabolites of indole alkaloids.
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map00902  Monoterpenoid biosynthesis
+DBLINKS     GO: 0016099
+REFERENCE   PMID:15728344
+  AUTHORS   Davis EM, Ringer KL, McConkey ME, Croteau R
+  TITLE     Monoterpene metabolism. Cloning, expression, and characterization of menthone reductases from peppermint.
+  JOURNAL   Plant Physiol 137:873-81 (2005)
+REFERENCE   PMID:11375201
+  AUTHORS   Duetz WA, Fjallman AH, Ren S, Jourdat C, Witholt B
+  TITLE     Biotransformation of D-limonene to (+) trans-carveol by toluene-grown Rhodococcus opacus PWD4 cells.
+  JOURNAL   Appl Environ Microbiol 67:2829-32 (2001)
+REFERENCE   PMID:15299125
+  AUTHORS   Chen F, Ro DK, Petri J, Gershenzon J, Bohlmann J, Pichersky E, Tholl D
+  TITLE     Characterization of a root-specific Arabidopsis terpene synthase responsible for the formation of the volatile monoterpene 1,8-cineole.
+  JOURNAL   Plant Physiol 135:1956-66 (2004)
+REFERENCE   PMID:1368150
+  AUTHORS   Trudgill PW
+  TITLE     Microbial metabolism of monoterpenes--recent developments.
+  JOURNAL   Biodegradation 1:93-105 (1990)
+REFERENCE   PMID:1864846
+  AUTHORS   Ikeda H, Esaki N, Nakai S, Hashimoto K, Uesato S, Soda K, Fujita T
+  TITLE     Acyclic monoterpene primary alcohol:NADP+ oxidoreductase of Rauwolfia serpentina cells: the key enzyme in biosynthesis of monoterpene alcohols.
+  JOURNAL   J Biochem 109:341-7 (1991)
+REFERENCE   PMID:10656401
+  AUTHORS   Yamamoto H, Katano N, Ooi A, Inoue K.
+  TITLE     Secologanin synthase which catalyzes the oxidative cleavage of loganin into secologanin is a cytochrome P450.
+  JOURNAL   Phytochemistry 53:7-12 (2000)
+REFERENCE   PMID:11524113
+  AUTHORS   Katano N, Yamamoto H, Iio R, Inoue K.
+  TITLE     7-Deoxyloganin 7-hydroxylase in Lonicera japonica cell cultures.
+  JOURNAL   Phytochemistry 58:53-8 (2001)
+KO_PATHWAY  ko00902
+///

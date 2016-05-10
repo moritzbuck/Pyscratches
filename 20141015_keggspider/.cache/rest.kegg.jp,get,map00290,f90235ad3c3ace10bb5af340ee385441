@@ -1,0 +1,21 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00290
+server: Apache
+date: Wed, 15 Oct 2014 15:07:37 GMT
+content-type: text/plain
+
+ENTRY       map00290                    Pathway
+NAME        Valine, leucine and isoleucine biosynthesis
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP map00290  Valine, leucine and isoleucine biosynthesis
+MODULE      M00019  Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine [PATH:map00290]
+            M00432  Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate [PATH:map00290]
+            M00535  Isoleucine biosynthesis, pyruvate => 2-oxobutanoate [PATH:map00290]
+            M00570  Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine [PATH:map00290]
+DBLINKS     GO: 0009097 0009098 0009099
+REFERENCE   PMID:15292141
+  AUTHORS   Xu H, Zhang Y, Guo X, Ren S, Staempfli AA, Chiao J, Jiang W, Zhao G.
+  TITLE     Isoleucine biosynthesis in Leptospira interrogans serotype lai strain 56601 proceeds via a threonine-independent pathway.
+  JOURNAL   J Bacteriol 186:5400-9 (2004)
+KO_PATHWAY  ko00290
+///

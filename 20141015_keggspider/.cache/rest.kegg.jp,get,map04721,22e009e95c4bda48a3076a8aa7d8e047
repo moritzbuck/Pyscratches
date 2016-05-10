@@ -1,0 +1,70 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04721
+server: Apache
+date: Wed, 15 Oct 2014 15:09:00 GMT
+content-type: text/plain
+
+ENTRY       map04721                    Pathway
+NAME        Synaptic vesicle cycle
+DESCRIPTION Communication between neurons is mediated by the release of neurotransmitter from synaptic vesicles (SVs). At the nerve terminal, SVs cycle through repetitive episodes of exocytosis and endocytosis. SVs are filled with neurotransmitters by active transport. The loaded SVs are then docked at a specialized region of the presynaptic plasma membrane known as the active zone, where they undergo a priming reaction. Upon arrival of an action potential, Ca2+ enters through voltage-gated channels and neurotransmitter is released by exocytosis, usually in less than a millisecond. After fusion, the vesicle is retrieved by endocytosis and reloaded for another round of exocytosis.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP map04721  Synaptic vesicle cycle
+DISEASE     H00606  Early infantile epileptic encephalopathy
+            H00700  Centronuclear myopathy
+            H00749  Episodic ataxias
+            H00775  Familial or sporadic hemiplegic migraine
+DBLINKS     GO: 0016079 0048488
+REFERENCE   PMID:12827282
+  AUTHORS   Li L, Chin LS
+  TITLE     The molecular machinery of synaptic vesicle exocytosis.
+  JOURNAL   Cell Mol Life Sci 60:942-60 (2003)
+REFERENCE   
+  AUTHORS   Nestler EJ, Hyman SE, Malenka RC.
+  TITLE     Molecular neuropharmacology: A foundation for clinical neuroscience
+  JOURNAL   The McGraw-Hill Companies, Inc. (2001)
+REFERENCE   PMID:18275379
+  AUTHORS   Chapman ER
+  TITLE     How does synaptotagmin trigger neurotransmitter release?
+  JOURNAL   Annu Rev Biochem 77:615-41 (2008)
+REFERENCE   PMID:10212473
+  AUTHORS   Benfenati F, Onofri F, Giovedi S
+  TITLE     Protein-protein interactions and protein modules in the control of neurotransmitter release.
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 354:243-57 (1999)
+REFERENCE   PMID:20634814
+  AUTHORS   de Saint Basile G, Menasche G, Fischer A
+  TITLE     Molecular mechanisms of biogenesis and exocytosis of cytotoxic granules.
+  JOURNAL   Nat Rev Immunol 10:568-79 (2010)
+REFERENCE   PMID:17767192
+  AUTHORS   Carr CM, Munson M
+  TITLE     Tag team action at the synapse.
+  JOURNAL   EMBO Rep 8:834-8 (2007)
+REFERENCE   PMID:15217342
+  AUTHORS   Sudhof TC
+  TITLE     The synaptic vesicle cycle.
+  JOURNAL   Annu Rev Neurosci 27:509-47 (2004)
+REFERENCE   PMID:12563290
+  AUTHORS   Gundelfinger ED, Kessels MM, Qualmann B
+  TITLE     Temporal and spatial coordination of exocytosis and endocytosis.
+  JOURNAL   Nat Rev Mol Cell Biol 4:127-39 (2003)
+REFERENCE   PMID:16990140
+  AUTHORS   Tang J, Maximov A, Shin OH, Dai H, Rizo J, Sudhof TC
+  TITLE     A complexin/synaptotagmin 1 switch controls fast synaptic vesicle exocytosis.
+  JOURNAL   Cell 126:1175-87 (2006)
+REFERENCE   PMID:12094216
+  AUTHORS   Chapman ER
+  TITLE     Synaptotagmin: a Ca(2+) sensor that triggers exocytosis?
+  JOURNAL   Nat Rev Mol Cell Biol 3:498-508 (2002)
+REFERENCE   PMID:7791897
+  AUTHORS   Sudhof TC
+  TITLE     The synaptic vesicle cycle: a cascade of protein-protein interactions.
+  JOURNAL   Nature 375:645-53 (1995)
+REFERENCE   PMID:12154365
+  AUTHORS   Rizo J, Sudhof TC
+  TITLE     Snares and Munc18 in synaptic vesicle fusion.
+  JOURNAL   Nat Rev Neurosci 3:641-53 (2002)
+REFERENCE   PMID:18726177
+  AUTHORS   Malsam J, Kreye S, Sollner TH
+  TITLE     Membrane fusion: SNAREs and regulation.
+  JOURNAL   Cell Mol Life Sci 65:2814-32 (2008)
+KO_PATHWAY  ko04721
+///

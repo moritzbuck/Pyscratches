@@ -1,0 +1,74 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05160
+server: Apache
+date: Wed, 15 Oct 2014 14:59:03 GMT
+content-type: text/plain
+
+ENTRY       map05160                    Pathway
+NAME        Hepatitis C
+DESCRIPTION Hepatitis C virus (HCV) is a major cause of chronic liver disease. The HCV employ several strategies to perturb host cell immunity. After invasion, HCV RNA genome functions directly as an mRNA in the cytoplasm of the host cell and forms membrane-associated replication complexes along with non-structural proteins. Viral RNA can trigger the RIG-I pathway and interferon production during this process. Translated HCV protein products regulate immune response to inhibit the action of interferon. HCV core and NS5A proteins appear to be the most important molecules with regulatory functions that modulate transcription, cellular proliferation, and apoptosis.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05160  Hepatitis C
+DISEASE     H00413  Hepatitis C
+REFERENCE   PMID:12691459
+  AUTHORS   Polyak SJ
+  TITLE     Hepatitis C virus--cell interactions and their role in pathogenesis.
+  JOURNAL   Clin Liver Dis 7:67-88 (2003)
+REFERENCE   PMID:16107833
+  AUTHORS   Gale M Jr, Foy EM
+  TITLE     Evasion of intracellular host defence by hepatitis C virus.
+  JOURNAL   Nature 436:939-45 (2005)
+REFERENCE   PMID:12655344
+  AUTHORS   Giannini C, Brechot C
+  TITLE     Hepatitis C virus biology.
+  JOURNAL   Cell Death Differ 10 Suppl 1:S27-38 (2003)
+REFERENCE   PMID:19515018
+  AUTHORS   Tang H, Grise H
+  TITLE     Cellular and molecular biology of HCV infection and hepatitis.
+  JOURNAL   Clin Sci (Lond) 117:49-65 (2009)
+REFERENCE   PMID:19708811
+  AUTHORS   Horner SM, Gale M Jr
+  TITLE     Intracellular innate immune cascades and interferon defenses that control hepatitis C virus.
+  JOURNAL   J Interferon Cytokine Res 29:489-98 (2009)
+REFERENCE   PMID:17467654
+  AUTHORS   Bode JG, Brenndorfer ED, Haussinger D
+  TITLE     Subversion of innate host antiviral strategies by the hepatitis C virus.
+  JOURNAL   Arch Biochem Biophys 462:254-65 (2007)
+REFERENCE   PMID:20537953
+  AUTHORS   Georgel P, Schuster C, Zeisel MB, Stoll-Keller F, Berg T, Bahram S, Baumert TF
+  TITLE     Virus-host interactions in hepatitis C virus infection: implications for molecular pathogenesis and antiviral strategies.
+  JOURNAL   Trends Mol Med 16:277-86 (2010)
+REFERENCE   PMID:16314558
+  AUTHORS   Freundt EC, Lenardo MJ
+  TITLE     Interfering with interferons: Hepatitis C virus counters innate immunity.
+  JOURNAL   Proc Natl Acad Sci U S A 102:17539-40 (2005)
+REFERENCE   PMID:18514579
+  AUTHORS   Ishii S, Koziel MJ
+  TITLE     Immune responses during acute and chronic infection with hepatitis C virus.
+  JOURNAL   Clin Immunol 128:133-47 (2008)
+REFERENCE   PMID:19074178
+  AUTHORS   Asselah T, Bieche I, Sabbagh A, Bedossa P, Moreau R, Valla D, Vidaud M, Marcellin P
+  TITLE     Gene expression and hepatitis C virus infection.
+  JOURNAL   Gut 58:846-58 (2009)
+REFERENCE   PMID:15302943
+  AUTHORS   Macdonald A, Harris M
+  TITLE     Hepatitis C virus NS5A: tales of a promiscuous protein.
+  JOURNAL   J Gen Virol 85:2485-502 (2004)
+REFERENCE   PMID:11991644
+  AUTHORS   Han JQ, Barton DJ
+  TITLE     Activation and evasion of the antiviral 2'-5' oligoadenylate synthetase/ribonuclease L pathway by hepatitis C virus mRNA.
+  JOURNAL   RNA 8:512-25 (2002)
+REFERENCE   PMID:19187070
+  AUTHORS   Negro F, Sanyal AJ
+  TITLE     Hepatitis C virus, steatosis and lipid abnormalities: clinical and pathogenic data.
+  JOURNAL   Liver Int 29 Suppl 2:26-37 (2009)
+REFERENCE   PMID:19148799
+  AUTHORS   Koike K
+  TITLE     Steatosis, liver injury, and hepatocarcinogenesis in hepatitis C viral infection.
+  JOURNAL   J Gastroenterol 44 Suppl 19:82-8 (2009)
+REFERENCE   
+  AUTHORS   Tan SL (ed).
+  TITLE     Hepatitis C Viruses Genomes and Molecular Biology
+  JOURNAL   Horizon Bioscience (2006)
+KO_PATHWAY  ko05160
+///

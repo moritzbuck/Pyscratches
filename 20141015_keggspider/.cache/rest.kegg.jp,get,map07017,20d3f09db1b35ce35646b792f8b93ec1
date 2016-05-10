@@ -1,0 +1,69 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map07017
+server: Apache
+date: Wed, 15 Oct 2014 15:09:40 GMT
+content-type: text/plain
+
+ENTRY       map07017          Drug      Pathway
+NAME        Sulfonamide derivatives - diuretics
+PATHWAY_MAP map07017  Sulfonamide derivatives - diuretics
+COMPOUND    D00218  Acetazolamide (JP16/USP/INN)
+            D00247  Bumetanide (JP16/USP/INN)
+            D00272  Chlortalidone (JAN/INN)
+            D00331  Furosemide (JP16/USP/INN)
+            D00340  Hydrochlorothiazide (JP16/USP/INN)
+            D00345  Indapamide (JP16/USP)
+            D00382  Torasemide (JAN/INN)
+            D00431  Metolazone (JAN/USP/INN)
+            D00461  Quinethazone (JAN/INN)
+            D00518  Diclofenamide (JP16/INN)
+            D00519  Chlorothiazide (JAN/USP/INN)
+            D00650  Bendroflumethiazide (JAN/USP/INN)
+            D00651  Benzthiazide (JAN/INN)
+            D00654  Hydroflumethiazide (JAN/USP/INN)
+            D00655  Methazolamide (JAN/USP/INN)
+            D00657  Polythiazide (JAN/USAN/INN)
+            D00658  Trichlormethiazide (JP16/USP/INN)
+            D01196  Acetazolamide sodium (JAN)
+            D01241  Penflutizide (JAN/INN)
+            D01246  Benzylhydrochlorothiazide (JAN)
+            D01323  Azosemide (JAN/USAN/INN)
+            D01605  Meticrane (JP16/INN)
+            D01634  Piretanide (JAN/USAN/INN)
+            D01822  Clofenamide (JAN/INN)
+            D01877  Mefruside (JP16/USAN/INN)
+            D01895  Tripamide (JAN/USAN/INN)
+            D02441  Ethoxzolamide
+            D02453  Flumethiazide (INN)
+            D03471  Chlorothiazide sodium (USP)
+            D06401  Indapamide hydrate
+            D07999  Sodium furosemide
+            D08001  Furosemide diolamine
+            D08543  Sulfanilamide (INN)
+            D08619  Torasemide sodium
+            D09322  Carzenide (INN)
+REFERENCE   
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   
+  AUTHORS   Japan Pharmaceutical Association (ed).
+  TITLE     [Face of Medecine: Structure Activity Relationship] (In Japanese)
+  JOURNAL   Yakuji Nippo (1999)
+REFERENCE   
+  AUTHORS   Bertram GK (ed).
+  TITLE     Basic & Clinical Pharmacology (9th ed)
+  JOURNAL   Lange (2004)
+///

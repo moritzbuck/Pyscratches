@@ -1,0 +1,50 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04720
+server: Apache
+date: Wed, 15 Oct 2014 15:09:00 GMT
+content-type: text/plain
+
+ENTRY       map04720                    Pathway
+NAME        Long-term potentiation
+DESCRIPTION Hippocampal long-term potentiation (LTP), a long-lasting increase in synaptic efficacy, is the molecular basis for learning and memory. Tetanic stimulation of afferents in the CA1 region of the hippocampus induces glutamate release and activation of glutamate receptors in dendritic spines. A large increase in [Ca2+]i resulting from influx through NMDA receptors leads to constitutive activation of CaM kinase II (CaM KII) . Constitutively active CaM kinase II phosphorylates AMPA receptors, resulting in potentiation of the ionic conductance of AMPA receptors. Early-phase LTP (E-LTP) expression is due, in part, to this phosphorylation of the AMPA receptor. It is hypothesized that postsynaptic Ca2+ increases generated through NMDA receptors activate several signal transduction pathways including the Erk/MAP kinase and cAMP regulatory pathways. The convergence of these pathways at the level of the CREB/CRE transcriptional pathway may increase expression of a family of genes required for late-phase LTP (L-LTP).
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP map04720  Long-term potentiation
+DBLINKS     GO: 0048169
+REFERENCE   PMID:15652868
+  AUTHORS   Blitzer RD, Iyengar R, Landau EM.
+  TITLE     Postsynaptic signaling networks: cellular cogwheels underlying long-term plasticity.
+  JOURNAL   Biol Psychiatry 57:113-9 (2005)
+REFERENCE   PMID:10652548
+  AUTHORS   Soderling TR, Derkach VA.
+  TITLE     Postsynaptic protein phosphorylation and LTP.
+  JOURNAL   Trends Neurosci 23:75-80 (2000)
+REFERENCE   PMID:11378299
+  AUTHORS   Poser S, Storm DR.
+  TITLE     Role of Ca2+-stimulated adenylyl cyclases in LTP and memory formation.
+  JOURNAL   Int J Dev Neurosci 19:387-94 (2001)
+REFERENCE   PMID:15803158
+  AUTHORS   Xia Z, Storm DR.
+  TITLE     The role of calmodulin as a signal integrator for synaptic plasticity.
+  JOURNAL   Nat Rev Neurosci 6:267-76 (2005)
+REFERENCE   
+  AUTHORS   Purves D, Augustine GJ (ed).
+  TITLE     Neuroscience
+  JOURNAL   Sunderland, Mass.:Sinauer Associates (2004)
+REFERENCE   (Japanese)
+  AUTHORS   Futai K, Hayashi Y.
+  TITLE     [Molecular mechanisms of hippocampal long-term potentiation.] (In Japanese)
+  JOURNAL   Experimental Medicine 21(17):2361-2369 (2003)
+REFERENCE   PMID:14715912
+  AUTHORS   Lynch MA.
+  TITLE     Long-term potentiation and memory.
+  JOURNAL   Physiol Rev 84:87-136 (2004)
+REFERENCE   PMID:15857686
+  AUTHORS   Kelly PT, Mackinnon RL 2nd, Dietz RV, Maher BJ, Wang J.
+  TITLE     Postsynaptic IP3 receptor-mediated Ca2+ release modulates synaptic transmission in hippocampal neurons.
+  JOURNAL   Brain Res Mol Brain Res 135:232-48 (2005)
+REFERENCE   PMID:9697848
+  AUTHORS   Berridge MJ.
+  TITLE     Neuronal calcium signaling.
+  JOURNAL   Neuron 21:13-26 (1998)
+KO_PATHWAY  ko04720
+///

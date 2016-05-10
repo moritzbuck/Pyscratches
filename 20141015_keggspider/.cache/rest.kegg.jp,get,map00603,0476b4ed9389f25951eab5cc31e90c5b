@@ -1,0 +1,33 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00603
+server: Apache
+date: Wed, 15 Oct 2014 15:07:57 GMT
+content-type: text/plain
+
+ENTRY       map00603                    Pathway
+NAME        Glycosphingolipid biosynthesis - globo series
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP map00603  Glycosphingolipid biosynthesis - globo series
+MODULE      M00068  Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer [PATH:map00603]
+DISEASE     H00124  GM2 gangliosidoses
+            H00125  Fabry disease
+            H00146  Alpha-N-acetylgalactosaminidase deficiency
+            H00422  Glycoproteinoses
+REFERENCE   PMID:12716912
+  AUTHORS   Saito S, Aoki H, Ito A, Ueno S, Wada T, Mitsuzuka K, Satoh M, Arai Y, Miyagi T.
+  TITLE     Human alpha2,3-sialyltransferase (ST3Gal II) is a stage-specific embryonic antigen-4 synthase.
+  JOURNAL   J Biol Chem 278:26474-9 (2003)
+REFERENCE   PMID:10837462
+  AUTHORS   Zhou D, Henion TR, Jungalwala FB, Berger EG, Hennet T.
+  TITLE     The beta 1,3-galactosyltransferase beta 3GalT-V is a stage-specific embryonic antigen-3 (SSEA-3) synthase.
+  JOURNAL   J Biol Chem 275:22631-4 (2000)
+REFERENCE   PMID:10748143
+  AUTHORS   Kojima Y, Fukumoto S, Furukawa K, Okajima T, Wiels J, Yokoyama K, Suzuki Y, Urano T, Ohta M, Furukawa K.
+  TITLE     Molecular cloning of globotriaosylceramide/CD77 synthase, aglycosyltransferase that initiates the synthesis of globo seriesglycosphingolipids.
+  JOURNAL   J Biol Chem 275:15152-6 (2000)
+REFERENCE   PMID:10854428
+  AUTHORS   Keusch JJ, Manzella SM, Nyame KA, Cummings RD, Baenziger JU.
+  TITLE     Cloning of Gb3 synthase, the key enzyme in globo-series glycosphingolipidsynthesis, predicts a family of alpha 1, 4-glycosyltransferases conservedin plants, insects, and mammals.
+  JOURNAL   J Biol Chem 275:25315-21 (2000)
+KO_PATHWAY  ko00603
+///

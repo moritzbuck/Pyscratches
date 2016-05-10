@@ -1,0 +1,11 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01110
+server: Apache
+date: Wed, 15 Oct 2014 14:58:01 GMT
+content-type: text/plain
+
+ENTRY       map01110          Global    Pathway
+NAME        Biosynthesis of secondary metabolites
+PATHWAY_MAP map01110  Biosynthesis of secondary metabolites
+KO_PATHWAY  ko01110
+///

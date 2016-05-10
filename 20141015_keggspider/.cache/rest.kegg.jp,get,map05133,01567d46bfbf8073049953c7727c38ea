@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05133
+server: Apache
+date: Wed, 15 Oct 2014 15:09:21 GMT
+content-type: text/plain
+
+ENTRY       map05133                    Pathway
+NAME        Pertussis
+DESCRIPTION Pertussis, also known as whooping cough, is an acute respiratory infectious disease caused by a bacteria called Bordetella Pertussis. The characteristic symptoms are paroxysmal cough, inspiratory wheezing and post-tussive vomiting.
+            Following the inhalation of respiratory secretions from an infected individual, bacteria enter the upper respiratory tract and adhere to epithelial cells. Several adhesion factors have been implicated: the filamentous hemagglutinin (FHA), fimbriae, and pertactin (Prn).
+            Pertussis toxin (Ptx) and adenylate cyclase toxin (ACT) have been identified so far as major protein toxins of B. pertussis. PTX is a hexameric AB5-type exotoxin. Catalytic A subunit catalyzes the ADP-ribosylation of the Gi subunits of the heterotrimeric G protein, then inhibits multiple downstream pathways. ACT is able to penetrate the cytoplasmic membrane of host cells and becomes activated through the cleavage and the binding of calmodulin (CaM). Activated ACT converts ATP to cyclic AMP and subverts cellular signaling pathways.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05133  Pertussis
+MODULE      M00574  Pertussis pathogenicity signature 1, pertussis toxin [PATH:map05133]
+            M00575  Pertussis pathogenicity signature 2, T1SS [PATH:map05133]
+DISEASE     H00319  Pertussis
+REFERENCE   PMID:21204863
+  AUTHORS   de Gouw D, Diavatopoulos DA, Bootsma HJ, Hermans PW, Mooi FR
+  TITLE     Pertussis: a matter of immune modulation.
+  JOURNAL   FEMS Microbiol Rev 35:441-74 (2011)
+REFERENCE   PMID:20210554
+  AUTHORS   Carbonetti NH
+  TITLE     Pertussis toxin and adenylate cyclase toxin: key virulence factors of Bordetella  pertussis and cell biology tools.
+  JOURNAL   Future Microbiol 5:455-69 (2010)
+REFERENCE   PMID:10540218
+  AUTHORS   van den Berg BM, van Furth R, Hazenbos WL
+  TITLE     Activation of complement receptor 3 on human monocytes by cross-linking of very-late antigen-5 is mediated via protein tyrosine kinases.
+  JOURNAL   Immunology 98:197-202 (1999)
+REFERENCE   PMID:16999837
+  AUTHORS   Mazar J, Cotter PA
+  TITLE     Topology and maturation of filamentous haemagglutinin suggest a new model for two-partner secretion.
+  JOURNAL   Mol Microbiol 62:641-54 (2006)
+REFERENCE   PMID:16390441
+  AUTHORS   Hewlett EL, Donato GM, Gray MC
+  TITLE     Macrophage cytotoxicity produced by adenylate cyclase toxin from Bordetella pertussis: more than just making cyclic AMP!
+  JOURNAL   Mol Microbiol 59:447-59 (2006)
+REFERENCE   PMID:20610650
+  AUTHORS   Dunne A, Ross PJ, Pospisilova E, Masin J, Meaney A, Sutton CE, Iwakura Y, Tschopp J, Sebo P, Mills KH
+  TITLE     Inflammasome activation by adenylate cyclase toxin directs Th17 responses and protection against Bordetella pertussis.
+  JOURNAL   J Immunol 185:1711-9 (2010)
+REFERENCE   PMID:18401006
+  AUTHORS   Hickey FB, Brereton CF, Mills KH
+  TITLE     Adenylate cycalse toxin of Bordetella pertussis inhibits TLR-induced IRF-1 and IRF-8 activation and IL-12 production and enhances IL-10 through MAPK activation  in dendritic cells.
+  JOURNAL   J Leukoc Biol 84:234-43 (2008)
+REFERENCE   PMID:16622221
+  AUTHORS   Spensieri F, Fedele G, Fazio C, Nasso M, Stefanelli P, Mastrantonio P, Ausiello CM
+  TITLE     Bordetella pertussis inhibition of interleukin-12 (IL-12) p70 in human monocyte-derived dendritic cells blocks IL-12 p35 through adenylate cyclase toxin-dependent cyclic AMP induction.
+  JOURNAL   Infect Immun 74:2831-8 (2006)
+REFERENCE   PMID:17148436
+  AUTHORS   Fiser R, Masin J, Basler M, Krusek J, Spulakova V, Konopasek I, Sebo P
+  TITLE     Third activity of Bordetella adenylate cyclase (AC) toxin-hemolysin. Membrane translocation of AC domain polypeptide promotes calcium influx into CD11b+ monocytes independently of the catalytic and hemolytic activities.
+  JOURNAL   J Biol Chem 282:2808-20 (2007)
+REFERENCE   PMID:16863919
+  AUTHORS   Wang ZY, Yang D, Chen Q, Leifer CA, Segal DM, Su SB, Caspi RR, Howard ZO, Oppenheim JJ
+  TITLE     Induction of dendritic cell maturation by pertussis toxin and its B subunit differentially initiate Toll-like receptor 4-dependent signal transduction pathways.
+  JOURNAL   Exp Hematol 34:1115-24 (2006)
+REFERENCE   PMID:15201703
+  AUTHORS   Fan H, Peck OM, Tempel GE, Halushka PV, Cook JA
+  TITLE     Toll-like receptor 4 coupled GI protein signaling pathways regulate extracellular signal-regulated kinase phosphorylation and AP-1 activation independent of NFkappaB activation.
+  JOURNAL   Shock 22:57-62 (2004)
+REFERENCE   PMID:17328678
+  AUTHORS   Lee MS, Kim YJ
+  TITLE     Signaling pathways downstream of pattern-recognition receptors and their cross talk.
+  JOURNAL   Annu Rev Biochem 76:447-80 (2007)
+REFERENCE   PMID:20404851
+  AUTHORS   Kawai T, Akira S
+  TITLE     The role of pattern-recognition receptors in innate immunity: update on Toll-like receptors.
+  JOURNAL   Nat Immunol 11:373-84 (2010)
+REFERENCE   PMID:12701623
+  AUTHORS   Ferlito M, Romanenko OG, Guyton K, Ashton S, Squadrito F, Halushka PV, Cook JA
+  TITLE     Implication of Galpha i proteins and Src tyrosine kinases in endotoxin-induced signal transduction events and mediator production.
+  JOURNAL   J Endotoxin Res 8:427-35 (2002)
+REFERENCE   PMID:21423776
+  AUTHORS   Han HJ, Kuwae A, Abe A, Arakawa Y, Kamachi K
+  TITLE     Differential expression of type III effector BteA protein due to IS481 insertion  in Bordetella pertussis.
+  JOURNAL   PLoS One 6:e17797 (2011)
+REFERENCE   PMID:16481212
+  AUTHORS   Beier D, Gross R
+  TITLE     Regulation of bacterial virulence by two-component systems.
+  JOURNAL   Curr Opin Microbiol 9:143-52 (2006)
+REFERENCE   PMID:12915094
+  AUTHORS   Cotter PA, Jones AM
+  TITLE     Phosphorelay control of virulence gene expression in Bordetella.
+  JOURNAL   Trends Microbiol 11:367-73 (2003)
+KO_PATHWAY  ko05133
+///

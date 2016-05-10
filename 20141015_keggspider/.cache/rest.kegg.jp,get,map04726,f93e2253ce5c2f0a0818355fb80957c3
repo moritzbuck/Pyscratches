@@ -1,0 +1,81 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04726
+server: Apache
+date: Wed, 15 Oct 2014 15:09:02 GMT
+content-type: text/plain
+
+ENTRY       map04726                    Pathway
+NAME        Serotonergic synapse
+DESCRIPTION Serotonin (5-Hydroxytryptamine, 5-HT) is a monoamine neurotransmitter that plays important roles in physiological functions such as learning and memory, emotion, sleep, pain, motor function and endocrine secretion, as well as in pathological states including abnormal mood and cognition. Once released from presynaptic axonal terminals, 5-HT binds to receptors, which have been divided into 7 subfamilies on the basis of conserved structures and signaling mechanisms. These families include the ionotropic 5-HT3 receptors and G-protein-coupled 5-HT receptors, the 5-HT1 (Gi /Go -coupled), 5-HT2(Gq-coupled), 5-HT4/6/7 (Gs-coupled) and 5-HT5 receptors. Presynaptically localized 5-HT1B receptors are thought to be the autoreceptors that suppress excess 5-HT release. 5-HT's actions are terminated by transporter- mediated reuptake into neurons, leading to catabolism by monoamine oxidase.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP map04726  Serotonergic synapse
+DISEASE     H00833  Neurodegeneration with brain iron accumulation (NBIA)
+            H01161  Aromatic L-amino acid decarboxylase (AADC) deficiency
+            H01185  Cerebral amyloid angiopathy (CAA)
+DBLINKS     GO: 0007210
+REFERENCE   PMID:18676031
+  AUTHORS   Millan MJ, Marin P, Bockaert J, Mannoury la Cour C
+  TITLE     Signaling at G-protein-coupled serotonin receptors: recent advances and future research directions.
+  JOURNAL   Trends Pharmacol Sci 29:454-64 (2008)
+REFERENCE   PMID:16896947
+  AUTHORS   Bockaert J, Claeysen S, Becamel C, Dumuis A, Marin P
+  TITLE     Neuronal 5-HT metabotropic receptors: fine-tuning of their structure, signaling,  and roles in synaptic modulation.
+  JOURNAL   Cell Tissue Res 326:553-72 (2006)
+REFERENCE   PMID:11916537
+  AUTHORS   Raymond JR, Mukhin YV, Gelasco A, Turner J, Collinsworth G, Gettys TW, Grewal JS, Garnovskaya MN
+  TITLE     Multiplicity of mechanisms of serotonin receptor signal transduction.
+  JOURNAL   Pharmacol Ther 92:179-212 (2001)
+REFERENCE   PMID:15034221
+  AUTHORS   Noda M, Higashida H, Aoki S, Wada K
+  TITLE     Multiple signal transduction pathways mediated by 5-HT receptors.
+  JOURNAL   Mol Neurobiol 29:31-9 (2004)
+REFERENCE   PMID:20561690
+  AUTHORS   Daubert EA, Condron BG
+  TITLE     Serotonin: a regulator of neuronal morphology and circuitry.
+  JOURNAL   Trends Neurosci 33:424-34 (2010)
+REFERENCE   PMID:16826372
+  AUTHORS   Chameau P, van Hooft JA
+  TITLE     Serotonin 5-HT(3) receptors in the central nervous system.
+  JOURNAL   Cell Tissue Res 326:573-81 (2006)
+REFERENCE   PMID:9651340
+  AUTHORS   Tournois C, Mutel V, Manivet P, Launay JM, Kellermann O
+  TITLE     Cross-talk between 5-hydroxytryptamine receptors in a serotonergic cell line. Involvement of arachidonic acid metabolism.
+  JOURNAL   J Biol Chem 273:17498-503 (1998)
+REFERENCE   PMID:19545642
+  AUTHORS   Iliff JJ, Jia J, Nelson J, Goyagi T, Klaus J, Alkayed NJ
+  TITLE     Epoxyeicosanoid signaling in CNS function and disease.
+  JOURNAL   Prostaglandins Other Lipid Mediat 91:68-84 (2010)
+REFERENCE   PMID:12676358
+  AUTHORS   Adayev T, Ray I, Sondhi R, Sobocki T, Banerjee P
+  TITLE     The G protein-coupled 5-HT1A receptor causes suppression of caspase-3 through MAPK and protein kinase Calpha.
+  JOURNAL   Biochim Biophys Acta 1640:85-96 (2003)
+REFERENCE   PMID:11701344
+  AUTHORS   Albert PR, Tiberi M
+  TITLE     Receptor signaling and structure: insights from serotonin-1 receptors.
+  JOURNAL   Trends Endocrinol Metab 12:453-60 (2001)
+REFERENCE   PMID:9658404
+  AUTHORS   Durham PL, Russo AF
+  TITLE     Serotonergic repression of mitogen-activated protein kinase control of the calcitonin gene-related peptide enhancer.
+  JOURNAL   Mol Endocrinol 12:1002-9 (1998)
+REFERENCE   PMID:15710402
+  AUTHORS   Robert S, Maillet M, Morel E, Launay JM, Fischmeister R, Mercken L, Lezoualc'h F
+  TITLE     Regulation of the amyloid precursor protein ectodomain shedding by the 5-HT4 receptor and Epac.
+  JOURNAL   FEBS Lett 579:1136-42 (2005)
+REFERENCE   PMID:12543273
+  AUTHORS   Lezoualc'h F, Robert SJ
+  TITLE     The serotonin 5-HT4 receptor and the amyloid precursor protein processing.
+  JOURNAL   Exp Gerontol 38:159-66 (2003)
+REFERENCE   PMID:11043573
+  AUTHORS   Durham PL, Russo AF
+  TITLE     Differential regulation of mitogen-activated protein kinase-responsive genes by the duration of a calcium signal.
+  JOURNAL   Mol Endocrinol 14:1570-82 (2000)
+REFERENCE   PMID:9542727
+  AUTHORS   Hagberg GB, Blomstrand F, Nilsson M, Tamir H, Hansson E
+  TITLE     Stimulation of 5-HT2A receptors on astrocytes in primary culture opens voltage-independent Ca2+ channels.
+  JOURNAL   Neurochem Int 32:153-62 (1998)
+REFERENCE   
+  AUTHORS   Nestler EJ, Hyman SE, Malenka RC.
+  TITLE     Molecular neuropharmacology: A foundation for clinical neuroscience
+  JOURNAL   The McGraw-Hill Companies, Inc. (2001)
+KO_PATHWAY  ko04726
+///

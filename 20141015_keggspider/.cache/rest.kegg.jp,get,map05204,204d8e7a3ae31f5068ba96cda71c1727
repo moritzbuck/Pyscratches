@@ -1,0 +1,193 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05204
+server: Apache
+date: Wed, 15 Oct 2014 15:09:28 GMT
+content-type: text/plain
+
+ENTRY       map05204                    Pathway
+NAME        Chemical carcinogenesis
+DESCRIPTION It has been estimated that exposure to environmental chemical carcinogens may contribute significantly to the causation of a sizable fraction, perhaps a majority, of human cancers. Human carcinogens act through a variety of genotoxic and non-genotoxic mechanisms. Genotoxic carcinogens can attack biological macromolecules such as DNA and RNA either directly or indirectly through metabolism, resulting in the formation of adducts with these macromolecules. If DNA adducts escape cellular repair mechanisms and persist, they may lead to miscoding, resulting in permanent mutations. Non-genotoxic carcinogens act by the mechanisms such as induction of inflammation, immunosuppression, formation of reactive oxygen species, activation of receptors, and epigenetic silencing. Together, these genotoxic and non-genotoxic mechanisms can alter signal-transduction pathways that finally result in hypermutability, genomic instability, loss of proliferation control, and resistance to apoptosis - some of the characteristic features of cancer cells.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05204  Chemical carcinogenesis
+REFERENCE   PMID:15660110
+  AUTHORS   Luch A.
+  TITLE     Nature and nurture - lessons from chemical carcinogenesis.
+  JOURNAL   Nat Rev Cancer 5:113-25 (2005)
+REFERENCE   PMID:14570033
+  AUTHORS   Hecht SS
+  TITLE     Tobacco carcinogens, their biomarkers and tobacco-induced cancer.
+  JOURNAL   Nat Rev Cancer 3:733-44 (2003)
+REFERENCE   PMID:18066431
+  AUTHORS   Oliveira PA, Colaco A, Chaves R, Guedes-Pinto H, De-La-Cruz P LF, Lopes C
+  TITLE     Chemical carcinogenesis.
+  JOURNAL   An Acad Bras Cienc 79:593-616 (2007)
+REFERENCE   PMID:15489140
+  AUTHORS   Wogan GN, Hecht SS, Felton JS, Conney AH, Loeb LA.
+  TITLE     Environmental and chemical carcinogenesis.
+  JOURNAL   Semin Cancer Biol 14:473-86 (2004)
+REFERENCE   PMID:21234336
+  AUTHORS   Hang B
+  TITLE     Formation and repair of tobacco carcinogen-derived bulky DNA adducts.
+  JOURNAL   J Nucleic Acids 2010:709521 (2010)
+REFERENCE   PMID:12928348
+  AUTHORS   Tsuneoka Y, Dalton TP, Miller ML, Clay CD, Shertzer HG, Talaska G, Medvedovic M, Nebert DW
+  TITLE     4-aminobiphenyl-induced liver and urinary bladder DNA adduct formation in Cyp1a2(-/-) and Cyp1a2(+/+) mice.
+  JOURNAL   J Natl Cancer Inst 95:1227-37 (2003)
+REFERENCE   PMID:11978484
+  AUTHORS   Kawanishi S, Hiraku Y, Murata M, Oikawa S
+  TITLE     The role of metals in site-specific DNA damage with reference to carcinogenesis.
+  JOURNAL   Free Radic Biol Med 32:822-32 (2002)
+REFERENCE   PMID:11275476
+  AUTHORS   Murata M, Tamura A, Tada M, Kawanishi S
+  TITLE     Mechanism of oxidative DNA damage induced by carcinogenic 4-aminobiphenyl.
+  JOURNAL   Free Radic Biol Med 30:765-73 (2001)
+REFERENCE   PMID:20232918
+  AUTHORS   Patterson AD, Gonzalez FJ, Idle JR
+  TITLE     Xenobiotic metabolism: a view through the metabolometer.
+  JOURNAL   Chem Res Toxicol 23:851-60 (2010)
+REFERENCE   PMID:9202760
+  AUTHORS   Turesky RJ, Box RM, Markovic J, Gremaud E, Snyderwine EG
+  TITLE     Formation and persistence of DNA adducts of 2-amino-3-methylimidazo[4,5-f]quinoline in the rat and nonhuman primates.
+  JOURNAL   Mutat Res 376:235-41 (1997)
+REFERENCE   PMID:20570348
+  AUTHORS   Immonen E, Kummu M, Petsalo A, Pihlaja T, Mathiesen L, Nielsen JK, Knudsen LE, Vahakangas K, Myllynen P
+  TITLE     Toxicokinetics of the food-toxin IQ in human placental perfusion is not affected  by ABCG2 or xenobiotic metabolism.
+  JOURNAL   Placenta 31:641-8 (2010)
+REFERENCE   PMID:8702479
+  AUTHORS   Solomon MS, Morgenthaler PM, Turesky RJ, Essigmann JM
+  TITLE     Mutational and DNA binding specificity of the carcinogen 2-amino-3, 8-dimethylimidazo[4,5-f]quinoxaline.
+  JOURNAL   J Biol Chem 271:18368-74 (1996)
+REFERENCE   PMID:21456541
+  AUTHORS   Nauwelaers G, Bessette EE, Gu D, Tang Y, Rageul J, Fessard V, Yuan JM, Yu MC, Langouet S, Turesky RJ
+  TITLE     DNA adduct formation of 4-aminobiphenyl and heterocyclic aromatic amines in human hepatocytes.
+  JOURNAL   Chem Res Toxicol 24:913-25 (2011)
+REFERENCE   PMID:20669524
+  AUTHORS   
+  TITLE     
+  JOURNAL   (2006)
+REFERENCE   PMID:17445838
+  AUTHORS   Singh R, Sram RJ, Binkova B, Kalina I, Popov TA, Georgieva T, Garte S, Taioli E, Farmer PB
+  TITLE     The relationship between biomarkers of oxidative DNA damage, polycyclic aromatic  hydrocarbon DNA adducts, antioxidant status and genetic susceptibility following  exposure to environmental air pollution in humans.
+  JOURNAL   Mutat Res 620:83-92 (2007)
+REFERENCE   PMID:15298956
+  AUTHORS   Lodovici M, Luceri C, Guglielmi F, Bacci C, Akpan V, Fonnesu ML, Boddi V, Dolara P.
+  TITLE     Benzo(a)pyrene diolepoxide (BPDE)-DNA adduct levels in leukocytes of smokers in relation to polymorphism of CYP1A1, GSTM1, GSTP1, GSTT1, and mEH.
+  JOURNAL   Cancer Epidemiol Biomarkers Prev 13:1342-8 (2004)
+REFERENCE   PMID:19531241
+  AUTHORS   Androutsopoulos VP, Tsatsakis AM, Spandidos DA
+  TITLE     Cytochrome P450 CYP1A1: wider roles in cancer progression and prevention.
+  JOURNAL   BMC Cancer 9:187 (2009)
+REFERENCE   PMID:11376689
+  AUTHORS   Gonzalez FJ, Kimura S
+  TITLE     Understanding the role of xenobiotic-metabolism in chemical carcinogenesis using  gene knockout mice.
+  JOURNAL   Mutat Res 477:79-87 (2001)
+REFERENCE   PMID:11467078
+  AUTHORS   Banoglu E
+  TITLE     Current status of the cytosolic sulfotransferases in the metabolic activation of  promutagens and procarcinogens.
+  JOURNAL   Curr Drug Metab 1:1-30 (2000)
+REFERENCE   PMID:15532073
+  AUTHORS   Lehner AF, Horn J, Flesher JW
+  TITLE     Mass spectrometric analysis of 7-sulfoxymethyl-12-methylbenz[a]anthracene and related electrophilic polycyclic aromatic hydrocarbon metabolites.
+  JOURNAL   J Mass Spectrom 39:1366-78 (2004)
+REFERENCE   PMID:21217854
+  AUTHORS   Stiborova M, Martinek V, Semanska M, Hodek P, Dracinsky M, Cvacka J, Schmeiser HH, Frei E
+  TITLE     Oxidation of the carcinogenic non-aminoazo dye 1-phenylazo-2-hydroxy-naphthalene  (Sudan I) by cytochromes P450 and peroxidases: a comparative study.
+  JOURNAL   Interdiscip Toxicol 2:195-200 (2009)
+REFERENCE   PMID:10913381
+  AUTHORS   Maanen MJ, Smeets CJ, Beijnen JH
+  TITLE     Chemistry, pharmacology and pharmacokinetics of N,N',N" -triethylenethiophosphoramide (ThioTEPA).
+  JOURNAL   Cancer Treat Rev 26:257-68 (2000)
+REFERENCE   PMID:11092599
+  AUTHORS   Hoes I, Van Dongen W, Lemiere F, Esmans EL, Van Bockstaele D, Berneman ZN
+  TITLE     Comparison between capillary and nano liquid chromatography-electrospray mass spectrometry for the analysis of minor DNA-melphalan adducts.
+  JOURNAL   J Chromatogr B Biomed Sci Appl 748:197-212 (2000)
+REFERENCE   PMID:22705365
+  AUTHORS   Lee JC, Son YO, Pratheeshkumar P, Shi X
+  TITLE     Oxidative stress and metal carcinogenesis.
+  JOURNAL   Free Radic Biol Med 53:742-57 (2012)
+REFERENCE   PMID:12435844
+  AUTHORS   Wild CP, Turner PC
+  TITLE     The toxicology of aflatoxins as a basis for public health decisions.
+  JOURNAL   Mutagenesis 17:471-81 (2002)
+REFERENCE   PMID:9275165
+  AUTHORS   Kobertz WR, Wang D, Wogan GN, Essigmann JM
+  TITLE     An intercalation inhibitor altering the target selectivity of DNA damaging agents: synthesis of site-specific aflatoxin B1 adducts in a p53 mutational hotspot.
+  JOURNAL   Proc Natl Acad Sci U S A 94:9579-84 (1997)
+REFERENCE   PMID:8759017
+  AUTHORS   Bailey EA, Iyer RS, Harris TM, Essigmann JM
+  TITLE     A viral genome containing an unstable aflatoxin B1-N7-guanine DNA adduct situated at a unique site.
+  JOURNAL   Nucleic Acids Res 24:2821-8 (1996)
+REFERENCE   PMID:21473878
+  AUTHORS   Chiang HC, Wang CY, Lee HL, Tsou TC
+  TITLE     Metabolic effects of CYP2A6 and CYP2A13 on 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK)-induced gene mutation--a mammalian cell-based mutagenesis approach.
+  JOURNAL   Toxicol Appl Pharmacol 253:145-52 (2011)
+REFERENCE   PMID:21154658
+  AUTHORS   Bhat SH, Gelhaus SL, Mesaros C, Vachani A, Blair IA
+  TITLE     A new liquid chromatography/mass spectrometry method for 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol (NNAL) in urine.
+  JOURNAL   Rapid Commun Mass Spectrom 25:115-21 (2011)
+REFERENCE   PMID:20159989
+  AUTHORS   Maertens LA, Upadhyaya P, Hecht SS, Zimmerman CL
+  TITLE     Formation and distribution of NNK metabolites in an isolated perfused rat lung.
+  JOURNAL   Drug Metab Dispos 38:752-60 (2010)
+REFERENCE   PMID:17459420
+  AUTHORS   Schuller HM
+  TITLE     Nitrosamines as nicotinic receptor ligands.
+  JOURNAL   Life Sci 80:2274-80 (2007)
+REFERENCE   PMID:22178655
+  AUTHORS   Shen J, Xu L, Owonikoko TK, Sun SY, Khuri FR, Curran WJ, Deng X
+  TITLE     NNK promotes migration and invasion of lung cancer cells through activation of c-Src/PKCiota/FAK loop.
+  JOURNAL   Cancer Lett 318:106-13 (2012)
+REFERENCE   PMID:8951235
+  AUTHORS   Lee VM, Keefer LK, Archer MC
+  TITLE     An evaluation of the roles of metabolic denitrosation and alpha-hydroxylation in  the hepatotoxicity of N-Nitrosodimethylamine.
+  JOURNAL   Chem Res Toxicol 9:1319-24 (1996)
+REFERENCE   PMID:21163908
+  AUTHORS   Swenberg JA, Lu K, Moeller BC, Gao L, Upton PB, Nakamura J, Starr TB
+  TITLE     Endogenous versus exogenous DNA adducts: their role in carcinogenesis, epidemiology, and risk assessment.
+  JOURNAL   Toxicol Sci 120 Suppl 1:S130-45 (2011)
+REFERENCE   PMID:10753215
+  AUTHORS   Yang Y, Nair J, Barbin A, Bartsch H
+  TITLE     Immunohistochemical detection of 1,N(6)-ethenodeoxyadenosine, a promutagenic DNA  adduct, in liver of rats exposed to vinyl chloride or an iron overload.
+  JOURNAL   Carcinogenesis 21:777-81 (2000)
+REFERENCE   PMID:15582261
+  AUTHORS   Bartsch H, Nair J
+  TITLE     Oxidative stress and lipid peroxidation-derived DNA-lesions in inflammation driven carcinogenesis.
+  JOURNAL   Cancer Detect Prev 28:385-91 (2004)
+REFERENCE   PMID:19657920
+  AUTHORS   Tabrez S, Ahmad M
+  TITLE     Toxicity, biomarkers, genotoxicity, and carcinogenicity of trichloroethylene and  its metabolites: a review.
+  JOURNAL   J Environ Sci Health C Environ Carcinog Ecotoxicol Rev 27:178-96 (2009)
+REFERENCE   PMID:16421178
+  AUTHORS   Lock EA, Reed CJ
+  TITLE     Trichloroethylene: mechanisms of renal toxicity and renal cancer and relevance to risk assessment.
+  JOURNAL   Toxicol Sci 91:313-31 (2006)
+REFERENCE   PMID:16959879
+  AUTHORS   Kim D, Ghanayem BI
+  TITLE     Comparative metabolism and disposition of trichloroethylene in Cyp2e1-/-and wild-type mice.
+  JOURNAL   Drug Metab Dispos 34:2020-7 (2006)
+REFERENCE   PMID:11222868
+  AUTHORS   Cummings BS, Parker JC, Lash LH
+  TITLE     Cytochrome p450-dependent metabolism of trichloroethylene in rat kidney.
+  JOURNAL   Toxicol Sci 60:11-9 (2001)
+REFERENCE   PMID:9356303
+  AUTHORS   Abbas R, Fisher JW
+  TITLE     A physiologically based pharmacokinetic model for trichloroethylene and its metabolites, chloral hydrate, trichloroacetate, dichloroacetate, trichloroethanol, and trichloroethanol glucuronide in B6C3F1 mice.
+  JOURNAL   Toxicol Appl Pharmacol 147:15-30 (1997)
+REFERENCE   PMID:9152590
+  AUTHORS   Stenner RD, Merdink JL, Stevens DK, Springer DL, Bull RJ
+  TITLE     Enterohepatic recirculation of trichloroethanol glucuronide as a significant source of trichloroacetic acid. Metabolites of trichloroethylene.
+  JOURNAL   Drug Metab Dispos 25:529-35 (1997)
+REFERENCE   PMID:21255676
+  AUTHORS   Gwinn MR, Johns DO, Bateson TF, Guyton KZ
+  TITLE     A review of the genotoxicity of 1,2-dichloroethane (EDC).
+  JOURNAL   Mutat Res 727:42-53 (2011)
+REFERENCE   PMID:16084004
+  AUTHORS   Kehe K, Szinicz L
+  TITLE     Medical aspects of sulphur mustard poisoning.
+  JOURNAL   Toxicology 214:198-209 (2005)
+REFERENCE   PMID:17292678
+  AUTHORS   Matijasevic Z, Volkert MR
+  TITLE     Base excision repair sensitizes cells to sulfur mustard and chloroethyl ethyl sulfide.
+  JOURNAL   DNA Repair (Amst) 6:733-41 (2007)
+KO_PATHWAY  ko05204
+///

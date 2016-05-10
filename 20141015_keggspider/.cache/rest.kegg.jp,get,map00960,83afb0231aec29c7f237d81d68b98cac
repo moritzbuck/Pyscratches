@@ -1,0 +1,13 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00960
+server: Apache
+date: Wed, 15 Oct 2014 15:08:14 GMT
+content-type: text/plain
+
+ENTRY       map00960                    Pathway
+NAME        Tropane, piperidine and pyridine alkaloid biosynthesis
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00960  Tropane, piperidine and pyridine alkaloid biosynthesis
+DBLINKS     UMBBD: caf  caf2
+KO_PATHWAY  ko00960
+///

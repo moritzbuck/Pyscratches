@@ -1,0 +1,55 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00980
+server: Apache
+date: Wed, 15 Oct 2014 14:57:52 GMT
+content-type: text/plain
+
+ENTRY       map00980                    Pathway
+NAME        Metabolism of xenobiotics by cytochrome P450
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00980  Metabolism of xenobiotics by cytochrome P450
+DISEASE     H01075  Peters anomaly
+            H01111  Cortisone reductase deficiency (CRD)
+            H01203  Primary congenital glaucoma (PCG)
+REFERENCE   PMID:12487150
+  AUTHORS   Buckpitt A, Boland B, Isbell M, Morin D, Shultz M, Baldwin R, Chan K, Karlsson A, Lin C, Taff A, West J, Fanucchi M, Van Winkle L, Plopper C.
+  TITLE     Naphthalene-induced respiratory tract toxicity: metabolic mechanisms of toxicity.
+  JOURNAL   Drug Metab Rev 34:791-820 (2002)
+REFERENCE   PMID:10725110
+  AUTHORS   Bolton JL, Trush MA, Penning TM, Dryhurst G, Monks TJ.
+  TITLE     Role of quinones in toxicology.
+  JOURNAL   Chem Res Toxicol 13:135-60 (2000)
+REFERENCE   PMID:10570027
+  AUTHORS   Halladay JS, Sauer JM, Sipes IG.
+  TITLE     Metabolism and disposition of [(14)C]1-nitronaphthalene in male Sprague-Dawley rats.
+  JOURNAL   Drug Metab Dispos 27:1456-65 (1999)
+REFERENCE   PMID:10490505
+  AUTHORS   Watt KC, Morin DM, Kurth MJ, Mercer RS, Plopper CG, Buckpitt AR.
+  TITLE     Glutathione conjugation of electrophilic metabolites of 1-nitronaphthalene in rat tracheobronchial airways and liver: identification by mass spectrometry and proton nuclear magnetic resonance spectroscopy.
+  JOURNAL   Chem Res Toxicol 12:831-9 (1999)
+REFERENCE   PMID:15319346
+  AUTHORS   Simmonds AC, Reilly CA, Baldwin RM, Ghanayem BI, Lanza DL, Yost GS, Collins KS, Forkert PG.
+  TITLE     Bioactivation of 1,1-dichloroethylene to its epoxide by CYP2E1 and CYP2F enzymes.
+  JOURNAL   Drug Metab Dispos 32:1032-9 (2004)
+REFERENCE   PMID:15987776
+  AUTHORS   Forkert PG, Baldwin RM, Millen B, Lash LH, Putt DA, Shultz MA, Collins KS.
+  TITLE     Pulmonary bioactivation of trichloroethylene to chloral hydrate: relative contributions of CYP2E1, CYP2F, and CYP2B1.
+  JOURNAL   Drug Metab Dispos 33:1429-37 (2005)
+REFERENCE   PMID:9107551
+  AUTHORS   Wormhoudt LW, Commandeur JN, Ploemen JH, Abdoelgafoer RS, Makansi A, Van Bladeren PJ, Vermeulen NP.
+  TITLE     Urinary thiodiacetic acid. A selective biomarker for the cytochrome P450-catalyzed oxidation of 1,2-dibromoethane in the rat.
+  JOURNAL   Drug Metab Dispos 25:508-15 (1997)
+REFERENCE   PMID:4395686
+  AUTHORS   Brodie BB, Reid WD, Cho AK, Sipes G, Krishna G, Gillette JR.
+  TITLE     Possible mechanism of liver necrosis caused by aromatic organic compounds.
+  JOURNAL   Proc Natl Acad Sci U S A 68:160-4 (1971)
+REFERENCE   PMID:15298956
+  AUTHORS   Lodovici M, Luceri C, Guglielmi F, Bacci C, Akpan V, Fonnesu ML, Boddi V, Dolara P.
+  TITLE     Benzo(a)pyrene diolepoxide (BPDE)-DNA adduct levels in leukocytes of smokers in relation to polymorphism of CYP1A1, GSTM1, GSTP1, GSTT1, and mEH.
+  JOURNAL   Cancer Epidemiol Biomarkers Prev 13:1342-8 (2004)
+REFERENCE   
+  AUTHORS   Omura T, Ishimura Y, Fujii Y (eds).
+  TITLE     [Molecular Biology of P450] (In Japanese)
+  JOURNAL   Kodansya (2003)
+KO_PATHWAY  ko00980
+///

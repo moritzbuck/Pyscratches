@@ -1,0 +1,141 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05205
+server: Apache
+date: Wed, 15 Oct 2014 15:09:29 GMT
+content-type: text/plain
+
+ENTRY       map05205                    Pathway
+NAME        Proteoglycans in cancer
+DESCRIPTION Many proteoglycans (PGs) in the tumor microenvironment have been shown to be key macromolecules that contribute to biology of various types of cancer including proliferation, adhesion, angiogenesis and metastasis, affecting tumor progress. The four main types of proteoglycans include hyaluronan (HA), which does not occur as a PG but in free form, heparan sulfate proteoglycans (HSPGs), chondroitin sulfate proteoglycans (CSPGs), dematan sulfate proteoglycans (DSPG) and keratan sulfate proteoglycans (KSPGs) [BR:00535]. Among these proteoglycans such as HA, acting with CD44, promotes tumor cell growth and migration, whereas other proteoglycans such as syndecans (-1~-4), glypican (-1, -3) and perlecan may interact with growth factors, cytokines, morphogens and enzymes through HS chains [BR: 00536], also leading to tumor growth and invasion. In contrast, some of the small leucine-rich proteolgycans, such as decorin and lumican, can function as tumor repressors, and modulate the signaling pathways by the interaction of their core proteins and multiple receptors.
+CLASS       Human Diseases; Cancers
+PATHWAY_MAP map05205  Proteoglycans in cancer
+REFERENCE   PMID:18450475
+  AUTHORS   Bourguignon LY
+  TITLE     Hyaluronan-mediated CD44 activation of RhoGTPase signaling and cytoskeleton function promotes tumor progression.
+  JOURNAL   Semin Cancer Biol 18:251-9 (2008)
+REFERENCE   PMID:12729888
+  AUTHORS   Briggs MW, Sacks DB
+  TITLE     IQGAP1 as signal integrator: Ca2+, calmodulin, Cdc42 and the cytoskeleton.
+  JOURNAL   FEBS Lett 542:7-11 (2003)
+REFERENCE   PMID:12748184
+  AUTHORS   Bourguignon LY, Singleton PA, Zhu H, Diedrich F
+  TITLE     Hyaluronan-mediated CD44 interaction with RhoGEF and Rho kinase promotes Grb2-associated binder-1 phosphorylation and phosphatidylinositol 3-kinase signaling leading to cytokine (macrophage-colony stimulating factor) production and breast tumor progression.
+  JOURNAL   J Biol Chem 278:29420-34 (2003)
+REFERENCE   PMID:15655247
+  AUTHORS   Bourguignon LY, Gilad E, Rothman K, Peyrollier K
+  TITLE     Hyaluronan-CD44 interaction with IQGAP1 promotes Cdc42 and ERK signaling, leading to actin binding, Elk-1/estrogen receptor transcriptional activation, and ovarian cancer progression.
+  JOURNAL   J Biol Chem 280:11961-72 (2005)
+REFERENCE   PMID:11717317
+  AUTHORS   Turley EA, Noble PW, Bourguignon LY
+  TITLE     Signaling properties of hyaluronan receptors.
+  JOURNAL   J Biol Chem 277:4589-92 (2002)
+REFERENCE   PMID:9346940
+  AUTHORS   Bourguignon LY, Zhu H, Chu A, Iida N, Zhang L, Hung MC
+  TITLE     Interaction between the adhesion receptor, CD44, and the oncogene product, p185HER2, promotes human ovarian tumor cell activation.
+  JOURNAL   J Biol Chem 272:27913-8 (1997)
+REFERENCE   PMID:22735579
+  AUTHORS   Neill T, Schaefer L, Iozzo RV
+  TITLE     Decorin: a guardian from the matrix.
+  JOURNAL   Am J Pathol 181:380-7 (2012)
+REFERENCE   PMID:22194599
+  AUTHORS   Neill T, Painter H, Buraschi S, Owens RT, Lisanti MP, Schaefer L, Iozzo RV
+  TITLE     Decorin antagonizes the angiogenic network: concurrent inhibition of Met, hypoxia inducible factor 1alpha, vascular endothelial growth factor A, and induction of thrombospondin-1 and TIMP3.
+  JOURNAL   J Biol Chem 287:5492-506 (2012)
+REFERENCE   PMID:19433454
+  AUTHORS   Goldoni S, Humphries A, Nystrom A, Sattar S, Owens RT, McQuillan DJ, Ireton K, Iozzo RV
+  TITLE     Decorin is a novel antagonistic ligand of the Met receptor.
+  JOURNAL   J Cell Biol 185:743-54 (2009)
+REFERENCE   PMID:15994311
+  AUTHORS   Zhu JX, Goldoni S, Bix G, Owens RT, McQuillan DJ, Reed CC, Iozzo RV
+  TITLE     Decorin evokes protracted internalization and degradation of the epidermal growth factor receptor via caveolar endocytosis.
+  JOURNAL   J Biol Chem 280:32468-79 (2005)
+REFERENCE   PMID:20974860
+  AUTHORS   Buraschi S, Pal N, Tyler-Rubinstein N, Owens RT, Neill T, Iozzo RV
+  TITLE     Decorin antagonizes Met receptor activity and down-regulates {beta}-catenin and Myc levels.
+  JOURNAL   J Biol Chem 285:42075-85 (2010)
+REFERENCE   PMID:18798267
+  AUTHORS   Goldoni S, Iozzo RV
+  TITLE     Tumor microenvironment: Modulation by decorin and related molecules harboring leucine-rich tandem motifs.
+  JOURNAL   Int J Cancer 123:2473-9 (2008)
+REFERENCE   PMID:23058688
+  AUTHORS   Sofeu Feugaing DD, Gotte M, Viola M
+  TITLE     More than matrix: the multifaceted role of decorin in cancer.
+  JOURNAL   Eur J Cell Biol 92:1-11 (2013)
+REFERENCE   PMID:22087031
+  AUTHORS   Merline R, Moreth K, Beckmann J, Nastase MV, Zeng-Brouwers J, Tralhao JG, Lemarchand P, Pfeilschifter J, Schaefer RM, Iozzo RV, Schaefer L
+  TITLE     Signaling by the matrix proteoglycan decorin controls inflammation and cancer through PDCD4 and MicroRNA-21.
+  JOURNAL   Sci Signal 4:ra75 (2011)
+REFERENCE   PMID:22033227
+  AUTHORS   Teng YH, Aquino RS, Park PW
+  TITLE     Molecular functions of syndecan-1 in disease.
+  JOURNAL   Matrix Biol 31:3-16 (2012)
+REFERENCE   PMID:11830493
+  AUTHORS   Derksen PW, Keehnen RM, Evers LM, van Oers MH, Spaargaren M, Pals ST
+  TITLE     Cell surface proteoglycan syndecan-1 mediates hepatocyte growth factor binding and promotes Met signaling in multiple myeloma.
+  JOURNAL   Blood 99:1405-10 (2002)
+REFERENCE   PMID:19733083
+  AUTHORS   Fux L, Ilan N, Sanderson RD, Vlodavsky I
+  TITLE     Heparanase: busy at the cell surface.
+  JOURNAL   Trends Biochem Sci 34:511-9 (2009)
+REFERENCE   PMID:18812315
+  AUTHORS   Purushothaman A, Chen L, Yang Y, Sanderson RD
+  TITLE     Heparanase stimulation of protease expression implicates it as a master regulator of the aggressive tumor phenotype in myeloma.
+  JOURNAL   J Biol Chem 283:32628-36 (2008)
+REFERENCE   PMID:19255147
+  AUTHORS   Beauvais DM, Ell BJ, McWhorter AR, Rapraeger AC
+  TITLE     Syndecan-1 regulates alphavbeta3 and alphavbeta5 integrin activation during angiogenesis and is blocked by synstatin, a novel peptide inhibitor.
+  JOURNAL   J Exp Med 206:691-705 (2009)
+REFERENCE   PMID:20655987
+  AUTHORS   Mahtouk K, Tjin EP, Spaargaren M, Pals ST
+  TITLE     The HGF/MET pathway as target for the treatment of multiple myeloma and B-cell lymphomas.
+  JOURNAL   Biochim Biophys Acta 1806:208-19 (2010)
+REFERENCE   PMID:11931647
+  AUTHORS   Munesue S, Kusano Y, Oguri K, Itano N, Yoshitomi Y, Nakanishi H, Yamashina I, Okayama M
+  TITLE     The role of syndecan-2 in regulation of actin-cytoskeletal organization of Lewis  lung carcinoma-derived metastatic clones.
+  JOURNAL   Biochem J 363:201-9 (2002)
+REFERENCE   PMID:10687947
+  AUTHORS   Nugent MA, Iozzo RV
+  TITLE     Fibroblast growth factor-2.
+  JOURNAL   Int J Biochem Cell Biol 32:115-20 (2000)
+REFERENCE   PMID:10633082
+  AUTHORS   Baciu PC, Saoncella S, Lee SH, Denhez F, Leuthardt D, Goetinck PF
+  TITLE     Syndesmos, a protein that interacts with the cytoplasmic domain of syndecan-4, mediates cell spreading and actin cytoskeletal organization.
+  JOURNAL   J Cell Sci 113 Pt 2:315-24 (2000)
+REFERENCE   PMID:12509413
+  AUTHORS   Thodeti CK, Albrechtsen R, Grauslund M, Asmar M, Larsson C, Takada Y, Mercurio AM, Couchman JR, Wewer UM
+  TITLE     ADAM12/syndecan-4 signaling promotes beta 1 integrin-dependent cell spreading through protein kinase Calpha and RhoA.
+  JOURNAL   J Biol Chem 278:9576-84 (2003)
+REFERENCE   PMID:14711376
+  AUTHORS   Beauvais DM, Rapraeger AC
+  TITLE     Syndecans in tumor cell adhesion and signaling.
+  JOURNAL   Reprod Biol Endocrinol 2:3 (2004)
+REFERENCE   PMID:17971838
+  AUTHORS   Morgan MR, Humphries MJ, Bass MD
+  TITLE     Synergistic control of cell adhesion by integrins and syndecans.
+  JOURNAL   Nat Rev Mol Cell Biol 8:957-69 (2007)
+REFERENCE   PMID:18505598
+  AUTHORS   Filmus J, Capurro M, Rast J
+  TITLE     Glypicans.
+  JOURNAL   Genome Biol 9:224 (2008)
+REFERENCE   PMID:23305321
+  AUTHORS   Filmus J, Capurro M
+  TITLE     Glypican-3: a marker and a therapeutic target in hepatocellular carcinoma.
+  JOURNAL   FEBS J 280:2471-6 (2013)
+REFERENCE   PMID:22563565
+  AUTHORS   Gao W, Ho M
+  TITLE     The role of glypican-3 in regulating Wnt in hepatocellular carcinomas.
+  JOURNAL   Cancer Rep 1:14-19 (2011)
+REFERENCE   PMID:18413366
+  AUTHORS   Cheng W, Tseng CJ, Lin TT, Cheng I, Pan HW, Hsu HC, Lee YM
+  TITLE     Glypican-3-mediated oncogenesis involves the Insulin-like growth factor-signaling pathway.
+  JOURNAL   Carcinogenesis 29:1319-26 (2008)
+REFERENCE   PMID:21155971
+  AUTHORS   Iozzo RV, Sanderson RD
+  TITLE     Proteoglycans in cancer biology, tumour microenvironment and angiogenesis.
+  JOURNAL   J Cell Mol Med 15:1013-31 (2011)
+REFERENCE   PMID:18949819
+  AUTHORS   Nikitovic D, Katonis P, Tsatsakis A, Karamanos NK, Tzanakakis GN
+  TITLE     Lumican, a small leucine-rich proteoglycan.
+  JOURNAL   IUBMB Life 60:818-23 (2008)
+KO_PATHWAY  ko05205
+///

@@ -1,0 +1,37 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00364
+server: Apache
+date: Wed, 15 Oct 2014 14:57:19 GMT
+content-type: text/plain
+
+ENTRY       map00364                    Pathway
+NAME        Fluorobenzoate degradation
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP map00364  Fluorobenzoate degradation
+DBLINKS     UMBBD: 3fb 4fb box dcb
+REFERENCE   PMID:16345496
+  AUTHORS   Schreiber A, Hellwig M, Dorn E, Reineke W, Knackmuss HJ.
+  TITLE     Critical Reactions in Fluorobenzoic Acid Degradation by Pseudomonas sp. B13.
+  JOURNAL   Appl Environ Microbiol 39:58-67 (1980)
+REFERENCE   PMID:12957954
+  AUTHORS   Solyanikova IP, Moiseeva OV, Boeren S, Boersma MG, Kolomytseva MP, Vervoort J, Rietjens IM, Golovleva LA, van Berkel WJ.
+  TITLE     Conversion of 2-fluoromuconate to cis-dienelactone by purified enzymes of Rhodococcus opacus 1cp.
+  JOURNAL   Appl Environ Microbiol 69:5636-42 (2003)
+REFERENCE   PMID:16980423
+  AUTHORS   Carvalho MF, Ferreira MI, Moreira IS, Castro PM, Janssen DB.
+  TITLE     Degradation of fluorobenzene by Rhizobiales strain F11 via ortho cleavage of 4-fluorocatechol and catechol.
+  JOURNAL   Appl Environ Microbiol 72:7413-7 (2006)
+REFERENCE   PMID:18355280
+  AUTHORS   Chae JC, Song B, Zylstra GJ
+  TITLE     Identification of genes coding for hydrolytic dehalogenation in the metagenome derived from a denitrifying 4-chlorobenzoate degrading consortium.
+  JOURNAL   FEMS Microbiol Lett 281:203-9 (2008)
+REFERENCE   
+  AUTHORS   Rosenbrock P, Munch JC, Scheunert I, Dorfler U.
+  TITLE     Biodegradation of the herbicide bromoxynil and its plant cell wall bound residues in an agricultural soil.
+  JOURNAL   Pesticide Biochemistry and Physiology 78:49-57 (2004)
+REFERENCE   PMID:1610174
+  AUTHORS   Topp E, Xun LY, Orser CS.
+  TITLE     Biodegradation of the herbicide bromoxynil (3,5-dibromo-4-hydroxybenzonitrile) by purified pentachlorophenol hydroxylase and whole cells of Flavobacterium sp. strain ATCC 39723 is accompanied by cyanogenesis.
+  JOURNAL   Appl Environ Microbiol 58:502-6 (1992)
+KO_PATHWAY  ko00364
+///

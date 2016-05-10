@@ -1,0 +1,49 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07023
+server: Apache
+date: Wed, 15 Oct 2014 14:59:20 GMT
+content-type: text/plain
+
+ENTRY       map07023          Drug      Pathway
+NAME        Rifamycins
+PATHWAY_MAP map07023  Rifamycins
+COMPOUND    C14539  Krm 1657
+            C14540  Rifamycin S
+            D00211  Rifampicin (JP16/INN)
+            D00424  Rifabutin (JAN/USP/INN)
+            D00879  Rifapentine (USAN/INN)
+            D02549  Rifamycin (USAN/INN)
+            D02550  Rifalazil (USAN/INN)
+            D02553  Rifamide (USAN)
+            D02554  Rifaximin (JAN/USAN/INN)
+            D08479  Rifampicin sodium
+            D08480  Rifamycin sodium (USAN)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   PMID:2039206
+  AUTHORS   Saito H, Tomioka H, Sato K, Emori M, Yamane T, Yamashita K, Hosoe K, Hidaka T
+  TITLE     In vitro antimycobacterial activities of newly synthesized benzoxazinorifamycins.
+  JOURNAL   Antimicrob Agents Chemother 35:542-7 (1991)
+REFERENCE   PMID:9869560
+  AUTHORS   Heifets L, Sanchez T, Vanderkolk J, Pham V
+  TITLE     Development of rifapentine susceptibility tests for Mycobacterium tuberculosis.
+  JOURNAL   Antimicrob Agents Chemother 43:25-8 (1999)
+REFERENCE   PMID:15700959
+  AUTHORS   Floss HG, Yu TW.
+  TITLE     Rifamycin-mode of action, resistance, and biosynthesis.
+  JOURNAL   Chem Rev 105:621-32 (2005)
+///

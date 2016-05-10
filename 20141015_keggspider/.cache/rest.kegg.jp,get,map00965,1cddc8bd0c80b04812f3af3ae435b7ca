@@ -1,0 +1,29 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map00965
+server: Apache
+date: Wed, 15 Oct 2014 15:08:14 GMT
+content-type: text/plain
+
+ENTRY       map00965                    Pathway
+NAME        Betalain biosynthesis
+DESCRIPTION Betalains are water-soluble nitrogen-containing pigments that are present in plants belonging to the order Caryophyllales (such as cactus and amaranth families) and in higher fungi. They contain betalamic acid as the chromophore and are classified into two types: betacyanins and betaxanthins. Betacyanins contain a cyclo-DOPA residue and exhibit red/violet coloration, while betaxanthins contain different amino acids or amino side chains and exhibit a yellow/orange coloration. The condensation of betalamic acid with amino acids (including cyclo-DOPA or amines) in plants is a spontaneous reaction, not an enzyme-catalyzed reaction.
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP map00965  Betalain biosynthesis
+REFERENCE   PMID:15805475
+  AUTHORS   Gandia-Herrero F, Escribano J, Garcia-Carmona F
+  TITLE     Betaxanthins as substrates for tyrosinase. An approach to the role of tyrosinase in the biosynthetic pathway of betalains.
+  JOURNAL   Plant Physiol 138:421-32 (2005)
+REFERENCE   PMID:16247652
+  AUTHORS   Sasaki N, Abe Y, Wada K, Koda T, Goda Y, Adachi T, Ozeki Y
+  TITLE     Amaranthin in feather cockscombs is synthesized via glucuronylation at the cyclo-DOPA glucoside step in the betacyanin biosynthetic pathway.
+  JOURNAL   J Plant Res 118:439-42 (2005)
+REFERENCE   PMID:12620337
+  AUTHORS   Strack D, Vogt T, Schliemann W
+  TITLE     Recent advances in betalain research.
+  JOURNAL   Phytochemistry 62:247-69 (2003)
+REFERENCE   PMID:11855654
+  AUTHORS   Vogt T
+  TITLE     Substrate specificity and sequence analysis define a polyphyletic origin of betanidin 5- and 6-O-glucosyltransferase from Dorotheanthus bellidiformis.
+  JOURNAL   Planta 214:492-5 (2002)
+KO_PATHWAY  ko00965
+///

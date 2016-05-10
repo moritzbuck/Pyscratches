@@ -1,0 +1,101 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04650
+server: Apache
+date: Wed, 15 Oct 2014 15:08:56 GMT
+content-type: text/plain
+
+ENTRY       map04650                    Pathway
+NAME        Natural killer cell mediated cytotoxicity
+DESCRIPTION Natural killer (NK) cells are lymphocytes of the innate immune system that are involved in early defenses against both allogeneic (nonself) cells and autologous cells undergoing various forms of stress, such as infection with viruses, bacteria, or parasites or malignant transformation. Although NK cells do not express classical antigen receptors of the immunoglobulin gene family, such as the antibodies produced by B cells or the T cell receptor expressed by T cells, they are equipped with various receptors whose engagement allows them to discriminate between target and nontarget cells. Activating receptors bind ligands on the target cell surface and trigger NK cell activation and target cell lysis. However Inhibitory receptors recognize MHC class I molecules (HLA) and inhibit killing by NK cells by overruling the actions of the activating receptors. This inhibitory signal is lost when the target cells do not express MHC class I and perhaps also in cells infected with virus, which might inhibit MHC class I exprssion or alter its conformation. The mechanism of NK cell killing is the same as that used by the cytotoxic T cells generated in an adaptive immune response; cytotoxic granules are released onto the surface of the bound target cell, and the effector proteins they contain penetrate the cell membrane and induce programmed cell death.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP map04650  Natural killer cell mediated cytotoxicity
+DISEASE     H00090  NK cell defects
+            H00344  Leprosy
+            H01018  Metachondromatosis
+DBLINKS     GO: 0042267
+REFERENCE   PMID:15607802
+  AUTHORS   Chiesa S, Tomasello E, Vivier E, Vely F.
+  TITLE     Coordination of activating and inhibitory signals in natural killer cells.
+  JOURNAL   Mol Immunol 42:477-84 (2005)
+REFERENCE   PMID:16109839
+  AUTHORS   Maghazachi AA.
+  TITLE     Insights into seven and single transmembrane-spanning domain receptors and their signaling pathways in human natural killer cells.
+  JOURNAL   Pharmacol Rev 57:339-57 (2005)
+REFERENCE   PMID:15567854
+  AUTHORS   Vivier E, Nunes JA, Vely F.
+  TITLE     Natural killer cell signaling pathways.
+  JOURNAL   Science 306:1517-9 (2004)
+REFERENCE   PMID:12205470
+  AUTHORS   Colucci F, Di Santo JP, Leibson PJ.
+  TITLE     Natural killer cell activation in mice and men: different triggers for similar weapons?
+  JOURNAL   Nat Immunol 3:807-13 (2002)
+REFERENCE   PMID:11062493
+  AUTHORS   Perussia B.
+  TITLE     Signaling for cytotoxicity.
+  JOURNAL   Nat Immunol 1:372-4 (2000)
+REFERENCE   PMID:15607806
+  AUTHORS   Smyth MJ, Cretney E, Kelly JM, Westwood JA, Street SE, Yagita H, Takeda K, van Dommelen SL, Degli-Esposti MA, Hayakawa Y.
+  TITLE     Activation of NK cell cytotoxicity.
+  JOURNAL   Mol Immunol 42:501-10 (2005)
+REFERENCE   PMID:11895890
+  AUTHORS   Djeu JY, Jiang K, Wei S.
+  TITLE     A view to a kill: signals triggering cytotoxicity.
+  JOURNAL   Clin Cancer Res 8:636-40 (2002)
+REFERENCE   PMID:12530970
+  AUTHORS   Smyth MJ, Takeda K, Hayakawa Y, Peschon JJ, van den Brink MR, Yagita H.
+  TITLE     Nature's TRAIL--on a path to cancer immunotherapy.
+  JOURNAL   Immunity 18:1-6 (2003)
+REFERENCE   PMID:16177799
+  AUTHORS   Colonna M.
+  TITLE     Fine-tuning NK cell responses: it's a family affair.
+  JOURNAL   Nat Immunol 6:961-2 (2005)
+REFERENCE   PMID:8942070
+  AUTHORS   Bonnema JD, Leibson PJ.
+  TITLE     Signal transduction during NK cell activation.
+  JOURNAL   Chem Immunol 64:28-43 (1996)
+REFERENCE   (Japanese)
+  AUTHORS   Satoh T, Arase H.
+  TITLE     [Recognition of virus infected cells by NK cell receptor.] (In Japanese)
+  JOURNAL   Experimental Medicine 23(17):2685-2691 (2005)
+REFERENCE   PMID:16002670
+  AUTHORS   Tassi I, Presti R, Kim S, Yokoyama WM, Gilfillan S, Colonna M.
+  TITLE     Phospholipase C-gamma 2 is a critical signaling mediator for murine NK cell activating receptors.
+  JOURNAL   J Immunol 175:749-54 (2005)
+REFERENCE   PMID:9143705
+  AUTHORS   Rao A, Luo C, Hogan PG.
+  TITLE     Transcription factors of the NFAT family: regulation and function.
+  JOURNAL   Annu Rev Immunol 15:707-47 (1997)
+REFERENCE   PMID:14710949
+  AUTHORS   Wu J, Lanier LL.
+  TITLE     Natural killer cells and cancer.
+  JOURNAL   Adv Cancer Res 90:127-56 (2003)
+REFERENCE   PMID:11905813
+  AUTHORS   Cerwenka A, Lanier LL.
+  TITLE     Natural killer cells, viruses and cancer.
+  JOURNAL   Nat Rev Immunol 1:41-9 (2001)
+REFERENCE   PMID:11836514
+  AUTHORS   Blott EJ, Griffiths GM.
+  TITLE     Secretory lysosomes.
+  JOURNAL   Nat Rev Mol Cell Biol 3:122-31 (2002)
+REFERENCE   PMID:12766758
+  AUTHORS   Lieberman J.
+  TITLE     The ABCs of granule-mediated cytotoxicity: new weapons in the arsenal.
+  JOURNAL   Nat Rev Immunol 3:361-70 (2003)
+REFERENCE   PMID:12752668
+  AUTHORS   Lord SJ, Rajotte RV, Korbutt GS, Bleackley RC.
+  TITLE     Granzyme B: a natural born killer.
+  JOURNAL   Immunol Rev 193:31-8 (2003)
+REFERENCE   PMID:15618404
+  AUTHORS   Liu D, Xu L, Yang F, Li D, Gong F, Xu T.
+  TITLE     Rapid biogenesis and sensitization of secretory lysosomes in NK cells mediated by target-cell recognition.
+  JOURNAL   Proc Natl Acad Sci U S A 102:123-7 (2005)
+REFERENCE   PMID:9862693
+  AUTHORS   Trotta R, Puorro KA, Paroli M, Azzoni L, Abebe B, Eisenlohr LC, Perussia B.
+  TITLE     Dependence of both spontaneous and antibody-dependent, granule exocytosis-mediated NK cell cytotoxicity on extracellular signal-regulated kinases.
+  JOURNAL   J Immunol 161:6648-56 (1998)
+REFERENCE   PMID:11390470
+  AUTHORS   Jevremovic D, Billadeau DD, Schoon RA, Dick CJ, Leibson PJ.
+  TITLE     Regulation of NK cell-mediated cytotoxicity by the adaptor protein 3BP2.
+  JOURNAL   J Immunol 166:7219-28 (2001)
+KO_PATHWAY  ko04650
+///

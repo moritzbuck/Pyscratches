@@ -1,0 +1,50 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04740
+server: Apache
+date: Wed, 15 Oct 2014 15:09:03 GMT
+content-type: text/plain
+
+ENTRY       map04740                    Pathway
+NAME        Olfactory transduction
+DESCRIPTION Within the compact cilia of the olfactory receptor neurons (ORNs) a cascade of enzymatic activity transduces the binding of an odorant molecule to a receptor into an electrical signal that can be transmitted to the brain. Odorant molecules bind to a receptor protein (R) coupled to an olfactory specific Gs-protein (G) and activate a type III adenylyl cyclase (AC), increasing intracellular cAMP levels. cAMP targets an olfactory-specific cyclic-nucleotide gated ion channel (CNG), allowing cations, particularly Na and Ca, to flow down their electrochemical gradients into the cell, depolarizing the ORN. Furthermore, the Ca entering the cell is able to activate a Ca-activated Cl channel, which would allow Cl to flow out of the cell, thus further increasing the depolarization. Elevated intracellular Ca causes adaptation by at least two different molecular steps: inhibition of the activity of adenylyl cyclase via CAMKII-dependent phosphorylation and down-regulation of the affinity of the CNG channel to cAMP.Longer exposure to odorants can stimulate particulate guanylyl cyclase in cilia to produce cGMP and activate PKG, leading to a further increase in amount and duration of intracellular cAMP levels, which may serve to convert inactive forms of protein kinase A (PKA2) to active forms (PKA*). As part of a feedback loop, PKA can inhibit the activation of particulate guanylyl cyclase.
+CLASS       Organismal Systems; Sensory system
+PATHWAY_MAP map04740  Olfactory transduction
+DBLINKS     GO: 0007608
+REFERENCE   PMID:11557990
+  AUTHORS   Firestein S.
+  TITLE     How the olfactory system makes sense of scents.
+  JOURNAL   Nature 413:211-8 (2001)
+REFERENCE   PMID:16269360
+  AUTHORS   Ache BW, Young JM.
+  TITLE     Olfaction: diverse species, conserved principles.
+  JOURNAL   Neuron 48:417-30 (2005)
+REFERENCE   PMID:10908849
+  AUTHORS   Nakamura T.
+  TITLE     Cellular and molecular constituents of olfactory sensation in vertebrates.
+  JOURNAL   Comp Biochem Physiol A Mol Integr Physiol 126:17-32 (2000)
+REFERENCE   PMID:10944513
+  AUTHORS   Zufall F, Leinders-Zufall T.
+  TITLE     The cellular and molecular basis of odor adaptation.
+  JOURNAL   Chem Senses 25:473-81 (2000)
+REFERENCE   PMID:9547228
+  AUTHORS   Moon C, Jaberi P, Otto-Bruc A, Baehr W, Palczewski K, Ronnett GV.
+  TITLE     Calcium-sensitive particulate guanylyl cyclase as a modulator of cAMP in olfactory receptor neurons.
+  JOURNAL   J Neurosci 18:3195-205 (1998)
+REFERENCE   PMID:11826268
+  AUTHORS   Ronnett GV, Moon C.
+  TITLE     G proteins and olfactory signal transduction.
+  JOURNAL   Annu Rev Physiol 64:189-222 (2002)
+REFERENCE   PMID:12939389
+  AUTHORS   Barry PH.
+  TITLE     The relative contributions of cAMP and InsP3 pathways to olfactory responses in vertebrate olfactory receptor neurons and the specificity of odorants for both pathways.
+  JOURNAL   J Gen Physiol 122:247-50 (2003)
+REFERENCE   PMID:12488531
+  AUTHORS   Kohout TA, Lefkowitz RJ.
+  TITLE     Regulation of G protein-coupled receptor kinases and arrestins during receptor desensitization.
+  JOURNAL   Mol Pharmacol 63:9-18 (2003)
+REFERENCE   PMID:9020189
+  AUTHORS   Boekhoff I, Touhara K, Danner S, Inglese J, Lohse MJ, Breer H, Lefkowitz RJ.
+  TITLE     Phosducin, potential role in modulation of olfactory signaling.
+  JOURNAL   J Biol Chem 272:4606-12 (1997)
+KO_PATHWAY  ko04740
+///

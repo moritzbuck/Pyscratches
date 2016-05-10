@@ -1,0 +1,90 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07026
+server: Apache
+date: Wed, 15 Oct 2014 14:59:21 GMT
+content-type: text/plain
+
+ENTRY       map07026          Drug      Pathway
+NAME        Antifungal agents
+PATHWAY_MAP map07026  Antifungal agents
+COMPOUND    C14531  Azomycin
+            C14816  Sch 59884
+            C14817  BMS 379224
+            D00202  Nystatin (JP16/USP/INN)
+            D00203  Amphotericin B (JP16/USP/INN)
+            D00209  Griseofulvin (JP16/USP/INN)
+            D00282  Clotrimazole (JP16/USP/INN)
+            D00322  Fluconazole (JP16/USAN/INN)
+            D00323  Flucytosine (JP16/USP/INN)
+            D00350  Itraconazole (JP16/USAN)
+            D00351  Ketoconazole (JP16/USP)
+            D00381  Tolnaftate (JP16/USP/INN)
+            D00409  Metronidazole (JP16/USP/INN)
+            D00416  Miconazole (JP16/USP/INN)
+            D00548  Etomidate (USAN/INN)
+            D00578  Voriconazole (JAN/USAN/INN)
+            D00880  Butoconazole nitrate (USP)
+            D00881  Econazole nitrate (JAN/USP)
+            D00882  Miconazole nitrate (JP16/USP)
+            D00883  Naftifine hydrochloride (USP)
+            D00884  Pimaricin (JP16)
+            D00885  Oxiconazole nitrate (JAN/USAN)
+            D00886  Sulconazole nitrate (JAN/USP)
+            D00888  Terconazole (USAN/INN)
+            D01092  Lanoconazole (JAN/INN)
+            D01093  Butenafine hydrochloride (JP16/USAN)
+            D01429  Fosfluconazole (JAN/INN)
+            D01480  Isoconazole nitrate (JAN)
+            D01550  Liranaftate (JAN/INN)
+            D01620  Neticonazole hydrochloride (JAN)
+            D01720  Amorolfine hydrochloride (JAN)
+            D01775  Bifonazole (JP16/USAN/INN)
+            D01980  Luliconazole (JAN/USAN/INN)
+            D02143  Trichomycin (JP16)
+            D02169  Croconazole hydrochloride (JP16)
+            D02219  Terbinafine hydrochloride (JP16/USP)
+            D02375  Terbinafine (USAN/INN)
+            D02465  Micafungin sodium (JAN/USAN)
+            D02501  Caspofungin acetate (JAN/USAN)
+            D02555  Posaconazole (USAN/INN)
+            D02556  Ravuconazole (prop.INN)
+            D02557  Chlormidazole (INN)
+            D02923  Amorolfine (USAN/INN)
+            D03211  Anidulafungin (USAN)
+            D03936  Econazole (USAN/INN)
+            D04624  Isoconazole (USAN/INN)
+            D06630  Pramiconazole (USAN/INN)
+            D07596  Butenafine (INN)
+            D07598  Butoconazole (INN)
+            D07626  Caspofungin (INN)
+            D07676  Chlormidazole hydrochloride
+            D07752  Croconazole (INN)
+            D08218  Micafungin (INN)
+            D08245  Naftifine (INN)
+            D08313  Oxiconazole (INN)
+            D08535  Sulconazole (INN)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   PMID:15047519
+  AUTHORS   Petraitiene R, Petraitis V, Lyman CA, Groll AH, Mickiene D, Peter J, Bacher J, Roussillon K, Hemmings M, Armstrong D, Avila NA, Walsh TJ
+  TITLE     Efficacy, safety, and plasma pharmacokinetics of escalating dosages of intravenously administered ravuconazole lysine phosphoester for treatment of experimental pulmonary aspergillosis in persistently neutropenic rabbits.
+  JOURNAL   Antimicrob Agents Chemother 48:1188-96 (2004)
+REFERENCE   PMID:11682237
+  AUTHORS   Kim H, Kumari P, Lin CC, Nomeir AA.
+  TITLE     Simultaneous high-performance liquid chromatographic determination of SCH 59884 (phosphate ester prodrug of SCH 56592), SCH 207962 and SCH 56592 in dog plasma.
+  JOURNAL   J Pharm Biomed Anal 27:295-303 (2002)
+REFERENCE   PMID:3069196
+  AUTHORS   Fromtling RA
+  TITLE     Overview of medically important antifungal azole derivatives.
+  JOURNAL   Clin Microbiol Rev 1:187-217 (1988)
+///

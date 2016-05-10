@@ -1,0 +1,86 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map05146
+server: Apache
+date: Wed, 15 Oct 2014 14:59:02 GMT
+content-type: text/plain
+
+ENTRY       map05146                    Pathway
+NAME        Amoebiasis
+DESCRIPTION Entamoeba histolytica, an extracellular protozoan parasite is a human pathogen that invades the intestinal epithelium. Infection occurs on ingestion of contaminated water and food. The pathogenesis of amoebiasis begins with parasite attachment and disruption of the intestinal mucus layer, followed by apoptosis of host epithelial cells. Intestinal tissue destruction causes severe dysentery and ulcerations in amoebic colitis. Several amoebic proteins such as lectins, cysteine proteineases, and amoebapores are associated with the invasion process. The parasite can cause extraintestinal infection like amoebic liver abscess by evading immune response.
+CLASS       Human Diseases; Infectious diseases
+PATHWAY_MAP map05146  Amoebiasis
+DISEASE     H00360  Amoebiasis
+REFERENCE   PMID:11378035
+  AUTHORS   Stanley SL
+  TITLE     Pathophysiology of amoebiasis.
+  JOURNAL   Trends Parasitol 17:280-5 (2001)
+REFERENCE   PMID:10756002
+  AUTHORS   Espinosa-Cantellano M, Martinez-Palomo A
+  TITLE     Pathogenesis of intestinal amebiasis: from molecules to disease.
+  JOURNAL   Clin Microbiol Rev 13:318-31 (2000)
+REFERENCE   PMID:9832261
+  AUTHORS   Huston CD, Petri WA Jr
+  TITLE     Host-pathogen interaction in amebiasis and progress in vaccine development.
+  JOURNAL   Eur J Clin Microbiol Infect Dis 17:601-14 (1998)
+REFERENCE   PMID:14700586
+  AUTHORS   Huston CD
+  TITLE     Parasite and host contributions to the pathogenesis of amebic colitis.
+  JOURNAL   Trends Parasitol 20:23-6 (2004)
+REFERENCE   PMID:15813717
+  AUTHORS   Campos-Rodriguezp R, Jarillo-Luna A
+  TITLE     The pathogenicity of Entamoeba histolytica is related to the capacity of evading  innate immunity.
+  JOURNAL   Parasite Immunol 27:1-8 (2005)
+REFERENCE   PMID:19207103
+  AUTHORS   Lejeune M, Rybicka JM, Chadee K
+  TITLE     Recent discoveries in the pathogenesis and immune response toward Entamoeba histolytica.
+  JOURNAL   Future Microbiol 4:105-18 (2009)
+REFERENCE   PMID:17576362
+  AUTHORS   Carrero JC, Cervantes-Rebolledo C, Aguilar-Diaz H, Diaz-Gallardo MY, Laclette JP, Morales-Montor J
+  TITLE     The role of the secretory immune response in the infection by Entamoeba histolytica.
+  JOURNAL   Parasite Immunol 29:331-8 (2007)
+REFERENCE   PMID:12660071
+  AUTHORS   Stanley SL Jr
+  TITLE     Amoebiasis.
+  JOURNAL   Lancet 361:1025-34 (2003)
+REFERENCE   PMID:14502002
+  AUTHORS   Stauffer W, Ravdin JI
+  TITLE     Entamoeba histolytica: an update.
+  JOURNAL   Curr Opin Infect Dis 16:479-85 (2003)
+REFERENCE   PMID:12142490
+  AUTHORS   Petri WA Jr, Haque R, Mann BJ
+  TITLE     The bittersweet interface of parasite and host: lectin-carbohydrate interactions  during human invasion by the parasite Entamoeba histolytica.
+  JOURNAL   Annu Rev Microbiol 56:39-64 (2002)
+REFERENCE   PMID:18725798
+  AUTHORS   Baxt LA, Singh U
+  TITLE     New insights into Entamoeba histolytica pathogenesis.
+  JOURNAL   Curr Opin Infect Dis 21:489-94 (2008)
+REFERENCE   PMID:12160867
+  AUTHORS   Petri WA Jr
+  TITLE     Pathogenesis of amebiasis.
+  JOURNAL   Curr Opin Microbiol 5:443-7 (2002)
+REFERENCE   PMID:17702556
+  AUTHORS   Guo X, Houpt E, Petri WA Jr
+  TITLE     Crosstalk at the initial encounter: interplay between host defense and ameba survival strategies.
+  JOURNAL   Curr Opin Immunol 19:376-84 (2007)
+REFERENCE   PMID:20303955
+  AUTHORS   Mortimer L, Chadee K
+  TITLE     The immunopathogenesis of Entamoeba histolytica.
+  JOURNAL   Exp Parasitol 126:366-80 (2010)
+REFERENCE   PMID:16380324
+  AUTHORS   Meza I, Talamas-Rohana P, Vargas MA
+  TITLE     The cytoskeleton of Entamoeba histolytica: structure, function, and regulation by signaling pathways.
+  JOURNAL   Arch Med Res 37:234-43 (2006)
+REFERENCE   PMID:10637584
+  AUTHORS   Meza I
+  TITLE     Extracellular matrix-induced signaling in Entamoeba histolytica: its role in invasiveness.
+  JOURNAL   Parasitol Today 16:23-8 (2000)
+REFERENCE   PMID:11352795
+  AUTHORS   Stanley SL Jr, Reed SL
+  TITLE     Microbes and microbial toxins: paradigms for microbial-mucosal interactions. VI.  Entamoeba histolytica: parasite-host interactions.
+  JOURNAL   Am J Physiol Gastrointest Liver Physiol 280:G1049-54 (2001)
+REFERENCE   PMID:20145703
+  AUTHORS   Wong-Baeza I, Alcantara-Hernandez M, Mancilla-Herrera I, Ramirez-Saldivar I, Arriaga-Pizano L, Ferat-Osorio E, Lopez-Macias C, Isibasi A
+  TITLE     The role of lipopeptidophosphoglycan in the immune response to Entamoeba histolytica.
+  JOURNAL   J Biomed Biotechnol 2010:254521 (2010)
+KO_PATHWAY  ko05146
+///

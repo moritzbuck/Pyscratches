@@ -1,0 +1,94 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04391
+server: Apache
+date: Wed, 15 Oct 2014 15:08:50 GMT
+content-type: text/plain
+
+ENTRY       map04391                    Pathway
+NAME        Hippo signaling pathway - fly
+DESCRIPTION Hippo signaling is an evolutionarily conserved signaling pathway that controls organ size during development from flies to humans. The core of the drosophila pathway is a kinase cascade consisting of four proteins including Hippo, Salvador, Warts and Mats. Upon activation by stimuli such as high cell density in cell culture, the Hippo pathway kinase cascade phosphorylates and inhibits the transcriptional co-activator Yorkie, thereby promoting cell apoptosis and restricting organ size overgrowth. When the Hippo pathway is inactivated, Yorkie translocates into the nucleus to bind to transcriptional factors to promote cell growth and proliferation.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP map04391  Hippo signaling pathway - fly
+DBLINKS     GO: 0035329
+REFERENCE   PMID:21138973
+  AUTHORS   Halder G, Johnson RL
+  TITLE     Hippo signaling: growth control and beyond.
+  JOURNAL   Development 138:9-22 (2011)
+REFERENCE   PMID:20439427
+  AUTHORS   Zhao B, Li L, Lei Q, Guan KL
+  TITLE     The Hippo-YAP pathway in organ size control and tumorigenesis: an updated version.
+  JOURNAL   Genes Dev 24:862-74 (2010)
+REFERENCE   PMID:20951342
+  AUTHORS   Pan D
+  TITLE     The hippo signaling pathway in development and cancer.
+  JOURNAL   Dev Cell 19:491-505 (2010)
+REFERENCE   PMID:22750148
+  AUTHORS   Schroeder MC, Halder G
+  TITLE     Regulation of the Hippo pathway by cell architecture and mechanical signals.
+  JOURNAL   Semin Cell Dev Biol 23:803-11 (2012)
+REFERENCE   PMID:21808241
+  AUTHORS   Zhao B, Tumaneng K, Guan KL
+  TITLE     The Hippo pathway in organ size control, tissue regeneration and stem cell self-renewal.
+  JOURNAL   Nat Cell Biol 13:877-83 (2011)
+REFERENCE   PMID:22035868
+  AUTHORS   Yin M, Zhang L
+  TITLE     Hippo signaling: a hub of growth control, tumor suppression and pluripotency maintenance.
+  JOURNAL   J Genet Genomics 38:471-81 (2011)
+REFERENCE   PMID:20945341
+  AUTHORS   Chan SW, Lim CJ, Chen L, Chong YF, Huang C, Song H, Hong W
+  TITLE     The Hippo pathway in biological control and cancer development.
+  JOURNAL   J Cell Physiol 226:928-39 (2011)
+REFERENCE   PMID:21415026
+  AUTHORS   Hilman D, Gat U
+  TITLE     The evolutionary history of YAP and the hippo/YAP pathway.
+  JOURNAL   Mol Biol Evol 28:2403-17 (2011)
+REFERENCE   PMID:18955139
+  AUTHORS   Zhao B, Lei QY, Guan KL
+  TITLE     The Hippo-YAP pathway: new connections between regulation of organ size and cancer.
+  JOURNAL   Curr Opin Cell Biol 20:638-46 (2008)
+REFERENCE   PMID:19846288
+  AUTHORS   Badouel C, Garg A, McNeill H
+  TITLE     Herding Hippos: regulating growth in flies and man.
+  JOURNAL   Curr Opin Cell Biol 21:837-43 (2009)
+REFERENCE   PMID:19164949
+  AUTHORS   Zhang L, Yue T, Jiang J
+  TITLE     Hippo signaling pathway and organ size control.
+  JOURNAL   Fly (Austin) 3:68-73 (2009)
+REFERENCE   PMID:17318211
+  AUTHORS   Harvey K, Tapon N
+  TITLE     The Salvador-Warts-Hippo pathway - an emerging tumour-suppressor network.
+  JOURNAL   Nat Rev Cancer 7:182-91 (2007)
+REFERENCE   PMID:19517570
+  AUTHORS   Kango-Singh M, Singh A
+  TITLE     Regulation of organ size: insights from the Drosophila Hippo signaling pathway.
+  JOURNAL   Dev Dyn 238:1627-37 (2009)
+REFERENCE   PMID:21145886
+  AUTHORS   Sun G, Irvine KD
+  TITLE     Regulation of Hippo signaling by Jun kinase signaling during compensatory cell proliferation and regeneration, and in neoplastic tumors.
+  JOURNAL   Dev Biol 350:139-51 (2011)
+REFERENCE   PMID:22830020
+  AUTHORS   Fausti F, Di Agostino S, Sacconi A, Strano S, Blandino G
+  TITLE     Hippo and rassf1a Pathways: A Growing Affair.
+  JOURNAL   Mol Biol Int 2012:307628 (2012)
+REFERENCE   PMID:20452772
+  AUTHORS   Oh H, Irvine KD
+  TITLE     Yorkie: the final destination of Hippo signaling.
+  JOURNAL   Trends Cell Biol 20:410-7 (2010)
+REFERENCE   PMID:17975546
+  AUTHORS   Buttitta LA, Edgar BA
+  TITLE     How size is controlled: from Hippos to Yorkies.
+  JOURNAL   Nat Cell Biol 9:1225-7 (2007)
+REFERENCE   PMID:21213102
+  AUTHORS   Chen L, Loh PG, Song H
+  TITLE     Structural and functional insights into the TEAD-YAP complex in the Hippo signaling pathway.
+  JOURNAL   Protein Cell 1:1073-83 (2010)
+REFERENCE   PMID:19733165
+  AUTHORS   Oh H, Reddy BV, Irvine KD
+  TITLE     Phosphorylation-independent repression of Yorkie in Fat-Hippo signaling.
+  JOURNAL   Dev Biol 335:188-97 (2009)
+REFERENCE   PMID:18952051
+  AUTHORS   Badouel C, McNeill H
+  TITLE     Apical junctions and growth control in Drosophila.
+  JOURNAL   Biochim Biophys Acta 1788:755-60 (2009)
+KO_PATHWAY  ko04391
+///

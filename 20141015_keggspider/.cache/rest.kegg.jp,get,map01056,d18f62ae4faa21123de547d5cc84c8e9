@@ -1,0 +1,100 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map01056
+server: Apache
+date: Wed, 15 Oct 2014 15:08:19 GMT
+content-type: text/plain
+
+ENTRY       map01056                    Pathway
+NAME        Biosynthesis of type II polyketide backbone
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map01056  Biosynthesis of type II polyketide backbone
+REFERENCE   PMID:10467738
+  AUTHORS   Rawlings BJ
+  TITLE     Biosynthesis of polyketides (other than actinomycete macrolides).
+  JOURNAL   Nat Prod Rep 16:425-84 (1999)
+REFERENCE   PMID:17268612
+  AUTHORS   Hertweck C, Luzhetskyy A, Rebets Y, Bechthold A
+  TITLE     Type II polyketide synthases: gaining a deeper insight into enzymatic teamwork.
+  JOURNAL   Nat Prod Rep 24:162-90 (2007)
+REFERENCE   PMID:11902441
+  AUTHORS   Moore BS, Hertweck C
+  TITLE     Biosynthesis and attachment of novel bacterial polyketide synthase starter units.
+  JOURNAL   Nat Prod Rep 19:70-99 (2002)
+REFERENCE   PMID:15286722
+  AUTHORS   Keatinge-Clay AT, Maltby DA, Medzihradszky KF, Khosla C, Stroud RM
+  TITLE     An antibiotic factory caught in action.
+  JOURNAL   Nat Struct Mol Biol 11:888-93 (2004)
+REFERENCE   PMID:18250311
+  AUTHORS   Ridley CP, Lee HY, Khosla C
+  TITLE     Evolution of polyketide synthases in bacteria.
+  JOURNAL   Proc Natl Acad Sci U S A 105:4595-600 (2008)
+REFERENCE   PMID:20522541
+  AUTHORS   Pickens LB, Tang Y
+  TITLE     Oxytetracycline biosynthesis.
+  JOURNAL   J Biol Chem 285:27509-15 (2010)
+REFERENCE   PMID:10551844
+  AUTHORS   Petkovic H, Thamchaipenet A, Zhou LH, Hranueli D, Raspor P, Waterman PG, Hunter IS
+  TITLE     Disruption of an aromatase/cyclase from the oxytetracycline gene cluster of Streptomyces rimosus results in production of novel polyketides with shorter chain lengths.
+  JOURNAL   J Biol Chem 274:32829-34 (1999)
+REFERENCE   PMID:20358042
+  AUTHORS   Zhou H, Li Y, Tang Y
+  TITLE     Cyclization of aromatic polyketides from bacteria and fungi.
+  JOURNAL   Nat Prod Rep 27:839-68 (2010)
+REFERENCE   PMID:18205400
+  AUTHORS   Korman TP, Tan YH, Wong J, Luo R, Tsai SC
+  TITLE     Inhibition kinetics and emodin cocrystal structure of a type II polyketide ketoreductase.
+  JOURNAL   Biochemistry 47:1837-47 (2008)
+REFERENCE   PMID:9375253
+  AUTHORS   Kantola J, Blanco G, Hautala A, Kunnari T, Hakala J, Mendez C, Ylihonko K, Mantsala P, Salas J
+  TITLE     Folding of the polyketide chain is not dictated by minimal polyketide synthase in the biosynthesis of mithramycin and anthracycline.
+  JOURNAL   Chem Biol 4:751-5 (1997)
+REFERENCE   PMID:10509907
+  AUTHORS   Kunnari T, Ylihonko K, Hautala A, Klika KD, Mantsala P, Hakala J
+  TITLE     Incorrectly folded aromatic polyketides from polyketide reductase deficient mutants.
+  JOURNAL   Bioorg Med Chem Lett 9:2639-42 (1999)
+REFERENCE   PMID:19362634
+  AUTHORS   Tsai SC, Ames BD
+  TITLE     Structural enzymology of polyketide synthases.
+  JOURNAL   Methods Enzymol 459:17-47 (2009)
+REFERENCE   PMID:15544323
+  AUTHORS   Korman TP, Hill JA, Vu TN, Tsai SC
+  TITLE     Structural analysis of actinorhodin polyketide ketoreductase: cofactor binding and substrate specificity.
+  JOURNAL   Biochemistry 43:14529-38 (2004)
+REFERENCE   PMID:15458634
+  AUTHORS   Hadfield AT, Limpkin C, Teartasin W, Simpson TJ, Crosby J, Crump MP
+  TITLE     The crystal structure of the actIII actinorhodin polyketide reductase: proposed mechanism for ACP and polyketide binding.
+  JOURNAL   Structure 12:1865-75 (2004)
+REFERENCE   PMID:10658662
+  AUTHORS   Kantola J, Kunnari T, Hautala A, Hakala J, Ylihonko K, Mantsala P
+  TITLE     Elucidation of anthracyclinone biosynthesis by stepwise cloning of genes for anthracyclines from three different Streptomyces spp.
+  JOURNAL   Microbiology 146 ( Pt 1):155-63 (2000)
+REFERENCE   PMID:2394677
+  AUTHORS   Bartel PL, Zhu CB, Lampel JS, Dosch DC, Connors NC, Strohl WR, Beale JM Jr, Floss HG
+  TITLE     Biosynthesis of anthraquinones by interspecies cloning of actinorhodin biosynthesis genes in streptomycetes: clarification of actinorhodin gene functions.
+  JOURNAL   J Bacteriol 172:4816-26 (1990)
+REFERENCE   PMID:16793516
+  AUTHORS   Arthur CJ, Szafranska AE, Long J, Mills J, Cox RJ, Findlow SC, Simpson TJ, Crump MP, Crosby J
+  TITLE     The malonyl transferase activity of type II polyketide synthase acyl carrier proteins.
+  JOURNAL   Chem Biol 13:587-96 (2006)
+REFERENCE   PMID:16263270
+  AUTHORS   Schneider G
+  TITLE     Enzymes in the biosynthesis of aromatic polyketide antibiotics.
+  JOURNAL   Curr Opin Struct Biol 15:629-36 (2005)
+REFERENCE   PMID:1548230
+  AUTHORS   Summers RG, Wendt-Pienkowski E, Motamedi H, Hutchinson CR
+  TITLE     Nucleotide sequence of the tcmII-tcmIV region of the tetracenomycin C biosynthetic gene cluster of Streptomyces glaucescens and evidence that the tcmN  gene encodes a multifunctional cyclase-dehydratase-O-methyl transferase.
+  JOURNAL   J Bacteriol 174:1810-20 (1992)
+REFERENCE   PMID:18388203
+  AUTHORS   Ames BD, Korman TP, Zhang W, Smith P, Vu T, Tang Y, Tsai SC
+  TITLE     Crystal structure and functional analysis of tetracenomycin ARO/CYC: implications for cyclization specificity of aromatic polyketides.
+  JOURNAL   Proc Natl Acad Sci U S A 105:5349-54 (2008)
+REFERENCE   PMID:17013601
+  AUTHORS   Lombo F, Menendez N, Salas JA, Mendez C
+  TITLE     The aureolic acid family of antitumor compounds: structure, mode of action, biosynthesis, and novel derivatives.
+  JOURNAL   Appl Microbiol Biotechnol 73:1-14 (2006)
+REFERENCE   
+  AUTHORS   Krohn K (ed).
+  TITLE     Anthracycline Chemistry and Biology I : Biological Occurence and Biosynthesis, Synthesis and Chemistry
+  JOURNAL   Topics in Current Chemistry 282 (2008)
+KO_PATHWAY  ko01056
+///

@@ -1,0 +1,13 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map00473
+server: Apache
+date: Wed, 15 Oct 2014 14:57:24 GMT
+content-type: text/plain
+
+ENTRY       map00473                    Pathway
+NAME        D-Alanine metabolism
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP map00473  D-Alanine metabolism
+DBLINKS     GO: 0046436
+KO_PATHWAY  ko00473
+///

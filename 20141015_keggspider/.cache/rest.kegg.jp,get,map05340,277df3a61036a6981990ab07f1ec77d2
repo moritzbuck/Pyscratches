@@ -1,0 +1,59 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map05340
+server: Apache
+date: Wed, 15 Oct 2014 15:09:36 GMT
+content-type: text/plain
+
+ENTRY       map05340                    Pathway
+NAME        Primary immunodeficiency
+DESCRIPTION Primary immunodeficiencies (PIs) are a heterogeneous group of disorders, which affect cellular and humoral immunity or non-specific host defense mechanisms mediated by complement proteins, and cells such as phagocytes and natural killer (NK) cells. These disorders of the immune system cause increased susceptibility to infection, autoimmune disease, and malignancy. Most of PIs are due to genetic defects that affect cell maturation or function at different levels during hematopoiesis. Disruption of the cellular immunity is observed in patients with defects in T cells or both T and B cells. These cellular immunodeficiencies comprise 20% of all PIs. Disorders of humoral immunity affect B-cell differentiation and antibody production. They account for 70% of all PIs.
+CLASS       Human Diseases; Immune diseases
+PATHWAY_MAP map05340  Primary immunodeficiency
+DISEASE     H00085  Agammaglobulinemias
+            H00086  Hyper IgM syndromes, autosomal recessive type
+            H00088  Common variable immunodeficiency (CVID)
+            H00091  T-B+Severe combined immunodeficiencies (SCIDs)
+            H00092  T-B-Severe combined immunodeficiencies (SCIDs)
+            H00093  Combined immunodeficiencies (CIDs)
+            H00095  Ectodermal dysplasia associated immunodeficiency (EDA-ID)
+            H00107  Other well-defined immunodeficiency syndromes
+            H00984  Bare lymphocyte syndrome (BLS) type1
+            H00985  Bare lymphocyte syndrome (BLS) type2
+REFERENCE   PMID:16261175
+  AUTHORS   Cunningham-Rundles C, Ponda PP.
+  TITLE     Molecular defects in T- and B-cell primary immunodeficiency diseases.
+  JOURNAL   Nat Rev Immunol 5:880-92 (2005)
+REFERENCE   PMID:11941303
+  AUTHORS   Ballow M.
+  TITLE     Primary immunodeficiency disorders: antibody deficiency.
+  JOURNAL   J Allergy Clin Immunol 109:581-91 (2002)
+REFERENCE   PMID:17960151
+  AUTHORS   Marodi L, Notarangelo LD.
+  TITLE     Immunological and genetic bases of new primary immunodeficiencies.
+  JOURNAL   Nat Rev Immunol 7:851-61 (2007)
+REFERENCE   PMID:17952897
+  AUTHORS   Geha RS, Notarangelo LD, Casanova JL, Chapel H, Conley ME, Fischer A, Hammarstrom L, Nonoyama S, Ochs HD, Puck JM, Roifman C, Seger R, Wedgwood J.
+  TITLE     Primary immunodeficiency diseases: an update from the International Union of Immunological Societies Primary Immunodeficiency Diseases Classification Committee.
+  JOURNAL   J Allergy Clin Immunol 120:776-94 (2007)
+REFERENCE   PMID:18093537
+  AUTHORS   Fischer A.
+  TITLE     Human primary immunodeficiency diseases.
+  JOURNAL   Immunity 27:835-45 (2007)
+REFERENCE   PMID:14699405
+  AUTHORS   Fischer A.
+  TITLE     Human primary immunodeficiency diseases: a perspective.
+  JOURNAL   Nat Immunol 5:23-30 (2004)
+REFERENCE   PMID:11058677
+  AUTHORS   Buckley RH.
+  TITLE     Primary immunodeficiency diseases due to defects in lymphocytes.
+  JOURNAL   N Engl J Med 343:1313-24 (2000)
+REFERENCE   PMID:15661024
+  AUTHORS   Fischer A, Le Deist F, Hacein-Bey-Abina S, Andre-Schmutz I, Basile Gde S, de Villartay JP, Cavazzana-Calvo M.
+  TITLE     Severe combined immunodeficiency. A model disease for molecular immunology and therapy.
+  JOURNAL   Immunol Rev 203:98-109 (2005)
+REFERENCE   PMID:14647478
+  AUTHORS   de Villartay JP, Fischer A, Durandy A.
+  TITLE     The mechanisms of immune diversification and their disorders.
+  JOURNAL   Nat Rev Immunol 3:962-72 (2003)
+KO_PATHWAY  ko05340
+///

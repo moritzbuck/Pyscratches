@@ -1,0 +1,102 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map07029
+server: Apache
+date: Wed, 15 Oct 2014 14:59:22 GMT
+content-type: text/plain
+
+ENTRY       map07029          Drug      Pathway
+NAME        Phenothiazines
+PATHWAY_MAP map07029  Phenothiazines
+COMPOUND    D00270  Chlorpromazine (USP/INN)
+            D00373  Thioridazine (USP/INN)
+            D00390  Triflupromazine (USP/INN)
+            D00403  Levomepromazine (USAN/INN)
+            D00479  Prochlorperazine maleate (JP16/USP)
+            D00480  Promethazine hydrochloride (JP16/USP)
+            D00493  Prochlorperazine (JAN/USP/INN)
+            D00494  Promethazine (JAN/INN)
+            D00503  Perphenazine (JP16/USP/INN)
+            D00789  Chlorpromazine hydrochloride (JP16/USP)
+            D00791  Fluphenazine hydrochloride (JAN/USP)
+            D00797  Promazine hydrochloride (USP)
+            D00798  Thioridazine hydrochloride (JP16/USP)
+            D00799  Trifluoperazine hydrochloride (JAN/USP)
+            D00800  Triflupromazine hydrochloride (JAN/USP)
+            D01118  Profenamine hydrochloride (JAN)
+            D01130  Thietylperazine maleate (JAN)
+            D01143  Isothipendyl hydrochloride (JAN)
+            D01242  Promethazine teoclate (JAN/INN)
+            D01412  Perazine maleate (JAN)
+            D01447  Thioproperazine mesilate (JAN)
+            D01448  Trifluoperazine maleate (JAN)
+            D01520  Levomepromazine hydrochloride (JAN/USAN)
+            D01860  Perazine dimalonate (JAN)
+            D02022  Prochlorperazine mesilate (JAN)
+            D02037  Perphenazine maleate (JP16)
+            D02163  Fluphenazine maleate (JAN)
+            D02245  Alimemazine tartrate (JP16)
+            D02248  Levomepromazine maleate (JP16/USAN)
+            D02312  Methylene blue (USP)
+            D02354  Thiethylperazine (USAN/INN)
+            D02601  Phenothiazine (INN)
+            D02602  Fenethazine (INN)
+            D02603  Diethazine hydrochloride
+            D02604  Acepromazine maleate (USP)
+            D02605  Methoxypromazine maleate
+            D02606  Pipamazine (INN)
+            D02607  Mepazine acetate
+            D02608  Perazine fendizoate (JAN)
+            D02609  Prochlorperazine edisylate (USP)
+            D02610  Thietylperazine malate (JAN)
+            D03274  Chlorpromazine hibenzate (JAN)
+            D03276  Profenamine hibenzate (JAN)
+            D03290  Promethazine methylenedisalicylate (JAN)
+            D04034  Chlorpromazine phenolphthalinate (JAN)
+            D04038  Perphenazine fendizoate (JAN)
+            D04965  Perphenazine hydrochloride
+            D07065  Acepromazine (INN)
+            D07125  Alimemazine (INN)
+            D07977  Fluphenazine (INN)
+            D08091  Isothipendyl (INN)
+            D08426  Profenamine (INN)
+            D08432  Promethazine maleate
+            D08585  Thioproperazine (INN)
+            D08636  Trifluoperazine (INN)
+            D08768  Promethazine hibenzate
+REFERENCE   (Japanese)
+  AUTHORS   Sano T, Naito T, Kubo T (eds).
+  TITLE     [Medicinal Chemistry, an Introduction (7th ed)] (In Japanese)
+  JOURNAL   Nankodo (2002)
+REFERENCE   (Japanese)
+  AUTHORS   Fukai S.
+  TITLE     [New Drugs Today (6th ed)] (In Japanese)
+  JOURNAL   Jiho (1995)
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   
+  AUTHORS   Hardman JG, Limbird LE, Gilman AG (eds).
+  TITLE     Goodman & Gilman's The Pharmacological Basis of Therapeutics (10th ed)
+  JOURNAL   McGraw-Hill (2001)
+REFERENCE   
+  AUTHORS   Walter S.
+  TITLE     Drug Discovery: A History
+  JOURNAL   Wiley (2005)
+REFERENCE   PMID:5068965
+  AUTHORS   Nightingale CH, Tse M, Stupak EI.
+  TITLE     Structure-toxicity relationships of substituted phenothiazines.
+  JOURNAL   J Pharm Sci 61:1498-9 (1972)
+REFERENCE   PMID:10579370
+  AUTHORS   Shen WW.
+  TITLE     A history of antipsychotic drug development.
+  JOURNAL   Compr Psychiatry 40:407-14 (1999)
+REFERENCE   PMID:11383974
+  AUTHORS   Ban TA.
+  TITLE     Pharmacotherapy of mental illness--a historical analysis.
+  JOURNAL   Prog Neuropsychopharmacol Biol Psychiatry 25:709-27 (2001)
+REFERENCE   PMID:12935655
+  AUTHORS   Mizuno Y, Sato K, Sano T, Kurihara R, Kojima T, Yamakawa Y, Ishii A, Katsumata Y.
+  TITLE     Identification and characterization of 17 phenothiazine compounds by capillary high-performance liquid chromatography/fast atom bombardment mass spectrometry.
+  JOURNAL   Leg Med (Tokyo) 4:207-16 (2002)
+///

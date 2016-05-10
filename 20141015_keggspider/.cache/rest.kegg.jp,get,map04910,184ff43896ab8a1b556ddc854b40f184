@@ -1,0 +1,103 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04910
+server: Apache
+date: Wed, 15 Oct 2014 15:09:05 GMT
+content-type: text/plain
+
+ENTRY       map04910                    Pathway
+NAME        Insulin signaling pathway
+DESCRIPTION Insulin binding to its receptor results in the tyrosine phosphorylation of insulin receptor substrates (IRS) by the insulin receptor tyrosine kinase (INSR). This allows association of IRSs with the regulatory subunit of phosphoinositide 3-kinase (PI3K). PI3K activates 3-phosphoinositide-dependent protein kinase 1 (PDK1), which activates Akt, a serine kinase. Akt in turn deactivates glycogen synthase kinase 3 (GSK-3), leading to activation of glycogen synthase (GYS) and thus glycogen synthesis. Activation of Akt also results in the translocation of GLUT4 vesicles from their intracellular pool to the plasma membrane, where they allow uptake of glucose into the cell. Akt also leads to mTOR-mediated activation of protein synthesis by eIF4 and p70S6K. The translocation of GLUT4 protein is also elicited through the CAP/Cbl/TC10 pathway, once Cbl is phosphorylated by INSR.
+            Other signal transduction proteins interact with IRS including GRB2. GRB2 is part of the cascade including SOS, RAS, RAF and MEK that leads to activation of mitogen-activated protein kinase (MAPK) and mitogenic responses in the form of gene transcription. SHC is another substrate of INSR. When tyrosine phosphorylated, SHC associates with GRB2 and can thus activate the RAS/MAPK pathway independently of IRS-1.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP map04910  Insulin signaling pathway
+DISEASE     H00069  Glycogen storage diseases (GSD)
+            H00410  Maturity onset diabetes of the young (MODY)
+            H00420  Familial partial lipodystrophy (FPL)
+            H00512  Permanent neonatal diabetes mellitus (PNDM)
+            H00719  Leprechaunism
+            H00896  Lymphangioleiomyomatosis (LAM)
+            H00915  Tuberous sclerosis complex (TSC)
+            H00942  Rabson-Mendenhall syndrome
+            H01102  Pituitary adenomas
+            H01154  Wolff-Parkinson-White (WPW) syndrome
+            H01228  Insulin-resistant diabetes mellitus with acanthosis nigricans (IRAN)
+            H01251  Focal cortical dysplasia of Taylor
+            H01267  Familial hyperinsulinemic hypoglycemia (HHF)
+REFERENCE   PMID:14635525
+  AUTHORS   Ogawa W, Kasuga M.
+  TITLE     [Mechanism of insulin action and diabetes mellitus]
+  JOURNAL   Seikagaku 75:1332-44 (2003)
+REFERENCE   PMID:11282018
+  AUTHORS   Bevan P.
+  TITLE     Insulin signalling.
+  JOURNAL   J Cell Sci 114:1429-30 (2001)
+REFERENCE   PMID:12867054
+  AUTHORS   Kanzaki M, Pessin JE.
+  TITLE     Insulin signaling: GLUT4 vesicles exit via the exocyst.
+  JOURNAL   Curr Biol 13:R574-6 (2003)
+REFERENCE   PMID:10196204
+  AUTHORS   Moodie SA, Alleman-Sposeto J, Gustafson TA.
+  TITLE     Identification of the APS protein as a novel insulin receptor substrate.
+  JOURNAL   J Biol Chem 274:11186-93 (1999)
+REFERENCE   PMID:15733744
+  AUTHORS   Gual P, Le Marchand-Brustel Y, Tanti JF.
+  TITLE     Positive and negative regulation of insulin signaling through IRS-1 phosphorylation.
+  JOURNAL   Biochimie 87:99-109 (2005)
+REFERENCE   PMID:9748166
+  AUTHORS   Le Good JA, Ziegler WH, Parekh DB, Alessi DR, Cohen P, Parker PJ.
+  TITLE     Protein kinase C isotypes controlled by phosphoinositide 3-kinase through the protein kinase PDK1.
+  JOURNAL   Science 281:2042-5 (1998)
+REFERENCE   PMID:11742412
+  AUTHORS   Saltiel AR, Kahn CR.
+  TITLE     Insulin signalling and the regulation of glucose and lipid metabolism.
+  JOURNAL   Nature 414:799-806 (2001)
+REFERENCE   PMID:15624019
+  AUTHORS   Inoki K, Corradetti MN, Guan KL.
+  TITLE     Dysregulation of the TSC-mTOR pathway in human disease.
+  JOURNAL   Nat Genet 37:19-24 (2005)
+REFERENCE   PMID:16288289
+  AUTHORS   Ruggero D, Sonenberg N.
+  TITLE     The Akt of translational control.
+  JOURNAL   Oncogene 24:7426-34 (2005)
+REFERENCE   PMID:10567225
+  AUTHORS   Nave BT, Ouwens M, Withers DJ, Alessi DR, Shepherd PR.
+  TITLE     Mammalian target of rapamycin is a direct target for protein kinase B: identification of a convergence point for opposing effects of insulin and amino-acid deficiency on protein translation.
+  JOURNAL   Biochem J 344 Pt 2:427-31 (1999)
+REFERENCE   PMID:9445476
+  AUTHORS   Pullen N, Dennis PB, Andjelkovic M, Dufner A, Kozma SC, Hemmings BA, Thomas G.
+  TITLE     Phosphorylation and activation of p70s6k by PDK1.
+  JOURNAL   Science 279:707-10 (1998)
+REFERENCE   PMID:9609110
+  AUTHORS   Ogawa W, Matozaki T, Kasuga M.
+  TITLE     Role of binding proteins to IRS-1 in insulin signalling.
+  JOURNAL   Mol Cell Biochem 182:13-22 (1998)
+REFERENCE   PMID:9609111
+  AUTHORS   Ceresa BP, Pessin JE.
+  TITLE     Insulin regulation of the Ras activation/inactivation cycle.
+  JOURNAL   Mol Cell Biochem 182:23-9 (1998)
+REFERENCE   PMID:15229476
+  AUTHORS   Pollak MN, Schernhammer ES, Hankinson SE.
+  TITLE     Insulin-like growth factors and neoplasia.
+  JOURNAL   Nat Rev Cancer 4:505-18 (2004)
+REFERENCE   PMID:9346240
+  AUTHORS   Datta SR, Dudek H, Tao X, Masters S, Fu H, Gotoh Y, Greenberg ME.
+  TITLE     Akt phosphorylation of BAD couples survival signals to the cell-intrinsic death machinery.
+  JOURNAL   Cell 91:231-41 (1997)
+REFERENCE   PMID:17344645
+  AUTHORS   Ferre P, Foufelle F
+  TITLE     SREBP-1c transcription factor and lipid homeostasis: clinical perspective.
+  JOURNAL   Horm Res 68:72-82 (2007)
+REFERENCE   PMID:18291668
+  AUTHORS   Raghow R, Yellaturu C, Deng X, Park EA, Elam MB
+  TITLE     SREBPs: the crossroads of physiological and pathological lipid homeostasis.
+  JOURNAL   Trends Endocrinol Metab 19:65-73 (2008)
+REFERENCE   PMID:11343120
+  AUTHORS   Clement S, Krause U, Desmedt F, Tanti JF, Behrends J, Pesesse X, Sasaki T, Penninger J, Doherty M, Malaisse W, Dumont JE, Le Marchand-Brustel Y, Erneux C, Hue L, Schurmans S
+  TITLE     The lipid phosphatase SHIP2 controls insulin sensitivity.
+  JOURNAL   Nature 409:92-7 (2001)
+REFERENCE   PMID:12791379
+  AUTHORS   Backers K, Blero D, Paternotte N, Zhang J, Erneux C
+  TITLE     The termination of PI3K signalling by SHIP1 and SHIP2 inositol 5-phosphatases.
+  JOURNAL   Adv Enzyme Regul 43:15-28 (2003)
+KO_PATHWAY  ko04910
+///

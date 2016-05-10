@@ -1,0 +1,24 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01055
+server: Apache
+date: Wed, 15 Oct 2014 14:57:56 GMT
+content-type: text/plain
+
+ENTRY       map01055                    Pathway
+NAME        Biosynthesis of vancomycin group antibiotics
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map01055  Biosynthesis of vancomycin group antibiotics
+REFERENCE   PMID:12596194
+  AUTHORS   Hubbard BK, Walsh CT.
+  TITLE     Vancomycin assembly: nature's way.
+  JOURNAL   Angew Chem Int Ed Engl 42:730-65 (2003)
+REFERENCE   PMID:11035791
+  AUTHORS   Chen H, Thomas MG, Hubbard BK, Losey HC, Walsh CT, Burkart MD.
+  TITLE     Deoxysugars in glycopeptide antibiotics: enzymatic synthesis of TDP-L-epivancosamine in chloroeremomycin biosynthesis.
+  JOURNAL   Proc Natl Acad Sci U S A 97:11942-7 (2000)
+REFERENCE   PMID:9545426
+  AUTHORS   van Wageningen AM, Kirkpatrick PN, Williams DH, Harris BR, Kershaw JK, Lennard NJ, Jones M, Jones SJ, Solenberg PJ.
+  TITLE     Sequencing and analysis of genes involved in the biosynthesis of a vancomycin group antibiotic.
+  JOURNAL   Chem Biol 5:155-62 (1998)
+KO_PATHWAY  ko01055
+///

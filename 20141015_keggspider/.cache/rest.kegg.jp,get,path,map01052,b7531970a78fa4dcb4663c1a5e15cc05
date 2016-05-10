@@ -1,0 +1,12 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map01052
+server: Apache
+date: Wed, 15 Oct 2014 14:57:55 GMT
+content-type: text/plain
+
+ENTRY       map01052                    Pathway
+NAME        Type I polyketide structures
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP map01052  Type I polyketide structures
+KO_PATHWAY  ko01052
+///

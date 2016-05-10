@@ -1,0 +1,52 @@
+status: 200
+content-location: http://rest.kegg.jp/get/path:map03420
+server: Apache
+date: Wed, 15 Oct 2014 14:58:10 GMT
+content-type: text/plain
+
+ENTRY       map03420                    Pathway
+NAME        Nucleotide excision repair
+DESCRIPTION Nucleotide excision repair (NER) is a mechanism to recognize and repair bulky DNA damage caused by compounds, environmental carcinogens, and exposure to UV-light. In humans hereditary defects in the NER pathway are linked to at least three diseases: xeroderma pigmentosum (XP), Cockayne syndrome (CS), and trichothiodystrophy (TTD). The repair of damaged DNA involves at least 30 polypeptides within two different sub-pathways of NER known as transcription-coupled repair (TCR-NER) and global genome repair (GGR-NER). TCR refers to the expedited repair of lesions located in the actively transcribed strand of genes by RNA polymerase II (RNAP II). In GGR-NER the first step of damage recognition involves XPC-hHR23B complex together with XPE complex (in prokaryotes, uvrAB complex). The following steps of GGR-NER and TCR-NER are similar.
+CLASS       Genetic Information Processing; Replication and repair
+PATHWAY_MAP map03420  Nucleotide excision repair
+MODULE      M00262  DNA polymerase delta complex [PATH:map03420]
+            M00288  RPA complex [PATH:map03420]
+            M00289  RF-C complex [PATH:map03420]
+            M00290  Holo-TFIIH complex [PATH:map03420]
+            M00385  Cul4-DDB1-DDB2 complex [PATH:map03420]
+            M00386  Cul4-DDB1-CSA complex [PATH:map03420]
+DISEASE     H00076  Cockayne syndrome
+            H00403  Disorders of nucleotide excision repair
+            H00658  Syndromic X-linked mental retardation
+            H00821  Macular degeneration
+DBLINKS     GO: 0006289
+REFERENCE   PMID:11436314
+  AUTHORS   Sugasawa K.
+  TITLE     [Molecular mechanism of mammalian nucleotide excision repair] Japanese
+  JOURNAL   Tanpakushitsu Kakusan Koso 46:893-901 (2001)
+REFERENCE   PMID:11436316
+  AUTHORS   Nakatsu Y.
+  TITLE     [Transcription-coupled repair and Cockayne syndrome] Japanese
+  JOURNAL   Tanpakushitsu Kakusan Koso 46:908-15 (2001)
+REFERENCE   PMID:11436323
+  AUTHORS   Nakagawa N, Masui R, Kuramitsu S.
+  TITLE     [Structure and function of DNA repair enzyme UvrB from Thermus thermophilus HB8] Japanese
+  JOURNAL   Tanpakushitsu Kakusan Koso 46:968-75 (2001)
+REFERENCE   PMID:17276014
+  AUTHORS   Kraemer KH, Patronas NJ, Schiffmann R, Brooks BP, Tamura D, DiGiovanna JJ.
+  TITLE     Xeroderma pigmentosum, trichothiodystrophy and Cockayne syndrome: a complex genotype-phenotype relationship.
+  JOURNAL   Neuroscience 145:1388-96 (2007)
+REFERENCE   PMID:17884153
+  AUTHORS   Saldivar JS, Wu X, Follen M, Gershenson D.
+  TITLE     Nucleotide excision repair pathway review I: implications in ovarian cancer and platinum sensitivity.
+  JOURNAL   Gynecol Oncol 107:S56-71 (2007)
+REFERENCE   PMID:16922398
+  AUTHORS   Sugasawa K.
+  TITLE     [DNA repair pathways involving Cul4A ubiquitin ligases] Japanese
+  JOURNAL   Tanpakushitsu Kakusan Koso 51:1339-44 (2006)
+REFERENCE   PMID:18018633
+  AUTHORS   Ito S, Ando D, Tanaka K.
+  TITLE     [Cross-talk between DNA repair and transcription: molecular mechanism and disorders] Japanese
+  JOURNAL   Tanpakushitsu Kakusan Koso 52:1823-31 (2007)
+KO_PATHWAY  ko03420
+///

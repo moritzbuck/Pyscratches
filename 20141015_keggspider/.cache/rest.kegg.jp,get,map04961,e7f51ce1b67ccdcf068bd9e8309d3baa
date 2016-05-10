@@ -1,0 +1,67 @@
+status: 200
+content-location: http://rest.kegg.jp/get/map04961
+server: Apache
+date: Wed, 15 Oct 2014 15:09:11 GMT
+content-type: text/plain
+
+ENTRY       map04961                    Pathway
+NAME        Endocrine and other factor-regulated calcium reabsorption
+DESCRIPTION Calcium (Ca2+) is essential for numerous physiological functions including intracellular signalling processes, neuronal excitability, muscle contraction and bone formation. Therefore, its homeostasis is finely maintained through the coordination of intestinal absorption, renal reabsorption, and bone resorption. In kidney, the late part of the distal convoluted tubule (DCT) and the connecting tubule (CNT) are the site of active Ca2+ transport and precisely regulate Ca2+ reabsorption. Following Ca2+ entry through TRPV5, Ca2+ bound to calbindin-D28K diffuses to the basolateral side, where it is extruded into the blood compartment through NCX1 and to a lesser extent PMCA1b. In the urinary compartment, both klotho and tissue kallikrein (TK) increase the apical abundance of TRPV5. In the blood compartment, PTH, 1,25(OH)2D3 and estrogen increase the transcription and protein expression of  the luminal Ca2+ channels, calbindins, and the extrusion systems.
+CLASS       Organismal Systems; Excretory system
+PATHWAY_MAP map04961  Endocrine and other factor-regulated calcium reabsorption
+DISEASE     H00680  Primary failure of tooth eruption
+            H00700  Centronuclear myopathy
+            H00784  Localized autosomal recessive hypotrichosis
+            H00998  Alternating hemiplegia of childhood
+            H01143  Vitamin D-dependent rickets
+            H01193  Familial tumoral calcinosis (FTC)
+REFERENCE   PMID:18989697
+  AUTHORS   Boros S, Bindels RJ, Hoenderop JG
+  TITLE     Active Ca(2+) reabsorption in the connecting tubule.
+  JOURNAL   Pflugers Arch 458:99-109 (2009)
+REFERENCE   PMID:16518325
+  AUTHORS   Lambers TT, Bindels RJ, Hoenderop JG
+  TITLE     Coordinated control of renal Ca2+ handling.
+  JOURNAL   Kidney Int 69:650-4 (2006)
+REFERENCE   PMID:18596722
+  AUTHORS   de Groot T, Bindels RJ, Hoenderop JG
+  TITLE     TRPV5: an ingeniously controlled calcium channel.
+  JOURNAL   Kidney Int 74:1241-6 (2008)
+REFERENCE   PMID:20969972
+  AUTHORS   Markadieu N, Bindels RJ, Hoenderop JG
+  TITLE     The renal connecting tubule: Resolved and unresolved issues in Ca(2+) transport.
+  JOURNAL   Int J Biochem Cell Biol 43:1-4 (2011)
+REFERENCE   PMID:15618484
+  AUTHORS   Hoenderop JG, Nilius B, Bindels RJ
+  TITLE     Calcium absorption across epithelia.
+  JOURNAL   Physiol Rev 85:373-422 (2005)
+REFERENCE   PMID:15747113
+  AUTHORS   van Abel M, Hoenderop JG, Bindels RJ
+  TITLE     The epithelial calcium channels TRPV5 and TRPV6: regulation and implications for  disease.
+  JOURNAL   Naunyn Schmiedebergs Arch Pharmacol 371:295-306 (2005)
+REFERENCE   PMID:16044309
+  AUTHORS   Nijenhuis T, Hoenderop JG, Bindels RJ
+  TITLE     TRPV5 and TRPV6 in Ca(2+) (re)absorption: regulating Ca(2+) entry at the gate.
+  JOURNAL   Pflugers Arch 451:181-92 (2005)
+REFERENCE   PMID:12684797
+  AUTHORS   Hoenderop JG, Nilius B, Bindels RJ
+  TITLE     Epithelial calcium channels: from identification to function and regulation.
+  JOURNAL   Pflugers Arch 446:304-8 (2003)
+REFERENCE   PMID:17006539
+  AUTHORS   Gkika D, Topala CN, Chang Q, Picard N, Thebault S, Houillier P, Hoenderop JG, Bindels RJ
+  TITLE     Tissue kallikrein stimulates Ca(2+) reabsorption via PKC-dependent plasma membrane accumulation of TRPV5.
+  JOURNAL   EMBO J 25:4707-16 (2006)
+REFERENCE   PMID:17233615
+  AUTHORS   Schoeber JP, Hoenderop JG, Bindels RJ
+  TITLE     Concerted action of associated proteins in the regulation of TRPV5 and TRPV6.
+  JOURNAL   Biochem Soc Trans 35:115-9 (2007)
+REFERENCE   PMID:18293139
+  AUTHORS   Renkema KY, Alexander RT, Bindels RJ, Hoenderop JG
+  TITLE     Calcium and phosphate homeostasis: concerted interplay of new regulators.
+  JOURNAL   Ann Med 40:82-91 (2008)
+REFERENCE   PMID:19423690
+  AUTHORS   de Groot T, Lee K, Langeslag M, Xi Q, Jalink K, Bindels RJ, Hoenderop JG
+  TITLE     Parathyroid hormone activates TRPV5 via PKA-dependent phosphorylation.
+  JOURNAL   J Am Soc Nephrol 20:1693-704 (2009)
+KO_PATHWAY  ko04961
+///
