@@ -1,0 +1,47 @@
+hmm,pathway
+AMO,Nitrification
+AmoA,Nitrification
+AmoC,Nitrification/methane oxidation
+APS_kinase,Assimilatory sulfate reduction
+APS-reductase_C,Dissimilatory sulfate reduction
+Archaeal_AmoA,Nitrification
+ATP-sulfurylase,Assimilatory sulfate reduction
+Bac_GDH,Nitrogen mineralization/assimilation
+BChl_A,Bacterial photosynthesis
+CdhC,Wood-Ljungdahl
+CDO_I,Sulfur mineralization
+CitF,rTCA
+Citrate_synt,Krebs cycle
+COX1,oxidative phosphorylation
+COX3,oxidative phosphorylation
+COXG,CO oxidation
+Cytochrom_C,oxidative phosphorylation
+Cytochrom_C552,Dissimilatory nitrate reduction
+Cytochrome_CBB3,oxidative phosphorylation
+DmsC,DMSO reduction
+Fer4_NifH,Nitrogen fixation
+GDH_N,Nitrogen mineralization/assimilation
+Gln-synt_C,Nitrogen assimilation
+Gln-synt_N,Nitrogen assimilation
+Glu_syn_central,Nitrogen assimilation
+Glu_synthase,Nitrogen assimilation
+MCR_alpha,Methanogenesis and reverse methanogenesis
+MCR_alpha_N,Methanogenesis and reverse methanogenesis
+MCR_beta,Methanogenesis and reverse methanogenesis
+MCR_beta_N,Methanogenesis and reverse methanogenesis
+MCR_gamma,Methanogenesis and reverse methanogenesis
+MeMO_Hyd_G,Methane oxidation
+Monooxygenase_B,Nitrification/methane oxidation
+NAD-GH,Nitrogen mineralization/assimilation
+NIR_SIR,Dissimilatory sulfate reduction
+NIR_SIR_ferr,Nitrogen and sulfur assimilation
+Nitr_red_alph_N,Denitrification
+Nitrate_red_gam,Denitrification
+Nitro_FeMo-Co,Nitrogen fixation
+NosL,Denitrification
+PFO_beta_C,rTCA
+Photo_RC,Aerobic anoxygenic phototrophy
+PRK,pentose phosphate pathway
+RC-P840_PscD,Chlorobia photosynthesis
+RuBisCO_large,Calvin cycle
+RuBisCO_small,Calvin cycle

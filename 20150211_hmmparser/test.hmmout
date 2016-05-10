@@ -1,0 +1,1741 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b1 (May 2013); http://hmmer.org/
+# Copyright (C) 2013 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/moritz/glob/data/pfam/Pfam-A.hmm
+# target sequence database:        all_proteins.faa
+# number of worker threads:        16
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       1-cysPrx_C  [M=40]
+Accession:   PF10417.4
+Description: C-terminal domain of 1-Cys peroxiredoxin
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+    3.5e-18   66.1   0.8      6e-18   65.4   0.8    1.4  1  bin_18_00518  Selenocysteine-containing peroxiredoxin PrxU
+    1.3e-17   64.3   1.1    1.3e-17   64.3   1.1    1.6  2  bin_5_00437   Selenocysteine-containing peroxiredoxin PrxU
+      1e-15   58.2   0.2    1.8e-15   57.5   0.2    1.4  1  bin_6_01245   Alkyl hydroperoxide reductase subunit C
+    1.8e-14   54.2   0.3    3.1e-14   53.5   0.3    1.4  1  bin_9_00618   Selenocysteine-containing peroxiredoxin PrxU
+    1.2e-13   51.6   1.2      2e-13   50.9   1.2    1.4  1  bin_18_01826  Alkyl hydroperoxide reductase subunit C
+    3.4e-13   50.1   0.0    6.3e-13   49.3   0.0    1.5  1  bin_12_02043  putative peroxiredoxin
+    1.4e-12   48.1   0.0      3e-12   47.1   0.0    1.6  1  bin_16_00048  putative peroxiredoxin
+    4.6e-11   43.3   0.0    8.1e-11   42.5   0.0    1.4  1  bin_14_00762  Alkyl hydroperoxide reductase subunit C
+    5.1e-07   30.4   1.9      2e-06   28.5   1.9    2.0  1  bin_10_02464  Alkyl hydroperoxide reductase subunit C
+    4.1e-06   27.5   0.5    7.7e-06   26.6   0.5    1.5  1  bin_6_00456   Selenocysteine-containing peroxiredoxin PrxU
+  ------ inclusion threshold ------
+       0.11   13.3   0.0       0.14   13.0   0.0    1.3  1  bin_14_00442  hypothetical protein
+
+
+Domain annotation for each sequence (and alignments):
+>> bin_18_00518  Selenocysteine-containing peroxiredoxin PrxU
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   65.4   0.8   1.9e-21     6e-18       1      40 []     162     201 ..     162     201 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 65.4 bits;  conditional E-value: 1.9e-21
+                   HHHHHHHHT-BB-TTT.TBT-EEE---SSHHHHHHHHHHT CS
+    1-cysPrx_C   1 ALQladkhgvatPAnWkPGdkvivpPppteeeavkryleg 40 
+                   ALQ++d+hgvatPAnW+PGdkv+vp+p+t++e+  r++eg
+  bin_18_00518 162 ALQTSDAHGVATPANWQPGDKVVVPAPKTPAEIERRLKEG 201
+                   9************************************997 PP
+
+>> bin_5_00437  Selenocysteine-containing peroxiredoxin PrxU
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -3.2   0.1       5.1   1.6e+04      23      34 ..      13      23 ..      13      24 .. 0.77
+   2 !   64.3   1.1   3.9e-21   1.3e-17       1      40 []     163     202 ..     163     202 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: -3.2 bits;  conditional E-value: 5.1
+                 EE---SSHHHHH CS
+   1-cysPrx_C 23 ivpPppteeeav 34
+                 i +P+p+ e a+
+  bin_5_00437 13 INAPAPDFE-AK 23
+                 668999999.65 PP
+
+  == domain 2  score: 64.3 bits;  conditional E-value: 3.9e-21
+                  HHHHHHHHT-BB-TTT.TBT-EEE---SSHHHHHHHHHHT CS
+   1-cysPrx_C   1 ALQladkhgvatPAnWkPGdkvivpPppteeeavkryleg 40 
+                  ALQ++dk++vatPA+W+PGdkvivp p +++ a kr+ eg
+  bin_5_00437 163 ALQTSDKNKVATPAGWQPGDKVIVPTPQDVDAAEKRMSEG 202
+                  9************************************997 PP
+
+>> bin_6_01245  Alkyl hydroperoxide reductase subunit C
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   57.5   0.2   5.5e-19   1.8e-15       1      38 [.     172     209 ..     172     211 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 57.5 bits;  conditional E-value: 5.5e-19
+                  HHHHHHHHT-BB-TTT.TBT-EEE---SSHHHHHHHHH CS
+   1-cysPrx_C   1 ALQladkhgvatPAnWkPGdkvivpPppteeeavkryl 38 
+                  ALQ++d+ gvatPA+W+PGd+vivpP+ +++ a +r++
+  bin_6_01245 172 ALQTSDAFGVATPADWRPGDDVIVPPAGSCDVADERME 209
+                  9******************************8888886 PP
+
+>> bin_9_00618  Selenocysteine-containing peroxiredoxin PrxU
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   53.5   0.3   9.6e-18   3.1e-14       1      40 []     162     201 ..     162     201 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 53.5 bits;  conditional E-value: 9.6e-18
+                  HHHHHHHHT-BB-TTT.TBT-EEE---SSHHHHHHHHHHT CS
+   1-cysPrx_C   1 ALQladkhgvatPAnWkPGdkvivpPppteeeavkryleg 40 
+                  +LQ++dk+ v tPAnW+PGdkv+vp+p+  +e+ kr+ eg
+  bin_9_00618 162 SLQTTDKYNVSTPANWQPGDKVVVPAPKNKAEMDKRLSEG 201
+                  79**********************************9987 PP
+
+>> bin_18_01826  Alkyl hydroperoxide reductase subunit C
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   50.9   1.2   6.1e-17     2e-13       1      36 [.     184     223 ..     184     227 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 50.9 bits;  conditional E-value: 6.1e-17
+                   HHHHHHHHT-BB-TTT.T.....BT-EEE---SSHHHHHHH CS
+    1-cysPrx_C   1 ALQladkhgvatPAnWkP.....GdkvivpPppteeeavkr 36 
+                   ALQ++dk++vatPAnW P     Gd vivpPp++e+ a  r
+  bin_18_01826 184 ALQVVDKNKVATPANW-PnndflGDQVIVPPPADEKAAAGR 223
+                   9***************.99*****************77655 PP
+
+>> bin_12_02043  putative peroxiredoxin
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   49.3   0.0     2e-16   6.3e-13       1      38 [.     165     202 ..     165     204 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 49.3 bits;  conditional E-value: 2e-16
+                   HHHHHHHHT-BB-TTT.TBT-EEE---SSHHHHHHHHH CS
+    1-cysPrx_C   1 ALQladkhgvatPAnWkPGdkvivpPppteeeavkryl 38 
+                   ++Ql+ kh vatPAnWk+G++vi+ ++++ e+a++r+ 
+  bin_12_02043 165 SIQLTSKHQVATPANWKQGEDVIITAAVSNEDAIARFG 202
+                   68**********************************96 PP
+
+>> bin_16_00048  putative peroxiredoxin
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   47.1   0.0   9.2e-16     3e-12       1      39 [.     175     209 ..     175     210 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 47.1 bits;  conditional E-value: 9.2e-16
+                   HHHHHHHHT-BB-TTT.TBT-EEE---SSHHHHHHHHHH CS
+    1-cysPrx_C   1 ALQladkhgvatPAnWkPGdkvivpPppteeeavkryle 39 
+                   ALQ+ ++hg+++PAnW++G++ i   ++t+e +++ yl+
+  bin_16_00048 175 ALQFYEEHGEVCPANWHKGEEGI---KATPE-GIASYLS 209
+                   9**********************...*****.9999987 PP
+
+>> bin_14_00762  Alkyl hydroperoxide reductase subunit C
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   42.5   0.0   2.5e-14   8.1e-11       1      39 [.     156     195 ..     156     196 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 42.5 bits;  conditional E-value: 2.5e-14
+                   HHHHHHHHT-BB-TTT.TBT-EEE---SSHHHH.HHHHHH CS
+    1-cysPrx_C   1 ALQladkhgvatPAnWkPGdkvivpPppteeea.vkryle 39 
+                   +LQl+d h vatP nW+ Gd+v+++P+  +ee+  +++++
+  bin_14_00762 156 SLQLTDNHSVATPGNWQDGDDVVIVPSLKDEEViRQKFPK 195
+                   79*****************************996666666 PP
+
+>> bin_10_02464  Alkyl hydroperoxide reductase subunit C
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.5   1.9   6.2e-10     2e-06       1      30 [.     185     218 ..     185     225 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 28.5 bits;  conditional E-value: 6.2e-10
+                   HHHHHHHHT-BB-TTT.T.....BT-EEE---SSH CS
+    1-cysPrx_C   1 ALQladkhgvatPAnWkP.....GdkvivpPppte 30 
+                   ALQ+ad++ va+PAnW P      d vi+pPp+ e
+  bin_10_02464 185 ALQVADQNRVAMPANW-PnneliADGVIIPPPTNE 218
+                   9***************.977887788999998766 PP
+
+>> bin_6_00456  Selenocysteine-containing peroxiredoxin PrxU
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   26.6   0.5   2.4e-09   7.7e-06       1      39 [.     106     142 ..     106     145 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 26.6 bits;  conditional E-value: 2.4e-09
+                  HHHHHHHH.T-.BB-TTT.TBT-EEE---SSHHHHHHHHHH CS
+   1-cysPrx_C   1 ALQladkh.gv.atPAnWkPGdkvivpPppteeeavkryle 39 
+                  A+Ql+ k  g  atPA+WkPG+ ++   +p ++  v r++e
+  bin_6_00456 106 AFQLVRKSkGTeATPAGWKPGKMTL---KPGPD-LVGRVWE 142
+                  89******7768*************...99999.7777765 PP
+
+>> bin_14_00442  hypothetical protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   13.0   0.0   4.4e-05      0.14      13      24 ..      20      31 ..      14      32 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 13.0 bits;  conditional E-value: 4.4e-05
+                  -TTT.TBT-EEE CS
+    1-cysPrx_C 13 PAnWkPGdkviv 24
+                  PA W+PG kv v
+  bin_14_00442 20 PAAWQPGSKVCV 31
+                  **********97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (40 nodes)
+Target sequences:                        35297  (10334013 residues searched)
+Passed MSV filter:                       933  (0.0264328); expected 705.9 (0.02)
+Passed bias filter:                      833  (0.0235997); expected 705.9 (0.02)
+Passed Vit filter:                        80  (0.00226648); expected 35.3 (0.001)
+Passed Fwd filter:                        11  (0.000311641); expected 0.4 (1e-05)
+Initial search space (Z):              35297  [actual number of targets]
+Domain search space  (domZ):              11  [number of targets reported over threshold]
+# CPU time: 0.14u 0.02s 00:00:00.16 Elapsed: 00:00:00.12
+# Mc/sec: 3444.67
+//
+Query:       120_Rick_ant  [M=255]
+Accession:   PF12574.3
+Description: 120 KDa Rickettsia surface antigen
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (255 nodes)
+Target sequences:                        35297  (10334013 residues searched)
+Passed MSV filter:                       829  (0.0234864); expected 705.9 (0.02)
+Passed bias filter:                      635  (0.0179902); expected 705.9 (0.02)
+Passed Vit filter:                        34  (0.000963255); expected 35.3 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.4 (1e-05)
+Initial search space (Z):              35297  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.25u 0.01s 00:00:00.26 Elapsed: 00:00:00.12
+# Mc/sec: 21959.78
+//
+Query:       14-3-3  [M=236]
+Accession:   PF00244.15
+Description: 14-3-3 protein
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+     0.0067   16.7   1.1     0.0098   16.2   1.1    1.1  1  bin_7_02746   Multidrug resistance protein MexA precursor
+     0.0067   16.7   1.1     0.0098   16.2   1.1    1.1  1  bin_7_02750   Multidrug resistance protein MexA precursor
+  ------ inclusion threshold ------
+      0.019   15.3   0.9        1.3    9.3   0.1    3.5  4  bin_10_02607  Photosystem I assembly protein Ycf3
+      0.049   13.9   0.1       0.05   13.9   0.1    1.0  1  bin_11_01270  hypothetical protein
+      0.072   13.3   5.4       0.71   10.1   0.1    4.1  5  bin_6_00301   Photosystem I assembly protein Ycf3
+
+
+Domain annotation for each sequence (and alignments):
+>> bin_7_02746  Multidrug resistance protein MexA precursor
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   16.2   1.1   1.4e-06    0.0098      98     159 ..      94     154 ..      91     164 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 16.2 bits;  conditional E-value: 1.4e-06
+                  HHHHHTTHHHHS-SHHHHHHHHHHHHHHHHHHHHH--STTHHHHHHHHHHHHHHHHHHHHHH CS
+       14-3-3  98 lelldkklipkassseskvFylkmkgDyyRYlaEfssgeerkeaaekaleaYkeAleiaese 159
+                  l  ld+++i+++  +e++ Fy    +D  RY a ++++  ++++a++a++ Y +A +  e+ 
+  bin_7_02746  94 LASLDTSIIRQQ-LEEARSFYETAAADNKRYQALYEEEVVSRQVADQARTRYIQARSAYEQA 154
+                  566899999885.99***************************************99887764 PP
+
+>> bin_7_02750  Multidrug resistance protein MexA precursor
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   16.2   1.1   1.4e-06    0.0098      98     159 ..      94     154 ..      91     164 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 16.2 bits;  conditional E-value: 1.4e-06
+                  HHHHHTTHHHHS-SHHHHHHHHHHHHHHHHHHHHH--STTHHHHHHHHHHHHHHHHHHHHHH CS
+       14-3-3  98 lelldkklipkassseskvFylkmkgDyyRYlaEfssgeerkeaaekaleaYkeAleiaese 159
+                  l  ld+++i+++  +e++ Fy    +D  RY a ++++  ++++a++a++ Y +A +  e+ 
+  bin_7_02750  94 LASLDTSIIRQQ-LEEARSFYETAAADNKRYQALYEEEVVSRQVADQARTRYIQARSAYEQA 154
+                  566899999885.99***************************************99887764 PP
+
+>> bin_10_02607  Photosystem I assembly protein Ycf3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.1   0.0      0.11   7.9e+02     143     160 ..      94     111 ..      89     120 .. 0.80
+   2 ?   -3.0   0.0         1   7.2e+03      14      30 ..     217     233 ..     204     241 .. 0.62
+   3 ?    9.3   0.1   0.00018       1.3      11      46 ..     268     303 ..     259     323 .. 0.85
+   4 ?    1.1   0.0     0.056     4e+02     149     191 ..     349     396 ..     337     401 .. 0.67
+
+  Alignments for each domain:
+  == domain 1  score: 0.1 bits;  conditional E-value: 0.11
+                   HHHHHHHHHHHHHHHHHS CS
+        14-3-3 143 ekaleaYkeAleiaesel 160
+                   +++l+ Y++Ale+ae++ 
+  bin_10_02607  94 NESLKIYENALEMAEKTT 111
+                   689999******999854 PP
+
+  == domain 2  score: -3.0 bits;  conditional E-value: 1
+                   TT-HHHHHHHHHHHHHT CS
+        14-3-3  14 aeryddmveamkklvel 30 
+                    +ry++ +ea  +++el
+  bin_10_02607 217 FNRYNESLEAFDRAIEL 233
+                   56666666666666554 PP
+
+  == domain 3  score: 9.3 bits;  conditional E-value: 0.00018
+                   HHHTT-HHHHHHHHHHHHHTS-.--HHHHHHHHHHH CS
+        14-3-3  11 aeqaeryddmveamkklvelkeeLsveernLLsvay 46 
+                    e  ery+++++a  +++el+++++ +e +LL  ++
+  bin_10_02607 268 DEARERYEEAIKACDRVIELDPDFTGQEARLLKAGI 303
+                   5778****************************9876 PP
+
+  == domain 4  score: 1.1 bits;  conditional E-value: 0.056
+                   HHHHHHHHHHH..S-TT-HHHH...HHHHHHHHHHHHTSS-HHHHHHH CS
+        14-3-3 149 YkeAleiaese..lkpthpirL...glaLnfsVFyYEilnspekAcel 191
+                   Y+eAl+++++   + pt+pi     g aLn++  y E ++   kA+el
+  bin_10_02607 349 YEEALTTINAAlkIDPTNPIAWknkGEALNYTGRYEEAVSAYGKAVEL 396
+                   777777777662245777775333377788877777777777777766 PP
+
+>> bin_11_01270  hypothetical protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   13.9   0.1   7.1e-06      0.05      64      96 ..      46      78 ..      32      83 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 13.9 bits;  conditional E-value: 7.1e-06
+                  HHHHTSTT----HSHHHHHHHHHHHHHHHHHHH CS
+        14-3-3 64 eqkeeskgkekkvklikeyrkkiekeLkeiCed 96
+                    k++s +ke+k++li++y+k +e+eL+++ e+
+  bin_11_01270 46 AGKSSSTSKEDKLNLIRDYKKALEEELNDVKEE 78
+                  456667778*******************98665 PP
+
+>> bin_6_00301  Photosystem I assembly protein Ycf3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -1.2   0.1      0.29     2e+03       9      30 ..     187     208 ..     153     235 .. 0.64
+   2 ?   -2.1   0.0      0.55   3.9e+03       6      32 ..     252     278 ..     250     291 .. 0.78
+   3 ?    2.2   0.1     0.025   1.8e+02     192     221 ..     327     358 ..     321     362 .. 0.79
+   4 ?    0.1   0.0      0.12   8.2e+02      10      43 ..     358     389 ..     349     398 .. 0.77
+   5 ?   10.1   0.1    0.0001      0.71      10      42 ..     425     456 ..     415     463 .. 0.81
+
+  Alignments for each domain:
+  == domain 1  score: -1.2 bits;  conditional E-value: 0.29
+                  HHHHHTT-HHHHHHHHHHHHHT CS
+       14-3-3   9 klaeqaeryddmveamkklvel 30 
+                  k   ++e+y+++ e  kk++ +
+  bin_6_00301 187 KTLTEMEQYNEAEENYKKVLAI 208
+                  3444444444444444444444 PP
+
+  == domain 2  score: -2.1 bits;  conditional E-value: 0.55
+                  HHHHHHHHTT-HHHHHHHHHHHHHTS- CS
+       14-3-3   6 ylaklaeqaeryddmveamkklvelke 32 
+                  +la+l  + +r +++ + +k+++++++
+  bin_6_00301 252 KLANLLVRLKRAEEAEKELKNILNIEK 278
+                  678899999999999999999998865 PP
+
+  == domain 3  score: 2.2 bits;  conditional E-value: 0.025
+                  HHHHHHHHHGGGGGSHHHH..HHHHHHHHHHH CS
+       14-3-3 192 akqafdeaiaeldslsees..ykdstlimqLL 221
+                  ak+a+ eai+el+++ +e   y+d++l + LL
+  bin_6_00301 327 AKKAYGEAIEELKKIPQEAefYQDAQLSIGLL 358
+                  8999*********9977543399999977776 PP
+
+  == domain 4  score: 0.1 bits;  conditional E-value: 0.12
+                  HHHHTT-HHHHHHHHHHHHHTS-.--HHHHHHHH CS
+       14-3-3  10 laeqaeryddmveamkklvelkeeLsveernLLs 43 
+                  l ++++r dd+++++k+++e ++  + +  ++Ls
+  bin_6_00301 358 LLKKSGRIDDAIDFLKSAIEKTD--NPDFYTVLS 389
+                  67899************999866..455555555 PP
+
+  == domain 5  score: 10.1 bits;  conditional E-value: 0.0001
+                  HHHHTT-HHHHHHHHHHHHHTS-.--HHHHHHH CS
+       14-3-3  10 laeqaeryddmveamkklvelkeeLsveernLL 42 
+                  l e+++r+d+ v+amkk++el+e  ++e  n++
+  bin_6_00301 425 LYEKTGRFDESVQAMKKVLELDE-KNAEAMNFI 456
+                  789******************77.366666665 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (236 nodes)
+Target sequences:                        35297  (10334013 residues searched)
+Passed MSV filter:                      1233  (0.0349321); expected 705.9 (0.02)
+Passed bias filter:                      742  (0.0210216); expected 705.9 (0.02)
+Passed Vit filter:                        66  (0.00186985); expected 35.3 (0.001)
+Passed Fwd filter:                         5  (0.000141655); expected 0.4 (1e-05)
+Initial search space (Z):              35297  [actual number of targets]
+Domain search space  (domZ):               5  [number of targets reported over threshold]
+# CPU time: 0.26u 0.01s 00:00:00.27 Elapsed: 00:00:00.11
+# Mc/sec: 22171.16
+//
+Query:       2-Hacid_dh  [M=133]
+Accession:   PF00389.25
+Description: D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+    4.8e-42  143.7   0.0    1.7e-41  142.0   0.0    1.9  1  bin_10_00202  D-3-phosphoglycerate dehydrogenase
+    3.6e-37  128.0   0.0    5.8e-36  124.1   0.0    2.9  2  bin_12_00246  D-3-phosphoglycerate dehydrogenase
+    2.4e-36  125.3   1.6    3.8e-36  124.6   0.3    2.0  2  bin_18_02043  D-3-phosphoglycerate dehydrogenase
+    6.7e-36  123.9   0.8    1.1e-35  123.2   0.3    1.6  2  bin_2_00712   D-3-phosphoglycerate dehydrogenase
+    2.9e-32  112.1   0.4    3.5e-32  111.8   0.4    1.1  1  bin_9_01402   D-3-phosphoglycerate dehydrogenase
+    7.5e-32  110.8   0.2    8.6e-32  110.6   0.2    1.1  1  bin_4_01010   D-3-phosphoglycerate dehydrogenase
+    8.3e-32  110.6   0.1    9.4e-32  110.4   0.1    1.0  1  bin_15_02019  D-3-phosphoglycerate dehydrogenase
+    9.2e-32  110.5   0.0      1e-31  110.3   0.0    1.0  1  bin_12_01884  Glycerate dehydrogenase
+      1e-31  110.3   0.0    1.2e-31  110.2   0.0    1.0  1  bin_2_00249   Glyoxylate/hydroxypyruvate reductase B
+    1.7e-31  109.6   0.0    2.2e-31  109.2   0.0    1.0  1  bin_7_02008   Putative 2-hydroxyacid dehydrogenase
+    3.3e-31  108.7   0.0    3.9e-31  108.4   0.0    1.0  1  bin_12_00941  D-lactate dehydrogenase
+    8.9e-31  107.3   0.5    1.1e-30  107.0   0.5    1.0  1  bin_7_03017   D-3-phosphoglycerate dehydrogenase
+    3.2e-30  105.5   0.0    3.7e-30  105.3   0.0    1.0  1  bin_11_00493  Putative 2-hydroxyacid dehydrogenase
+    2.7e-29  102.5   0.0    3.3e-29  102.2   0.0    1.1  1  bin_11_00985  Putative 2-hydroxyacid dehydrogenase
+    1.8e-28   99.8   0.0    2.1e-28   99.6   0.0    1.0  1  bin_14_03510  Phosphonate dehydrogenase
+    3.8e-27   95.5   0.0    9.5e-27   94.2   0.0    1.7  1  bin_9_01330   D-3-phosphoglycerate dehydrogenase
+    2.1e-25   89.9   0.0    2.7e-25   89.6   0.0    1.0  1  bin_10_02068  D-3-phosphoglycerate dehydrogenase
+    5.2e-24   85.4   0.0      6e-24   85.2   0.0    1.0  1  bin_7_03319   D-3-phosphoglycerate dehydrogenase
+    9.3e-24   84.6   0.0    1.5e-23   83.9   0.0    1.3  1  bin_12_00725  Glycerate dehydrogenase
+    2.3e-22   80.0   0.0    2.8e-22   79.8   0.0    1.1  1  bin_14_05149  Glyoxylate/hydroxypyruvate reductase B
+    3.7e-22   79.4   0.0    4.5e-22   79.1   0.0    1.0  1  bin_12_00730  D-3-phosphoglycerate dehydrogenase
+    3.5e-21   76.2   0.0    4.3e-21   75.9   0.0    1.0  1  bin_14_01602  D-3-phosphoglycerate dehydrogenase
+    4.4e-21   75.9   0.0    6.8e-21   75.3   0.0    1.3  1  bin_12_00392  Glyoxylate/hydroxypyruvate reductase B
+    7.2e-21   75.2   0.0    8.2e-21   75.0   0.0    1.0  1  bin_1_00573   Glycerate dehydrogenase
+    6.1e-20   72.2   0.0    1.3e-19   71.2   0.0    1.6  1  bin_12_01929  Glyoxylate/hydroxypyruvate reductase B
+    9.5e-19   68.4   0.0    1.8e-18   67.5   0.0    1.5  1  bin_14_05662  Glyoxylate/hydroxypyruvate reductase B
+    1.3e-18   67.9   0.0    1.6e-18   67.6   0.0    1.1  1  bin_14_01233  Glycerate dehydrogenase
+    1.5e-17   64.5   0.0    2.2e-17   63.9   0.0    1.2  1  bin_14_02169  Glyoxylate/hydroxypyruvate reductase B
+    1.2e-16   61.5   0.0    1.5e-16   61.2   0.0    1.1  1  bin_8_00116   (S)-sulfolactate dehydrogenase
+    1.2e-14   55.1   0.0    1.3e-14   54.9   0.0    1.1  1  bin_14_01511  D-3-phosphoglycerate dehydrogenase
+    2.1e-14   54.3   0.0    2.4e-14   54.1   0.0    1.2  1  bin_8_00043   Glyoxylate/hydroxypyruvate reductase B
+    5.3e-14   53.0   0.0    6.1e-14   52.8   0.0    1.3  1  bin_7_00918   Glycerate dehydrogenase
+    2.1e-05   25.2   0.0    2.6e-05   24.9   0.0    1.1  1  bin_14_01582  Putative 2-hydroxyacid dehydrogenase
+    0.00019   22.0   0.0    0.00024   21.7   0.0    1.1  1  bin_12_01223  D-3-phosphoglycerate dehydrogenase
+    0.00046   20.8   0.0    0.00064   20.4   0.0    1.2  1  bin_7_02527   Putative 2-hydroxyacid dehydrogenase YoaD
+    0.00061   20.4   0.0     0.0008   20.1   0.0    1.2  1  bin_12_01901  Glycerate dehydrogenase
+    0.00093   19.8   0.0     0.0015   19.2   0.0    1.3  1  bin_15_01026  (S)-sulfolactate dehydrogenase
+  ------ inclusion threshold ------
+      0.021   15.4   0.5      0.096   13.3   0.1    1.8  2  bin_5_00821   50S ribosomal protein L15
+       0.27   11.9   0.0       0.28   11.8   0.0    1.1  1  bin_14_03046  Glyoxylate/hydroxypyruvate reductase B
+       0.34   11.5   0.0        1.2    9.8   0.0    1.9  1  bin_19_00361  Glyoxylate/hydroxypyruvate reductase A
+        0.4   11.3   0.2        1.2    9.8   0.1    1.8  1  bin_15_03056  putative GTPase/MT1543
+
+
+Domain annotation for each sequence (and alignments):
+>> bin_10_00202  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  142.0   0.0   1.9e-44   1.7e-41       1     133 []       5     312 ..       5     312 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 142.0 bits;  conditional E-value: 1.9e-44
+                   EEESSTSHHHHHHHHHHTCEEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHH CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   1 vlileplreeelellkegvevevkdellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesv 97 
+                   vl++++l e+++++l+ g +v+v ++l+ eel++k++d+dal++rs tkvta+v++++++Lkvi++agvG+Dn+D++aa+++GI+V n+pg +t s+
+  bin_10_00202   5 VLVSDSLAEDGVKRLQSGADVDVITNLSPEELIQKIPDYDALVIRSGTKVTADVINAAKRLKVIGRAGVGIDNVDVEAATKKGIIVLNTPGGNTISA 101
+                   79999************55****************************************************************************** PP
+
+                   HHHH............................................................................................. CS
+                   xxxx............................................................................................. RF
+    2-Hacid_dh  98 AEla............................................................................................. 101
+                   AE++                                                                                             
+  bin_10_00202 102 AEHTiammlalarnipqansalhqgewnrkkytgveffnktlgvvglgrvgaevatrmksfgmrilaydpfvteekaqqmgltlanletvlregdfi 198
+                   ************************************************************************************************* PP
+
+                   ..................................................................................T-BHHHHHHHHHHHH CS
+                   ..................................................................................xxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ..................................................................................fateeaqenmaeeaa 116
+                                                                                                     ++t eaq n+a  +a
+  bin_10_00202 199 tvhtpltnetrnlidddefkimkdgvrivncarggiineaalakavaegkvagaavdvftkepptgnpllgqeriittphlgASTAEAQVNVALAVA 295
+                   ************************************************************************************************* PP
+
+                   HHHHHHHTTSCGTTBES CS
+                   xxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 117 enlvaflkgespanavn 133
+                   ++++a++kg+ p+na+n
+  bin_10_00202 296 DQILAIAKGGLPTNAIN 312
+                   **************998 PP
+
+>> bin_12_00246  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  124.1   0.0   6.7e-39   5.8e-36       1     133 []       5     315 ..       5     315 .. 0.99
+   2 ?   -0.6   0.0       2.3     2e+03      41      59 ..     496     518 ..     486     526 .. 0.69
+
+  Alignments for each domain:
+  == domain 1  score: 124.1 bits;  conditional E-value: 6.7e-39
+                   EEESSTSHHHHHHHHHH.TCEEEEES..SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTH CS
+                   xxxxxxxxxxxxxxxxx.xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   1 vlileplreeelellke.gvevevkd..ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgyst 94 
+                   vl++++l+e +++++++ gvev+++    +++++l+e + ++d+l +rs tk t++++e++ +Lkvi++ag+GvDn+D+ aa++rGI+V+n+p  ++
+  bin_12_00246   5 VLVSDELSETAVQIFRDrGVEVDFQPklGKDKDKLAEIIGNYDGLAIRSATKATEKLIEAATNLKVIGRAGIGVDNVDIPAASRRGIIVMNTPFGNS 101
+                   7999*************766*****98899999**************************************************************** PP
+
+                   HHHHHHH.......................................................................................... CS
+                   xxxxxxx.......................................................................................... RF
+    2-Hacid_dh  95 esvAEla.......................................................................................... 101
+                    ++AE+a                                                                                          
+  bin_12_00246 102 ITTAEHAialmfavarqlpaadsstqagkwekskfmgveitgktlgvigagnigsivcsralglkmhvlaydpflsperaqemgvtkveldellaqa 198
+                   ************************************************************************************************* PP
+
+                   .....................................................................................T-BHHHHHHHHH CS
+                   .....................................................................................xxxxxxxxxxxx RF
+    2-Hacid_dh 102 .....................................................................................fateeaqenmae 113
+                                                                                                        ++t+eaqen+a 
+  bin_12_00246 199 dfitlhvpmtdktrgilnaenlaktkkgvrivncargglvdeaalaeaiksghvagagfdvfevepatesplfglpnvvctphlgASTTEAQENVAL 295
+                   ************************************************************************************************* PP
+
+                   HHHHHHHHHHTTSCGTTBES CS
+                   xxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 114 eaaenlvaflkgespanavn 133
+                   ++ae++ ++l ++ + na+n
+  bin_12_00246 296 QVAEQMSDYLVKGAVSNAIN 315
+                   **************999987 PP
+
+  == domain 2  score: -0.6 bits;  conditional E-value: 2.3
+                   EEEE-TTS.-BSHHHHHTH...T CS
+                   xxxxxxxx.xxxxxxxxxx...x RF
+    2-Hacid_dh  41 alivrsnt.kvtaevlekl...p 59 
+                   a+ + + + +v++evl+kl   p
+  bin_12_00246 496 AIALLYVDgPVSEEVLDKLranP 518
+                   4444444449*******995544 PP
+
+>> bin_18_02043  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  124.6   0.3   4.5e-39   3.8e-36       1     133 []       5     312 ..       5     312 .. 0.99
+   2 ?   -1.9   0.0       5.5   4.7e+03      79      90 ..     392     403 ..     375     427 .. 0.60
+
+  Alignments for each domain:
+  == domain 1  score: 124.6 bits;  conditional E-value: 4.5e-39
+                   EEESSTSHHHHHHHHHHTC.EEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHH CS
+                   xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   1 vlileplreeelellkegv.evevkdellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystes 96 
+                   vl+++pl ee+l++lke + ++++k+ l+++ l++ + d+dal+vrs t+vta+v+e+ ++Lk+i++ag+GvDniD +aa+++GI+V n+p+ +t +
+  bin_18_02043   5 VLVSDPLAEEGLDILKE-FcDLDIKTGLTEDHLVDIIGDYDALLVRSGTEVTARVIEAGKRLKFIGRAGAGVDNIDTEAATRKGIIVANAPEGNTLA 100
+                   7999*************.66***************************************************************************** PP
+
+                   HHHHH............................................................................................ CS
+                   xxxxx............................................................................................ RF
+    2-Hacid_dh  97 vAEla............................................................................................ 101
+                   + E++                                                                                            
+  bin_18_02043 101 ATEHTmammlalarnipqanasvkkgewkrskfmgvelnekvlgivgfgrigrevakraqamemkciaydpfisseraaslgvemvtledlfrradv 197
+                   ************************************************************************************************* PP
+
+                   ...................................................................................T-BHHHHHHHHHHH CS
+                   ...................................................................................xxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ...................................................................................fateeaqenmaeea 115
+                                                                                                      ++t eaq+n+a  +
+  bin_18_02043 198 itvhtplikethhminagtiatmkdgvrlincarggiidekaladgiasgkvagaaldvfesepptdspvigleqvivtphlgASTVEAQKNVAISI 294
+                   ************************************************************************************************* PP
+
+                   HHHHHHHHTTSCGTTBES CS
+                   xxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 116 aenlvaflkgespanavn 133
+                   +++++++l+g+s + +vn
+  bin_18_02043 295 VNQCISVLSGGSAKYVVN 312
+                   ****************98 PP
+
+  == domain 2  score: -1.9 bits;  conditional E-value: 5.5
+                   HHHTT-EEEE-T CS
+                   xxxxxxxxxxxx RF
+    2-Hacid_dh  79 akerGIlVtnvp 90 
+                   akerGI ++++ 
+  bin_18_02043 392 AKERGIRLSETT 403
+                   444444444332 PP
+
+>> bin_2_00712  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  123.2   0.3   1.2e-38   1.1e-35       1     133 []       5     312 ..       5     312 .. 0.99
+   2 ?   -2.6   0.0       9.2   7.9e+03      79      90 ..     392     403 ..     378     428 .. 0.66
+
+  Alignments for each domain:
+  == domain 1  score: 123.2 bits;  conditional E-value: 1.2e-38
+                  EEESSTSHHHHHHHHHHTC.EEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHH CS
+                  xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh   1 vlileplreeelellkegv.evevkdellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesv 97 
+                  vl+++pl ee++++lk  + +v+v++ l++++l++ + d+dal+vrs t+vta+v+++  kLk+i++ag+GvDniD +aa++rGI+V n+p+ +t ++
+  bin_2_00712   5 VLVSDPLAEEGIDILKG-FcDVDVNTGLTEDQLVATIGDYDALLVRSGTEVTARVIDAGTKLKFIGRAGAGVDNIDTEAATRRGIIVANAPEGNTLAA 101
+                  7999*************.66****************************************************************************** PP
+
+                  HHHH.............................................................................................. CS
+                  xxxx.............................................................................................. RF
+   2-Hacid_dh  98 AEla.............................................................................................. 101
+                   E++                                                                                              
+  bin_2_00712 102 TEHTmammlslarnipqataslkkgewkrskfmgvelndkilgivgfgrigievskraramqmkciaydpfiskeraanlgvelvpldelfrradvit 199
+                  ************************************************************************************************** PP
+
+                  .................................................................................T-BHHHHHHHHHHHHHH CS
+                  .................................................................................xxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 .................................................................................fateeaqenmaeeaaen 118
+                                                                                                   ++t eaq+n+   +a++
+  bin_2_00712 200 vhtpliketrhvineksiatmkdgvrmincarggiidekaladaiasgkvagaaldvfetepptdspllgldtvivtphlgASTVEAQKNVSISVANQ 297
+                  ************************************************************************************************** PP
+
+                  HHHHHTTSCGTTBES CS
+                  xxxxxxxxxxxxxxx RF
+   2-Hacid_dh 119 lvaflkgespanavn 133
+                  ++++l+g++ + +vn
+  bin_2_00712 298 CISVLEGGPAKYVVN 312
+                  *************98 PP
+
+  == domain 2  score: -2.6 bits;  conditional E-value: 9.2
+                  HHHTT-EEEE-T CS
+                  xxxxxxxxxxxx RF
+   2-Hacid_dh  79 akerGIlVtnvp 90 
+                  akerGI  +++ 
+  bin_2_00712 392 AKERGIRMSETT 403
+                  455555554443 PP
+
+>> bin_9_01402  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  111.8   0.4     4e-35   3.5e-32       1     132 [.       6     313 ..       6     314 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 111.8 bits;  conditional E-value: 4e-35
+                  EEESSTSHHHHHHHHHHTCEEEEES..SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHH CS
+                  xxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh   1 vlileplreeelellkegvevevkd..ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystes 96 
+                  +l+++ l e ++++l  + ++ + d   ++ + ll  ++d+dalivr +tkvt +v+++++kLkv++++gvGvDni+ldaake+G++V+n+p + t +
+  bin_9_01402   6 ILLTDGLAETGKTILTSK-NIAFDDqnGIDANALLTCIADYDALIVRGRTKVTPDVFAQAKKLKVVGRCGVGVDNINLDAAKEKGVIVVNAPVATTIA 102
+                  688999999999999994.666666669********************************************************************** PP
+
+                  HHHHH............................................................................................. CS
+                  xxxxx............................................................................................. RF
+   2-Hacid_dh  97 vAEla............................................................................................. 101
+                  vAE+a                                                                                             
+  bin_9_01402 103 VAEHAmalmlamvreipkadaglkagiwykseikgtelygktlgvigfghigstvgtyakafgmkviaydliaseeqirdhggepvnfddllqkadfi 200
+                  ************************************************************************************************** PP
+
+                  ..................................................................................T-BHHHHHHHHHHHHH CS
+                  ..................................................................................xxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 ..................................................................................fateeaqenmaeeaae 117
+                                                                                                    + t+eaq+++a  +a+
+  bin_9_01402 201 tvhvpltdttkhminaqtiakmkdnvriisaarggvidenallqalesgkvasaaldvfekeppldsplvkhpkliatphigGETKEAQRRAAVDIAN 298
+                  ************************************************************************************************** PP
+
+                  HHHHHHTTSCGTTBE CS
+                  xxxxxxxxxxxxxxx RF
+   2-Hacid_dh 118 nlvaflkgespanav 132
+                  +++a+l+g++++ +v
+  bin_9_01402 299 EVLAALEGDPLRWRV 313
+                  ********9998877 PP
+
+>> bin_4_01010  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  110.6   0.2     1e-34   8.6e-32       1     132 [.       6     312 ..       6     313 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 110.6 bits;  conditional E-value: 1e-34
+                  EEESSTSHHHHHHHHHHTCEEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHH CS
+                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh   1 vlileplreeelellkegvevevkdellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvA 98 
+                  +l+++ l+e+++++l+ + +v+ k+ ++ e+ll+ + ++da+ivr +tkvt+ev+++++kLkv+++ gvGvDniDl aake++++V+n+p + t++vA
+  bin_4_01010   6 ILLTDGLEENGKATLSTKGHVDDKKGISAEDLLQVIGEYDAIIVRGRTKVTREVFAAAKKLKVVGRSGVGVDNIDLVAAKEHNVIVVNAPVATTRAVA 103
+                  789999999*******933999999************************************************************************* PP
+
+                  HHH............................................................................................... CS
+                  xxx............................................................................................... RF
+   2-Hacid_dh  99 Ela............................................................................................... 101
+                  El+                                                                                               
+  bin_4_01010 104 ELVmgmifalarelpradqsmkqnqwlkkefegielegkilgvigigrigstvarmatsmgmkvlacdpvllpeaihsaggeacdfeellgrsdfiti 201
+                  ************************************************************************************************** PP
+
+                  ................................................................................T-BHHHHHHHHHHHHHHH CS
+                  ................................................................................xxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 ................................................................................fateeaqenmaeeaaenl 119
+                                                                                                  + t eaq ++a  + +++
+  bin_4_01010 202 htpltdstrnmingdilakmkngvriicaargniideatllaalnsnkvagaaldvysveppqgselarhpkviatphigGQTVEAQIRAANDISNEV 299
+                  ************************************************************************************************** PP
+
+                  HHHHTTSCGTTBE CS
+                  xxxxxxxxxxxxx RF
+   2-Hacid_dh 120 vaflkgespanav 132
+                  +a+l+g +++  v
+  bin_4_01010 300 LAALNGAPLRWKV 312
+                  ******9988766 PP
+
+>> bin_15_02019  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  110.4   0.1   1.1e-34   9.4e-32       2     132 ..       6     311 ..       5     312 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 110.4 bits;  conditional E-value: 1.1e-34
+                   EESSTSHHHHHHHHHHTCEEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHH CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   2 lileplreeelellkegvevevkdellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvA 98 
+                   ++++ l +   e l ++v+++ ++ ++ eell+ + d+da+ivrs+tkvt++vl++ ++Lkv++++gvGvDniDldaa+++ I+V+n+p + t svA
+  bin_15_02019   6 ILTDGLAPISDEALLASVDLVDRKGISAEELLDVIGDYDAIIVRSRTKVTEDVLSAGKNLKVVGRMGVGVDNIDLDAARKHSITVVNAPVATTVSVA 102
+                   566666555555555534666666************************************************************************* PP
+
+                   HHH.............................................................................................. CS
+                   xxx.............................................................................................. RF
+    2-Hacid_dh  99 Ela.............................................................................................. 101
+                   El+                                                                                              
+  bin_15_02019 103 ELTlglmlsllrdipradaglkagkwlkkelvgaelfrktlgiigfghigeavakramafdmkviafdpvrpaaeiesagakpvsleellaqadlit 199
+                   ************************************************************************************************* PP
+
+                   .................................................................................T-BHHHHHHHHHHHHH CS
+                   .................................................................................xxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 .................................................................................fateeaqenmaeeaae 117
+                                                                                                    + t eaq ++++ ++ 
+  bin_15_02019 200 lhiphipathyllndsafekmkdgvrivcaarggvieessllaaldsgkvagaaldvfeteppgesplamhphvvatphigAQTGEAQLRAGHDILS 296
+                   ********************************************************************************999************** PP
+
+                   HHHHHHTTSCGTTBE CS
+                   xxxxxxxxxxxxxxx RF
+    2-Hacid_dh 118 nlvaflkgespanav 132
+                   ++ a+l++++++  v
+  bin_15_02019 297 EVYAALEEQPLRWKV 311
+                   ********9988766 PP
+
+>> bin_12_01884  Glycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  110.3   0.0   1.2e-34     1e-31       3     132 ..      11     329 ..       9     330 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 110.3 bits;  conditional E-value: 1.2e-34
+                   ESSTSHHHHHHHHHH..TCEEEEES.SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTH.TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHH CS
+                   xxxxxxxxxxxxxxx..xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   3 ileplreeelellke..gvevevkd.ellteellekakdadalivrsntkvtaevlekl.pkLkviatagvGvDniDldaakerGIlVtnvpgyste 95 
+                   i+++l++   ++++e  + e+++ d   ++eel+++++++d+l+ ++++++ta ++e++ p+Lk+ia ++ G+D++D+daa+++GI+Vtn+p+++te
+  bin_12_01884  11 ITRKLPDVVETRMRElfDAELNIDDtPRSEEELVAAMQRVDVLVPTVTDRITAPMIEQAgPQLKLIASFSNGIDHVDVDAAARKGITVTNTPNVLTE 107
+                   6665544444444554322999999889999****************************************************************** PP
+
+                   HHHHHH........................................................................................... CS
+                   xxxxxx........................................................................................... RF
+    2-Hacid_dh  96 svAEla........................................................................................... 101
+                   + A+ +                                                                                           
+  bin_12_01884 108 DSADITmalvlavprrmiegtrvlangadewlgwsptwmlgrrisgkrigivgmgrigtavarrakafglsihyhnrkrvnpateaeleatywdsld 204
+                   ************************************************************************************************* PP
+
+                   ..............................................................................................T-B CS
+                   ..............................................................................................xxx RF
+    2-Hacid_dh 102 ..............................................................................................fat 104
+                                                                                                                 +at
+  bin_12_01884 205 qmlarvdivsvncpstpatyhlisarrlalmqptsyivntargdiideaamiqclregkiagagldvyenepavnpkliklakegkvvllphmgSAT 301
+                   ************************************************************************************************* PP
+
+                   HHHHHHHHHHHHHHHHHHHTTSCGTTBE CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 105 eeaqenmaeeaaenlvaflkgespanav 132
+                    e + +m+++++ n+++ ++g++p+n+v
+  bin_12_01884 302 IEGRIEMGDKVIINIRTLFDGHRPPNRV 329
+                   **************************98 PP
+
+>> bin_2_00249  Glyoxylate/hydroxypyruvate reductase B
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  110.2   0.0   1.3e-34   1.2e-31       1     133 []       6     317 ..       6     317 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 110.2 bits;  conditional E-value: 1.3e-34
+                  EEESSTSHHHHHHHHHHTCEEEEES...SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTH.TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTH CS
+                  xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh   1 vlileplreeelellkegvevevkd...ellteellekakdadalivrsntkvtaevlekl.pkLkviatagvGvDniDldaakerGIlVtnvpgyst 94 
+                  v+i++++++++l+l+ e++ev+++d    +++eell+ ++++d+++   +++++ ev++++ ++L+vi++++vG++niD++ a++r+I V n+pg++t
+  bin_2_00249   6 VFITRRIPDAGLNLIYEECEVDLWDqdlPPSKEELLQHVPGVDGILSLLSDPIDVEVIKAAgENLRVISNYAVGYNNIDIQEATRRNISVGNTPGVLT 103
+                  789999***********77*******999********************************************************************* PP
+
+                  HHHHHHH........................................................................................... CS
+                  xxxxxxx........................................................................................... RF
+   2-Hacid_dh  95 esvAEla........................................................................................... 101
+                  e++A++a                                                                                           
+  bin_2_00249 104 EATADFAfalmmsagrrvveaekhvragkwktwspstllgvdfagatlgiigfgrigkamarratgfgmriliydpttqpmagiikvdldtlyresdf 201
+                  ************************************************************************************************** PP
+
+                  ....................................................................................T-BHHHHHHHHHHH CS
+                  ....................................................................................xxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 ....................................................................................fateeaqenmaeea 115
+                                                                                                      +a+++++enm  +a
+  bin_2_00249 202 isihtpltpetkhlinadafgkmkpnavlvntargeivdqaalydalknhrifaagidvsdpeplpmdsplleldnlivcphiaSASTTTRENMSLIA 299
+                  ************************************************************************************************** PP
+
+                  HHHHHHHHTTSCGTTBES CS
+                  xxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 116 aenlvaflkgespanavn 133
+                  a nl+a l+ge+++  vn
+  bin_2_00249 300 AGNLLAGLRGERLPFSVN 317
+                  **************9998 PP
+
+>> bin_7_02008  Putative 2-hydroxyacid dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  109.2   0.0   2.6e-34   2.2e-31       3     132 ..       8     320 ..       6     321 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 109.2 bits;  conditional E-value: 2.6e-34
+                  ESSTSHHHHHHHHHHTCEEEEES...SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTH.TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHH CS
+                  xxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh   3 ileplreeelellkegvevevkd...ellteellekakdadalivrsntkvtaevlekl.pkLkviatagvGvDniDldaakerGIlVtnvpgystes 96 
+                  +++ ++e +l++l+e++e++v++    ++ eel++ +k+  ++++  ++ ++++v++++ ++L+via+++vG+DniDl+aa++r+I V n+pg++te+
+  bin_7_02008   8 VTRIIPETGLAMLRERCELHVWQeelPPSHEELCSLVKGTAGILCLLSDSIDDNVMDAAgNGLQVIANYAVGYDNIDLAAARRRNISVGNTPGVLTET 105
+                  67777999*******66******99999999********99999999999************************************************ PP
+
+                  HHHHH............................................................................................. CS
+                  xxxxx............................................................................................. RF
+   2-Hacid_dh  97 vAEla............................................................................................. 101
+                  +A+la                                                                                             
+  bin_7_02008 106 TADLAfalllsvarriveghayvqagswqtwgpellrgydlfgktlgiigfgrigkavarrgtgfnmrtlfyspsaeqeyfeelnaskvdldtllkqs 203
+                  ************************************************************************************************** PP
+
+                  ......................................................................................T-BHHHHHHHHH CS
+                  ......................................................................................xxxxxxxxxxxx RF
+   2-Hacid_dh 102 ......................................................................................fateeaqenmae 113
+                                                                                                        +at e++ +ma 
+  bin_7_02008 204 dflslhcplndttrgminrealmkmketatlintargkvvvhddlaealekgwiagagldvtdpepinndspllsmsnviitphvgSATYETRARMAV 301
+                  ************************************************************************************************** PP
+
+                  HHHHHHHHHHTTSCGTTBE CS
+                  xxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 114 eaaenlvaflkgespanav 132
+                  ++aen++a l+g+++   v
+  bin_7_02008 302 MCAENILAGLDGRRLLYQV 320
+                  ************9988776 PP
+
+>> bin_12_00941  D-lactate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  108.4   0.0   4.5e-34   3.9e-31       1     132 [.       3     327 ..       3     328 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 108.4 bits;  conditional E-value: 4.5e-34
+                   EEESSTSHHHHHHHHHH....TCEEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTH..TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TT CS
+                   xxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   1 vlileplreeelellke....gvevevkdellteellekakdadalivrsntkvtaevlekl..pkLkviatagvGvDniDldaakerGIlVtnvpg 91 
+                   ++++++ +++++++l++    g++++++++ l++e+++ a++a a++ ++n++++  vlekl   +++++a++++G++++Dl+aa+++G+++ +vp+
+  bin_12_00941   3 IVVYSA-KPYDRQFLDAaahpGMKMQYCEARLSAETVALAEGAMAICAFVNDDLSGPVLEKLaaMGVRLVALRCAGFNQVDLQAAEKLGLTIARVPA 98 
+                   678877.9**********998889************************************************************************* PP
+
+                   TTHHHHHHHH....................................................................................... CS
+                   xxxxxxxxxx....................................................................................... RF
+    2-Hacid_dh  92 ystesvAEla....................................................................................... 101
+                   ys+++vAE++                                                                                       
+  bin_12_00941  99 YSPHAVAEHTmalilslnrkihraynrvregnfaldgllgfdlhgktvgivgtgkigaiftriaagfgcrllghdirqnpdcvalgmtyvareelfr 195
+                   ************************************************************************************************* PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_12_00941 196 asdvltlmcpltpetrhlirsetlsllkkgvmlintsrgaiidtqaaiaglkdgtigslgidvyeeeadlffedlsndvlrddvfarlltfpnvlvt 292
+                   ************************************************************************************************* PP
+
+                   ....T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBE CS
+                   ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ....fateeaqenmaeeaaenlvaflkgespanav 132
+                       f+t+ea+ n+a++++ n+++fl++++  +av
+  bin_12_00941 293 ghqgFFTQEALTNIADTTIANITSFLDTGKALHAV 327
+                   *****************************999988 PP
+
+>> bin_7_03017  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  107.0   0.5   1.2e-33   1.1e-30       8     133 .]      14     307 ..       6     307 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 107.0 bits;  conditional E-value: 1.2e-33
+                  HHHHHHHHHH.....TCEEEEES.SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHH CS
+                  xxxxxxxxxx.....xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh   8 reeelellke.....gvevevkd.ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAE 99 
+                    e++ l+ke     g+++ + +   ++++ll++++d+da+i+rs   v+aevl+++++Lk++++ag+G+DniDl+aa+++G++ +n+pg ++++vAE
+  bin_7_03017  14 AAEAVGLIKEiadkaGYQIILLEkYTDKSDLLKAVSDVDAMIIRSDI-VDAEVLDAAKQLKIVVRAGAGYDNIDLAAATAHGVVAMNTPGQNSNAVAE 110
+                  55666677777777877666666466777****************99.************************************************** PP
+
+                  HH................................................................................................ CS
+                  xx................................................................................................ RF
+   2-Hacid_dh 100 la................................................................................................ 101
+                  la                                                                                                
+  bin_7_03017 111 LAigmmifqarkqfngkagselkgktlgihaygnvgkcvatiakgfgmeifafdpyipreqieadgvhcvdtvealyaksqyvslhipanaetknsvn 208
+                  ************************************************************************************************** PP
+
+                  ...................................................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBE CS
+                  ...................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 ...................................................................fateeaqenmaeeaaenlvaflkgespanav 132
+                                                                                     + teea  n++  a+ ++++f+++++++  v
+  bin_7_03017 209 yklltsmpkpatlvntarkevvneedllkvfvdrpdfsyvsdiepacaaeikekftgrffftpkkmgAQTEEANVNAGLAAIHQIIDFFEKGDVRFQV 306
+                  ******************************************************************999*************************9999 PP
+
+                  S CS
+                  x RF
+   2-Hacid_dh 133 n 133
+                  n
+  bin_7_03017 307 N 307
+                  8 PP
+
+>> bin_11_00493  Putative 2-hydroxyacid dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  105.3   0.0   4.3e-33   3.7e-30       1     133 []      24     340 ..      24     340 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 105.3 bits;  conditional E-value: 4.3e-33
+                   EEESSTSHHHHHHHHHH.TCEEEEES...SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTH.TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TT. CS
+                   xxxxxxxxxxxxxxxxx.xxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. RF
+    2-Hacid_dh   1 vlileplreeelellke.gvevevkd...ellteellekakdadalivrsntkvtaevlekl.pkLkviatagvGvDniDldaakerGIlVtnvpg. 91 
+                   + i+++++ e  e lke g+ev++++     ++eel++ ++++da++   ++k++ ++++ + p+Lkvi++++vG+Dni++d a++rGI+Vtn+p  
+  bin_11_00493  24 IYITRRIPGEVTEKLKEkGYEVSFNEfdkPVTEEELVSGVRGVDAILSLLTEKIDGDLMDLAgPQLKVISNYAVGFDNINVDDATKRGIVVTNTPCd 120
+                   578889988999999997779999999999999**************************************************************63 PP
+
+                   TTHHHHHHHH....................................................................................... CS
+                   xxxxxxxxxx....................................................................................... RF
+    2-Hacid_dh  92 ystesvAEla....................................................................................... 101
+                      e+vAE++                                                                                       
+  bin_11_00493 121 EVNEAVAEHTwalilslarriveadesvrrgfysswdpgtflgsslkgktlgiiglgrigsmvakrakgygmdllynkkerdenlenelgvkyetld 217
+                   6679********************************************************************************************* PP
+
+                   ...........................................................................................T-BHHH CS
+                   ...........................................................................................xxxxxx RF
+    2-Hacid_dh 102 ...........................................................................................fateea 107
+                                                                                                              +at +a
+  bin_11_00493 218 dllsksdfvslhvplteetkgminkgtiskmkkgsyivntargevireddlvealrdghlkgaaldvfetepqinpeligmenvvltphigSATWDA 314
+                   ************************************************************************************************* PP
+
+                   HHHHHHHHHHHHHHHHTTSCGTTBES CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 108 qenmaeeaaenlvaflkgespanavn 133
+                   +++m e+a++ ++++l+g++p+n vn
+  bin_11_00493 315 RNKMSEMAFNGIIDVLEGRKPQNIVN 340
+                   *************************8 PP
+
+>> bin_11_00985  Putative 2-hydroxyacid dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  102.2   0.0   3.9e-32   3.3e-29       1     132 [.       3     318 ..       3     319 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 102.2 bits;  conditional E-value: 3.9e-32
+                   EEESSTSHHHHHHHHHH.TCEEEEES...SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTH.TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TT. CS
+                   xxxxxxxxxxxxxxxxx.xxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. RF
+    2-Hacid_dh   1 vlileplreeelellke.gvevevkd...ellteellekakdadalivrsntkvtaevlekl.pkLkviatagvGvDniDldaakerGIlVtnvpg. 91 
+                   v i+++++ ++le lk+ g+ev +++     ++ee l+ +k++da++   ++k++ ++++   p+Lk+i++++vG+Dni+++ a++rGI+Vtn+p  
+  bin_11_00985   3 VYITRRVPGQALEKLKQkGFEVICNEfdrPVTEEEFLKGIKGVDAILSLLTDKIDGDMMDLSgPQLKIISNYAVGFDNINIEDATKRGIIVTNTPCd 99 
+                   67888888899999999655998888888******************************************************************63 PP
+
+                   TTHHHHHHHH....................................................................................... CS
+                   xxxxxxxxxx....................................................................................... RF
+    2-Hacid_dh  92 ystesvAEla....................................................................................... 101
+                      e+vAE++                                                                                       
+  bin_11_00985 100 EVNEAVAEHTwalilslarriveadesirrgsysgwdpgtflgisikdktlgiiglgrigsmvarrakgyemnllysqrnhdvekekglgikyesfd 196
+                   6679********************************************************************************************* PP
+
+                   ...........................................................................................T-BHHH CS
+                   ...........................................................................................xxxxxx RF
+    2-Hacid_dh 102 ...........................................................................................fateea 107
+                                                                                                              +at ea
+  bin_11_00985 197 ellsksdfvslhiplteetrgimnkeafkkmkkrsflintargeivkeddliealkegelrgaaldvfenephvhpeligmenviltphigSATWEA 293
+                   ************************************************************************************************* PP
+
+                   HHHHHHHHHHHHHHHHTTSCGTTBE CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 108 qenmaeeaaenlvaflkgespanav 132
+                   +e+m + a++ ++++l+g++p+n v
+  bin_11_00985 294 REKMCDLAVNGIIDVLDGRKPKNIV 318
+                   ***********************98 PP
+
+>> bin_14_03510  Phosphonate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   99.6   0.0   2.4e-31   2.1e-28       1     133 []       5     327 ..       5     327 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 99.6 bits;  conditional E-value: 2.4e-31
+                   EEESSTSHHHHHHHHHH..TC.EEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTH CS
+                   xxxxxxxxxxxxxxxxx..xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   1 vlileplreeelellke..gv.evevkdellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgyst 94 
+                   v++++ +++e +ell++  +v   +++++l+++e++++akdadal+ +  + +++++le++pkL+vi+ a  G+Dn+D++a++++G+++t vp+ +t
+  bin_14_03510   5 VVLTHWVHPEIIELLSAsaDViPNTTRETLPRSEVIARAKDADALMAFMPDSIDSAFLEECPKLRVIGAALKGYDNFDVNACTRHGVWLTIVPDLLT 101
+                   67888789*********65332344444********************************************************************* PP
+
+                   HHHHHHH.......................................................................................... CS
+                   xxxxxxx.......................................................................................... RF
+    2-Hacid_dh  95 esvAEla.......................................................................................... 101
+                     +AEl+                                                                                          
+  bin_14_03510 102 IPTAELTiglllgltrhmlegdrqirsghfqgwrptlygsgltgktlgiigmgavgraiaqrlagfemnllycdpiplnaeqekawhvqrvtldell 198
+                   ************************************************************************************************* PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_14_03510 199 ekcdyvvpmvpmaaetlhlidatalakmktgsylinacrgsvvdenaviaalasgklagyaadvfemeewiradrpqaipkalldntaqtfftphlg 295
+                   ************************************************************************************************* PP
+
+                   T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBES CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 fateeaqenmaeeaaenlvaflkgespanavn 133
+                   +a +e + ++ ++aa n++++l+ge+p  a+n
+  bin_14_03510 296 SAVKEVRLEIERQAAMNIIQALAGEKPMGAIN 327
+                   ***************************99887 PP
+
+>> bin_9_01330  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   94.2   0.0   1.1e-29   9.5e-27      19     132 ..      31     321 ..      14     322 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 94.2 bits;  conditional E-value: 1.1e-29
+                  C.EEEEES...SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH........... CS
+                  x.xxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........... RF
+   2-Hacid_dh  19 v.evevkd...ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla........... 101
+                  v +v +++    l+++e++  ++++d+ i      +++e l+++ +Lkvi+++gvG+D +Dl+aa e+GI+Vtn+pg+++ svAEl+           
+  bin_9_01330  31 VgKVIYNEtgkPLSSDEVATFLPGVDGYIAGLDV-IDREALKAADRLKVISRYGVGYDRVDLEAAHEKGIIVTNTPGANAVSVAELTvglmlslarqi 127
+                  446666667779999**************99988.*************************************************************** PP
+
+                  .................................................................................................. CS
+                  .................................................................................................. RF
+   2-Hacid_dh 102 .................................................................................................. 101
+                                                                                                                    
+  bin_9_01330 128 peavlstrqgkwprfsgvslrgktigilglgaigkcvaarlkefdcriiafdpsvdlkfatdlgvevssmnevisqsdfltlhlpllpetrglvnadf 225
+                  ************************************************************************************************** PP
+
+                  .................................................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBE CS
+                  .................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 .................................................................fateeaqenmaeeaaenlvaflkgespanav 132
+                                                                                   + +++a ++m+++a+e ++a+l+g +p  +v
+  bin_9_01330 226 lnkmkkgsyflntargelvveadlitaiqsnhlagaaldvfdqeppsienpllqmsnvlvtphsgAHSDDATNAMGKMAMEDCLAVLRGLNPLYRV 321
+                  ****************************************************************999**********************8887776 PP
+
+>> bin_10_02068  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   89.6   0.0   3.1e-28   2.7e-25      26     123 ..      44     312 ..      16     316 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 89.6 bits;  conditional E-value: 3.1e-28
+                   SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH..................... CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..................... RF
+    2-Hacid_dh  26 ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla..................... 101
+                    l  +e++e a+++ +++   +  +t++vl++l++L++i+++gvGvDniDldaa++++I+V n+p++ t++v+E+a                     
+  bin_10_02068  44 RLNASETIELARNCTGIVAGLEP-YTKDVLNELENLRCISRVGVGVDNIDLDAANQQDIMVLNTPDAPTRAVSEMAiglifgllrgipqvdhemksg 139
+                   67788****************98.************************************************************************* PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_10_02068 140 iwkkftghllhsrtigiigvgrigkmttsllqslgaqvlvsdtnpdsqwllqnnlinhsfndvmsradivilhlafasnekpiinkdtislmkkgsy 236
+                   ************************************************************************************************* PP
+
+                   ......................................................T-BHHHHHHHHHHHHHHHHHHH CS
+                   ......................................................xxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ......................................................fateeaqenmaeeaaenlvafl 123
+                                                                         + t e+++ m ++a++nl++fl
+  bin_10_02068 237 linlsrgnvvdesalyealisdrlagaaldvfqnepysgnlitlnnviltphigSQTFETRQMMKRQAITNLINFL 312
+                   **************************************************************************98 PP
+
+>> bin_7_03319  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   85.2   0.0     7e-27     6e-24      11     133 .]      19     320 ..       5     320 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 85.2 bits;  conditional E-value: 7e-27
+                  HHHHHHHTC.EEEEES....SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH.. CS
+                  xxxxxxxxx.xxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.. RF
+   2-Hacid_dh  11 elellkegv.evevkd....ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla.. 101
+                  ++e+l++ + ev++ +    + +++e++e++k++d++i + +  +t++v++   +L++i++ gvG DniD+  a+++G++Vtn+p ++ esvA+la  
+  bin_7_03319  19 AIERLSR-HaEVVFVNdlgrSFTEDEIIEALKGYDGVIAAEEP-YTKKVFSSTRRLRIISRDGVGLDNIDITEATRHGVAVTNAP-VLHESVADLAfg 113
+                  3444555.559999999999********************998.*****************************************.8899******** PP
+
+                  .................................................................................................. CS
+                  .................................................................................................. RF
+   2-Hacid_dh 102 .................................................................................................. 101
+                                                                                                                    
+  bin_7_03319 114 liisavrklricdigmregrwtererylsrdvygrtlgllgfgkiaqavarrasgfgmkviacdtapkadeaavlgvkmvpldelllaadiisihvpl 211
+                  ************************************************************************************************** PP
+
+                  .............................................................................T-BHHHHHHHHHHHHHHHHHH CS
+                  .............................................................................xxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 .............................................................................fateeaqenmaeeaaenlvaf 122
+                                                                                               + t ++  +++e aa+ +++f
+  bin_7_03319 212 tpatfkiinnetigkmkdgvflvntsrggiidepplinalrsgkiagagldvvcceppdpgnmlfgldnviftphvgSDTADTFLRIFESAADDMISF 309
+                  ****************************************************************************888******************* PP
+
+                  HTTSCGTTBES CS
+                  xxxxxxxxxxx RF
+   2-Hacid_dh 123 lkgespanavn 133
+                  +++++p n +n
+  bin_7_03319 310 FTTGRPVNLIN 320
+                  *******9987 PP
+
+>> bin_12_00725  Glycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   83.9   0.0   1.7e-26   1.5e-23      19     131 ..      32     324 ..      12     326 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 83.9 bits;  conditional E-value: 1.7e-26
+                   CEEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH.............. CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............. RF
+    2-Hacid_dh  19 vevevkdellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla.............. 101
+                   +e++  d+   +e+ e++kdad++i+++   v    ++ +pkLk++a a++G+D +D++a+++rG++V+n+ +y  ++v E++              
+  bin_12_00725  32 HELVQFDQTAPDEVPERIKDADIVITNKAP-VRGSAVASAPKLKLVAVAATGTDVVDVAACAQRGVIVSNIRNYAVNAVPEHTfalilalrrsllay 127
+                   3777778888899***************98.****************************************************************** PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_12_00725 128 rnsvqagrwqeanqfcyfdfpindlagstlgiigdgalgrsvadlgrafgmkvlfsdykgtsgmgplytpfekvlalsdiitlhsplmpstcnmist 224
+                   ************************************************************************************************* PP
+
+                   ......................................................................T-BHHHHHHHHHHHHHHHHHHHTTSCG CS
+                   ......................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ......................................................................fateeaqenmaeeaaenlvaflkgesp 128
+                                                                                         +a++ea++ ++++ ++n+ af +g ++
+  bin_12_00725 225 aefarmarrpllintargglvdeaalehalrsgqisgagfdvvtteppardhplmrlldlpnfiltphvaWASREAVQSLVDQLIDNVDAFERGAPT 321
+                   *******************************************************************************************999665 PP
+
+                   TTB CS
+                   xxx RF
+    2-Hacid_dh 129 ana 131
+                   +++
+  bin_12_00725 322 NTV 324
+                   544 PP
+
+>> bin_14_05149  Glyoxylate/hydroxypyruvate reductase B
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   79.8   0.0   3.3e-25   2.8e-22      12     127 ..      16     306 ..       6     312 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 79.8 bits;  conditional E-value: 3.3e-25
+                   HHHHHHTCEEEEES....SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH... CS
+                   xxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx... RF
+    2-Hacid_dh  12 lellkegvevevkd....ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla... 101
+                    + l e  +++v+     + +   l++   ++ a+ +r    v+a++l++lp+L+vi+ +gvG+D++Dl++a++rGI+V  +p+++ + vA++a   
+  bin_14_05149  16 EAQLAE--QFDVHPfwaeTDPAGYLAKHGGEFVAMTTRAAIGVDAAMLAALPNLRVISSFGVGTDKLDLETARARGIAVGYTPDVLNDCVADTAfal 110
+                   445555..566666555344444677777779999999999******************************************************** PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_14_05149 111 lmdaarqvsaadrfvrrgewpkgpyplttrvsgkrlgivgmgrigrviarrsigfdmevryfgrkpqdgvdygfepslealaswadflvvatsggps 207
+                   ************************************************************************************************* PP
+
+                   .........................................................................T-BHHHHHHHHHHHHHHHHHHHTT CS
+                   .........................................................................xxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 .........................................................................fateeaqenmaeeaaenlvaflkg 125
+                                                                                            + t+e++ +ma+ +++nl +f+++
+  bin_14_05149 208 trhlisasvlealgpqgyliniargtvvdeaalvsaladkriagagldvferephvpealfaldnvvllphvaSGTHETRAAMADLVFDNLQSFFAT 304
+                   ************************************************************************999********************98 PP
+
+                   SC CS
+                   xx RF
+    2-Hacid_dh 126 es 127
+                   + 
+  bin_14_05149 305 GA 306
+                   65 PP
+
+>> bin_12_00730  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   79.1   0.0   5.3e-25   4.5e-22       1     127 [.      30     337 ..      30     343 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 79.1 bits;  conditional E-value: 5.3e-25
+                   EEESSTS.HHHHHHHHHH.TCEEEEES.SSSHHHHHHHHTTESEEEE-TTS.-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTT CS
+                   xxxxxxx.xxxxxxxxxx.xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   1 vlilepl.reeelellke.gvevevkd.ellteellekakdadalivrsnt.kvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgys 93 
+                   +l+++p  +e++++l+ e g++v++     ++++l++ + + d + v ++  ++ ++ +e++p+L+v + +gvGvDniD+daa++r I V+ + g++
+  bin_12_00730  30 ILVTGPAiNEQAVKLIAEnGYQVSYVPpYTSEDDLVRIVTELDPVGVVVRMgRFGSAAIEAAPSLRVLSKHGVGVDNIDVDAASRREIPVVVAAGAN 126
+                   678885559999999999877******777777********998877777668******************************************** PP
+
+                   HHHHHHHH......................................................................................... CS
+                   xxxxxxxx......................................................................................... RF
+    2-Hacid_dh  94 tesvAEla......................................................................................... 101
+                   + svAE+a                                                                                         
+  bin_12_00730 127 ALSVAEHAiallfavvkrivpldsslragrwekagfagkelagmtiglvgfgaiarqtalfakgfglkvqafdpftdeaafaeagvrqvtdvdrlls 223
+                   ************************************************************************************************* PP
+
+                   ........................................................................................T-BHHHHHH CS
+                   ........................................................................................xxxxxxxxx RF
+    2-Hacid_dh 102 ........................................................................................fateeaqen 110
+                                                                                                           ++t+ea  +
+  bin_12_00730 224 ssdilslhcpltpdtrnllddrrlglmkpgsfvintargglidedallravesgqiagagldtfqteppgdnhpfwqnqrivvtphigGVTQEANVR 320
+                   ************************************************************************************************* PP
+
+                   HHHHHHHHHHHHHTTSC CS
+                   xxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 111 maeeaaenlvaflkges 127
+                   ++  a+e ++a+++g++
+  bin_12_00730 321 VGVDAVEGILAIVEGRE 337
+                   *************9976 PP
+
+>> bin_14_01602  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   75.9   0.0     5e-24   4.3e-21       2     124 ..       3     301 ..       2     306 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 75.9 bits;  conditional E-value: 5e-24
+                   EESS.TSHHHHHHHHHHTCEEEEES.SSSHHHHHHHHTTES..EEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTH CS
+                   xxxx.xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   2 lile.plreeelellkegvevevkd.ellteellekakdad..alivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgyst 94 
+                   l+++ +l +++lellk+ +ev +   + +++ ll+ ak+ d  a+ivr+ + + a +++++p+Lkvi+ +g G+D iD +aa+erGI+V  + g+++
+  bin_14_01602   3 LVTGnDLAPQALELLKD-FEVRFAGkSCTEDVLLALAKETDpvAIIVRYGR-IGASIMDAAPSLKVISKHGSGIDVIDQKAAAERGIAVKAAVGANA 97 
+                   566656799********.8*****9899999********884466666665.********************************************* PP
+
+                   HHHHHHH.......................................................................................... CS
+                   xxxxxxx.......................................................................................... RF
+    2-Hacid_dh  95 esvAEla.......................................................................................... 101
+                    +vAE+a                                                                                          
+  bin_14_01602  98 AAVAEHAwalilacaksvphlngrtregywdksihksielngrtlgivglgeigrrvavtgvalgmrviafdpyanavpdgvelvndlhdiyrnadv 194
+                   ************************************************************************************************* PP
+
+                   ....................................................................................T-BHHHHHHHHHH CS
+                   ....................................................................................xxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ....................................................................................fateeaqenmaee 114
+                                                                                                       ++++ a+  m+  
+  bin_14_01602 195 vslhcpltesnrgmlnretlglfkngailintargglidepaladaltngklyasgldsfaiepmtvphpfrqipnailtphigGVSDAAYISMGVG 291
+                   ************************************************************************************************* PP
+
+                   HHHHHHHHHT CS
+                   xxxxxxxxxx RF
+    2-Hacid_dh 115 aaenlvaflk 124
+                   aa+n++a+l 
+  bin_14_01602 292 AATNVLAVLG 301
+                   ******9985 PP
+
+>> bin_12_00392  Glyoxylate/hydroxypyruvate reductase B
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   75.3   0.0   7.9e-24   6.8e-21       8     132 ..      15     313 ..       7     314 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 75.3 bits;  conditional E-value: 7.9e-24
+                   HHHHHHHHHHTCEEEEES..SSSHHHHHHHHTT.ESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH CS
+                   xxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   8 reeelellkegvevevkd..ellteellekakd.adalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla 101
+                   ++  le+l+   +ve+ +  +  +  l + a++ + a+   ++  v+a+ +++lpkL++ia++gvG+D +D + a+ rGI+Vtn+p+++ ++vA+++
+  bin_12_00392  15 NPRVLERLEG--KVEIVTapAGAEPVLPSGAAErINAIA--VSGAVNAKWIDALPKLEIIANFGVGYDGVDAKHAATRGIVVTNTPDVLNDEVADTT 107
+                   5555666666..444444213333344444444133333..33459*************************************************** PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_12_00392 108 iallintvrrlyqaetwlragkwvgegpfalspfslrgrkvglfgmgrigqeiakrlepfkveigyhtrskrdelsytyyaslkemaeavdtliciv 204
+                   ************************************************************************************************* PP
+
+                   ..............................................................................T-BHHHHHHHHHHHHHHHH CS
+                   ..............................................................................xxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ..............................................................................fateeaqenmaeeaaenlv 120
+                                                                                                 +a+  ++++ma+ +a+n++
+  bin_12_00392 205 pgtpethkainadiltalgpegvfinvgrgssvdedallealkngalgaagldvfyaepkvpeaflslpnvsllphvaSASIPTRNAMADLVADNIL 301
+                   ************************************************************************************************* PP
+
+                   HHHTTSCGTTBE CS
+                   xxxxxxxxxxxx RF
+    2-Hacid_dh 121 aflkgespanav 132
+                    +++ +++ ++v
+  bin_12_00392 302 GWFRDGKVLTPV 313
+                   ****99988877 PP
+
+>> bin_1_00573  Glycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   75.0   0.0   9.5e-24   8.2e-21       3     133 .]       5     306 ..       3     306 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 75.0 bits;  conditional E-value: 9.5e-24
+                  ESSTS..HHHHHHHHHHTC.EEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHH CS
+                  xxxxx..xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh   3 ilepl..reeelellkegv.evevkdellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesv 97 
+                  +le++    + +++l+  +  v+++d++ ++e++e++++ad++++   +   + +l+++++  + a++++G+  iD++ a+++GI V+nvpgy te+v
+  bin_1_00573   5 VLEKIefTVKQKQTLDS-LgSVVFYDSSNESECKERVRGADVVVIDWID--PNGFLSEMKNPSLLALMSTGYSWIDIKMARNLGISVSNVPGYATEAV 99 
+                  55555545566777777.559****************************..99********************************************* PP
+
+                  HHHH.............................................................................................. CS
+                  xxxx.............................................................................................. RF
+   2-Hacid_dh  98 AEla.............................................................................................. 101
+                  AE+                                                                                               
+  bin_1_00573 100 AEHIiglmfavarktmvgdkeikkgnknkgylqgieiagckagiiglgrigsrvaqilaclgaevsgydinsknvagvknasldellknsdfvfvtcs 197
+                  ************************************************************************************************** PP
+
+                  ..............................................................................T-BHHHHHHHHHHHHHHHHH CS
+                  ..............................................................................xxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 ..............................................................................fateeaqenmaeeaaenlva 121
+                                                                                                ++t+ea  + a++++ n+++
+  bin_1_00573 198 lnessksllaadrlklmkkdaillgttwgvvdlpalievlqddlicgagfdvsieggdivlpkeltdmdnvvltphigYNTKEAKIRQADICISNIEQ 295
+                  ******************************************************************************9******************* PP
+
+                  HHTTSCGTTBES CS
+                  xxxxxxxxxxxx RF
+   2-Hacid_dh 122 flkgespanavn 133
+                  +l g ++ n vn
+  bin_1_00573 296 YLMG-KTSNIVN 306
+                  ****.6666665 PP
+
+>> bin_12_01929  Glyoxylate/hydroxypyruvate reductase B
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   71.2   0.0   1.5e-22   1.3e-19      33     132 ..      39     310 ..       8     311 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 71.2 bits;  conditional E-value: 1.5e-22
+                   HHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH............................ CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............................ RF
+    2-Hacid_dh  33 lekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla............................ 101
+                   +ek   ++++++  +  +  ++ ++lpkL+++a  gvG+D++Dl+ ak+rG+ V+n+p+++t +vA+la                            
+  bin_12_01929  39 AEKGGAIRGVVTGGHIGLPVDIGAALPKLEIVAINGVGFDKVDLAEAKRRGFRVSNTPDVLTADVADLAlglilaqarrlpqadqyvrtgqwlkgdm 135
+                   44555567777777777778888999*********************************************************************** PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_12_01929 136 glstrvagrrygifgfgrigqaiarrlegfdahisytarnrrdvaydyydsiealaancdvliiaaaataetrhivnaevlnalgpqgvlvnvargs 232
+                   ************************************************************************************************* PP
+
+                   ...............................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBE CS
+                   ...............................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ...............................................fateeaqenmaeeaaenlvaflkgespanav 132
+                                                                  + t++++++ma+ ++ nl a ++g++++++v
+  bin_12_01929 233 lvdekaliealsngviagaaldvfedeprvpealfafetvtlaphigSGTHQTRRAMADLVLANLDAHFAGRELPTPV 310
+                   **********************************************999***********************999988 PP
+
+>> bin_14_05662  Glyoxylate/hydroxypyruvate reductase B
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   67.5   0.0   2.1e-21   1.8e-18       1     102 [.       8     124 ..       8     236 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 67.5 bits;  conditional E-value: 2.1e-21
+                   EEESSTSHHHHHHHHHHTC.EEEEES...SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTT CS
+                   xxxxxxxxxxxxxxxxxxx.xxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   1 vlileplreeelellkegv.evevkd...ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgys 93 
+                   +l+++++ ++ +e+l + + +v+ ++    l+++ l +++++  +++ +  ++++ e++ +lp+L+++++++vG++n+Dl a+++ GI+ tn+p+++
+  bin_14_05662   8 ILVTRAIFPDVIERLAQ-YfDVDDNQedlVLDSAALRDRLAGKAGVLANAADRIDGELVGALPQLRAVCNMAVGYNNLDLPALTAAGIVATNTPDVL 103
+                   789999999********.6699888898999999*************************************************************** PP
+
+                   HHHHHHHH............T CS
+                   xxxxxxxx............x RF
+    2-Hacid_dh  94 tesvAEla............f 102
+                   te++A++              
+  bin_14_05662 104 TETTADFGwallmatarrvtE 124
+                   ******995555555555550 PP
+
+>> bin_14_01233  Glycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   67.6   0.0   1.9e-21   1.6e-18       2     130 ..       6     308 ..       5     311 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 67.6 bits;  conditional E-value: 1.9e-21
+                   EESSTSHHHHHHHHHHTCEEEEES..SSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHH CS
+                   xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   2 lileplreeelellkegvevevkd..ellteellekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystes 96 
+                   lil++l+++ l+l+ e+++v +    +    e++   k ++a+++  +  +ta+ ++++p L++++ +g+G++niD + ++erGI+V n  g +   
+  bin_14_01233   6 LILNHLEPAHLALIAEHYDVRYAPtaAERATEVATHGKTFRAVLTIGSIGLTAKEIDAMPALELVCAMGAGYENIDTAKCRERGIAVGNGAGTNDSC 102
+                   7899999*********66999999643333367777788********************************************************** PP
+
+                   HHHHH............................................................................................ CS
+                   xxxxx............................................................................................ RF
+    2-Hacid_dh  97 vAEla............................................................................................ 101
+                   vA++a                                                                                            
+  bin_14_01233 103 VADHAmalllasvrrvpaydratregiwrnalplapnlsgkrmgiiglgtigrriaqrglgfdleigyhnrrartdvpyryfdsvmslaewadylii 199
+                   ************************************************************************************************* PP
+
+                   ................................................................................T-BHHHHHHHHHHHHHH CS
+                   ................................................................................xxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ................................................................................fateeaqenmaeeaaen 118
+                                                                                                   +++ ea  + + +++en
+  bin_14_01233 200 atpggtetrhmvdtpvlralgpagylvniargsvvdtaalaaalragelggagldvyesepappvelfdcpnvvltphvaGWSPEAIFASVSQFVEN 296
+                   ************************************************************************************************* PP
+
+                   HHHHHTTSCGTT CS
+                   xxxxxxxxxxxx RF
+    2-Hacid_dh 119 lvaflkgespan 130
+                    ++ ++ge++  
+  bin_14_01233 297 ARRHFAGEPLVA 308
+                   *******98765 PP
+
+>> bin_14_02169  Glyoxylate/hydroxypyruvate reductase B
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   63.9   0.0   2.6e-20   2.2e-17      19     126 ..      54     350 ..      32     356 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 63.9 bits;  conditional E-value: 2.6e-20
+                   CEEEEES..SSSHHHHHHHHTTESEEE.E-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH........... CS
+                   xxxxxxx..xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........... RF
+    2-Hacid_dh  19 vevevkd..ellteellekakdadali.vrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla........... 101
+                   ++v+v +   +   +l+++++d++al+ +r +t+vt+++leklpkL++i++ g   +++D++a++erG++V +    s+ + AEl+           
+  bin_14_02169  54 HDVKVFNntVKGVGQLAARLSDVEALVlIRERTRVTRQLLEKLPKLRIISQTGRAGNHVDIEACTERGVVVLEGV-GSPVAPAELTwalimaaqrri 149
+                   46777764323333899*******987267788****************************************98.5788***************** PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_14_02169 150 pqyvaslkhgawqqsglksttmppnfgvgqvlrgqtlgiwgygkigrllagygrafgmnvlvwgreasqqgareaglnvaesveqlfaesdvlslhl 246
+                   ************************************************************************************************* PP
+
+                   ...............................................................................T-BHHHHHHHHHHHHHHH CS
+                   ...............................................................................xxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ...............................................................................fateeaqenmaeeaaenl 119
+                                                                                                  ++ +e++e  ++ a++n+
+  bin_14_02169 247 rlndetrgivkladlqrmkptslfvntsraelieenalvaalnrgrpgmaaidvfesepilqghallrmencictphlgYVERESYELYFRAAFQNI 343
+                   ******************************************************************************999**************** PP
+
+                   HHHHTTS CS
+                   xxxxxxx RF
+    2-Hacid_dh 120 vaflkge 126
+                   +++l+g+
+  bin_14_02169 344 LDVLAGK 350
+                   *****95 PP
+
+>> bin_8_00116  (S)-sulfolactate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   61.2   0.0   1.8e-19   1.5e-16      27     133 .]      57     341 ..      29     341 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 61.2 bits;  conditional E-value: 1.8e-19
+                  SSHHHHHHHHTTESEEEE-TTS-BSHHHHHTH.TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH...................... CS
+                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...................... RF
+   2-Hacid_dh  27 llteellekakdadalivrsntkvtaevlekl.pkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla...................... 101
+                   + e +++++++ada++v+    v+a+ +++  ++L vi++ag+G+D+iDl+a+++ +++V+n+p+ +t+++A  a                      
+  bin_8_00116  57 YSLEVTAADVARADAIVVFRPW-VKADAFAAGaERLTVIGRAGAGTDKIDLAACTAADVAVFNAPDTLTHATASSAfllmlalakrlpgqerlvrsgr 153
+                  55678999************99.******8888***************************************************************** PP
+
+                  .................................................................................................. CS
+                  .................................................................................................. RF
+   2-Hacid_dh 102 .................................................................................................. 101
+                                                                                                                    
+  bin_8_00116 154 wdlqpsvmgvdlpgktlgiiglgasgrelarlaqpwgmrlvayspraaaadaarlgvtlvdsldevfrqadivslhvrldertrgsigaaqlrlmkpt 251
+                  *********************************************99999999999999999999999999999999999999999999999999999 PP
+
+                  ..........................................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBES CS
+                  ..........................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 ..........................................................fateeaqenmaeeaaenlvaflkgespanavn 133
+                                                                             +t++a +  +e++a  ++++++g  p+++vn
+  bin_8_00116 252 aylvnvargeivdqaalvqalrerwfagagldvfeheplptddpllgldnviltphwlPSTRDAARLTMETMAHGMIRAARGLVPDDVVN 341
+                  999999999999999999999999999999999999999999999999999999998877888888888888888888888888888887 PP
+
+>> bin_14_01511  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   54.9   0.0   1.6e-17   1.3e-14      38     132 ..      47     313 ..      12     314 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 54.9 bits;  conditional E-value: 1.6e-17
+                   TESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH................................. CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx................................. RF
+    2-Hacid_dh  38 dadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla................................. 101
+                   +a+a++++ +t +t + +++lp L+++a +g+G++ni  daa+ rG+ V+++p+ +++ vA++a                                 
+  bin_14_01511  47 QARAVLTNGSTGLTGAEMAALPALELVASFGAGYENIERDAARMRGVRVCHAPDTNSQVVADHAlammlawsrgiamldrglkagqwdalraprpgv 143
+                   3899999****************************************************************************************** PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_14_01511 144 rgktlgivglgnigqrlaalaeavgmrvaylrrsgalqpnrtpygdvrslaaasdvlaltcpggpatrhlvdaevlralgpdgllvnvargsvvdte 240
+                   ****************************999999999999999999999999999999999999999999999999999999999999999999999 PP
+
+                   ..........................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBE CS
+                   ..........................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ..........................................fateeaqenmaeeaaenlvaflkgespanav 132
+                                                             + + e++ +  e  + nl  +++   pa++v
+  bin_14_01511 241 alvqalrrgelggaaldvleteplvpeafremdqviltphmaGRSPETRVAQHEALLRNLDGWFRHAAPAHPV 313
+                   9999999999999999999999999999999999999999988888888888888888888888888888777 PP
+
+>> bin_8_00043  Glyoxylate/hydroxypyruvate reductase B
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   54.1   0.0   2.8e-17   2.4e-14      34     102 ..      42     293 ..      11     494 .. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 54.1 bits;  conditional E-value: 2.8e-17
+                  HHHTTESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH.............................. CS
+                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............................. RF
+   2-Hacid_dh  34 ekakdadalivrsntkvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla.............................. 101
+                  e+++ adali  s t+   + ++ + +++++++ gvG+Dn+Dl+a  +rG+ V+nvp+y t +vA++a                              
+  bin_8_00043  42 ERCRAADALINCSATHRLPAAVDDFARCRIVVREGVGYDNLDLEAWGARGVPVCNVPDYGTTEVADHAialmlaltrgtatygealkrdpaggwrfda 139
+                  678899*********8888899999*******************************************999999999999999988888888888888 PP
+
+                  .................................................................................................. CS
+                  .................................................................................................. RF
+   2-Hacid_dh 102 .................................................................................................. 101
+                                                                                                                    
+  bin_8_00043 140 aplirrhrhatfgvvglgriglaaarraaafdmrvvfydpylpsgmelaaqvirkyklaepldgvvsdlgitpspghaflrqdgklyglsaidvnfal 237
+                  88888888888888888888888888877777777777777777777777777777777777777777777777777777777776666666666666 PP
+
+                  .......................................................T CS
+                  .......................................................x RF
+   2-Hacid_dh 102 .......................................................f 102
+                                                                         f
+  bin_8_00043 238 vynkrlfdkaglkppasadewvettakltrrpeqfgialtnviadsgewwfqlqnF 293
+                  66666666666666666666666655555555555555555555555555555550 PP
+
+>> bin_7_00918  Glycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   52.8   0.0     7e-17   6.1e-14      20     102 ..      31     222 ..       4     324 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 52.8 bits;  conditional E-value: 7e-17
+                  EEEEESSSSHHHHHHHHTTESEEEE-TTS-BSHHHHHTH.TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH............... CS
+                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............... RF
+   2-Hacid_dh  20 evevkdellteellekakdadalivrsntkvtaevlekl.pkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla............... 101
+                    ev++ l+ ee+l+   ++++ i+   + ++a+v++++ p Lkvi+  g+G+D iD +aa+  G+ V+n+p++ t  v+E +               
+  bin_7_00918  31 IPEVHERLEAEEILRYGGQFEGTICGDDR-YSADVIKAClPALKVISKWGTGIDSIDKEAAESMGVRVMNTPNAFTVPVSESVmnsmlnfarlqpwmd 127
+                  5688899999999999999***9999987.***************************************************99888888888888888 PP
+
+                  ..............................................................................................T CS
+                  ..............................................................................................x RF
+   2-Hacid_dh 102 ..............................................................................................f 102
+                                                                                                                 
+  bin_7_00918 128 ramkngvwdkipghtlsestlgvigvgncgkavlrrarafgmkllgndiveiapdflveygvemttledllqradyislnttltpsayhlinaeT 222
+                  88888888888888888888888888777777777777777777777777777777777777666666666666666666655555555555440 PP
+
+>> bin_14_01582  Putative 2-hydroxyacid dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   24.9   0.0   3.1e-08   2.6e-05      52     131 ..      83     339 ..      55     341 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 24.9 bits;  conditional E-value: 3.1e-08
+                   HHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH............................................... CS
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............................................... RF
+    2-Hacid_dh  52 aevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla............................................... 101
+                   +++le+ p L+++  +++G D   +  +++rG++Vt   g+++  vA +a                                               
+  bin_14_01582  83 SAMLEA-PALRWVHVHSAGADRAVFGQLRQRGVTVTTSSGANAGVVAQTAlagllalarhfplllaaqreqrwapllgtglprdvrgqtativgwgp 178
+                   344444.****************************************************************************************** PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_14_01582 179 igqqlgamlrllgmsvavvrqqptpagegfetftfdtlhevlprtdwlilacpltertrglvdgaalrrlptgarlinvargevvdepaliealteg 275
+                   ************************************************************************************************* PP
+
+                   ..................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTTB CS
+                   ..................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ..................................fateeaqenmaeeaaenlvaflkgespana 131
+                                                     ++++    ++++++++nl++ l+g+ ++n+
+  bin_14_01582 276 rvagayldvfaheplpatsplwslpnviatphsaGFSDGNAARVVDIFLDNLRRRLAGQAMRNV 339
+                   **********************************99***********************99997 PP
+
+>> bin_12_01223  D-3-phosphoglycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.7   0.0   2.8e-07   0.00024       8     123 ..      22     320 ..      17     330 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 21.7 bits;  conditional E-value: 2.8e-07
+                   HHHHHHHHHHTCEEEEES.....SSSHHHHHHHHTTESEEEE-TTS.-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHH CS
+                   xxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   8 reeelellkegvevevkd.....ellteellekakdadalivrsnt.kvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvA 98 
+                    +++l++l+e   ve+ d     +  +  ++e++++ d+l++     ++ a+ l+ +p+L++i+ a+  v  +  +a  +rG++V+++ +++++ vA
+  bin_12_01223  22 TSQALDRLSE--RVEILDtgtirDFHDPAVKEQLAKTDILLTGWGCpDIGAQELALMPRLRLISHAAGTVKYFLSQAVFDRGVTVCSAAEANAQPVA 116
+                   5667777888..666666666667777789999999999998665549******************999999999********************** PP
+
+                   HHH.............................................................................................. CS
+                   xxx.............................................................................................. RF
+    2-Hacid_dh  99 Ela.............................................................................................. 101
+                   E+                                                                                               
+  bin_12_01223 117 EFSlamillagkrtfgfrrlylehrdrapverlqaqaignlgltvgivgasrigrrvigllqpfdlnlmlfdpllgaaeaeklgvrlasleelmaas 213
+                   *****************************************99999999999999999999999999999999999999999999999999999999 PP
+
+                   .....................................................................................T-BHHHHHHHHH CS
+                   .....................................................................................xxxxxxxxxxxx RF
+    2-Hacid_dh 102 .....................................................................................fateeaqenmae 113
+                                                                                                        +at   + ++++
+  bin_12_01223 214 dvislhapslpqtrhmigaaalarmkdgatlintargalvdedallaelktgrieavidvtdpevpppdspfyslpnvfltphiaGATGLERARLGD 310
+                   9999999999999999999999999998888888888888888888888888888888888888888888888888888888888888888888888 PP
+
+                   HHHHHHHHHH CS
+                   xxxxxxxxxx RF
+    2-Hacid_dh 114 eaaenlvafl 123
+                   +a+ ++++f+
+  bin_12_01223 311 MAIAEIERFC 320
+                   8888888775 PP
+
+>> bin_7_02527  Putative 2-hydroxyacid dehydrogenase YoaD
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.4   0.0   7.4e-07   0.00064      25     132 ..      72     354 ..      47     355 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 20.4 bits;  conditional E-value: 7.4e-07
+                  SSSSHHHHHHHHTTESEEEE-TTS.-BSHHHHHTHTT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTTTHHHHHHHH.................... CS
+                  xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................... RF
+   2-Hacid_dh  25 dellteellekakdadalivrsnt.kvtaevleklpkLkviatagvGvDniDldaakerGIlVtnvpgystesvAEla.................... 101
+                  ++  +++++  +k+ d++i+      ++ +vl+++ +L++ +  g  v ++    + +rGI+V++   + +esvAE +                    
+  bin_7_02527  72 KQYGQADIAGLIKGRDICITGWGSpMLDINVLDNADRLRLLVHTGGTVAQVANSLLYQRGIKVISGNRMFAESVAEGVlayilcslrdvayldsetkk 169
+                  366677899999999999886655479*********************************************************************** PP
+
+                  .................................................................................................. CS
+                  .................................................................................................. RF
+   2-Hacid_dh 102 .................................................................................................. 101
+                                                                                                                    
+  bin_7_02527 170 gcwrtdhlteglfgkkvgligfgmvarylvpmlrpfrvgikvydpyvtaetcagygviqadlqevigtsdiisvhapqiletyhlisremlkiipdga 267
+                  *********************************************99999999999999999999999999999999999999999999999999999 PP
+
+                  ........................................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBE CS
+                  ........................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh 102 ........................................................fateeaqenmaeeaaenlvaflkgespanav 132
+                                                                          + t +  + +  e ++ +++f++g+ +++++
+  bin_7_02527 268 lfvntsrgslvdekalcdelaknrfravldvyeteplpqdsrlrgfmnvilsphvaGPTPDRHKFITIELIDDIRRFIQGKAMKHEI 354
+                  999999999999999999999999999999999999999999999999999999998899999999999999999999999988875 PP
+
+>> bin_12_01901  Glycerate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.1   0.0   9.2e-07    0.0008      26     132 ..      45     335 ..      26     336 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 20.1 bits;  conditional E-value: 9.2e-07
+                   SSSHHHHHHHHTTESEEEE-TTS.-BSHHHHHTHTT-SEEEESSS-CTTB.-HHHHHHTT-EEEE-TTTTHHHHHHHH................... CS
+                   xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx................... RF
+    2-Hacid_dh  26 ellteellekakdadalivrsnt.kvtaevleklpkLkviatagvGvDni.DldaakerGIlVtnvpgystesvAEla................... 101
+                   + +te+  +++++ad+l+ +  t  +t+e l+++p+Lk+ a a+  v  +   +   + +IlVt +  + +  vAE++                   
+  bin_12_01901  45 DFDTEKGRRALAEADILLAAWGTpSLTKERLARAPNLKMLAYAASSVRVVaPAEFWDNSNILVTTAAPAMAAPVAEFTyaaiimcskdvfrlrdehr 141
+                   67888889999*****999888879***********************9956888999*************************************** PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_12_01901 142 aergtggfgsrrgmnlpwlgnysrkvgivgasrigrqvidmltrgrfeigvydpflsadeatelgstkmelhtllawsdivslhapilpqtrhmiga 238
+                   ************************************9999999999999999999999999999999999999999999999999999999999999 PP
+
+                   ..................................................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTTBE CS
+                   ..................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ..................................................................fateeaqenmaeeaaenlvaflkgespanav 132
+                                                                                     +a  + ++++ + a++++++f++g +p  +v
+  bin_12_01901 239 qelalmadhtvfintargwlvdheallsearsgrlrilidtpepeplpvdspfydlpnvvltphiaGAMGNELRALSDVAITEIERFVAGLPPLYPV 335
+                   9999999999999999999999999999999999999999999999999999999999988888886777777777777788888888777766655 PP
+
+>> bin_15_01026  (S)-sulfolactate dehydrogenase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.2   0.0   1.8e-06    0.0015       2     129 ..      12     334 ..      11     337 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 19.2 bits;  conditional E-value: 1.8e-06
+                   EESSTSHHHHHHHHHH...TCEEEEESSSSHHHHHHHHTT.ESEEEE-TTS-BSHHHHHTHTT-SEEEESSS-CT.TB-HHHHHHTT-EEEE-TTTT CS
+                   xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh   2 lileplreeelellke...gvevevkdellteellekakd.adalivrsntkvtaevleklpkLkviatagvGvD.niDldaakerGIlVtnvpgys 93 
+                   li+ pl+ee ++ +ke   +++++v  +++ +e+ e++ +  ++li+           +k+p L++i+   +G+D  ++ +  ++r ++Vt   g+ 
+  bin_15_01026  12 LITFPLSEELINKIKEvspQLNITVLPAKSPQEIDEEVWKkTEILITERVI----PPSDKAPALQWIQFNYAGIDfALNEEIFEKRSLQVTTLSGAA 104
+                   555566666666677765444555566666666666653326666665555....444899**************669******************* PP
+
+                   HHHHHHHH......................................................................................... CS
+                   xxxxxxxx......................................................................................... RF
+    2-Hacid_dh  94 tesvAEla......................................................................................... 101
+                   + +vAE+a                                                                                         
+  bin_15_01026 105 APQVAEFAltmmlaishklpsilkfqmnhewppdrfvrftpreirsstvgligygsigreiariltpfgvkilackknvmqtqddgyqiaglgdpng 201
+                   ************************************************************************************************* PP
+
+                   ................................................................................................. CS
+                   ................................................................................................. RF
+    2-Hacid_dh 102 ................................................................................................. 101
+                                                                                                                    
+  bin_15_01026 202 dlfsrlypyqaiksmmkecdfvvvtvpltnethhliaeeelavlkpsaylvdvsrggivknsalkaalqekklagavldvfeqeplpkdhpmwdtpn 298
+                   ************************************************************************************************* PP
+
+                   ........T-BHHHHHHHHHHHHHHHHHHHTTSCGT CS
+                   ........xxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh 102 ........fateeaqenmaeeaaenlvaflkgespa 129
+                           +++ +  e+ +  ++enl+++l++ ++ 
+  bin_15_01026 299 liisphiaGVSLHYNERSVNLIIENLKRYLNNTNLL 334
+                   ******************************997665 PP
+
+>> bin_5_00821  50S ribosomal protein L15
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   13.3   0.1   0.00011     0.096      59      92 ..      75     108 ..      68     116 .. 0.84
+   2 ?    0.3   0.0       1.2     1e+03      77      93 ..     118     134 ..     115     139 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 13.3 bits;  conditional E-value: 0.00011
+                  TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-TTT CS
+                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh  59 pkLkviatagvGvDniDldaakerGIlVtnvpgy 92 
+                   ++++ ++a+vGvD iDl  +k+ GI+ + ++++
+  bin_5_00821  75 AHVRLYQLAAVGVDEIDLLVLKQAGIVRSAAKAA 108
+                  67889999******************98877765 PP
+
+  == domain 2  score: 0.3 bits;  conditional E-value: 1.2
+                  HHHHHTT-EEEE-TTTT CS
+                  xxxxxxxxxxxxxxxxx RF
+   2-Hacid_dh  77 daakerGIlVtnvpgys 93 
+                  +a+k rGI+Vt+   + 
+  bin_5_00821 118 KAIKLRGIAVTKGARAA 134
+                  68999*****9876665 PP
+
+>> bin_14_03046  Glyoxylate/hydroxypyruvate reductase B
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.8   0.0   0.00032      0.28     102     133 .]      26      61 ..      11      61 .. 0.83
+
+  Alignments for each domain:
+  == domain 1  score: 11.8 bits;  conditional E-value: 0.00032
+                   T-BHHHHHHHHHHHHHHHHHHHTT....SCGTTBES CS
+                   xxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxx RF
+    2-Hacid_dh 102 fateeaqenmaeeaaenlvaflkg....espanavn 133
+                   +a+e+++++ma  aa+nl+a+l+     ++p+++vn
+  bin_14_03046  26 SASEKTRRAMANLAADNLIAALDVgpqaGKPPTVVN 61 
+                   789*******************98566666776666 PP
+
+>> bin_19_00361  Glyoxylate/hydroxypyruvate reductase A
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    9.8   0.0    0.0014       1.2      98     130 ..     127     205 ..      46     208 .. 0.80
+
+  Alignments for each domain:
+  == domain 1  score: 9.8 bits;  conditional E-value: 0.0014
+                   HHHH..............................................T-BHHHHHHHHHHHHHHHHHHHTTSCGTT CS
+                   xxxx..............................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh  98 AEla..............................................fateeaqenmaeeaaenlvaflkgespan 130
+                   AEl+                                              ++t+ea++ +a+++aen+ +  kg  +++
+  bin_19_00361 127 AELVsrpaferalesgviagagldvfwdepadpgdpllenplvtitphigGVTDEALKGVARTVAENISRLEKGMGLKH 205
+                   4444777777777777777777777777777777777777777777888899*****************9999866655 PP
+
+>> bin_15_03056  putative GTPase/MT1543
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    9.8   0.1    0.0014       1.2      51      90 ..     132     171 ..     109     174 .. 0.83
+
+  Alignments for each domain:
+  == domain 1  score: 9.8 bits;  conditional E-value: 0.0014
+                   SHHHHHTH.TT-SEEEESSS-CTTB-HHHHHHTT-EEEE-T CS
+                   xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+    2-Hacid_dh  51 taevlekl.pkLkviatagvGvDniDldaakerGIlVtnvp 90 
+                    a++++++ +++ +i t+gvG D iD+   +++ ++V+ vp
+  bin_15_03056 132 VAKIMDAFgKDIILIETVGVGQDEIDVVKTTDL-VVVICVP 171
+                   466777789******************999998.6666666 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (133 nodes)
+Target sequences:                        35297  (10334013 residues searched)
+Passed MSV filter:                      1347  (0.0381619); expected 705.9 (0.02)
+Passed bias filter:                     1281  (0.036292); expected 705.9 (0.02)
+Passed Vit filter:                       155  (0.00439131); expected 35.3 (0.001)
+Passed Fwd filter:                        41  (0.00116157); expected 0.4 (1e-05)
+Initial search space (Z):              35297  [actual number of targets]
+Domain search space  (domZ):              41  [number of targets reported over threshold]
+# CPU time: 0.30u 0.02s 00:00:00.32 Elapsed: 00:00:00.11
+# Mc/sec: 12494.76
