@@ -7,8 +7,8 @@ from Bio import SeqIO
 import numpy as np
 import scipy.spatial.distance as distance
 import scipy.cluster.hierarchy as sch
-import matplotlib.pyplot as plt
-import matplotlib.gridspec as gridspec
+#import matplotlib.pyplot as plt
+#import matplotlib.gridspec as gridspec
 from tqdm  import tqdm
 
 nb_proc =15
