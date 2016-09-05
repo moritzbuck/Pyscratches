@@ -31,7 +31,10 @@ if __name__ == '__main__':
 print arguments
 
 taxas = DataFrame.from_csv(taxa_file, sep="\t", header=None)
-taxas = {l[0] : l[1].split(".")[taxa_level].split("_")[-1] for l in taxas.itertuples()}
+if taxa_level > -1:
+    taxas = {l[0] : l[1].split(".")[taxa_level].split("_")[-1] for l in taxas.itertuples()}
+else:
+    taxas = {l[0] : "|".join([t.split("_")[-1] for t in l[1].split(".")])  for l in taxas.itertuples()}
 
 with open(itree) as handle:
 	tree = [l for l in handle.readlines()][0]

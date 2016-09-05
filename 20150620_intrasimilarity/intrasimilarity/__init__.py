@@ -217,3 +217,42 @@ def clean_axis(ax):
     ax.get_yaxis().set_ticks([])
     for sp in ax.spines.values():
         sp.set_visible(False)
+
+
+def compare_MAGs(folder_1, folder_2, chunk_size = 1000, identity_threshold = 0.90):
+    """
+    compares a set of assemblies:
+    assemblies is a dictionary with names of the assemblies as keys and fasta-files of the assemblies as values
+    """
+
+    folder = "/proj/b2011210/nobackup/moritz/TroutBog/assemblies/mappings/pretty_bins/all_genomes"
+    
+    similarities = {}
+
+
+    print "make blast dbs"
+    for subject_name, subject in tqdm(assemblies.iteritems()):
+        blast_db_cmd = ["makeblastdb" ,"-in", subject, "-dbtype", "nucl", "-out", subject]
+        with open("/dev/null") as null:
+            blastdb_return = subprocess.call(blast_db_cmd, stdout=null)
+
+    print "Run the hell out of it"
+    for scaff_name, scaff in tqdm(assemblies.iteritems()):
+        similarities[scaff_name] = {}
+        chopped_up_query = "tmp.fasta"
+        nb_chunks = len(cut_up_fasta(scaff, chopped_up_query, chunk_size))
+        for subject_name, subject in assemblies.iteritems():
+            nics = find_NICs(chopped_up_query, subject, identity_threshold, blast_db = False)
+#            print scaff_name, "vs", subject_name
+            similarities[scaff_name][subject_name] = len(nics.keys())/nb_chunks
+    os.remove(chopped_up_query)
+
+    print "clean up"
+    for subject_name, subject in tqdm(assemblies.iteritems()):
+        blast_db_files = [subject + ".nhr", subject + ".nin",  subject + ".nsq"]
+        for f in blast_db_files:
+            os.remove(f)
+
+            
+    similars =  DataFrame.from_dict(similarities)
+    return similars
