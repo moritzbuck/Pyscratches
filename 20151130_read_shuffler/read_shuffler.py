@@ -55,7 +55,8 @@ if __name__ == '__main__':
     bps_fwd = int(arguments['-n']) if arguments['-n'] else 0
     bps_rev = bps_fwd + 1
     file_opener = gzip.open if arguments['-g'] else open
-    lib_list = [f[:-1] for f in sh.find(input_folder) if "fasta" in f ]
+    lib_list_fwd = [f[:-1] for f in sh.find(input_folder) if "1P_fastq.gz" in f ]
+    lib_list_rev = [f.replace("1P","2P") for f in lib_list_rev]
 
 #print lib_list
 handles = [open(l) for l in lib_list]
@@ -82,12 +83,12 @@ while ll > -1:
         if len(temp2) > min_seq_len:
             entry += temp
             entry += temp2 #[bps_fwd:-bps_rev] + "\n"
-#            entry += next(tt, None)
-#            entry += next(tt, None)#[bps_fwd:-bps_rev] + "\n"
+            entry += next(tt, None)
+            entry += next(tt, None)#[bps_fwd:-bps_rev] + "\n"
             i += 1
         else :
-#            trash = next(tt, None)
-#            trash = next(tt, None)
+            trash = next(tt, None)
+            trash = next(tt, None)
             trash_count += 1
 
         if len(entry) > 1000000000:
