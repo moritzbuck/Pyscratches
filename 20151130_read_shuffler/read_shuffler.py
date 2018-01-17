@@ -13,9 +13,9 @@
 """ shuffles a bunch of libraries
 
 Usage:
-  read_shuffler.py [-g -n <bps>] -i <infastq> -o <outhead> 
+  read_shuffler.py [-g -n <bps>] -i <infastq> -o <outhead>
   read_shuffler.py -h
-  
+
 Options:
     -o <outfastq>   output fastq
     -i <infastq>    input folder in which to find fastq
@@ -30,7 +30,7 @@ import os
 from random import randint
 from tqdm import tqdm
 import sys
-import gzip 
+import gzip
 import os
 from os.path import join
 
@@ -74,7 +74,7 @@ while ll > -1:
     if not handle:
         fileID += 1
         handle = open(out_file % str(fileID).zfill(5), "w")
-         
+
     which = randint(0,ll)
     tt=handles[which]
     temp =  next(tt, None)
@@ -82,9 +82,9 @@ while ll > -1:
         temp2 = next(tt, None)
         if len(temp2) > min_seq_len:
             entry += temp
-            entry += temp2 #[bps_fwd:-bps_rev] + "\n"
+            entry += temp2[bps_fwd:-bps_rev] + "\n"
             entry += next(tt, None)
-            entry += next(tt, None)#[bps_fwd:-bps_rev] + "\n"
+            entry += next(tt, None)[bps_fwd:-bps_rev] + "\n"
             i += 1
         else :
             trash = next(tt, None)
@@ -97,7 +97,7 @@ while ll > -1:
             print i, "reads", "of which ", str(float(trash_count) / i) + "% dirties"
             g_counter += 1
             if g_counter > 100:
-                print "Closing ", handle.name 
+                print "Closing ", handle.name
                 handle.close()
                 handle = None
                 g_counter = 0
@@ -105,8 +105,7 @@ while ll > -1:
         print "Closing", tt.name
         handles.remove(tt)
         ll -= 1
-        
+
 if handle:
     handle.write(entry)
     handle.close()
-         
