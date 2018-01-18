@@ -33,7 +33,7 @@ def download(info):
         ftp = FTP(ncbi)
         ftp.login()
         ftp.cwd(dir)
-        ftp.retrbinary("RETR " + fhead + "_genomic.gff.gz", open(pjoin(genome_path, fhead +".gff.gz"),"wb").write)
+        ftp.retrbinary("RETR " + fhead + "_genomic.gff.gz", open(pjoin(genome_file),"wb").write)
         ftp.close()
 
 #        gffs = [f for f in os.listdir(genome_path) if f.endswith(".gff.gz")]
