@@ -9,7 +9,8 @@ import shutil
 from subprocess import call, check_output
 import signal
 from io import StringIO,BytesIO
-
+from collections import defaultdict
+import gzip
 
 ncbi = "ftp.ncbi.nlm.nih.gov"
 num_cores = 4
@@ -44,6 +45,29 @@ def download(info):
 
     signal.alarm(0)
 
+def get_protein_ids(v) :
+    genome_path = pjoin(data_path, v['assembly_level'].replace(" ","_"), k)
+    genome_file = pjoin(genome_path, k + ".gff.gz")
+    all_prots = []
+    try :
+        with gzip.open(genome_file , "rb") as handle:
+            gff = [l for l in handle.readlines()]
+        gff = [l.decode()[:-1] for l in gff]
+        gff = [l.split("\t") for l in gff if "CDS" in l]
+        all_prots = [ [f.split("=")[1] for f in feat[-1].split(";") if "protein_id" in f] for feat in gff]
+        all_prots = [a[0] for a in all_prots if len(a) > 0]
+    except Exception as exc:
+        print(exc)
+    return all_prots
+
+def post_process(data, data_path):
+    link_dict = defaultdict(list)
+    for k,v in tqdm(data.items()):
+        all_prots = set(get_protein_ids(v))
+        for p in all_prots:
+            link_dict[p].append(k)
+    return link_dict
+
 if __name__ == '__main__':
     ftp =  FTP(ncbi)
     data_path = "genomes"
@@ -71,3 +95,9 @@ if __name__ == '__main__':
             to_dl += [ (v['ftp_path'],genome_path, genome_file)]
 
     dlstuff= Parallel(n_jobs=num_cores)(delayed(download)(i) for i in tqdm(to_dl))
+
+    print ("Post-processing")
+    link_dict = post_process(metadata, data_path)
+    llist = {k:";".join(l) for k,l in link_dict.items()}
+    DataFrame.from_dict({"IDs" : llink}).to_csv("big_mft.csv")
+    
