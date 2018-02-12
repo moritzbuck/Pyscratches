@@ -45,7 +45,7 @@ def download(info):
 
     signal.alarm(0)
 
-def get_protein_ids(v) :
+def get_protein_ids(v,k) :
     genome_path = pjoin(data_path, v['assembly_level'].replace(" ","_"), k)
     genome_file = pjoin(genome_path, k + ".gff.gz")
     all_prots = []
@@ -63,7 +63,7 @@ def get_protein_ids(v) :
 def post_process(data, data_path):
     link_dict = defaultdict(list)
     for k,v in tqdm(data.items()):
-        all_prots = set(get_protein_ids(v))
+        all_prots = set(get_protein_ids(v,k))
         for p in all_prots:
             link_dict[p].append(k)
     return link_dict
@@ -100,4 +100,13 @@ if __name__ == '__main__':
     link_dict = post_process(metadata, data_path)
     llist = {k:";".join(l) for k,l in link_dict.items()}
     DataFrame.from_dict({"IDs" : llink}).to_csv("big_mft.csv")
-    
+
+    with open("accession_number/accessions.txt") as handle:
+        accesss = set([s[:-1] for s in handle])
+
+    with open("big_mft.csv") as handle :
+        handle.readline()
+        small_mft = [l for l in tqdm(handle) if l[:-1].split(",")[0] in accesss ]
+
+    with open("small_mft.csv","w") as handle:
+        handle.writelines(small_mft)
